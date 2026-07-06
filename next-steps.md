@@ -1,6 +1,6 @@
 # Próximos passos
 
-Estado da migração para o epso-hub. Cada frente registra aqui onde parou.
+O que falta na migração para o epso-hub. Lista só de próximos passos — item concluído sai da lista; o histórico vive no git.
 
 ## Migração em andamento
 
@@ -12,7 +12,6 @@ Sessões planejadas:
 - Academia — estratégia de entrada acadêmica.
 - Construtora — institucional (princípios construtivos, acervo técnico, operacional), migrado do Drive.
 - EcoCondomínio — concepção e plano de execução, migrados do Drive.
-- ~~Transcrições — fonte bruta datada.~~ ✅ Concluído
 
 ## Fonte durante a migração
 

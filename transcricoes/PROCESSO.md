@@ -24,6 +24,26 @@ Exemplo, apontando para uma seção real já existente na pasta:
 transcricoes/2026-07-06-quatro-iniciativas.md#iniciativa-2-ferramentas
 ```
 
-## Processamento — a definir
+## Processamento
 
-A etapa de destilar o bruto nas frentes (pensamento, prática, academia) ainda será descrita aqui, depois de ser executada pela primeira vez. Só então o passo a passo real fica registrado, em vez de um processo inventado antes do primeiro uso.
+Processar uma transcrição significa levar o conteúdo bruto para o lugar certo do repositório, de forma organizada e rastreável. O foco está em organizar bem o conteúdo no seu destino, mais do que em movê-lo.
+
+Passos de processamento:
+
+- Identificar de que assunto o trecho trata.
+- Localizar o nível e o destino do assunto, usando [docs/estrutura/niveis.md](../docs/estrutura/niveis.md) e [docs/estrutura/criterios.md](../docs/estrutura/criterios.md).
+- Ler o conteúdo que já existe no destino com atenção.
+- Decidir entre inserção, atualização ou reorganização.
+- Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
+
+Abordagem em camadas:
+
+- O processamento acontece de forma incremental, uma frente por vez.
+- A primeira frente processada serve como prova de conceito, para observar a forma real do conteúdo destilado antes de aplicar às demais.
+- A mecânica de reconciliar conteúdo novo com o já existente (identificar o que é novo, o que repete e o que complementa) amadurece com o uso, a partir da segunda transcrição que tocar uma mesma frente.
+
+Em aberto:
+
+- A ordem de processamento das frentes.
+- A migração do conteúdo maduro que hoje vive no Google Drive.
+- O momento de rodar o processamento em lote ou de forma assíncrona.

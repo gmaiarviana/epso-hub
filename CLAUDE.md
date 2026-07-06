@@ -18,6 +18,10 @@ Cada informação mora em um lugar só. Referências apontam para o dono da info
 
 Hoje o repositório está em migração inicial: núcleo, cosmovisão, estudos, prática e academia nascem como pastas e recebem conteúdo em sessões seguintes. O mapa detalhado de cada frente entra no momento em que ela for migrada.
 
+Os níveis de abrangência do conteúdo e os critérios de onde cada coisa mora estão em [docs/estrutura/](docs/estrutura/): [niveis.md](docs/estrutura/niveis.md) descreve os três níveis, [criterios.md](docs/estrutura/criterios.md) decide o destino e [mapa-documento-institucional.md](docs/estrutura/mapa-documento-institucional.md) traz um exemplo aplicado.
+
+A estrutura do repositório está em evolução contínua; os critérios de organização são hipóteses de trabalho, revisáveis quando um novo conteúdo os desafiar.
+
 ## Régua de preservação de transcrições
 
 Transcrições brutas têm o conteúdo falado preservado na íntegra — nada é alterado, resumido, corrigido ou reordenado. As únicas adições permitidas ao bruto são metadados e marcadores de seção.
@@ -52,3 +56,5 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 ## Encerramento de sessão
 
 Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do next-steps.md da frente trabalhada.
+
+O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver `next-steps.md`, Decisões adiadas).

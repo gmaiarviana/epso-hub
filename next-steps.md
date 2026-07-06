@@ -12,7 +12,7 @@ Sessões planejadas:
 - Academia — estratégia de entrada acadêmica.
 - Construtora — institucional (princípios construtivos, acervo técnico, operacional), migrado do Drive.
 - EcoCondomínio — concepção e plano de execução, migrados do Drive.
-- Transcrições — fonte bruta datada.
+- ~~Transcrições — fonte bruta datada.~~ ✅ Concluído
 
 ## Fonte durante a migração
 

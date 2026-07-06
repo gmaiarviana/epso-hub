@@ -12,6 +12,12 @@ Descrição completa e mapa de pastas: [README.md](README.md) — a fonte. Não 
 
 Português, sempre.
 
+## Formato dos arquivos
+
+Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições são exceção: mantêm o bloco de metadados descrito em [transcricoes/PROCESSO.md](transcricoes/PROCESSO.md).)
+
+Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cujo alvo ainda não existe não é erro — é uma lacuna registrada, um pensamento a mapear. O método de trabalho com esses elos pendentes fica em `docs/metodologia.md` (a formalizar).
+
 ## Organização e anti-redundância
 
 Cada informação mora em um lugar só. Referências apontam para o dono da informação. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
@@ -55,6 +61,8 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 
 ## Encerramento de sessão
 
-Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do next-steps.md da frente trabalhada.
+Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
+
+Cada frente tem o seu próprio `next-steps.md`, em `<frente>/next-steps.md` (ex.: `academia/next-steps.md`). O `next-steps.md` da raiz é de nível EPSO: rastreia a migração entre frentes e aponta para o de cada uma — não acumula os passos internos delas. Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); o da raiz só muda quando o estado entre frentes muda.
 
 O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver `next-steps.md`, Decisões adiadas).

@@ -1,6 +1,6 @@
 # Próximos passos
 
-O que falta na migração para o epso-hub. Lista só de próximos passos — item concluído sai da lista; o histórico vive no git.
+O que falta na migração para o epso-hub, no nível EPSO. Cada frente tem o seu próprio next-steps em `<frente>/next-steps.md`. Lista só de próximos passos — item concluído sai da lista; o histórico vive no git.
 
 ## Migração em andamento
 
@@ -13,16 +13,11 @@ Sessões planejadas:
 - Construtora — institucional (princípios construtivos, acervo técnico, operacional), migrado do Drive.
 - EcoCondomínio — concepção e plano de execução, migrados do Drive.
 
-## Onde paramos — cosmovisão + academia
+## Cosmovisão e academia
 
-Sessões de Cosmovisão e Academia iniciadas. Estado:
-
-- **Feito:** criado `pensamento/cosmovisao/a-tese.md` — a tese como bifurcação, com dois centros candidatos (A: "extrair o quê / reunir tradições"; B: "quem sou eu"). Esboço aprovado.
-- **Bloqueador (decisão do incorporador, offline):** escolher o centro da tese em `a-tese.md` (A, B ou outro). Destrava tudo abaixo.
-- **Depois do centro:** construir a narrativa da tese em volta dele; as peças hoje soltas (identidade em camadas, une-e-supera, papel da tecnologia, aplicação prática) encontram lugar.
-- **Academia (espera o centro):** `academia/foco.md` = o que estudar → passos táticos; depois `mapeamento`, `leituras`, `next-steps` e o README re-escopado ("meio, não fim").
-- **A formalizar (independe do centro):** `docs/metodologia.md` — o loop (transcrição → destilação → refinamento), o método do elo pendente, níveis de confiança e a direção em aberto de agentes na pesquisa. Sub-itens adiados: como o sistema ajuda a identificar quais ideias precisam de link; critérios mais inteligentes de confiança.
-- **Registrar em `CLAUDE.md`** as convenções decididas nesta sessão: sem frontmatter YAML (uso de Obsidian abortado); `[[nome]]` mantido como ponteiro simples ao dono da ideia, e um elo sem alvo é lacuna registrada, não erro.
+- **Cosmovisão (bloqueador):** escolher o centro da tese em `pensamento/cosmovisao/a-tese.md` (Candidato A, B ou outro) — decisão do incorporador, offline. Destrava a narrativa da tese e o recorte de academia.
+- **Academia:** ver `academia/next-steps.md`.
+- **EPSO:** formalizar `docs/metodologia.md` (loop, método do elo pendente, níveis de confiança, direção em aberto de agentes na pesquisa; adiados: como identificar o que precisa de link, critérios mais inteligentes de confiança).
 
 ## Fonte durante a migração
 

@@ -4,7 +4,9 @@ Guia de trabalho do repositório epso-hub. Descreve o que este repositório é e
 
 ## O que é o EPSO
 
-O EPSO é um projeto de contribuição organizado por uma tese: trazer clareza para contribuir com a transformação da sociedade. O repositório se equilibra em dois lados: pensamento (fundamentar, dar clareza) e prática (fazer, provar na realidade). Os dois lados têm o mesmo peso e se alimentam.
+O EPSO é um projeto de contribuição organizado por uma tese: trazer clareza para contribuir com a transformação da sociedade.
+
+Descrição completa e mapa de pastas: [README.md](README.md) — a fonte. Não duplicar aqui.
 
 ## Idioma
 
@@ -12,16 +14,23 @@ Português, sempre.
 
 ## Organização e anti-redundância
 
-Cada informação mora em um lugar só. Referências apontam para o dono da informação.
+Cada informação mora em um lugar só. Referências apontam para o dono da informação. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
 
-- **nucleo/** — propósito, valores e postura epistemológica do EPSO. É a régua herdada por todas as frentes. Toda frente aponta para cá em vez de repetir valores.
-- **pensamento/cosmovisao/** — obra filosófica assentada, futura tese e livro.
-- **pensamento/estudos/** — hipóteses em aberto e recortes pesquisáveis.
-- **pratica/** — frentes concretas. A construtora entra aqui em migração futura, herdando identidade e método do topo e guardando o que é técnico-construtivo dela.
-- **academia/** — alavanca a serviço do EPSO.
-- **transcricoes/** — fonte bruta, datada, preservada sem alteração.
+Hoje o repositório está em migração inicial: núcleo, cosmovisão, estudos, prática e academia nascem como pastas e recebem conteúdo em sessões seguintes. O mapa detalhado de cada frente entra no momento em que ela for migrada.
 
-O mapa detalhado de cada frente entra no momento em que ela for migrada. Hoje o repositório está em migração inicial: núcleo, cosmovisão, estudos, prática e academia nascem como pastas e recebem conteúdo em sessões seguintes.
+## Régua de preservação de transcrições
+
+Transcrições brutas têm o conteúdo falado preservado na íntegra — nada é alterado, resumido, corrigido ou reordenado. As únicas adições permitidas ao bruto são metadados e marcadores de seção.
+
+## Rastreabilidade
+
+Quando um conteúdo processado deriva de uma transcrição, ele referencia a fonte no formato `arquivo#secao`: o caminho do arquivo bruto seguido do nome da seção de origem. Assim toda afirmação destilada aponta de volta para o trecho falado que a originou.
+
+## Índice de processos
+
+Cada processo específico tem seu próprio documento, carregado quando o fluxo é acionado.
+
+- Registro de transcrições → [transcricoes/PROCESSO.md](transcricoes/PROCESSO.md)
 
 ## Postura
 

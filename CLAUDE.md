@@ -14,7 +14,7 @@ Português, sempre.
 
 ## Formato dos arquivos
 
-Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições são exceção: mantêm o bloco de metadados descrito em [transcricoes/PROCESSO.md](transcricoes/PROCESSO.md).)
+Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições são exceção: mantêm o bloco de metadados descrito em [transcricoes/processo-transcricoes.md](transcricoes/processo-transcricoes.md).)
 
 Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cujo alvo ainda não existe não é erro — é uma lacuna registrada, um pensamento a mapear. O método de trabalho com esses elos pendentes fica em `docs/metodologia.md` (a formalizar).
 
@@ -40,7 +40,7 @@ Quando um conteúdo processado deriva de uma transcrição, ele referencia a fon
 
 Cada processo específico tem seu próprio documento, carregado quando o fluxo é acionado.
 
-- Registro de transcrições → [transcricoes/PROCESSO.md](transcricoes/PROCESSO.md)
+- Registro de transcrições → [transcricoes/processo-transcricoes.md](transcricoes/processo-transcricoes.md)
 
 ## Postura
 

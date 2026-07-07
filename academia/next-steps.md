@@ -38,9 +38,9 @@ Muita coisa junta: organizar bem antes de correr.
   entrar, outra para construir):
   - **`leituras-entrada.md`** — o que os editais cobram; puxada pelo processo seletivo.
   - **`leituras-tese.md`** — o que alimenta o recorte; decorre do foco (espera a discussão #1).
-- **`bolsas.md`** — varredura mundial de bolsas, em funil próprio. Inclui não só as ligadas ao
-  mestrado, mas **bolsas de execução de projeto** que se relacionem com o que já faço — uma
-  possível trilha de financiamento em paralelo à acadêmica.
+- **`bolsas.md`** — varredura mundial de **bolsas de mestrado/doutorado** (as de entrada
+  acadêmica). Bolsas de execução de projeto e demais financiamentos das iniciativas moram na
+  frente `funding/`.
 
 ## Ferramental (o que a academia espera do paper-agent)
 

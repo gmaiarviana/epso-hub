@@ -14,11 +14,12 @@ O EPSO se sustenta no equilíbrio entre falar e fazer. O pensamento fundamenta e
   - **estudos/** — hipóteses em aberto, recortes que podem virar pesquisa.
 - **pratica/** — o lado do fazer. Abriga a construtora e, no futuro, outras frentes concretas e a visão dos produtos de software.
 - **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
+- **funding/** — alavanca de financiamento a serviço do EPSO: editais de inovação, startups, aceleradoras, bolsas de execução de projeto. Serve as iniciativas; meio, não fim.
 - **transcricoes/** — fonte bruta, datada, preservada sem alteração.
 
 ## Código
 
 O código dos produtos de software mora em repositórios próprios. Este repositório guarda a visão deles e aponta para onde o código vive.
 
-- Produto de apoio a leitura e escrita: (TODO: link do repo paper-agent)
+- Produto de apoio a leitura e escrita: https://github.com/gmaiarviana/paper-agent
 - Motor de workflow assíncrono: (TODO: repo próprio, em construção)

@@ -19,10 +19,11 @@ epso-hub guarda pensamento, expectativa e resultado; a execução acontece no pa
 - **Produzir artigos (≈ Ensaio / Produtor Científico).** Transformar hipóteses e experimentos em
   artigo padronizado. É o output da Fase 0 da jornada (ver `jornada.md`).
 - **Varredura de campo (C).** Duas etapas: (1) **popular** instituições → departamentos →
-  editais → o que cobram, bolsas e oportunidades — **trabalho síncrono e planejado**, pode
-  começar já, sem rotina e sem produto; (2) **checar novos casos** periodicamente — rotina
-  agendada do workflow, **melhoria futura**. Nenhuma é código do epso-hub. Alimenta
-  `mapeamento.md`, `leituras-entrada.md` e `bolsas.md`.
+  editais → o que cobram e bolsas de mestrado — **trabalho síncrono e planejado**, pode começar
+  já, sem rotina e sem produto; (2) **checar novos casos** periodicamente — rotina agendada do
+  workflow, **melhoria futura**. Nenhuma é código do epso-hub. Alimenta `mapeamento.md`,
+  `leituras-entrada.md` e `bolsas.md`. (A varredura de financiamento é análoga, mas mora em
+  `funding/`.)
 
 ## Prioridade sugerida (hipótese — decisão do incorporador)
 

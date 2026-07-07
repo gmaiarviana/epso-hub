@@ -5,7 +5,7 @@
 ## A raiz: a realidade excede a verdade
 
 A âncora decorre de uma tese mais profunda, a espinha epistemológica: existe uma
-realidade absoluta, e uma observação isolada a alcança por inteiro.
+realidade absoluta, e nenhuma observação isolada a alcança por inteiro.
 Cada observador traz uma verdade relativa, conforme seu repertório, sua biologia, seu contexto.
 A realidade excede a verdade.
 
@@ -54,3 +54,5 @@ madeira são projeções da mesma âncora sob usos diferentes, uma ideia só vis
   vale para os contextos já testados, aberta ao próximo que a desafie.
 - O trabalho de registrar uma ideia é destilar sua leitura de menor stress e guardar as
   projeções de valor que já apareceram, deixando as demais latentes na âncora.
+- A âncora trata a ideia como direção; *por que* uma ideia tem direção é a camada abaixo — a
+  hipótese de que uma ideia é um vetor, registrada em [vetor](vetor.md).

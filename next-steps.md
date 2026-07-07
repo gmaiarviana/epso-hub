@@ -15,7 +15,7 @@ Sessões planejadas:
 
 ## Cosmovisão e academia
 
-- **Cosmovisão (bloqueador):** escolher o centro da tese em `pensamento/cosmovisao/a-tese.md` (Candidato A, B ou outro) — decisão do incorporador, offline. Destrava a narrativa da tese e o recorte de academia.
+- **Cosmovisão:** centro da tese escolhido — a identidade ("quem sou eu"). Falta construir a narrativa em torno dele e resolver a discussão aberta identidade × paradigma da informação (ver `pensamento/cosmovisao/a-tese.md`).
 - **Academia:** ver `academia/next-steps.md`.
 - **EPSO:** formalizar `docs/metodologia.md` (loop, método do elo pendente, níveis de confiança, direção em aberto de agentes na pesquisa; adiados: como identificar o que precisa de link, critérios mais inteligentes de confiança).
 

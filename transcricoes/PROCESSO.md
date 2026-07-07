@@ -40,7 +40,7 @@ Abordagem em camadas:
 
 - O processamento acontece de forma incremental, uma frente por vez.
 - A primeira frente processada serve como prova de conceito, para observar a forma real do conteúdo destilado antes de aplicar às demais.
-- A mecânica de reconciliar conteúdo novo com o já existente (identificar o que é novo, o que repete e o que complementa) amadurece com o uso, a partir da segunda transcrição que tocar uma mesma frente.
+- A mecânica de reconciliar conteúdo novo com o já existente (identificar o que é novo, o que repete e o que complementa) segue a curadoria do acervo — inserir, fundir, evoluir ou decompor, com dedup por âncora. Ver ../docs/estrutura/curadoria.md. Uma transcrição é uma caixa; o registro aqui é o caso particular desse fluxo geral.
 
 Em aberto:
 

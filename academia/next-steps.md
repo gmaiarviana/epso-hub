@@ -26,15 +26,16 @@ ficam só os próximos passos.
 
 ## Ferramental (requisitos para o motor de workflow e o paper-agent)
 
-O loop que sustenta a produção de artigos depende do ferramental. Definir os casos de uso que
-viram requisitos, em três clusters:
+O loop que sustenta a produção de artigos depende do ferramental. Três clusters de casos de uso:
 
-- **A — Loop do pensamento próprio:** provocação → áudio → transcrição → seccionamento →
-  processamento rastreável. Hoje manual; levar do "bom" ao "ótimo".
+- **A — Loop do pensamento próprio (prioridade):** provocação → áudio → transcrição →
+  seccionamento → processamento rastreável. Já parcialmente em uso (esta própria conversa).
+  "Ótimo" = o agente **propor sozinho o destino e o seccionamento** e **sugerir os elos
+  `[[ ]]` pendentes**.
 - **B — Leitura assistida (paper-agent):** ingerir artigo/livro/doc → destilar → cruzar com as
   notas → gerar hipóteses e rascunho de artigo.
 - **C — Mapeamento de campo:** varredura de instituições → departamentos → editais → o que
   cobram; e filtro. Alimenta `mapeamento.md` e `leituras.md`.
 
-A definir (próximo áudio): a prioridade entre os clusters; o que é "ótimo" no cluster A (onde
-está o atrito hoje); e o que justifica ser assíncrono (primeiro caso de uso do motor).
+Primeiro caso de uso assíncrono (roda sem você): a decidir entre C (varrer instituições) e B
+(processar uma pilha de PDFs).

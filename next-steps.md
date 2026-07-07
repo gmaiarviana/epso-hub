@@ -18,6 +18,7 @@ Sessões planejadas:
 - **Cosmovisão:** centro da tese escolhido — a identidade ("quem sou eu"). Falta construir a narrativa em torno dele e resolver a discussão aberta identidade × paradigma da informação (ver `pensamento/cosmovisao/a-tese.md`).
 - **Academia:** ver `academia/next-steps.md`.
 - **Funding (nova frente):** scouting de financiamento das iniciativas — ver `funding/next-steps.md`.
+- **Transcrições:** modelo de três camadas (bruto em `raw/` · limpo na raiz · áudio não versionado) introduzido e testado na menor transcrição (`2026-06-26-modelos-eficientes…`). Falta migrar retroativamente os demais brutos do formato antigo — sob demanda, ao destilar cada um.
 - **EPSO:** formalizar `docs/metodologia.md` (loop, método do elo pendente, níveis de confiança, direção em aberto de agentes na pesquisa; adiados: como identificar o que precisa de link, critérios mais inteligentes de confiança).
 
 ## Fonte durante a migração

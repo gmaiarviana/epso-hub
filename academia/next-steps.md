@@ -16,13 +16,15 @@ ficam só os próximos passos.
 
 ## Campo (trilha paralela — não depende do ferramental, começa já)
 
-- **`mapeamento.md`** — varredura em ordem: **instituições → departamentos → editais de
-  processo seletivo → o que cada edital cobra**. Alinhado ao centro (quem sou eu) e ao
-  paradigma da informação. Registra também orientadores e as metodologias-ponte. Construção
-  fica fora do objeto de estudo (ver `jornada.md`).
-- **`leituras.md`** — fila de estudo **puxada pelo que os editais cobram**, não adivinhada a
-  priori. Duas trilhas: bibliografia de entrada (o que aprova no processo seletivo) e
-  bibliografia da tese (o que alimenta o recorte).
+- **`mapeamento.md`** — pesquisa em funil, sem pressa, um corte de cada vez: **listar todas as
+  instituições → definir os parâmetros que despertam interesse → cortar → descer a
+  departamentos → editais de processo seletivo → o que cada edital cobra**. Registra também
+  orientadores e as metodologias-ponte. Alinhado ao centro (quem sou eu) e ao paradigma da
+  informação; construção fica fora do objeto de estudo (ver `jornada.md`).
+- **Duas bibliografias, em arquivos separados** (cruzam-se, mas não são idênticas — uma para
+  entrar, outra para construir):
+  - **`leituras-entrada.md`** — o que os editais cobram; puxada pelo processo seletivo.
+  - **`leituras-tese.md`** — o que alimenta o recorte; decorre do foco (espera a discussão #1).
 
 ## Ferramental (requisitos para o motor de workflow e o paper-agent)
 
@@ -38,4 +40,6 @@ O loop que sustenta a produção de artigos depende do ferramental. Três cluste
   cobram; e filtro. Alimenta `mapeamento.md` e `leituras.md`.
 
 Primeiro caso de uso assíncrono (roda sem você): a decidir entre C (varrer instituições) e B
-(processar uma pilha de PDFs).
+(processar uma pilha de PDFs). O cluster B espera a leitura da visão do paper-agent
+(`docs/process/workflow`) para não duplicar o que já existe — hoje o acesso ao repo depende de
+aprovação.

@@ -42,24 +42,13 @@ Muita coisa junta: organizar bem antes de correr.
   mestrado, mas **bolsas de execução de projeto** que se relacionem com o que já faço — uma
   possível trilha de financiamento em paralelo à acadêmica.
 
-## Ferramental (requisitos para o motor de workflow e o paper-agent)
+## Ferramental (o que a academia espera do paper-agent)
 
-O loop que sustenta a produção de artigos depende do ferramental, mas o fluxo atual já atende o
-momento — não é o foco agora. Três clusters de casos de uso, para quando for a vez:
+A academia consome o paper-agent — não constrói ferramenta, e **nenhum código (inclusive a
+varredura C) vive no epso-hub**. As expectativas e o sinal de prioridade estão em
+`ferramental.md`. Próximos passos:
 
-- **A — Clareza do próprio pensamento:** provocação → áudio → transcrição → seccionamento →
-  processamento rastreável. Já parcialmente em uso (esta conversa). Próximo do **Revelar**
-  (clareza via diálogo). "Ótimo" = o agente **propor sozinho destino e seccionamento** e
-  **sugerir os elos `[[ ]]` pendentes**.
-- **B — Ler bibliografia e produzir artigos:** já é o domínio dos **produtos do paper-agent** —
-  **Prisma Verbal** (fichar PDFs/livros/papers → extrair argumentos), **Ensaio** e **Produtor
-  Científico** (produzir o artigo). Academia **consome, não reespecifica**.
-- **C — Varredura de campo:** instituições → departamentos → editais → o que cobram; bolsas; e
-  oportunidades de execução. Não é produto do paper-agent — é uma **rotina agendada** que o
-  workflow dispara. Alimenta `mapeamento.md`, `leituras.md` e `bolsas.md`.
-
-Ou seja: **A e B já são produtos previstos do paper-agent** (A ≈ Revelar; B = Prisma Verbal +
-Ensaio/Produtor Científico), e o único caso genuinamente novo é o **C**. O *workflow* do
-paper-agent é a plataforma human-in-the-loop que dispara tudo isso (o próprio paper-agent
-inclusive); as varreduras (C) são um dos trabalhos que ela agenda. Acesso ao repo paper-agent
-segue **bloqueado** (aprovação não apareceu).
+- **Popular o campo é trabalho síncrono planejado** (mapeamento, editais, bolsas — ver seção
+  Campo acima); a **rotina de checagem de novos casos** fica como **melhoria futura** (workflow).
+- **Destravar o acesso ao repo paper-agent** (aprovação não apareceu) — para ligar as
+  expectativas ao roadmap de lá.

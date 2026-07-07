@@ -50,12 +50,14 @@ momento — não é o foco agora. Três clusters de casos de uso, para quando fo
 - **A — Loop do pensamento próprio:** provocação → áudio → transcrição → seccionamento →
   processamento rastreável. Já parcialmente em uso (esta própria conversa). "Ótimo" = o agente
   **propor sozinho o destino e o seccionamento** e **sugerir os elos `[[ ]]` pendentes**.
-- **B — Leitura assistida (paper-agent):** ingerir artigo/livro/doc → destilar → cruzar com as
-  notas → gerar hipóteses e rascunho de artigo.
-- **C — Mapeamento de campo:** varredura de instituições → departamentos → editais → o que
-  cobram; e filtro. Alimenta `mapeamento.md` e `leituras.md`.
+- **B — Leitura e produção de artigos:** é o domínio dos **produtos do paper-agent** (Revelar,
+  Ensaio, Prisma Verbal). Academia **consome, não reespecifica** — falta ler os docs desses
+  produtos para ligar o caso de uso ao que já existe.
+- **C — Varredura de campo (rotina do agente assíncrono):** instituições → departamentos →
+  editais → o que cobram; bolsas; e oportunidades de execução. Alimenta `mapeamento.md`,
+  `leituras.md` e `bolsas.md`.
 
-Primeiro caso de uso assíncrono (roda sem você): a decidir entre C (varrer instituições) e B
-(processar uma pilha de PDFs). O cluster B espera a leitura da visão do paper-agent
-(`docs/process/workflow`) para não duplicar o que já existe — hoje o acesso ao repo depende de
-aprovação.
+Estes casos de uso são **rotinas agendadas** do agente assíncrono. Nota da visão do paper-agent:
+o *motor de workflow* que ela descreve orquestra o **desenvolvimento** do paper-agent — estas
+varreduras são uso à parte, que pode reusar a mesma infra. Pendências: ler os docs dos produtos
+(cluster B); acesso ao repo paper-agent segue **bloqueado** (aprovação não apareceu).

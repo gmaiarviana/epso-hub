@@ -47,17 +47,17 @@ Muita coisa junta: organizar bem antes de correr.
 O loop que sustenta a produção de artigos depende do ferramental, mas o fluxo atual já atende o
 momento — não é o foco agora. Três clusters de casos de uso, para quando for a vez:
 
-- **A — Loop do pensamento próprio:** provocação → áudio → transcrição → seccionamento →
-  processamento rastreável. Já parcialmente em uso (esta própria conversa). "Ótimo" = o agente
-  **propor sozinho o destino e o seccionamento** e **sugerir os elos `[[ ]]` pendentes**.
-- **B — Leitura e produção de artigos:** é o domínio dos **produtos do paper-agent** (Revelar,
-  Ensaio, Prisma Verbal). Academia **consome, não reespecifica** — falta ler os docs desses
-  produtos para ligar o caso de uso ao que já existe.
-- **C — Varredura de campo (rotina do agente assíncrono):** instituições → departamentos →
-  editais → o que cobram; bolsas; e oportunidades de execução. Alimenta `mapeamento.md`,
-  `leituras.md` e `bolsas.md`.
+- **A — Clareza do próprio pensamento:** provocação → áudio → transcrição → seccionamento →
+  processamento rastreável. Já parcialmente em uso (esta conversa). Próximo do **Revelar**
+  (clareza via diálogo). "Ótimo" = o agente **propor sozinho destino e seccionamento** e
+  **sugerir os elos `[[ ]]` pendentes**.
+- **B — Ler bibliografia e produzir artigos:** já é o domínio dos **produtos do paper-agent** —
+  **Prisma Verbal** (fichar PDFs/livros/papers → extrair argumentos), **Ensaio** e **Produtor
+  Científico** (produzir o artigo). Academia **consome, não reespecifica**.
+- **C — Varredura de campo:** instituições → departamentos → editais → o que cobram; bolsas; e
+  oportunidades de execução. Não é produto do paper-agent — é uma **rotina agendada** que o
+  workflow dispara. Alimenta `mapeamento.md`, `leituras.md` e `bolsas.md`.
 
-Estes casos de uso são **rotinas agendadas** do agente assíncrono. Nota da visão do paper-agent:
-o *motor de workflow* que ela descreve orquestra o **desenvolvimento** do paper-agent — estas
-varreduras são uso à parte, que pode reusar a mesma infra. Pendências: ler os docs dos produtos
-(cluster B); acesso ao repo paper-agent segue **bloqueado** (aprovação não apareceu).
+O *workflow* do paper-agent é a plataforma human-in-the-loop que dispara tudo isso (o próprio
+paper-agent inclusive); as varreduras (C) são um dos trabalhos que ela agenda. Acesso ao repo
+paper-agent segue **bloqueado** (aprovação não apareceu).

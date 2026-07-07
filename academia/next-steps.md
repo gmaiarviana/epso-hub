@@ -19,13 +19,12 @@ Muita coisa junta: organizar bem antes de correr.
 
 ## Recorte
 
-- **`foco.md`** — o que quero estudar: a substância do recorte. Espera a discussão aberta em
-  `pensamento/cosmovisao/a-tese.md` (identidade × paradigma da informação) — o recorte fino
-  decorre dela.
+- **`foco.md`** — o que quero estudar: registra as possibilidades, a direção do interesse (a
+  forma das ideias e a face epistemológica) e os candidatos de recorte. O recorte fino espera a
+  discussão aberta em `pensamento/cosmovisao/a-tese.md` (identidade × paradigma da informação).
 - **Método-ponte** — identificar o campo/método existente que faz a ponte entre a ambição não
-  dual e o que um departamento aceita (filosofia da mente, semiótica, teoria da informação,
-  ciência cognitiva, sistemas/complexidade, epistemologias/ecologia de saberes). É o passo
-  "achar o método parecido com o meu"; destrava instituições. Pode ser uma varredura assistida.
+  dual e o que um departamento aceita (candidatos listados em `foco.md`). É o passo "achar o
+  método parecido com o meu"; destrava instituições. Pode ser uma varredura assistida.
 
 ## Campo (trilha paralela — não depende do ferramental, começa já)
 

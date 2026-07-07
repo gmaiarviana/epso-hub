@@ -19,6 +19,7 @@ Sessões planejadas:
 - **Academia:** ver `academia/next-steps.md`.
 - **Funding (nova frente):** scouting de financiamento das iniciativas — ver `funding/next-steps.md`.
 - **Transcrições:** modelo de três camadas (bruto em `raw/` · limpo na raiz · áudio não versionado) introduzido e testado na menor transcrição (`2026-06-26-modelos-eficientes…`). Falta migrar retroativamente os demais brutos do formato antigo — sob demanda, ao destilar cada um.
+- **Fontes (nova frente de metodologia):** consolidar a camada de dados-fonte — `fontes/` nasce como mãe de `destilados/`; a migração de `transcricoes/` para baixo dela e o processo de encerramento de chat ficam para sessão dedicada. Ver `fontes/next-steps.md`.
 - **EPSO:** formalizar `docs/metodologia.md` (loop, método do elo pendente, níveis de confiança, direção em aberto de agentes na pesquisa; adiados: como identificar o que precisa de link, critérios mais inteligentes de confiança).
 
 ## Fonte durante a migração

@@ -58,6 +58,8 @@ momento — não é o foco agora. Três clusters de casos de uso, para quando fo
   oportunidades de execução. Não é produto do paper-agent — é uma **rotina agendada** que o
   workflow dispara. Alimenta `mapeamento.md`, `leituras.md` e `bolsas.md`.
 
-O *workflow* do paper-agent é a plataforma human-in-the-loop que dispara tudo isso (o próprio
-paper-agent inclusive); as varreduras (C) são um dos trabalhos que ela agenda. Acesso ao repo
-paper-agent segue **bloqueado** (aprovação não apareceu).
+Ou seja: **A e B já são produtos previstos do paper-agent** (A ≈ Revelar; B = Prisma Verbal +
+Ensaio/Produtor Científico), e o único caso genuinamente novo é o **C**. O *workflow* do
+paper-agent é a plataforma human-in-the-loop que dispara tudo isso (o próprio paper-agent
+inclusive); as varreduras (C) são um dos trabalhos que ela agenda. Acesso ao repo paper-agent
+segue **bloqueado** (aprovação não apareceu).

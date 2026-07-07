@@ -49,8 +49,8 @@ madeira são projeções da mesma âncora sob usos diferentes, uma ideia só vis
 ## Consequências (em aberto)
 
 - Duas expressões são a mesma ideia quando compartilham âncora, ainda que as palavras difiram. O
-  significado é o invariante, as palavras vestem o invariante. É a base da curadoria do acervo
-  (ver `docs/estrutura/curadoria.md`).
+  significado é o invariante; as palavras vestem esse invariante. É a base da curadoria do acervo
+  (ver [curadoria do acervo](../../docs/estrutura/curadoria.md)).
 - A âncora é revisável: um contexto novo quebra o invariante e obriga a reancorar. A âncora
   vale para os contextos já testados, aberta ao próximo que a desafie.
 - O trabalho de registrar uma ideia é destilar sua leitura de menor stress e guardar as

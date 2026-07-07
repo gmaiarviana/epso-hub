@@ -32,7 +32,7 @@ Diante de um objeto extraído de uma caixa, a curadoria decide entre:
 
 - **Inserir** — o objeto agrega e ainda não existe no acervo. Entra.
 - **Fundir** — o objeto já existe sob outra roupa verbal. A âncora é a régua: duas expressões são
-  o mesmo objeto quando compartilham âncora. Comparar por significado, não por palavra. Ver
+  o mesmo objeto quando compartilham âncora. Comparar por significado. Ver
   abaixo.
 - **Evoluir** — o objeto existe e o novo o melhora ou o aprofunda. Atualiza a leitura registrada.
 - **Decompor** — o objeto é grande e cabe melhor como objetos menores ligados. Divide na
@@ -42,7 +42,7 @@ Diante de um objeto extraído de uma caixa, a curadoria decide entre:
 
 Antes de inserir, verificar se a âncora do objeto já vive no acervo. Dois registros com a mesma
 âncora são duplicação, ainda que redigidos diferente. Dois registros em zoom distinto — um contém
-o outro como parte — são estrutura, não duplicação: ver o átomo dentro da molécula é a relação
+o outro como parte — são estrutura: ver o átomo dentro da molécula é a relação
 parte-todo funcionando.
 
 O corte:
@@ -52,5 +52,4 @@ O corte:
 
 O acervo guarda a leitura de menor stress de cada objeto e gera projeções sob demanda, quando um
 desafio real aparece. Projeção que prova valor vira objeto próprio; as demais ficam latentes na
-âncora. Guardar toda projeção possível antes do desafio incha o acervo com resposta a pergunta que
-ninguém fez.
+âncora. Guardar a âncora e gerar cada projeção sob demanda mantém o acervo enxuto.

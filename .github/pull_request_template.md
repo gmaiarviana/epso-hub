@@ -10,8 +10,10 @@
 - [ ] pensamento/estudos
 - [ ] prática
 - [ ] academia
+- [ ] funding
 - [ ] transcrições
 - [ ] docs/estrutura ou processo
+- [ ] raiz (README, next-steps EPSO)
 
 ## Tipo de mudança
 

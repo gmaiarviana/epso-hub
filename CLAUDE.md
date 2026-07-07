@@ -30,11 +30,19 @@ A estrutura do repositório está em evolução contínua; os critérios de orga
 
 ## Régua de preservação de transcrições
 
-Transcrições brutas têm o conteúdo falado preservado na íntegra — nada é alterado, resumido, corrigido ou reordenado. As únicas adições permitidas ao bruto são metadados e marcadores de seção.
+Uma transcrição vive em três camadas, cada uma com sua régua:
+
+- **Áudio-fonte** — a fala real, verdade última. Não versionado no repositório (referenciado por metadado `fonte-audio`).
+- **Bruto** — a transcrição automática intocada, em `transcricoes/raw/…​.raw.md`. O conteúdo falado é preservado na íntegra: nada é alterado, resumido, corrigido ou reordenado. A única adição permitida ao bruto é um bloco de metadados. Não recebe seções — a estrutura vive na camada limpa.
+- **Limpo** — cópia de trabalho em `transcricoes/…​.md`, derivada do bruto **sob validação do incorporador**. Resolve ambiguidades e erros de transcrição de áudio preservando a ideia original; nunca sobrescreve o bruto. Carrega os metadados, as seções `## nome` e as âncoras de rastreabilidade. O que não se resolve com segurança é marcado, não chutado: `[inaudível]` para trecho que não se recupera do texto — pode ser permanente quando o áudio não está disponível —, `[...]` para fragmento de fala abandonado. Marcar a incerteza é decisão validada, não pendência; é o ganho da camada sobre o bruto, que registra a falsa certeza com a mesma confiança do resto.
+
+A camada limpa é **opcional e sob demanda** — nasce quando a transcrição vai ser destilada ao acervo, não para toda transcrição. O bruto sozinho já cumpre o dever de preservação.
+
+Detalhe do fluxo em [transcricoes/processo-transcricoes.md](transcricoes/processo-transcricoes.md).
 
 ## Rastreabilidade
 
-Quando um conteúdo processado deriva de uma transcrição, ele referencia a fonte no formato `arquivo#secao`: o caminho do arquivo bruto seguido do nome da seção de origem. Assim toda afirmação destilada aponta de volta para o trecho falado que a originou.
+Quando um conteúdo processado deriva de uma transcrição, ele referencia a fonte no formato `arquivo#secao`: o caminho do arquivo **limpo** seguido do nome da seção de origem — é a camada limpa que carrega as seções e desambigua a fala. O limpo, por sua vez, aponta para o bruto (`fonte-bruta`) e para o áudio (`fonte-audio`). Assim toda afirmação destilada aponta de volta para o trecho falado que a originou, com a cadeia até a verdade última preservada.
 
 ## Índice de processos
 
@@ -66,3 +74,9 @@ Cada sessão de planejamento termina com um prompt de edição pronto para o Cla
 Cada frente tem o seu próprio `next-steps.md`, em `<frente>/next-steps.md` (ex.: `academia/next-steps.md`). O `next-steps.md` da raiz é de nível EPSO: rastreia a migração entre frentes e aponta para o de cada uma — não acumula os passos internos delas. Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); o da raiz só muda quando o estado entre frentes muda.
 
 O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver `next-steps.md`, Decisões adiadas).
+
+## Fluxo git
+
+O `main` tem branch protection: push direto é bloqueado, inclusive para admin. Toda mudança entra por branch → commit → push da branch → PR → merge pela interface. Commit local é livre; `git push origin main` falha por design.
+
+Staging é sempre intencional: adicionar arquivos por caminho explícito, um a um. Nunca `git add .`, `git add -A` ou `git add -u` — evita arrastar mudança fora do escopo (outra frente, artefato, edição concorrente) para dentro do commit.

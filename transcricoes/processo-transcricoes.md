@@ -17,7 +17,7 @@ Gera a camada bruta — a transcrição automática intocada.
 
 ## Camada limpa
 
-Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde ambiguidades e erros de transcrição de áudio são resolvidos preservando a ideia original. É **opcional e sob demanda**: nasce como primeiro passo do processamento de uma transcrição destinada ao acervo, não para toda transcrição. O bruto sozinho já cumpre o dever de preservação.
+Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde ambiguidades e erros de transcrição de áudio são resolvidos preservando a ideia original. É **opcional**: o bruto sozinho já cumpre o dever de preservação. Nasce ao destilar a transcrição ao acervo, **ou antes disso** quando se quer a versão legível do pensamento — pode ser gerada em lote, adiantada. Não se gera para toda transcrição por obrigação.
 
 - Nomear `AAAA-MM-DD-titulo.md`, na raiz de `transcricoes/` (mesmo nome do bruto, sem o `.raw`).
 - Metadados YAML: `data`, `sessao`, `tipo: transcricao-limpa`, `titulo`, `fonte-bruta` (caminho do `.raw.md`), `fonte-audio`.
@@ -25,7 +25,11 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 - Resolver as correções e apresentá-las ao incorporador **agrupadas por tipo, para validação em lote** — nunca uma a uma. Os tipos:
   - **Correção óbvia de fala** — gagueira, falso começo, repetição. Sem risco de sentido; aplica-se direto.
   - **Truncamento** — pensamento ou palavra cortada. Propõe-se a reconstrução; na dúvida, marca-se `[...]`.
-  - **Escolha de palavra que muda o sentido** — precisa da validação do incorporador, às vezes do áudio. O que não se resolve com segurança vira `[inaudível]`, nunca chute.
+  - **Escolha de palavra que muda o sentido** — resolver por uma escada, do mais barato ao mais caro. Nunca levar ao incorporador uma pergunta crua ("o que você quis dizer?"): ele decide com o contexto na mão, não de cabeça.
+    1. **Contexto imediato** — as frases antes e depois costumam decidir. Um garble logo após ele listar "corpo e mente" quase certo é "corpo"; "papai não é resistir" depois de "nosso papel é fluir" é "o papel".
+    2. **Corpus** — termos recorrentes e termos-assinatura em outras transcrições (ver [aprendizados-transcricao.md](aprendizados-transcricao.md)).
+    3. **Incorporador** — o que sobrar vai a ele **já com a proposta e o contexto que a justifica**, para confirmar.
+    4. **`[inaudível]`** — só o que não se resolve em nenhum dos anteriores. Nunca chute.
 - Antes de propor, consultar [aprendizados-transcricao.md](aprendizados-transcricao.md) — padrões recorrentes de erro e termos-assinatura a preservar, que aceleram a validação. Registrar ali o que a sessão ensinar.
 - Ao final, listar as seções criadas com a primeira linha de cada, para o incorporador conferir os cortes.
 

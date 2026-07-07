@@ -36,7 +36,7 @@ Uma transcrição vive em três camadas, cada uma com sua régua:
 - **Bruto** — a transcrição automática intocada, em `transcricoes/raw/…​.raw.md`. O conteúdo falado é preservado na íntegra: nada é alterado, resumido, corrigido ou reordenado. A única adição permitida ao bruto é um bloco de metadados. Não recebe seções — a estrutura vive na camada limpa.
 - **Limpo** — cópia de trabalho em `transcricoes/…​.md`, derivada do bruto **sob validação do incorporador**. Resolve ambiguidades e erros de transcrição de áudio preservando a ideia original; nunca sobrescreve o bruto. Carrega os metadados, as seções `## nome` e as âncoras de rastreabilidade. O que não se resolve com segurança é marcado, não chutado: `[inaudível]` para trecho que não se recupera do texto — o áudio existe, mas reouvi-lo à mão por uma expressão não compensa; a resolução, quando vier, será por re-transcrição futura com ferramenta melhor, não por escuta manual —, `[...]` para fragmento de fala abandonado. Marcar a incerteza é decisão validada, não pendência; é o ganho da camada sobre o bruto, que registra a falsa certeza com a mesma confiança do resto.
 
-A camada limpa é **opcional e sob demanda** — nasce quando a transcrição vai ser destilada ao acervo, não para toda transcrição. O bruto sozinho já cumpre o dever de preservação.
+A camada limpa é **opcional** — o bruto sozinho já cumpre o dever de preservação. Nasce ao destilar a transcrição ao acervo, ou antes disso quando se quer a versão legível do pensamento (pode ser gerada em lote). Não se gera para toda transcrição por obrigação.
 
 Detalhe do fluxo em [transcricoes/processo-transcricoes.md](transcricoes/processo-transcricoes.md).
 

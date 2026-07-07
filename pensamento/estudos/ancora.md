@@ -54,3 +54,5 @@ madeira são projeções da mesma âncora sob usos diferentes, uma ideia só vis
   vale para os contextos já testados, aberta ao próximo que a desafie.
 - O trabalho de registrar uma ideia é destilar sua leitura de menor stress e guardar as
   projeções de valor que já apareceram, deixando as demais latentes na âncora.
+- A âncora trata a ideia como direção; *por que* uma ideia tem direção é a camada abaixo — a
+  hipótese de que uma ideia é um vetor, registrada em [vetor](vetor.md).

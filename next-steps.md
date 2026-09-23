@@ -24,7 +24,7 @@ Sessões planejadas:
 
 ## Fonte durante a migração
 
-O repositório epso_paradigm segue vivo como fonte enquanto a migração acontece. Ele é aposentado e deletado quando todo o conteúdo necessário estiver migrado.
+O repositório epso_paradigm segue vivo como fonte enquanto a migração acontece. Ele é aposentado e deletado quando todo o conteúdo necessário estiver migrado. O inventário arquivo a arquivo — status, destino e critério de deleção — vive em [docs/estrutura/migracao-epso-paradigm.md](docs/estrutura/migracao-epso-paradigm.md).
 
 ## Decisões adiadas
 

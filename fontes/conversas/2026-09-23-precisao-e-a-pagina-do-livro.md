@@ -47,3 +47,21 @@ ponto é realmente pensar novos paradigmas sobre a ciência.
 
 É cedo para cravar alguma coisa; preciso estudar mais. Mas a física quântica traz um novo
 paradigma que precisa ser elaborado.
+
+## O observador: o assento muda a experiência
+
+O observador que só assiste e o observador que entra na observação não são conceitos
+diferentes. O lugar do assento pode mudar a experiência; a companhia e a mentalidade mudam
+como é a experiência.
+
+## Destino e intenção são camadas diferentes
+
+"A vida já aconteceu" se refere a que não temos controle sobre o que vai acontecer com a
+gente. Mas agir com intenção faz nossa atenção estar ressoando, colaborando, convergindo com
+o que a vida vai fazer acontecer. A gente sai do lugar de vítima e se torna protagonista.
+Essa narrativa não é nada fácil e simples; tem outros caminhos melhores para explicar isso.
+
+## Qual argumento estou construindo?
+
+Quando pegamos um único tema e o quebramos em partes, vale a reflexão: do que estamos
+falando? Qual argumento estou construindo? A partir dele a gente vai dividindo.

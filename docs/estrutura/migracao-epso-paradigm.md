@@ -32,11 +32,14 @@ não existe como pensamento processado no hub.
 
 ### Universo 2 — conceitos
 
-- [ ] `conceitos/atencao.md` → **parcial** · destino `cosmovisao/a-tese.md` · **evoluir** (atenção como único locus de controle).
-- [ ] `conceitos/observador.md` → **parcial** · destino `cosmovisao/a-tese.md` · **evoluir** (testemunha determinística — significado difere do "observador situado" já no hub; cuidar na fusão).
-- [ ] `conceitos/evolucao-com-intencao.md` → **faltando** · destino triagem `estudos/` ↔ `cosmovisao/` · **inserir**.
-- [ ] `conceitos/fluir.md` → **faltando** · destino triagem `estudos/` ↔ `cosmovisao/` · **inserir**.
-- [ ] `conceitos/pulsar-fractal.md` → **faltando** · destino triagem `estudos/` ↔ `cosmovisao/` · **inserir** (cosmologia onda/pulso/mandala).
+Os cinco conceitos eram uma corrente só — a resposta a "quem sou eu?" — e viraram um arquivo
+em `cosmovisao/` (sessão 1, 2026-09-23).
+
+- [x] `conceitos/atencao.md` → **evoluído** em `cosmovisao/quem-sou-eu.md#sou-minha-atenção`.
+- [x] `conceitos/observador.md` → **evoluído** em `cosmovisao/quem-sou-eu.md#sou-o-observador`. A testemunha e o "observador situado" são o mesmo conceito: não se controla o filme, mas o assento, a companhia e a mentalidade mudam a experiência.
+- [x] `conceitos/evolucao-com-intencao.md` → **inserido** em `cosmovisao/quem-sou-eu.md#evoluir-com-intenção`.
+- [x] `conceitos/fluir.md` → **inserido** em `cosmovisao/quem-sou-eu.md#fluir`.
+- [x] `conceitos/pulsar-fractal.md` → **inserido** em `cosmovisao/quem-sou-eu.md#tudo-pulsa`.
 
 ### Universo 2 — problemas abertos
 
@@ -83,3 +86,6 @@ aposentado por decisão registrada). Até lá, ele permanece como fonte de leitu
 - **2026-09-23** — sessão 1, parte 1: a camada `problemas-abertos` migrada (6 fundidos em
   `estudos/precisao.md`, 1 evoluído em `academia/jornada.md`). A raiz "a realidade excede a
   verdade" ganhou dono em `precisao.md`. Próximo: os cinco conceitos.
+- **2026-09-23** — sessão 1, parte 2: os cinco conceitos migrados para
+  `cosmovisao/quem-sou-eu.md`. Sessão 1 concluída; o método "qual argumento?" entrou na
+  [curadoria](curadoria.md).

@@ -8,4 +8,4 @@ Exemplo aplicado dos [critérios](criterios.md): o destino de cada aba do Docume
 - **Operacional** → `pratica/construtora/institucional/` (nível iniciativa).
 - **Acervo Técnico** → `pratica/construtora/institucional/` (nível iniciativa, vale para todo projeto).
 
-Ainda em aberto: a migração real do conteúdo do Drive para estes destinos, feita quando cada trecho for processado.
+Ainda em aberto: a migração real do conteúdo do Drive para estes destinos, feita quando cada trecho for encaixado.

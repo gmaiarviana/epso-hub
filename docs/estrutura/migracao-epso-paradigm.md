@@ -5,7 +5,7 @@ migração estão na fila do [next-steps da raiz](../../next-steps.md). O `epso_
 segue vivo como fonte e só é **aposentado e deletado quando todo objeto necessário estiver migrado**
 — este doc é o critério de "quando".
 
-A destilação segue a [curadoria do acervo](curadoria.md): cada arquivo do paradigm é uma **caixa**;
+O encaixe segue a [curadoria do acervo](curadoria.md): cada arquivo do paradigm é uma **caixa**;
 abre-se objeto a objeto e decide-se **inserir · fundir · evoluir · decompor**, com **dedup por
 âncora** (comparar por significado, não por palavra). Item migrado marca-se `[x]` com o destino real;
 o histórico fino vive no git.
@@ -14,13 +14,13 @@ o histórico fino vive no git.
 
 O `epso_paradigm` está 100% sincronizado com `origin/main` (`git@github.com:gmaiarviana/epso_paradigm.git`)
 — o conteúdo bruto sobrevive no GitHub mesmo após deletar a pasta local. As transcrições de 2026-06-26,
-fonte dos conceitos, já vivem em `fontes/transcricoes/`. O que **não** está migrado é o trabalho *destilado*:
+fonte dos conceitos, já vivem em `fontes/transcricoes/`. O que **não** está migrado é o trabalho *encaixado*:
 a camada crítica `problemas-abertos` e o legwork acadêmico.
 
 ## Inventário — 19 arquivos
 
 Coberto = substância já vive no hub. Parcial = ideia central migrada, pontas cortadas. Faltando =
-não existe como pensamento processado no hub.
+não existe como pensamento encaixado no hub.
 
 ### Universo 1 — jornada
 

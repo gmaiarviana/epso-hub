@@ -1,7 +1,7 @@
 # Conversa — precisão e a página do livro
 
 *2026-09-23. Ideias, conceitos e exemplos que surgiram nesta conversa, na voz do
-incorporador. Fonte consultável — pode repetir o que já foi destilado ao acervo; é a
+incorporador. Fonte consultável — pode repetir o que já foi encaixado no acervo; é a
 função da camada. Filtrado do diálogo: guarda o que é ideia nova, não o processo de
 trabalho nem os artefatos gerados.*
 

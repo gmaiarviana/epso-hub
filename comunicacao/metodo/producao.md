@@ -4,7 +4,7 @@ Processos que o agente executa para transformar o acervo em conteúdo. O agente 
 
 ## Regras gerais
 
-- **Fonte** — o acervo do epso-hub (frentes com conteúdo destilado). Transcrições alimentam o acervo; a produção lê o acervo.
+- **Fonte** — o acervo do epso-hub (frentes com conteúdo encaixado). Transcrições alimentam o acervo; a produção lê o acervo.
 - **Rastreabilidade** — toda pauta e toda peça referencia sua origem no formato `arquivo#secao`.
 - **Fidelidade** — o conteúdo afirma apenas o que o acervo sustenta. Material marcado como Em aberto ou Estimado no acervo aparece como hipótese.
 

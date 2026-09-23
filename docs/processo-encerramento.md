@@ -85,3 +85,17 @@ assistente pergunta, como nomeia, em que voz sai — ainda está **a formalizar*
 (ver [fontes/next-steps.md](../fontes/next-steps.md)). Até lá, este passo é um
 lembrete, não um fluxo fechado: sinalizar ao incorporador que há ideia a
 destilar e capturar sob sua validação.
+
+## 4. Finalizar no git
+
+Commit e PR são o **último** passo do encerramento — abertos ao dizer "vamos
+encerrar", **depois** da retrospectiva, para que qualquer edição de processo que
+ela produza entre no mesmo PR. Isso troca "PR quando o trabalho fica pronto" por
+"PR quando a sessão fecha", mantendo o ritual auto-consistente: a retrospectiva
+sempre tem onde cair. Mecânica de branch → commit → PR: ver
+[CLAUDE.md § Fluxo git](../CLAUDE.md).
+
+**Ressalva:** trabalho grande ou independente pode abrir PR antes de encerrar,
+quando faz sentido pôr em revisão logo. Nesse caso o encerramento não reabre
+nada — só roda a retrospectiva, e um achado que edite processo vira commit
+adicional no PR já aberto (ou um PR próprio, se for de outro escopo).

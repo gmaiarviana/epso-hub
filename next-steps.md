@@ -31,6 +31,11 @@ da lista; o histórico vive no git.
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive.
 9. **Funding** — parâmetros de interesse e maturidade; primeiro recorte de varredura (ver
    `funding/next-steps.md`).
+10. **Destilar a transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
+    à área de trabalho. Destinos prováveis: eixos, chamados e temáticas em
+    `comunicacao/linha-editorial.md`; portais da plataforma em `pratica/`; `#portal-linguagem`
+    funde com `2026-06-26-…#abstrair-as-palavras`; `#plataforma-e-autoridade` com
+    `academia/jornada.md`. Posição padrão (fim da fila) — reordenar se o incorporador decidir.
 
 Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
 destiladas — não entram na fila por conta própria.

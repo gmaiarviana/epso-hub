@@ -26,7 +26,9 @@ Erro de transcrição em **uma** palavra que muda o sentido, mas que o contexto 
 - Verbo elidido: "impressão de que realmente **sobre** nosso corpo" → "realmente **somos o** nosso corpo".
 - Expressão colada numa sigla: "como **CBM** remunerado nelas" → "como **ser bem** remunerado" (a frase seguinte fala em "dar altos salários").
 - Troca fonética z/g e l/u: "faz estoque **zerando baixar** previsibilidade" → "**gerando baixa**"; "o **auto** processamento" → "o **alto** processamento".
-- Termo técnico deformado: "modelos de **rede minerais**" → "redes **neurais**"; "**Tecologia**" → "tecnologia".
+- Termo técnico deformado: "modelos de **rede minerais**" → "redes **neurais**"; "**Tecologia**" → "tecnologia"; "**Outsource** ferramentas" / "open **souc**" → "open source"; "**TDH**" → "TDAH"; "eu sou **meu divergente**" → "**neurodivergente**" (validado — a sequência "tenho TDAH / tive o transtorno / sou neurodivergente" é preservada, distingue transtorno de identidade).
+- Negação que é preposição: "gestão eficiente, **mas não** novos paradigma de sociedade" → "mas **nos** novos paradigmas" (validado — eficiência dentro do novo paradigma, não contra ele).
+- Prefixo engolido: "a gente pode também **ferir** alguns temas" → "**inferir**" (dito logo antes).
 - Locução virando palavra inventada: "sobre o **tempo clarito** sobre nova esfera" → "sobre **ter clareza** sobre a noosfera" (validado pelo incorporador — não era nome próprio; não buscar referência erudita onde a fala é coloquial).
 
 ## Garbles marcados (resolução adiada)

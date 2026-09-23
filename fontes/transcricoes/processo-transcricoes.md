@@ -14,6 +14,7 @@ Gera a camada bruta — a transcrição automática intocada.
 - Adicionar no topo um bloco de metadados YAML: `data`, `sessao`, `tipo: transcricao-bruta`, `titulo`, `fonte-audio` (referência ao áudio, que não é versionado).
 - Nomear o arquivo `AAAA-MM-DD-titulo.raw.md`, dentro de `fontes/transcricoes/raw/`.
 - Não seccionar o bruto — a estrutura por assunto vive na camada limpa.
+- **Vários áudios numa sessão** vão para um arquivo só, na **ordem de gravação** — não na ordem em que foram colados no chat, que já veio invertida mais de uma vez. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
 
 ## Camada limpa
 
@@ -32,6 +33,10 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
     4. **`[inaudível]`** — só o que não se resolve em nenhum dos anteriores. Nunca chute.
 - Antes de propor, consultar [aprendizados-transcricao.md](aprendizados-transcricao.md) — padrões recorrentes de erro e termos-assinatura a preservar, que aceleram a validação. Registrar ali o que a sessão ensinar.
 - Ao final, listar as seções criadas com a primeira linha de cada, para o incorporador conferir os cortes.
+
+## Entrada no roadmap
+
+Toda transcrição registrada entra na fila do [next-steps da raiz](../../next-steps.md) como item de destilação ("Destilar a transcrição `AAAA-MM-DD-titulo`"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição na fila é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A fila da raiz concentra toda destilação de transcrição, qualquer que seja a frente de destino; o item sai de lá quando a destilação termina.
 
 ## Rastreabilidade
 

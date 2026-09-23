@@ -43,7 +43,7 @@ Para cada referência: nome, canal, alcance e o que faz bem. O mapeamento serve 
 
 ## 5. Dimensões editoriais
 
-Definição dos valores de cada dimensão: mensagens-chave, abordagens, temas, arcos narrativos e quadros recorrentes. Conceitos em [dimensoes.md](dimensoes.md).
+Definição dos valores de cada dimensão: mensagens-chave, abordagens, temas, arcos narrativos e quadros recorrentes. O segmento já vem da etapa 3. Conceitos em [dimensoes.md](dimensoes.md).
 
 ## 6. Calendário
 

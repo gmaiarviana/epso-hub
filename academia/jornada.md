@@ -12,12 +12,17 @@ referenciadas abaixo por `#secao`).
 - **Doutorado** — espaço para ir devagar e fundo, no nível de abstração alto que interessa; é
   onde se produz o inédito. É o destino: a tese de doutorado como tese de vida.
 - **Mestrado** — mais prático. Reutiliza metodologias existentes e aproxima de um departamento
-  cujos métodos preparem o doutorado. Degrau, não destino.
+  cujos métodos preparem o doutorado. Degrau, não destino. Mas anda com as próprias pernas:
+  bancas técnicas (ICT/IA) querem um problema bem posto, com método e avaliação. O mestrado
+  precisa ser defensável por quem nunca ouviu a filosofia do doutorado — desenhado de fora
+  para dentro, a partir do que a área valoriza.
 
 Isso exige estudar os métodos existentes — hoje um conhecimento de leigo. Não se faz em hobby:
 demanda tempo, energia, estratégia e intenção.
 
-Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`.
+Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`; o corte
+"com as próprias pernas" vem do problema aberto `mestrado-pernas-proprias` do `epso_paradigm`
+(2026-06-26).
 
 ## Trajetória em fases
 

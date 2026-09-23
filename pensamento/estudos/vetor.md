@@ -44,7 +44,7 @@ que procura se transmitir.
 ## O observador entra na observação
 
 Uma ideia excede qualquer expressão dela, como a realidade excede qualquer
-observação (ver [âncora](ancora.md), a raiz epistemológica). Toda leitura parte de
+observação (ver [precisão](precisao.md), a raiz epistemológica). Toda leitura parte de
 uma limitação: repertório, biologia, contexto. O observador entra na observação —
 toda âncora já é ela mesma uma leitura. Não há acesso ao vetor puro, sem roupa; há
 leituras de menor e maior stress. O trabalho do acervo é mitigar esse viés, não

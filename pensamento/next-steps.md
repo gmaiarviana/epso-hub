@@ -7,6 +7,6 @@ passos internos da frente.
 - **Âncora — refino** (`estudos/ancora.md`): fechar as "Consequências (em aberto)" à
   medida que novos contextos testarem o invariante. Camada atual registrada; refino
   continua por iteração.
-- **Elo pendente da tese epistemológica**: a raiz de `ancora.md` enuncia "a realidade
-  excede a verdade" inline, sem dono. Quando o Núcleo migrar a postura epistemológica
-  (ver next-steps da raiz), trocar o enunciado por um `[[nome]]` que aponte para ela.
+- **Precisão e quem sou eu — refino** (`estudos/precisao.md`, `cosmovisao/quem-sou-eu.md`):
+  fechar as seções "Em aberto" de cada um. A mais pedida: um caminho melhor para explicar
+  destino × intenção.

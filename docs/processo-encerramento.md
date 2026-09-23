@@ -69,7 +69,11 @@ A evolução dos processos vive no **git dos próprios documentos** — não se 
 um log separado de retrospectivas. Consistente com o princípio do repositório:
 o histórico vive no git.
 
-## 2. Atualizar next-steps
+## 2. Atualizar next-steps e limpar
+
+Conferir o que a sessão tornou obsoleto: itens de next-steps concluídos, trechos que mudaram
+de dono (deixam um link no lugar do conteúdo) e arquivos que um critério registrado manda
+aposentar. Fontes (`fontes/`) nunca se limpam: a caixa se preserva.
 
 Atualizar o `next-steps.md` da(s) frente(s) trabalhada(s), a fila da raiz se um
 item entre frentes mudou, e `docs/next-steps.md` se ficou pendência de processo. As

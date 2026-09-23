@@ -32,27 +32,32 @@ não existe como pensamento encaixado no hub.
 
 ### Universo 2 — conceitos
 
-- [ ] `conceitos/atencao.md` → **parcial** · destino `cosmovisao/a-tese.md` · **evoluir** (atenção como único locus de controle).
-- [ ] `conceitos/observador.md` → **parcial** · destino `cosmovisao/a-tese.md` · **evoluir** (testemunha determinística — significado difere do "observador situado" já no hub; cuidar na fusão).
-- [ ] `conceitos/evolucao-com-intencao.md` → **faltando** · destino triagem `estudos/` ↔ `cosmovisao/` · **inserir**.
-- [ ] `conceitos/fluir.md` → **faltando** · destino triagem `estudos/` ↔ `cosmovisao/` · **inserir**.
-- [ ] `conceitos/pulsar-fractal.md` → **faltando** · destino triagem `estudos/` ↔ `cosmovisao/` · **inserir** (cosmologia onda/pulso/mandala).
+Os cinco conceitos eram uma corrente só — a resposta a "quem sou eu?" — e viraram um arquivo
+em `cosmovisao/` (sessão 1, 2026-09-23).
+
+- [x] `conceitos/atencao.md` → **evoluído** em `cosmovisao/quem-sou-eu.md#sou-minha-atenção`.
+- [x] `conceitos/observador.md` → **evoluído** em `cosmovisao/quem-sou-eu.md#sou-o-observador`. A testemunha e o "observador situado" são o mesmo conceito: não se controla o filme, mas o assento, a companhia e a mentalidade mudam a experiência.
+- [x] `conceitos/evolucao-com-intencao.md` → **inserido** em `cosmovisao/quem-sou-eu.md#evoluir-com-intenção`.
+- [x] `conceitos/fluir.md` → **inserido** em `cosmovisao/quem-sou-eu.md#fluir`.
+- [x] `conceitos/pulsar-fractal.md` → **inserido** em `cosmovisao/quem-sou-eu.md#tudo-pulsa`.
 
 ### Universo 2 — problemas abertos
 
-Camada crítica — a maior perda. Nenhum destes existe no hub; destino natural `pensamento/estudos/`.
+Camada crítica. Os seis problemas epistemológicos eram galhos de um só argumento — "a realidade
+excede a verdade; as leituras são mais ou menos precisas" — e foram respondidos pelo incorporador
+na sessão 1 (2026-09-23). Viraram um arquivo só, em vez de seis.
 
-- [ ] `problemas-abertos/criterio-de-falsidade.md` → **faltando** · **inserir**.
-- [ ] `problemas-abertos/regua-de-critica.md` → **faltando** · **inserir** (que régua substitui a crítica materialista).
-- [ ] `problemas-abertos/tradicao-epistemologica.md` → **faltando** · **inserir** (Popper / qual escola te julga).
-- [ ] `problemas-abertos/paradigma-auto-imunizante.md` → **faltando** · **inserir**.
-- [ ] `problemas-abertos/ponte-fisica-quantica.md` → **faltando** · **inserir** (alerta contra a ponte com o observador quântico).
-- [ ] `problemas-abertos/no-da-medicao.md` → **faltando** · destino `estudos/ancora.md` · **evoluir** (consequência: medição relativa perde poder de provar).
-- [ ] `problemas-abertos/mestrado-pernas-proprias.md` → **parcial** · destino `academia/jornada.md` · **evoluir** (recuperar o corte "defensável por quem nunca ouviu a filosofia").
+- [x] `problemas-abertos/criterio-de-falsidade.md` → **fundido** em `estudos/precisao.md` (a intenção separa a leitura parcial da distorção; avaliar a intenção de fora fica em aberto).
+- [x] `problemas-abertos/regua-de-critica.md` → **fundido** em `estudos/precisao.md` (a régua são os eixos de precisão; a medição é uma página do livro).
+- [x] `problemas-abertos/tradicao-epistemologica.md` → **fundido** em `estudos/precisao.md#em-aberto` (Popper: referência, não prisão).
+- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `estudos/precisao.md` (comunicar na camada que o outro alcança).
+- [x] `problemas-abertos/ponte-fisica-quantica.md` → **fundido** em `estudos/precisao.md#em-aberto` (paradigma a elaborar; cuidado com o homônimo "observador").
+- [x] `problemas-abertos/no-da-medicao.md` → **fundido** em `estudos/precisao.md` (a medição acompanha, não fundamenta). Destino mudou de `ancora.md` para `precisao.md`.
+- [x] `problemas-abertos/mestrado-pernas-proprias.md` → **evoluído** em `academia/jornada.md`.
 
 ### Universo 2 — sínteses
 
-- [ ] `sinteses/nucleo-da-tese.md` → **parcial** · destino `cosmovisao/a-tese.md`, `estudos/ancora.md`, `estudos/vetor.md` · **evoluir** (recuperar a consequência da medição e Paulo Freire como base reconhecida).
+- [ ] `sinteses/nucleo-da-tese.md` → **parcial** · destino `cosmovisao/a-tese.md`, `estudos/vetor.md` · **evoluir**. A consequência da medição e Paulo Freire já entraram em `estudos/precisao.md` (2026-09-23). Falta: o choque de vetores como sinal de algo não dito (princípio de leitura) e as "sete camadas" de uma meditação anterior (cruzamento dos dois eixos da identidade).
 
 ### Aposentado
 
@@ -78,3 +83,9 @@ aposentado por decisão registrada). Até lá, ele permanece como fonte de leitu
 - **2026-09-22** — inventário criado a partir da varredura de cobertura dos 19 arquivos. Diagnóstico:
   1 coberto, 7 parciais, 11 faltando; a camada `problemas-abertos` (6/7) e o legwork acadêmico não
   foram carregados no "primeiro corte" da migração. Plano de 3 sessões definido.
+- **2026-09-23** — sessão 1, parte 1: a camada `problemas-abertos` migrada (6 fundidos em
+  `estudos/precisao.md`, 1 evoluído em `academia/jornada.md`). A raiz "a realidade excede a
+  verdade" ganhou dono em `precisao.md`. Próximo: os cinco conceitos.
+- **2026-09-23** — sessão 1, parte 2: os cinco conceitos migrados para
+  `cosmovisao/quem-sou-eu.md`. Sessão 1 concluída; o método "qual argumento?" entrou na
+  [curadoria](curadoria.md).

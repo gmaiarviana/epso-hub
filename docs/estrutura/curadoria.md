@@ -42,6 +42,23 @@ A caixa se preserva depois da extração. Nem todo objeto entra no acervo numa p
 guarda os que ficaram para uma abertura futura. Uma caixa já duplicada em outro lugar do acervo
 dispensa cópia — mantê-la duas vezes suja o acervo.
 
+## Antes de curar: qual argumento?
+
+Antes de decidir objeto a objeto, perguntar: do que estamos falando? Qual argumento esses
+objetos constroem? Objetos que chegam soltos — arquivos, itens, problemas — costumam ser partes
+de um argumento só.
+
+Enunciar o argumento numa frase, na voz do incorporador: é o tronco. Cada objeto se reconhece
+então como galho — uma parte, uma consequência, uma objeção ao tronco. A divisão sai do tronco:
+os galhos entram como seções de um objeto, e só viram objetos próprios quando têm vida fora
+dele. É a relação parte-todo (ver Objeto, acima) aplicada antes das decisões.
+
+Casos: os seis problemas abertos do `epso_paradigm` viraram um argumento só em
+[precisão](../../pensamento/estudos/precisao.md); os cinco conceitos, outro em
+[quem sou eu](../../pensamento/cosmovisao/quem-sou-eu.md).
+
+Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#qual-argumento-estou-construindo`.
+
 ## Curar: as decisões
 
 Diante de um objeto extraído de uma caixa, a curadoria decide entre:

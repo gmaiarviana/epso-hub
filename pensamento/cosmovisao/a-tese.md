@@ -10,7 +10,7 @@ crença raiz é a que temos sobre nossa própria identidade. Hoje nos enxergamos
 separado, indivíduo isolado — e daí decorre o resto; a relação destrutiva com a natureza é
 apenas o sintoma mais visível. A jornada é de expansão: para dentro (corpo → mente →
 espírito → consciência) e para fora (indivíduo → espécie → planeta → cosmos), e no fundo sou
-minha atenção, o observador. Ressignificar isso reordena os hábitos por consequência: a
+minha atenção, o observador (ver [quem sou eu](quem-sou-eu.md)). Ressignificar isso reordena os hábitos por consequência: a
 regeneração não é o destino que persigo — é o que decorre de me reconhecer diferente.
 
 Escolhido sobre a outra abertura candidata ("reunir o que cada tradição captou"): *a questão

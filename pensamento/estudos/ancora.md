@@ -4,10 +4,8 @@
 
 ## A raiz: a realidade excede a verdade
 
-A âncora decorre de uma tese mais profunda, a espinha epistemológica: existe uma
-realidade absoluta, e nenhuma observação isolada a alcança por inteiro.
-Cada observador traz uma verdade relativa, conforme seu repertório, sua biologia, seu contexto.
-A realidade excede a verdade.
+A âncora decorre de uma tese mais profunda, a espinha epistemológica registrada em
+[precisão](precisao.md): a realidade excede a verdade.
 
 A âncora é essa tese aplicada ao domínio das ideias. Se o real excede qualquer observação dele,
 uma ideia excede qualquer expressão dela.

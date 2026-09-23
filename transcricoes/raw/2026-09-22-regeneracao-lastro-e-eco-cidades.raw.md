@@ -5,18 +5,17 @@ tipo: transcricao-bruta
 titulo: Regeneração, lastro e a visão de eco-cidades
 fonte-audio: pendente
 nota: >-
-  Três áudios gravados consecutivamente numa mesma sessão. A ordem entre eles
-  é inferida (confiança média-alta): a sequência de gravação abaixo (áudio 1 →
-  2 → 3) corresponde ao inverso da ordem em que foram colados no chat. Base da
-  inferência — o áudio 2 termina em "eficiência energética" e o áudio 3 começa
-  reencostando na mesma expressão ("Eficiência energética em que a gente tenha.
-  tenha A gente tenha..."), sinal de corte no meio da frase; o "Mas" que abre o
-  áudio 2 pede antecedente, dado pelo fecho do áudio 1 ("regeneração... de
-  mentalidade"). Se a ordem se confirmar errada na revisão, os marcadores de
-  fronteira abaixo tornam a correção trivial.
+  Três áudios gravados consecutivamente numa mesma sessão. A ordem de gravação
+  abaixo (áudio 1 → 2 → 3) foi confirmada pelo incorporador e corresponde ao
+  inverso da ordem em que foram colados no chat. Registro da inferência que a
+  antecedeu (confirmada) — o áudio 2 termina em "eficiência energética" e o
+  áudio 3 começa reencostando na mesma expressão ("Eficiência energética em que
+  a gente tenha. tenha A gente tenha..."), sinal de corte no meio da frase; o
+  "Mas" que abre o áudio 2 pede antecedente, dado pelo fecho do áudio 1
+  ("regeneração... de mentalidade"). Fronteiras marcadas com <!-- áudio N -->.
 ---
 
-> Transcrição bruta. Datada e preservada sem alteração no conteúdo. Matéria-prima de onde o pensamento é extraído. Marcadores `<!-- áudio N -->` registram as fronteiras entre os três áudios da sessão, na ordem de gravação inferida.
+> Transcrição bruta. Datada e preservada sem alteração no conteúdo. Matéria-prima de onde o pensamento é extraído. Marcadores `<!-- áudio N -->` registram as fronteiras entre os três áudios da sessão, na ordem de gravação confirmada pelo incorporador.
 
 <!-- áudio 1 -->
 

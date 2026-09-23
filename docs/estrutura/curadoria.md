@@ -19,8 +19,24 @@ diferentes.
 
 ## Caixa
 
-A caixa é a fonte de onde os objetos saem — transcrição, texto, documento. Refinar é abrir a caixa
-e decidir, objeto a objeto, o que agrega ao acervo.
+A caixa é a fonte de onde os objetos saem — transcrição, texto, documento. **Encaixar** é abrir a
+caixa e levar, objeto a objeto, o que agrega à área de trabalho — o acervo e as pastas de ação
+prática —, refinando cada peça até achar o lugar dela.
+
+A analogia é a do quebra-cabeça, e cada gesto dele tem par no método:
+
+- **O acervo é a imagem que se forma.** Nenhuma caixa sozinha mostra o quadro; cada encaixe revela
+  mais e dá contexto ao próximo.
+- **Encaixar dá trabalho.** A peça não tem lugar óbvio: testa-se, gira-se, compara-se com as
+  vizinhas. É processar e refinar, não guardar.
+- **As decisões da curadoria são gestos do jogo** (ver abaixo): inserir é pôr peça num espaço
+  vazio; fundir é notar que duas peças são a mesma; decompor é separar a peça que cobria dois
+  lugares.
+- **O elo pendente `[[nome]]` é o buraco no quebra-cabeça** — sabe-se que falta uma peça ali, e
+  o formato dela pelas vizinhas, antes de encontrá-la.
+- **A peça que não encaixa em lugar nenhum é informação**: a imagem imaginada estava errada, ou
+  falta uma região inteira do quadro. Por isso os critérios de organização são hipóteses
+  revisáveis.
 
 A caixa se preserva depois da extração. Nem todo objeto entra no acervo numa passagem, e a caixa
 guarda os que ficaram para uma abertura futura. Uma caixa já duplicada em outro lugar do acervo

@@ -37,7 +37,7 @@
 ## Elos e rastreabilidade
 
 - [ ] Novos `[[nome]]` pendentes criados (quais?):
-- [ ] Conteúdo destilado referencia a fonte (`arquivo#secao`)
+- [ ] Conteúdo encaixado referencia a fonte (`arquivo#secao`)
 - [ ] Régua de preservação de transcrições respeitada (bruto intocado)
 
 ## Next-steps

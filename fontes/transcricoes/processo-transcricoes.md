@@ -1,6 +1,12 @@
 # Processo — Registro de transcrições
 
-Documento carregado quando o fluxo de transcrição é acionado. Descreve como uma fala vira arquivo bruto rastreável em `fontes/transcricoes/`.
+Documento carregado quando o fluxo de transcrição é acionado. Descreve como uma fala vira arquivo bruto rastreável em `fontes/transcricoes/` e, dali, chega à área de trabalho.
+
+Três etapas, cada uma com seu verbo:
+
+1. **Registrar** — gravar o bruto, intocado.
+2. **Passar a limpo** — tornar a transcrição legível: a camada limpa, com seções e correções validadas.
+3. **Encaixar** — levar o conteúdo à área de trabalho (acervo e pastas de ação prática). A transcrição é uma caixa; o verbo e a analogia do quebra-cabeça vivem na [curadoria](../../docs/estrutura/curadoria.md#caixa).
 
 ## Gatilho
 
@@ -16,9 +22,9 @@ Gera a camada bruta — a transcrição automática intocada.
 - Não seccionar o bruto — a estrutura por assunto vive na camada limpa.
 - **Vários áudios numa sessão** vão para um arquivo só, na **ordem de gravação** — não na ordem em que foram colados no chat, que já veio invertida mais de uma vez. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
 
-## Camada limpa
+## Passar a limpo: a camada limpa
 
-Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde ambiguidades e erros de transcrição de áudio são resolvidos preservando a ideia original. É **opcional**: o bruto sozinho já cumpre o dever de preservação. Nasce ao destilar a transcrição ao acervo, **ou antes disso** quando se quer a versão legível do pensamento — pode ser gerada em lote, adiantada. Não se gera para toda transcrição por obrigação.
+Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde ambiguidades e erros de transcrição de áudio são resolvidos preservando a ideia original. É **opcional**: o bruto sozinho já cumpre o dever de preservação. Nasce ao encaixar a transcrição, **ou antes disso** quando se quer a versão legível do pensamento — pode ser gerada em lote, adiantada. Não se gera para toda transcrição por obrigação.
 
 - Nomear `AAAA-MM-DD-titulo.md`, na raiz de `fontes/transcricoes/` (mesmo nome do bruto, sem o `.raw`).
 - Metadados YAML: `data`, `sessao`, `tipo: transcricao-limpa`, `titulo`, `fonte-bruta` (caminho do `.raw.md`), `fonte-audio`.
@@ -36,11 +42,11 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 ## Entrada no roadmap
 
-Toda transcrição registrada entra na fila do [next-steps da raiz](../../next-steps.md) como item de destilação ("Destilar a transcrição `AAAA-MM-DD-titulo`"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição na fila é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A fila da raiz concentra toda destilação de transcrição, qualquer que seja a frente de destino; o item sai de lá quando a destilação termina.
+Toda transcrição registrada entra na fila do [next-steps da raiz](../../next-steps.md) como item de encaixe ("Encaixar a transcrição `AAAA-MM-DD-titulo`"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição na fila é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A fila da raiz concentra todo encaixe de transcrição, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
 
 ## Rastreabilidade
 
-Conteúdo processado que deriva de uma transcrição referencia a fonte no formato `arquivo#secao`: o caminho do arquivo **limpo** seguido do nome da seção de origem — é a camada limpa que carrega as seções. O limpo aponta para o bruto (`fonte-bruta`) e para o áudio (`fonte-audio`), preservando a cadeia até a verdade última.
+Conteúdo encaixado que deriva de uma transcrição referencia a fonte no formato `arquivo#secao`: o caminho do arquivo **limpo** seguido do nome da seção de origem — é a camada limpa que carrega as seções. O limpo aponta para o bruto (`fonte-bruta`) e para o áudio (`fonte-audio`), preservando a cadeia até a verdade última.
 
 Exemplo, apontando para uma seção real já existente na pasta:
 
@@ -48,13 +54,13 @@ Exemplo, apontando para uma seção real já existente na pasta:
 fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md#abstrair-as-palavras
 ```
 
-## Processamento
+## Encaixe
 
-Processar uma transcrição significa levar o conteúdo bruto para o lugar certo do repositório, de forma organizada e rastreável. O foco está em organizar bem o conteúdo no seu destino, mais do que em movê-lo.
+Encaixar uma transcrição significa levar o conteúdo para o lugar certo da área de trabalho, de forma organizada e rastreável. O foco está em organizar bem o conteúdo no seu destino, mais do que em movê-lo.
 
-Passos de processamento:
+Passos do encaixe:
 
-- Gerar (ou atualizar) a camada limpa da transcrição, se ainda não existir — é dela que se destila.
+- Passar a limpo a transcrição, se ainda não foi — é da camada limpa que se encaixa.
 - Identificar de que assunto o trecho trata.
 - Localizar o nível e o destino do assunto, usando [docs/estrutura/niveis.md](../../docs/estrutura/niveis.md) e [docs/estrutura/criterios.md](../../docs/estrutura/criterios.md).
 - Ler o conteúdo que já existe no destino com atenção.
@@ -63,12 +69,12 @@ Passos de processamento:
 
 Abordagem em camadas:
 
-- O processamento acontece de forma incremental, uma frente por vez.
-- A primeira frente processada serve como prova de conceito, para observar a forma real do conteúdo destilado antes de aplicar às demais.
+- O encaixe acontece de forma incremental, uma frente por vez.
+- A primeira frente encaixada serve como prova de conceito, para observar a forma real do conteúdo encaixado antes de aplicar às demais.
 - A mecânica de reconciliar conteúdo novo com o já existente (identificar o que é novo, o que repete e o que complementa) segue a curadoria do acervo — inserir, fundir, evoluir ou decompor, com dedup por âncora. Ver [docs/estrutura/curadoria.md](../../docs/estrutura/curadoria.md). Uma transcrição é uma caixa; o registro aqui é o caso particular desse fluxo geral.
 
 Em aberto:
 
-- A ordem de processamento das frentes.
+- A ordem de encaixe das frentes.
 - A migração do conteúdo maduro que hoje vive no Google Drive.
-- O momento de rodar o processamento em lote ou de forma assíncrona.
+- O momento de rodar o encaixe em lote ou de forma assíncrona.

@@ -10,12 +10,12 @@ da lista; o histórico vive no git.
 1. **Migração, sessão 1 — Pensamento.** A camada `problemas-abertos` e a triagem dos
    conceitos entre `cosmovisao/` (assentado) e `estudos/` (em aberto). Inventário em
    [docs/estrutura/migracao-epso-paradigm.md](docs/estrutura/migracao-epso-paradigm.md).
-2. **Destilar a transcrição 2026-09-22** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`)
+2. **Encaixar a transcrição 2026-09-22** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`)
    ao acervo, começando por linguagem em camadas + semiótica (fundir com
    `2026-06-26-…#abstrair-as-palavras`). Vem depois da sessão 1 porque cai na mesma área
    que ela estrutura; as seções de carreira (lastro, mestrado) esperam a evolução de
    `academia/jornada.md` prevista na migração.
-3. **Destilar a conversa 2026-07-07** (`fontes/conversas/`) — só três ideias ainda não
+3. **Encaixar a conversa 2026-07-07** (`fontes/conversas/`) — só três ideias ainda não
    vivem no acervo: refinamento adiciona vetores de precisão; na migração, reaproveitar as
    ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent
    é um produto dentro dela; modelo de conceitos, não de tokens).
@@ -31,14 +31,14 @@ da lista; o histórico vive no git.
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive.
 9. **Funding** — parâmetros de interesse e maturidade; primeiro recorte de varredura (ver
    `funding/next-steps.md`).
-10. **Destilar a transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
+10. **Encaixar a transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
     à área de trabalho. Destinos prováveis: eixos, chamados e temáticas em
     `comunicacao/linha-editorial.md`; portais da plataforma em `pratica/`; `#portal-linguagem`
     funde com `2026-06-26-…#abstrair-as-palavras`; `#plataforma-e-autoridade` com
     `academia/jornada.md`. Posição padrão (fim da fila) — reordenar se o incorporador decidir.
 
 Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
-destiladas — não entram na fila por conta própria.
+encaixadas — não entram na fila por conta própria.
 
 ## Decisões adiadas
 

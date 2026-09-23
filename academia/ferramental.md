@@ -12,7 +12,7 @@ epso-hub guarda pensamento, expectativa e resultado; a execução acontece no pa
 
 - **Clareza do próprio pensamento (≈ Revelar).** O loop provocação → reflexão → ideia
   estruturada. Hoje feito à mão (estas sessões já são isso) — atende o momento. Ganho futuro:
-  propor destino/seccionamento e sugerir elos `[[ ]]` no processamento das transcrições.
+  propor destino/seccionamento e sugerir elos `[[ ]]` no encaixe das transcrições.
 - **Fichar bibliografia (≈ Prisma Verbal).** Ingerir PDFs/livros/papers, extrair
   argumentos/conceitos e cruzar com as minhas notas (convergência Revelar↔Prisma). Alimenta
   `leituras-entrada.md` e `leituras-tese.md`.

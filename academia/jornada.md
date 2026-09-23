@@ -4,7 +4,7 @@ A sequência de entrada na academia e a distinção entre mestrado e doutorado. 
 que estudar (o recorte) vive em [[foco]]; o conteúdo da tese vive em
 `pensamento/cosmovisao/a-tese.md`. Aqui é a logística: por onde se entra e em que ordem.
 
-Destilado de `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md` (seções
+Encaixado de `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md` (seções
 referenciadas abaixo por `#secao`).
 
 ## Mestrado e doutorado: papéis distintos
@@ -22,7 +22,7 @@ Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado
 ## Trajetória em fases
 
 **Fase 0 — agora a 6-12 meses: ferramental e produção.** Evoluir o loop de captura
-(provocação → áudio → transcrição → processamento rastreável) do "bom" para o "ótimo", e
+(provocação → áudio → transcrição → encaixe rastreável) do "bom" para o "ótimo", e
 construir o ferramental de leitura assistida. Hipóteses viram artigos padronizados; produção
 de conteúdo também nas outras frentes do EPSO. Fonte: `#sementes-ferramental-e-artigos`.
 

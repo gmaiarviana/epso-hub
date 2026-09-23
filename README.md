@@ -14,6 +14,7 @@ O EPSO se sustenta no equilíbrio entre falar e fazer. O pensamento fundamenta e
   - **estudos/** — hipóteses em aberto, recortes que podem virar pesquisa.
 - **pratica/** — o lado do fazer. Abriga a construtora e, no futuro, outras frentes concretas e a visão dos produtos de software.
 - **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
+- **comunicacao/** — como o pensamento e a prática chegam ao público: método de construção da linha editorial e de produção de conteúdo a partir do acervo. Meio a serviço do EPSO.
 - **funding/** — alavanca de financiamento a serviço do EPSO: editais de inovação, startups, aceleradoras, bolsas de execução de projeto. Serve as iniciativas; meio, não fim.
 - **fontes/** — o material-fonte de onde o acervo é destilado, na voz do incorporador; preservado e datado.
   - **transcricoes/** — falas gravadas: bruto intocado, cópia limpa e áudio (não versionado).

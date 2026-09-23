@@ -1,7 +1,7 @@
 # Migração do epso_paradigm
 
-Inventário vivo da migração do antigo repositório `epso_paradigm` para o epso-hub. Fecha o gancho
-aberto em [../../next-steps.md](../../next-steps.md) ("Fonte durante a migração"): o `epso_paradigm`
+Inventário vivo da migração do antigo repositório `epso_paradigm` para o epso-hub. As sessões da
+migração estão na fila do [next-steps da raiz](../../next-steps.md). O `epso_paradigm`
 segue vivo como fonte e só é **aposentado e deletado quando todo objeto necessário estiver migrado**
 — este doc é o critério de "quando".
 

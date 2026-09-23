@@ -1,33 +1,43 @@
 # Próximos passos
 
-O que falta na migração para o epso-hub, no nível EPSO. Cada frente tem o seu próprio next-steps em `<frente>/next-steps.md`. Lista só de próximos passos — item concluído sai da lista; o histórico vive no git.
+A fila de **conteúdo** do EPSO, entre frentes, em ordem. Os passos internos de cada frente
+vivem em `<frente>/next-steps.md`; o que falta em processo e método vive em
+[docs/next-steps.md](docs/next-steps.md). Lista só de próximos passos — item concluído sai
+da lista; o histórico vive no git.
 
-## Migração em andamento
+## Fila
 
-O repositório nasce nesta sessão com esqueleto, README e CLAUDE. O conteúdo migra em sessões seguintes, uma frente por sessão.
+1. **Migração, sessão 1 — Pensamento.** A camada `problemas-abertos` e a triagem dos
+   conceitos entre `cosmovisao/` (assentado) e `estudos/` (em aberto). Inventário em
+   [docs/estrutura/migracao-epso-paradigm.md](docs/estrutura/migracao-epso-paradigm.md).
+2. **Destilar a transcrição 2026-09-22** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`)
+   ao acervo, começando por linguagem em camadas + semiótica (fundir com
+   `2026-06-26-…#abstrair-as-palavras`). Vem depois da sessão 1 porque cai na mesma área
+   que ela estrutura; as seções de carreira (lastro, mestrado) esperam a evolução de
+   `academia/jornada.md` prevista na migração.
+3. **Destilar a conversa 2026-07-07** (`fontes/conversas/`) — só três ideias ainda não
+   vivem no acervo: refinamento adiciona vetores de precisão; na migração, reaproveitar as
+   ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent
+   é um produto dentro dela; modelo de conceitos, não de tokens).
+4. **Migração, sessão 2 — Academia.** `leituras` → `leituras-entrada.md`/`leituras-tese.md`;
+   `mapeamento-academico` → `mapeamento.md`.
+5. **Migração, sessão 3 — mop-up e aposentadoria.** Parciais menores; inventário todo `[x]`;
+   então aposentar e deletar o `epso_paradigm`.
+6. **Núcleo** — propósito, valores, postura epistemológica (do `epso_paradigm` e do
+   Documento Institucional).
+7. **Cosmovisão — a discussão aberta** identidade × paradigma da informação
+   (`pensamento/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`academia/foco.md`).
+8. **Prática** — construtora (institucional: princípios construtivos, acervo técnico,
+   operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive.
+9. **Funding** — parâmetros de interesse e maturidade; primeiro recorte de varredura (ver
+   `funding/next-steps.md`).
 
-Sessões planejadas:
-- Núcleo — propósito, valores, postura epistemológica (do antigo epso_paradigm e do Documento Institucional).
-- Cosmovisão e estudos — triagem do conteúdo filosófico entre o assentado (cosmovisao/) e as hipóteses em aberto (estudos/).
-- Academia — estratégia de entrada acadêmica.
-- Construtora — institucional (princípios construtivos, acervo técnico, operacional), migrado do Drive.
-- EcoCondomínio — concepção e plano de execução, migrados do Drive.
-
-## Frentes em curso
-
-- **Cosmovisão:** centro da tese escolhido — a identidade ("quem sou eu"). Falta construir a narrativa em torno dele e resolver a discussão aberta identidade × paradigma da informação (ver `pensamento/cosmovisao/a-tese.md`).
-- **Academia:** ver `academia/next-steps.md`.
-- **Funding (nova frente):** scouting de financiamento das iniciativas — ver `funding/next-steps.md`.
-- **Transcrições:** modelo de três camadas (bruto em `raw/` · limpo na raiz · áudio não versionado) introduzido e testado na menor transcrição (`2026-06-26-modelos-eficientes…`). Falta migrar retroativamente os demais brutos do formato antigo — sob demanda, ao destilar cada um. Sessão 2026-09-22 (`regeneracao-lastro-e-eco-cidades`) já tem camada limpa; falta destilá-la ao acervo — a frente mais densa (linguagem em camadas, semiótica, noosfera, inteligência potencializada) cai em `pensamento/estudos/`, a mesma área da sessão 1 da [migração do epso_paradigm](docs/estrutura/migracao-epso-paradigm.md). Ordem decidida: primeiro a sessão 1 da migração (Pensamento — `problemas-abertos` + triagem dos conceitos entre `estudos/` e `cosmovisao/`), depois a destilação desta transcrição, começando por linguagem em camadas + semiótica (fundir com `2026-06-26-…#abstrair-as-palavras`). Motivo: a transcrição cai na mesma área que a migração estrutura; destilar antes obrigaria a reorganizar `estudos/` depois. As seções de carreira (lastro, mestrado) esperam também a evolução de `academia/jornada.md` prevista na migração.
-- **Fontes (nova frente de metodologia):** consolidar a camada de dados-fonte — `fontes/` nasce como mãe de `destilados/`; a migração de `fontes/transcricoes/` para baixo dela e o processo de encerramento de chat ficam para sessão dedicada. Ver `fontes/next-steps.md`.
-- **EPSO:** formalizar `docs/metodologia.md` (loop, método do elo pendente, níveis de confiança, direção em aberto de agentes na pesquisa; adiados: como identificar o que precisa de link, critérios mais inteligentes de confiança).
-
-## Fonte durante a migração
-
-O repositório epso_paradigm segue vivo como fonte enquanto a migração acontece. Ele é aposentado e deletado quando todo o conteúdo necessário estiver migrado. O inventário arquivo a arquivo — status, destino e critério de deleção — vive em [docs/estrutura/migracao-epso-paradigm.md](docs/estrutura/migracao-epso-paradigm.md).
+Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
+destiladas — não entram na fila por conta própria.
 
 ## Decisões adiadas
 
-- Formato do roadmap e do estado por frente — definido pelos requisitos do motor de workflow, que mora em repositório próprio em construção.
-- Arquitetura de marca (EPSO como marca-mãe, construtora como submarca) — decidida quando a construtora migrar.
-- Posição da visão dos produtos de software dentro de pratica/ — decidida quando o primeiro produto migrar.
+- Arquitetura de marca (EPSO como marca-mãe, construtora como submarca) — decidida quando a
+  construtora migrar.
+- Posição da visão dos produtos de software dentro de `pratica/` — decidida quando o
+  primeiro produto migrar.

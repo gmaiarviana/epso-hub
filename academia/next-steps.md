@@ -9,9 +9,9 @@ ficam só os próximos passos.
 O ferramental atual já atende o momento; a energia vai para o trabalho estratégico, que corre
 em paralelo:
 
-1. **Refinar a tese** — resolver a discussão aberta (`pensamento/cosmovisao/a-tese.md`) para
-   ganhar clareza nos temas de estudo (`foco.md`) e nos projetos de pesquisa. É o que afia os
-   cortes do mapeamento.
+1. **Refinar a tese** — a discussão aberta da cosmovisão, na fila da
+   [raiz](../next-steps.md). Dá clareza aos temas de estudo (`foco.md`) e afia os cortes do
+   mapeamento.
 2. **Mapear o campo** — instituições, departamentos, editais e processos-alvo; bibliografia; e
    bolsas. Começa largo e vai cortando.
 
@@ -37,18 +37,12 @@ Muita coisa junta: organizar bem antes de correr.
 - **Duas bibliografias, em arquivos separados** (cruzam-se, mas não são idênticas — uma para
   entrar, outra para construir):
   - **`leituras-entrada.md`** — o que os editais cobram; puxada pelo processo seletivo.
-  - **`leituras-tese.md`** — o que alimenta o recorte; decorre do foco (espera a discussão #1).
+  - **`leituras-tese.md`** — o que alimenta o recorte; decorre do foco (espera a discussão da tese).
 - **`bolsas.md`** — varredura mundial de **bolsas de mestrado/doutorado** (as de entrada
   acadêmica). Bolsas de execução de projeto e demais financiamentos das iniciativas moram na
   frente `funding/`.
 
-## Ferramental (o que a academia espera do paper-agent)
+## Ferramental
 
-A academia consome o paper-agent — não constrói ferramenta, e **nenhum código (inclusive a
-varredura C) vive no epso-hub**. As expectativas e o sinal de prioridade estão em
-`ferramental.md`. Próximos passos:
-
-- **Popular o campo é trabalho síncrono planejado** (mapeamento, editais, bolsas — ver seção
-  Campo acima); a **rotina de checagem de novos casos** fica como **melhoria futura** (workflow).
-- **Destravar o acesso ao repo paper-agent** (aprovação não apareceu) — para ligar as
-  expectativas ao roadmap de lá.
+A academia consome o paper-agent — não constrói ferramenta. Expectativas e sinal de
+prioridade em [ferramental.md](ferramental.md).

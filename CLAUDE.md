@@ -71,13 +71,19 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 
 ## Encerramento de sessão
 
-Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [docs/processo-encerramento.md](docs/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps; (3) lembrar de destilar ideias para `fontes/`, se houver. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
+Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [docs/processo-encerramento.md](docs/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
 
 Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
 
-Cada frente tem o seu próprio `next-steps.md`, em `<frente>/next-steps.md` (ex.: `academia/next-steps.md`). O `next-steps.md` da raiz é de nível EPSO: rastreia a migração entre frentes e aponta para o de cada uma — não acumula os passos internos delas. Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); o da raiz só muda quando o estado entre frentes muda.
+Processual e pontual não se misturam:
 
-O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver `next-steps.md`, Decisões adiadas).
+- **`docs/next-steps.md`** — o que falta em **processo e método** (como trabalhamos). É onde cai proposta de retrospectiva adiada.
+- **`next-steps.md` da raiz** — a **fila de conteúdo** entre frentes, em ordem. Não acumula os passos internos das frentes.
+- **`<frente>/next-steps.md`** (ex.: `academia/next-steps.md`) — os passos internos de conteúdo de cada frente.
+
+Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); a fila da raiz muda quando entra, sai ou muda de ordem um item entre frentes; `docs/next-steps.md` muda quando a sessão deixa pendência de processo.
+
+O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver [docs/next-steps.md](docs/next-steps.md)).
 
 ## Fluxo git
 

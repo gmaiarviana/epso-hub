@@ -98,3 +98,5 @@ O `next-steps.md` lista só o que falta. Item concluído sai da lista — não �
 O `main` tem branch protection: push direto é bloqueado, inclusive para admin. Toda mudança entra por branch → commit → push da branch → PR → merge pela interface. Commit local é livre; `git push origin main` falha por design.
 
 Staging é sempre intencional: adicionar arquivos por caminho explícito, um a um. Nunca `git add .`, `git add -A` ou `git add -u` — evita arrastar mudança fora do escopo (outra frente, artefato, edição concorrente) para dentro do commit.
+
+Branch nova nasce num worktree próprio, não por `switch` no diretório compartilhado — ver [docs/sessoes-paralelas.md](docs/sessoes-paralelas.md).

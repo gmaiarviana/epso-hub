@@ -32,6 +32,18 @@ git worktree remove ../epso-hub-<sessao>          # ao terminar
 
 Checkout numa worktree não afeta a outra. Alternativa mais pesada: clones separados.
 
+**Regra para o executor:** ao criar branch nova, não usar `git switch`/`checkout` no
+diretório principal — isso troca o HEAD de qualquer outra sessão aberta ali. Criar a branch
+já num worktree próprio:
+
+```bash
+git worktree add ../epso-hub-<branch> -b <branch> origin/main
+```
+
+e trabalhar dentro dele até o PR. Caso real que motivou a regra (2026-09-23): o `git switch`
+da sessão de comunicação fez o commit da sessão de transcrições cair na branch
+`comunicacao-metodo`.
+
 ## Se já colidiu
 
 Sem quebrar a sessão ativa alheia:

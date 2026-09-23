@@ -49,6 +49,7 @@ Quando um conteúdo processado deriva de uma transcrição, ele referencia a fon
 Cada processo específico tem seu próprio documento, carregado quando o fluxo é acionado.
 
 - Registro de transcrições → [transcricoes/processo-transcricoes.md](transcricoes/processo-transcricoes.md)
+- Sessões Claude em paralelo (higiene de working copy) → [docs/sessoes-paralelas.md](docs/sessoes-paralelas.md)
 
 ## Postura
 

@@ -1,4 +1,4 @@
-# Destilado — vetor, âncora e a camada de fontes
+# Conversa — vetor, âncora e a camada de fontes
 
 *2026-07-07. Ideias, conceitos e exemplos que surgiram nesta conversa, na voz do
 incorporador. Fonte consultável — pode repetir o que já foi destilado ao acervo; é a

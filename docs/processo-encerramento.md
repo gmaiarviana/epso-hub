@@ -2,9 +2,9 @@
 
 Como uma sessão de trabalho fecha. Acionado pela frase **"vamos encerrar"**.
 
-O encerramento tem três passos, em ordem. O primeiro — a retrospectiva — é o
+O encerramento tem quatro passos, em ordem. O primeiro — a retrospectiva — é o
 coração deste processo: é o que garante que os processos definidos evoluem em
-vez de estagnar. Os outros dois já viviam no repositório e são referenciados,
+vez de estagnar. Os passos 2 e 3 já viviam no repositório e são referenciados,
 não reescritos aqui.
 
 ## 1. Retrospectiva de processo
@@ -71,20 +71,20 @@ o histórico vive no git.
 
 ## 2. Atualizar next-steps
 
-Atualizar o `next-steps.md` da(s) frente(s) trabalhada(s), e o da raiz só se o
-estado *entre* frentes mudou. As mecânicas (um next-steps por frente, item
-concluído sai da lista, o da raiz é de nível EPSO) estão no
+Atualizar o `next-steps.md` da(s) frente(s) trabalhada(s), a fila da raiz se um
+item entre frentes mudou, e `docs/next-steps.md` se ficou pendência de processo. As
+mecânicas (processual separado de pontual, item concluído sai da lista) estão no
 [CLAUDE.md § Encerramento de sessão](../CLAUDE.md) — não duplicar aqui.
 
-## 3. Destilar ideias, se a sessão gerou acervo
+## 3. Registrar ideias da conversa, se a sessão gerou acervo
 
 Se a conversa produziu ideias que são material de acervo (pensamento do
-incorporador que vale preservar como fonte), lembrar de destilá-las para
-`fontes/destilados/`. O processo formal dessa destilação — como acionar, o que o
+incorporador que vale preservar como fonte), lembrar de registrá-las em
+`fontes/conversas/`. O processo formal desse registro — como acionar, o que o
 assistente pergunta, como nomeia, em que voz sai — ainda está **a formalizar**
-(ver [fontes/next-steps.md](../fontes/next-steps.md)). Até lá, este passo é um
-lembrete, não um fluxo fechado: sinalizar ao incorporador que há ideia a
-destilar e capturar sob sua validação.
+(ver [next-steps.md](next-steps.md)). Até lá, este passo é um lembrete, não um
+fluxo fechado: sinalizar ao incorporador que há ideia a registrar e capturar sob
+sua validação.
 
 ## 4. Finalizar no git
 

@@ -1,7 +1,7 @@
 # Migração do epso_paradigm
 
-Inventário vivo da migração do antigo repositório `epso_paradigm` para o epso-hub. Fecha o gancho
-aberto em [../../next-steps.md](../../next-steps.md) ("Fonte durante a migração"): o `epso_paradigm`
+Inventário vivo da migração do antigo repositório `epso_paradigm` para o epso-hub. As sessões da
+migração estão na fila do [next-steps da raiz](../../next-steps.md). O `epso_paradigm`
 segue vivo como fonte e só é **aposentado e deletado quando todo objeto necessário estiver migrado**
 — este doc é o critério de "quando".
 
@@ -14,7 +14,7 @@ o histórico fino vive no git.
 
 O `epso_paradigm` está 100% sincronizado com `origin/main` (`git@github.com:gmaiarviana/epso_paradigm.git`)
 — o conteúdo bruto sobrevive no GitHub mesmo após deletar a pasta local. As transcrições de 2026-06-26,
-fonte dos conceitos, já vivem em `transcricoes/`. O que **não** está migrado é o trabalho *destilado*:
+fonte dos conceitos, já vivem em `fontes/transcricoes/`. O que **não** está migrado é o trabalho *destilado*:
 a camada crítica `problemas-abertos` e o legwork acadêmico.
 
 ## Inventário — 19 arquivos

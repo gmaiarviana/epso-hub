@@ -5,6 +5,9 @@ Padrões recorrentes na transcrição de áudio do incorporador e decisões de l
 ## Termos-assinatura — preservar, não "corrigir"
 
 - **colaborar** — verbo central da tese ("mudança de paradigma para colaborar"), usado inclusive com objeto direto atípico ("colaborar ideias"). É voz do incorporador; não trocar por "conciliar/combinar".
+- **noosfera** — camada abstrata de colaboração/pensamento coletivo. O ASR a quebra de várias formas na mesma fala ("nós esfera", "nova esfera", "nosfera", "na esfera"); normalizar todas para "noosfera".
+- **ecocidades** — grafia sem hífen (forma dicionarizada), adotada na camada limpa. O slug do arquivo de 2026-09-22 mantém `eco-cidades` por herdar o nome do bruto.
+- **inteligência potencializada / intencional** — contraposta a "inteligência artificial"; preservar os dois adjetivos como ditos.
 
 ## Padrões de fala a colapsar (correção óbvia)
 
@@ -21,6 +24,10 @@ Erro de transcrição em **uma** palavra que muda o sentido, mas que o contexto 
 - Verbo trocado que desmonta a asserção: "mas **temendo que** nós somos nossa atenção" → "**entendendo que**".
 - Palavra sem par fonético limpo, resolvida pela escalada do parágrafo: "toda a **exente** está conectada" → "toda a **existência**" (o trecho segue para inanimados/matéria/cosmos, o que exclui "gente").
 - Verbo elidido: "impressão de que realmente **sobre** nosso corpo" → "realmente **somos o** nosso corpo".
+- Expressão colada numa sigla: "como **CBM** remunerado nelas" → "como **ser bem** remunerado" (a frase seguinte fala em "dar altos salários").
+- Troca fonética z/g e l/u: "faz estoque **zerando baixar** previsibilidade" → "**gerando baixa**"; "o **auto** processamento" → "o **alto** processamento".
+- Termo técnico deformado: "modelos de **rede minerais**" → "redes **neurais**"; "**Tecologia**" → "tecnologia".
+- Locução virando palavra inventada: "sobre o **tempo clarito** sobre nova esfera" → "sobre **ter clareza** sobre a noosfera" (validado pelo incorporador — não era nome próprio; não buscar referência erudita onde a fala é coloquial).
 
 ## Garbles marcados (resolução adiada)
 

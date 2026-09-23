@@ -16,8 +16,8 @@ regeneração não é o destino que persigo — é o que decorre de me reconhece
 Escolhido sobre a outra abertura candidata ("reunir o que cada tradição captou"): *a questão
 de quem sou eu é muito mais forte do que reunir as tradições.*
 
-Fonte: `transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`,
-`transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`.
+Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`,
+`fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`.
 
 ## O que decorre do centro
 
@@ -36,8 +36,8 @@ rivais:
 - **A aplicação regenerativa** — mudar hábitos individuais e coletivos decorre de mudar o
   entendimento sobre nós mesmos.
 
-Fonte: `transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
-`transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md`.
+Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
+`fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md`.
 
 ## Discussão aberta: identidade × paradigma da informação
 
@@ -48,7 +48,7 @@ impulsionar o paradigma da informação para ser benéfico*, tendo a identidade 
 premissa-raiz. A resposta muda o recorte e o departamento (filosofia × ciência da informação
 × interdisciplinar).
 
-Fonte: `transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#tecnologia-da-informacao-como-paradigma`.
+Fonte: `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#tecnologia-da-informacao-como-paradigma`.
 
 ## Recorte acadêmico
 

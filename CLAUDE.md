@@ -56,6 +56,12 @@ Cada processo específico tem seu próprio documento, carregado quando o fluxo �
 
 Pesquisar, analisar, estimar e apontar riscos. As decisões são do incorporador. Sinalizar premissas assumidas. Dizer "não sei" quando for o caso.
 
+## Retomada de contexto
+
+O incorporador não guarda de memória o que registrou em sessões anteriores. Ao retomar uma frente ou item da fila, o agente abre com um briefing antes de propor ação: onde a frente está, o que já foi dito sobre o tema (uma linha por objeto, com link para a fonte) e quais decisões a sessão vai pedir. Não assumir que o incorporador lembra do conteúdo de arquivos ou transcrições.
+
+O briefing fala simples: cada ponto com um exemplo concreto e, quando for o caso, a pergunta que o incorporador precisa responder. Jargão técnico ou acadêmico só entra explicado.
+
 ## Níveis de confiança
 
 Cada informação carrega um nível: Em aberto, Estimado (baixa), Estimado (média), Estimado (alta), Decidido. Uma informação regride de nível quando uma dependência dela muda.

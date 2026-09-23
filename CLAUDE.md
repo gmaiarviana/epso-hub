@@ -50,6 +50,7 @@ Cada processo específico tem seu próprio documento, carregado quando o fluxo �
 
 - Registro de transcrições → [transcricoes/processo-transcricoes.md](transcricoes/processo-transcricoes.md)
 - Sessões Claude em paralelo (higiene de working copy) → [docs/sessoes-paralelas.md](docs/sessoes-paralelas.md)
+- Encerramento de sessão ("vamos encerrar") → [docs/processo-encerramento.md](docs/processo-encerramento.md)
 
 ## Postura
 
@@ -69,6 +70,8 @@ O trabalho acontece em dois papéis.
 O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes de autorizar.
 
 ## Encerramento de sessão
+
+Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [docs/processo-encerramento.md](docs/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps; (3) lembrar de destilar ideias para `fontes/`, se houver. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
 
 Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
 

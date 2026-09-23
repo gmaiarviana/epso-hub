@@ -44,6 +44,8 @@ Detalhe do fluxo em [fontes/transcricoes/processo-transcricoes.md](fontes/transc
 
 Quando um conteúdo processado deriva de uma transcrição, ele referencia a fonte no formato `arquivo#secao`: o caminho do arquivo **limpo** seguido do nome da seção de origem — é a camada limpa que carrega as seções e desambigua a fala. O limpo, por sua vez, aponta para o bruto (`fonte-bruta`) e para o áudio (`fonte-audio`). Assim toda afirmação destilada aponta de volta para o trecho falado que a originou, com a cadeia até a verdade última preservada.
 
+Conteúdo vindo de um repositório aposentado cita `<repositório>:<caminho>` (ex.: `epso_paradigm:universo-2-conteudo/sinteses/nucleo-da-tese.md`); o repositório segue consultável no GitHub.
+
 ## Índice de processos
 
 Cada processo específico tem seu próprio documento, carregado quando o fluxo é acionado.
@@ -77,7 +79,7 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 
 ## Encerramento de sessão
 
-Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [docs/processo-encerramento.md](docs/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
+Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [docs/processo-encerramento.md](docs/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
 
 Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
 

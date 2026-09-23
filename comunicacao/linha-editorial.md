@@ -10,13 +10,15 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 
 **Nível:** Em aberto.
 
-## Público
+## Tom base
+
+Deriva do [núcleo](../nucleo/).
 
 **Nível:** Em aberto.
 
-## Imagem e tom
+## Público e variações de linguagem
 
-Deriva do [núcleo](../nucleo/).
+Segmentos, objetivos que cada um atende e o ajuste de linguagem de cada um sobre o tom base.
 
 **Nível:** Em aberto.
 
@@ -53,5 +55,7 @@ Inclui as perguntas de análise específicas de cada arco.
 **Nível:** Em aberto.
 
 ## Ciclos e metas
+
+Inclui os segmentos prioritários de cada ciclo.
 
 **Nível:** Em aberto.

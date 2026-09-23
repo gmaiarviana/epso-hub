@@ -1,6 +1,6 @@
 # Dimensões editoriais
 
-Vocabulário da comunicação. Cada peça combina **mensagem-chave + abordagem + tema**, contada segundo um **arco narrativo**. **Quadros recorrentes** são formatos fixos que recebem essas combinações. Os valores de cada dimensão vivem em [linha-editorial.md](../linha-editorial.md).
+Vocabulário da comunicação. Cada peça combina **mensagem-chave + abordagem + tema**, contada segundo um **arco narrativo** e dirigida a um **segmento** de público. **Quadros recorrentes** são formatos fixos que recebem essas combinações. Os valores de cada dimensão vivem em [linha-editorial.md](../linha-editorial.md).
 
 ## Mensagem-chave — por quê
 
@@ -25,6 +25,10 @@ Assuntos tratados, organizados em hierarquia:
 - **Pauta** — assunto concreto que vira conteúdo.
 
 Critérios de escolha: domínio de quem comunica (material existente no acervo), interesse do público e coerência com o núcleo. Os temas são neutros em tom; mensagem e abordagem definem como cada um é tratado.
+
+## Segmento — para quem
+
+O segmento de público ao qual a peça se dirige. Ele determina o ajuste de linguagem aplicado sobre o tom base. Os segmentos são definidos na etapa de público da [construção](construcao.md#3-público).
 
 ## Arco narrativo — estrutura
 

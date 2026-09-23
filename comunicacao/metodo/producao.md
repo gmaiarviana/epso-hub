@@ -10,7 +10,7 @@ Processos que o agente executa para transformar o acervo em conteúdo. O agente 
 
 ## Calendário
 
-O calendário organiza o ciclo em **slots**: posições no tempo com dimensões pré-definidas (quadro, tema, abordagem, mensagem).
+O calendário organiza o ciclo em **slots**: posições no tempo com dimensões pré-definidas (quadro, tema, abordagem, mensagem, segmento).
 
 Preenchimento de cada slot:
 
@@ -29,14 +29,16 @@ Entrada: trechos do acervo, ou um slot do calendário.
 3. Formular a pauta: o assunto concreto em uma frase.
 4. Registrar a fonte (`arquivo#secao`).
 5. Indicar as mensagens-chave que a pauta sustenta.
+6. Indicar o segmento ou os segmentos a que a pauta se dirige.
 
-Saída: lista de pautas com fonte e mensagens associadas.
+Saída: lista de pautas com fonte, mensagens e segmentos associados.
 
 ## Processo 2 — Pauta → narrativa
 
 1. **Análise** — responder:
    - Qual problema ou questão a pauta endereça?
-   - Por que isso importa para o público?
+   - Para qual segmento a pauta se dirige, e por que ela importa para ele?
+   - Qual ajuste de linguagem esse segmento pede?
    - O que o acervo sustenta sobre ela, e com qual nível de confiança?
    - Com quais mensagens-chave ela se conecta?
    - O que o leitor faz com isso? Qual chamado se aplica?
@@ -51,7 +53,7 @@ Saída: lista de pautas com fonte e mensagens associadas.
    - reforçam a mensagem-chave;
    - mantêm coerência e progressão lógica;
    - equilibram emoção e concretude;
-   - preservam o tom definido;
+   - preservam o tom base com o ajuste de linguagem do segmento;
    - afirmam apenas o que o acervo sustenta;
    - convidam à participação.
 
@@ -79,6 +81,6 @@ Saída: mensagens adaptadas, cada uma com sua sequência de tópicos.
 
 - Foco definido
 - Abordagem coerente com o objetivo da peça
-- Tom adequado
-- Relevância para o público
+- Tom base com o ajuste de linguagem do segmento
+- Segmento definido e relevância para ele
 - Fonte registrada

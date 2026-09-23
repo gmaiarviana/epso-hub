@@ -52,7 +52,7 @@ holísticos que definir um grupo de controle é um exercício quase impossível 
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#medir-e-ler-uma-pagina-do-livro`,
 `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#sobretudo-no-subjetivo`; o
-índice como viés vem da síntese `nucleo-da-tese` do `epso_paradigm` (2026-06-26).
+índice como viés vem de `epso_paradigm:universo-2-conteudo/sinteses/nucleo-da-tese.md`.
 
 ## Comunicar na camada que o outro alcança
 
@@ -64,8 +64,8 @@ material, sobre a qual ninguém tem dúvida.
 Referência reconhecida como chão: **Paulo Freire** — escutar o valor por trás das palavras,
 recusar tratar o outro como recipiente vazio, inclusão radical, consciência das limitações.
 
-Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`; Paulo Freire vem da
-síntese `nucleo-da-tese` do `epso_paradigm` (refinamento em conversa, 2026-06-26).
+Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`; Paulo Freire vem de
+`epso_paradigm:universo-2-conteudo/sinteses/nucleo-da-tese.md`.
 
 ## A intenção separa a leitura parcial da distorção
 

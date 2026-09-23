@@ -21,8 +21,8 @@ Isso exige estudar os métodos existentes — hoje um conhecimento de leigo. Nã
 demanda tempo, energia, estratégia e intenção.
 
 Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`; o corte
-"com as próprias pernas" vem do problema aberto `mestrado-pernas-proprias` do `epso_paradigm`
-(2026-06-26).
+"com as próprias pernas" vem de
+`epso_paradigm:universo-2-conteudo/problemas-abertos/mestrado-pernas-proprias.md`.
 
 ## Trajetória em fases
 

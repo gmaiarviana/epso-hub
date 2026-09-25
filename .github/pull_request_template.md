@@ -9,7 +9,7 @@
 - [ ] pensamento/cosmovisão
 - [ ] pensamento/estudos
 - [ ] prática
-- [ ] estudo (academia)
+- [ ] estudo
 - [ ] funding
 - [ ] transcrições
 - [ ] docs/estrutura ou processo

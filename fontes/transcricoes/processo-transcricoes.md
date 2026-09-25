@@ -20,7 +20,7 @@ Gera a camada bruta — a transcrição automática intocada.
 - Adicionar no topo um bloco de metadados YAML: `data`, `sessao`, `tipo: transcricao-bruta`, `titulo`, `fonte-audio` (referência ao áudio, que não é versionado).
 - Nomear o arquivo `AAAA-MM-DD-titulo.raw.md`, dentro de `fontes/transcricoes/raw/`.
 - Não seccionar o bruto — a estrutura por assunto vive na camada limpa.
-- **Vários áudios numa sessão** vão para um arquivo só, na **ordem de gravação** — não na ordem em que foram colados no chat, que já veio invertida mais de uma vez. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
+- **Vários áudios de um mesmo bloco** vão para um arquivo só, na **ordem de gravação**. Um bloco é a unidade de pensamento que o incorporador grava em sequência; pode atravessar mais de um dia. Nesse caso, o arquivo leva a data do primeiro dia e a `nota` registra a data de cada áudio. Vale a ordem de gravação, independente da ordem em que foram colados no chat, que já veio invertida mais de uma vez. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
 
 ## Passar a limpo: a camada limpa
 
@@ -36,7 +36,8 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
     1. **Contexto imediato** — as frases antes e depois costumam decidir. Um garble logo após ele listar "corpo e mente" quase certo é "corpo"; "papai não é resistir" depois de "nosso papel é fluir" é "o papel".
     2. **Corpus** — termos recorrentes e termos-assinatura em outras transcrições (ver [aprendizados-transcricao.md](aprendizados-transcricao.md)).
     3. **Incorporador** — o que sobrar vai a ele **já com a proposta e o contexto que a justifica**, para confirmar.
-    4. **`[inaudível]`** — só o que não se resolve em nenhum dos anteriores. Nunca chute.
+    4. **Reouvir** — para os poucos termos que nem o contexto nem o incorporador resolvem de cabeça. Cada um vai com a **localização**: áudio, posição estimada (% das palavras do áudio e minuto aproximado, pela duração do áudio quando conhecida — ver ritmo de fala em [aprendizados-transcricao.md](aprendizados-transcricao.md)) e a palavra exata do bruto, que o incorporador busca na transcrição do celular para navegar até o trecho. Viável para poucos termos por sessão; dezenas de buscas tornam o degrau inviável — por isso os degraus anteriores precisam resolver a maior parte.
+    5. **`[inaudível]`** — só o que não se resolve em nenhum dos anteriores. Nunca chute.
 - Antes de propor, consultar [aprendizados-transcricao.md](aprendizados-transcricao.md) — padrões recorrentes de erro e termos-assinatura a preservar, que aceleram a validação. Registrar ali o que a sessão ensinar.
 - Ao final, listar as seções criadas com a primeira linha de cada, para o incorporador conferir os cortes.
 

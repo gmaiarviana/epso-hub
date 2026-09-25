@@ -1,18 +1,20 @@
 ---
-data: 2026-09-25
+data: 2026-09-24
 sessao: 2026-09-25
 tipo: transcricao-bruta
 titulo: Atenção, corpo, mente, linguagem e camadas
 fonte-audio: pendente
 nota: >-
-  Cinco áudios gravados numa mesma sessão, rotulados pelo incorporador de
-  "Audio 1" a "Audio 5" e colados no chat nessa mesma ordem. Registrados na
-  ordem 1 → 5. A sequência é coerente com o conteúdo: o áudio 2 fala em "não
-  há manual de instruções" e o áudio 3 abre retomando "Não há manual de
-  instrução"; o áudio 4 abre com "temos um corpo e temos uma mente",
-  continuando a linguagem do áudio 3; o áudio 5 abre com "pra encerrar esse
-  bloco". O áudio 2 termina com frase cortada ("E eu só talvez não faça
-  sentido"). Data de gravação assumida igual à do registro. Fronteiras
+  Cinco áudios de um mesmo bloco ("encerrar esse bloco de hoje dessa semana",
+  áudio 5), gravados em dois dias: áudios 1–3 em 2026-09-24, áudios 4–5 em
+  2026-09-25. Um arquivo só, datado pelo primeiro dia. Rotulados pelo
+  incorporador de "Audio 1" a "Audio 5" e colados no chat nessa mesma ordem;
+  registrados na ordem 1 → 5. A sequência é coerente com o conteúdo: o áudio
+  2 fala em "não há manual de instruções" e o áudio 3 abre retomando "Não há
+  manual de instrução"; o áudio 4 abre com "temos um corpo e temos uma
+  mente", continuando a linguagem do áudio 3; o áudio 5 abre com "pra
+  encerrar esse bloco". O áudio 2 termina com frase cortada ("E eu só talvez
+  não faça sentido"). Durações: áudio 2 16:35, áudio 5 30:26. Fronteiras
   marcadas com <!-- áudio N -->.
 ---
 

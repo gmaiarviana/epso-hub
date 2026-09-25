@@ -10,7 +10,7 @@ Três etapas, cada uma com seu verbo:
 
 ## Gatilho
 
-O usuário cola a transcrição bruta no chat e pede para registrar.
+O usuário cola a transcrição bruta no chat; colar já é o pedido de registro. Se não vierem junto, perguntar numa só pergunta a data de gravação de cada áudio e a sua duração. A data nomeia o arquivo; a duração alimenta a localização de termos no degrau "reouvir".
 
 ## Registro do bruto
 

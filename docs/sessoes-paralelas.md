@@ -44,6 +44,9 @@ e trabalhar dentro dele até o PR. Caso real que motivou a regra (2026-09-23): o
 da sessão de comunicação fez o commit da sessão de transcrições cair na branch
 `comunicacao-metodo`.
 
+Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
+worktree é dispensável, e trabalha-se direto na branch designada pela sessão.
+
 ## Se já colidiu
 
 Sem quebrar a sessão ativa alheia:

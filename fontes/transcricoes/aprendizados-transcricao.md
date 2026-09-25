@@ -30,6 +30,7 @@ Erro de transcrição em **uma** palavra que muda o sentido, mas que o contexto 
 - Termo técnico deformado: "modelos de **rede minerais**" → "redes **neurais**"; "**Tecologia**" → "tecnologia"; "**Outsource** ferramentas" / "open **souc**" → "open source"; "**TDH**" → "TDAH"; "eu sou **meu divergente**" → "**neurodivergente**" (validado — a sequência "tenho TDAH / tive o transtorno / sou neurodivergente" é preservada, distingue transtorno de identidade).
 - Negação que é preposição: "gestão eficiente, **mas não** novos paradigma de sociedade" → "mas **nos** novos paradigmas" (validado — eficiência dentro do novo paradigma, não contra ele).
 - Prefixo engolido: "a gente pode também **ferir** alguns temas" → "**inferir**" (dito logo antes).
+- Substantivo trocado por vizinho fonético, resolvido pelo tema do trecho: "talvez uma **família** não consegue se relacionar com a gente" → "uma **formiga**" (o trecho inteiro é sobre formigas); "antepassados de **cinco minutos** atrás" → "**cinco mil anos**" (dito logo antes: "5000 anos atrás"); "**pais**, felicidade, Deus" → "**paz**" (2026-09-24, validados em lote).
 - Locução virando palavra inventada: "o ritmo da nossa fala **comentidade** é diferente" → "**com certeza**" (2026-09-24, áudio 5; validado pelo incorporador na escuta).
 - Locução virando palavra inventada: "sobre o **tempo clarito** sobre nova esfera" → "sobre **ter clareza** sobre a noosfera" (validado pelo incorporador — não era nome próprio; não buscar referência erudita onde a fala é coloquial).
 

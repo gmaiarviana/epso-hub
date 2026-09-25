@@ -14,7 +14,8 @@ nota: >-
   manual de instrução"; o áudio 4 abre com "temos um corpo e temos uma
   mente", continuando a linguagem do áudio 3; o áudio 5 abre com "pra
   encerrar esse bloco". O áudio 2 termina com frase cortada ("E eu só talvez
-  não faça sentido"). Durações: áudio 2 16:35, áudio 5 30:26. Fronteiras
+  não faça sentido"): o incorporador precisou parar de falar; nada se perdeu
+  entre os áudios 2 e 3. Durações: áudio 2 16:35, áudio 5 30:26. Fronteiras
   marcadas com <!-- áudio N -->.
 ---
 

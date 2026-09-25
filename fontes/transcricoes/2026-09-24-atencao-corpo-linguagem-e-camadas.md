@@ -51,11 +51,11 @@ Então, em algum momento, as energias demandavam algumas espécies; mas ao longo
 
 ## humanidade-transitoria
 
-Do mesmo jeito, podem existir outras espécies, outros seres, que precisem dos humanos nessa jornada. Não há dúvidas: [...] tende à extinção. Então a gente não pode estar apegado à humanidade como essa fotografia, como algo que nos mantenha fixos nela, mas como veículo transitório. A gente não sabe o que vem. E não adianta a gente querer projetar nossas visões de bonito e feio pras próximas gerações que vêm. Não é nosso papel desenhar isso. A gente faz o que deve ser feito, porque a gente faz o que aumenta a energia coletiva, o que nos aproxima do equilíbrio.
+Do mesmo jeito, podem existir outras espécies, outros seres, que precisem dos humanos nessa jornada. Não há dúvidas de que a evolução é um fato, e a evolução tende à extinção. Então a gente não pode estar apegado à humanidade como essa fotografia, como algo que nos mantenha fixos nela, mas como veículo transitório. A gente não sabe o que vem. E não adianta a gente querer projetar nossas visões de bonito e feio pras próximas gerações que vêm. Não é nosso papel desenhar isso. A gente faz o que deve ser feito, porque a gente faz o que aumenta a energia coletiva, o que nos aproxima do equilíbrio.
 
 ## sem-manual-de-instrucoes
 
-E o que é que tem que ser feito? Bom, a gente tem que observar o nosso corpo, o nosso momento; a gente tem que observar o nosso ambiente. Não há manual de instruções, mas temos aquilo que somos levados a acreditar. Eu não tenho como saber se o meu próximo é uma simulação ou não, um robô ou não. Mas todas as minhas emoções e faculdades mentais me fazem acreditar que sim, é alguém igual a mim. Por mais que seja eu que esteja experienciando a vida, eu sou levado a acreditar que ele também está experienciando a vida. E eu só [...] talvez não faça sentido [...]
+E o que é que tem que ser feito? Bom, a gente tem que observar o nosso corpo, o nosso momento; a gente tem que observar o nosso ambiente. Não há manual de instruções, mas temos aquilo que somos levados a acreditar. Eu não tenho como saber se o meu próximo é uma simulação ou não, um robô ou não. Mas todas as minhas emoções e faculdades mentais me fazem acreditar que sim, é alguém igual a mim. Por mais que seja eu que esteja experienciando a vida, eu sou levado a acreditar que ele também está experienciando a vida. E eu só, talvez, não faça sentido [...]
 
 <!-- áudio 3 -->
 

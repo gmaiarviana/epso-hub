@@ -53,6 +53,7 @@ Cada processo específico tem seu próprio documento, carregado quando o fluxo �
 - Registro de transcrições → [meta/processo-transcricoes.md](meta/processo-transcricoes.md)
 - Sessões Claude em paralelo (higiene de working copy) → [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md)
 - Encerramento de sessão ("vamos encerrar") → [meta/processo-encerramento.md](meta/processo-encerramento.md)
+- Roadmap (regras dos next-steps) → [meta/roadmap.md](meta/roadmap.md)
 
 ## Postura
 
@@ -79,26 +80,7 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 
 ## Encerramento de sessão
 
-Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [meta/processo-encerramento.md](meta/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
-
-Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
-
-Processual e pontual não se misturam:
-
-- **`meta/next-steps.md`** — o que falta em **processo e método** (como trabalhamos). É onde cai proposta de retrospectiva adiada.
-- **`next-steps.md` da raiz** — a **fila de conteúdo** entre frentes, em ordem. Não acumula os passos internos das frentes.
-- **`<frente>/next-steps.md`** (ex.: `estudo/next-steps.md`) — os passos internos de conteúdo de cada frente.
-
-Diretrizes de ordem:
-
-- **Fontes primeiro.** Todo áudio passa por registrar → passar a limpo → encaixar ([processo](meta/processo-transcricoes.md)); esse fluxo abre a fila da raiz.
-- **Conteúdo entre blocos depois**, na ordem da fila.
-- **Melhoria não entra na fila da raiz.** A que é exclusiva de um bloco vai para o next-steps dele; a transversal ou de método, para `meta/next-steps.md`.
-- **Rotinas de criação de conteúdo** ficam fora da fila ativa até o incorporador retomá-las.
-
-Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); a fila da raiz muda quando entra, sai ou muda de ordem um item entre frentes; `meta/next-steps.md` muda quando a sessão deixa pendência de processo.
-
-O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver [meta/next-steps.md](meta/next-steps.md)).
+Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [meta/processo-encerramento.md](meta/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam em [meta/roadmap.md](meta/roadmap.md).
 
 ## Fluxo git
 

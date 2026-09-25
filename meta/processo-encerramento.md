@@ -78,7 +78,7 @@ aposentar. Fontes (`fontes/`) nunca se limpam: a caixa se preserva.
 Atualizar o `next-steps.md` da(s) frente(s) trabalhada(s), a fila da raiz se um
 item entre frentes mudou, e `meta/next-steps.md` se ficou pendência de processo. As
 mecânicas (processual separado de pontual, item concluído sai da lista) estão no
-[CLAUDE.md § Encerramento de sessão](../CLAUDE.md) — não duplicar aqui.
+[roadmap.md](roadmap.md) — não duplicar aqui.
 
 ## 3. Registrar ideias da conversa, se a sessão gerou acervo
 

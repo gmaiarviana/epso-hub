@@ -43,7 +43,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 ## Entrada no roadmap
 
-Toda transcrição registrada entra na seção **Fontes** do [next-steps da raiz](../next-steps.md#1-fontes) — a primeira da fila —, com a etapa que falta ("passada a limpo; falta encaixar"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição dentro da seção é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A seção concentra toda fonte em trânsito, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
+Toda transcrição registrada entra no [next-steps da raiz](../next-steps.md), para não ficar esquecida em `fontes/`: sem camada limpa, no tier **1. Passar a limpo**; passada a limpo, no tier **3. Encaixar**. Ao passar a limpo, o item muda de tier; sai da fila quando o encaixe termina. A posição dentro do tier é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. Os tiers concentram toda fonte em trânsito, qualquer que seja o bloco de destino.
 
 ## Rastreabilidade
 

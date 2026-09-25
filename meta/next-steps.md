@@ -17,4 +17,4 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   transcrições e conversas (preservação, voz, rastreabilidade) sobe para um processo da mãe.
 - **Formato do roadmap e do estado por frente** — definido pelos requisitos do motor de
   workflow, que vive temporariamente no paper-agent (`docs/process/workflow/`). Até lá vale
-  a regra provisória de next-steps do [CLAUDE.md](../CLAUDE.md).
+  a regra provisória de [roadmap.md](roadmap.md).

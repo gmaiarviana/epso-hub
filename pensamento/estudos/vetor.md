@@ -54,7 +54,7 @@ as de alto stress.
 ## Consequências (em aberto)
 
 - A âncora é este vetor no domínio das ideias: a direção que as leituras
-  compartilham. A [curadoria do acervo](../../docs/estrutura/curadoria.md) opera
+  compartilham. A [curadoria do acervo](../../meta/estrutura/curadoria.md) opera
   sobre vetores — projeção, direção e composição são a mecânica, não figura de
   linguagem.
 - Fica em aberto qual formalismo vetorial cabe: se a projeção âncora→leitura é

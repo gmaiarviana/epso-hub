@@ -25,6 +25,7 @@ Em transição para blocos que separam a pessoa e a instituição — estrutura-
 - **fontes/** — o material-fonte que se encaixa no acervo e nas frentes, na voz do incorporador; preservado e datado.
   - **transcricoes/** — falas gravadas: bruto intocado, cópia limpa e áudio (não versionado).
   - **conversas/** — ideias que surgiram em conversas escritas (chat), registradas como fonte.
+- **meta/** — o repositório, os processos e o agente: como trabalhamos. Estrutura e critérios de onde cada coisa mora, processos (transcrições, encerramento, sessões paralelas) e o roadmap de método. O `CLAUDE.md` fica na raiz.
 
 ## Código
 

@@ -28,7 +28,7 @@ precisa mudar.
      específica. Não gera processo. Seguir em frente.
    - **Passou por processo definido** — tocou uma regra ou fluxo declarado. A
      superfície de varredura é o conjunto de processos que o [CLAUDE.md](../CLAUDE.md)
-     declara (fluxo git, transcrições, critérios de `docs/estrutura/`, planejador
+     declara (fluxo git, transcrições, critérios de `meta/estrutura/`, planejador
      e executor, formato de arquivos, rastreabilidade, níveis de confiança,
      formato de next-steps, notação `[[nome]]`) mais os documentos do seu
      "Índice de processos". Não manter uma lista duplicada aqui — ela apodrece;
@@ -76,7 +76,7 @@ de dono (deixam um link no lugar do conteúdo) e arquivos que um critério regis
 aposentar. Fontes (`fontes/`) nunca se limpam: a caixa se preserva.
 
 Atualizar o `next-steps.md` da(s) frente(s) trabalhada(s), a fila da raiz se um
-item entre frentes mudou, e `docs/next-steps.md` se ficou pendência de processo. As
+item entre frentes mudou, e `meta/next-steps.md` se ficou pendência de processo. As
 mecânicas (processual separado de pontual, item concluído sai da lista) estão no
 [CLAUDE.md § Encerramento de sessão](../CLAUDE.md) — não duplicar aqui.
 

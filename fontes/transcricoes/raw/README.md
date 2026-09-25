@@ -1,1 +1,1 @@
-Transcrições brutas — a saída automática intocada, preservada sem alteração (`.raw.md`). Não se trabalha direto aqui: o trabalho acontece na cópia limpa, na raiz de `fontes/transcricoes/`. Régua e fluxo em [../processo-transcricoes.md](../processo-transcricoes.md).
+Transcrições brutas — a saída automática intocada, preservada sem alteração (`.raw.md`). Não se trabalha direto aqui: o trabalho acontece na cópia limpa, na raiz de `fontes/transcricoes/`. Régua e fluxo em [meta/processo-transcricoes.md](../../../meta/processo-transcricoes.md).

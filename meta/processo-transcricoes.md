@@ -6,7 +6,7 @@ Três etapas, cada uma com seu verbo:
 
 1. **Registrar** — gravar o bruto, intocado.
 2. **Passar a limpo** — tornar a transcrição legível: a camada limpa, com seções e correções validadas.
-3. **Encaixar** — levar o conteúdo à área de trabalho (acervo e pastas de ação prática). A transcrição é uma caixa; o verbo e a analogia do quebra-cabeça vivem na [curadoria](../../docs/estrutura/curadoria.md#caixa).
+3. **Encaixar** — levar o conteúdo à área de trabalho (acervo e pastas de ação prática). A transcrição é uma caixa; o verbo e a analogia do quebra-cabeça vivem na [curadoria](estrutura/curadoria.md#caixa).
 
 ## Gatilho
 
@@ -43,7 +43,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 ## Entrada no roadmap
 
-Toda transcrição registrada entra na seção **Fontes** do [next-steps da raiz](../../next-steps.md#1-fontes) — a primeira da fila —, com a etapa que falta ("passada a limpo; falta encaixar"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição dentro da seção é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A seção concentra toda fonte em trânsito, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
+Toda transcrição registrada entra na seção **Fontes** do [next-steps da raiz](../next-steps.md#1-fontes) — a primeira da fila —, com a etapa que falta ("passada a limpo; falta encaixar"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição dentro da seção é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A seção concentra toda fonte em trânsito, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
 
 ## Rastreabilidade
 
@@ -63,7 +63,7 @@ Passos do encaixe:
 
 - Passar a limpo a transcrição, se ainda não foi — é da camada limpa que se encaixa.
 - Identificar de que assunto o trecho trata.
-- Localizar o nível e o destino do assunto, usando [docs/estrutura/niveis.md](../../docs/estrutura/niveis.md) e [docs/estrutura/criterios.md](../../docs/estrutura/criterios.md).
+- Localizar o nível e o destino do assunto, usando [meta/estrutura/niveis.md](estrutura/niveis.md) e [meta/estrutura/criterios.md](estrutura/criterios.md).
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
@@ -72,7 +72,7 @@ Abordagem em camadas:
 
 - O encaixe acontece de forma incremental, uma frente por vez.
 - A primeira frente encaixada serve como prova de conceito, para observar a forma real do conteúdo encaixado antes de aplicar às demais.
-- A mecânica de reconciliar conteúdo novo com o já existente (identificar o que é novo, o que repete e o que complementa) segue a curadoria do acervo — inserir, fundir, evoluir ou decompor, com dedup por âncora. Ver [docs/estrutura/curadoria.md](../../docs/estrutura/curadoria.md). Uma transcrição é uma caixa; o registro aqui é o caso particular desse fluxo geral.
+- A mecânica de reconciliar conteúdo novo com o já existente (identificar o que é novo, o que repete e o que complementa) segue a curadoria do acervo — inserir, fundir, evoluir ou decompor, com dedup por âncora. Ver [meta/estrutura/curadoria.md](estrutura/curadoria.md). Uma transcrição é uma caixa; o registro aqui é o caso particular desse fluxo geral.
 
 Em aberto:
 

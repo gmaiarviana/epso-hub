@@ -87,7 +87,7 @@ Processual e pontual não se misturam:
 
 - **`docs/next-steps.md`** — o que falta em **processo e método** (como trabalhamos). É onde cai proposta de retrospectiva adiada.
 - **`next-steps.md` da raiz** — a **fila de conteúdo** entre frentes, em ordem. Não acumula os passos internos das frentes.
-- **`<frente>/next-steps.md`** (ex.: `academia/next-steps.md`) — os passos internos de conteúdo de cada frente.
+- **`<frente>/next-steps.md`** (ex.: `estudo/next-steps.md`) — os passos internos de conteúdo de cada frente.
 
 Diretrizes de ordem:
 

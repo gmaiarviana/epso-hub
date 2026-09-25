@@ -2,7 +2,7 @@
 
 A sequência de entrada na academia e a distinção entre mestrado e doutorado. A substância do
 que estudar (o recorte) vive em [[foco]]; o conteúdo da tese vive em
-`pensamento/cosmovisao/a-tese.md`. Aqui é a logística: por onde se entra e em que ordem.
+`filosofia/cosmovisao/a-tese.md`. Aqui é a logística: por onde se entra e em que ordem.
 
 Encaixado de `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md` (seções
 referenciadas abaixo por `#secao`).

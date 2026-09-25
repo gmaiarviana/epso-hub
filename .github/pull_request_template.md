@@ -6,8 +6,8 @@
 
 <!-- Marque as tocadas -->
 - [ ] núcleo
-- [ ] pensamento/cosmovisão
-- [ ] pensamento/estudos
+- [ ] filosofia/cosmovisão
+- [ ] filosofia/hipóteses
 - [ ] prática
 - [ ] estudo
 - [ ] funding

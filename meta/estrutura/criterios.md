@@ -10,7 +10,7 @@ Conteúdo que pertence claramente a um nível permanece nele. Exemplos: princíp
 
 ## Caso 2 — camadas de generalidade (herança)
 
-Quando uma ideia existe em versão geral e versão especializada, a versão geral mora no nível mais alto e o nível de baixo a referencia, acrescentando o que é próprio dele. Exemplo: o propósito mora em `nucleo/` (nível EPSO); a construtora referencia o propósito e acrescenta a identidade dela como construtora.
+Quando uma ideia existe em versão geral e versão especializada, a versão geral mora no nível mais alto e o nível de baixo a referencia, acrescentando o que é próprio dele. Exemplo: o propósito mora em `instituicao/nucleo/` (nível EPSO); a construtora referencia o propósito e acrescenta a identidade dela como construtora.
 
 ## Caso 3 — documento que mistura funções (partição por função)
 

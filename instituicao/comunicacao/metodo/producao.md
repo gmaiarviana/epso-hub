@@ -16,7 +16,7 @@ Preenchimento de cada slot:
 
 1. Buscar no acervo material que atenda às dimensões do slot.
 2. Material encontrado → vira pauta (processo 1).
-3. Lacuna → vira **pauta de gravação**, registrada em [next-steps.md](../next-steps.md) com a descrição do slot e do que falta falar.
+3. Lacuna → vira **pauta de gravação**, registrada em [next-steps.md](../../next-steps.md#comunicação), seção Comunicação com a descrição do slot e do que falta falar.
 
 Assim a produção alimenta a demanda de novos áudios.
 

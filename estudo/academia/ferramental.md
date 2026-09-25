@@ -23,7 +23,7 @@ epso-hub guarda pensamento, expectativa e resultado; a execução acontece no pa
   já, sem rotina e sem produto; (2) **checar novos casos** periodicamente — rotina agendada do
   workflow, **melhoria futura**. Nenhuma é código do epso-hub. Alimenta `mapeamento.md`,
   `leituras-entrada.md` e `bolsas.md`. (A varredura de financiamento é análoga, mas mora em
-  `funding/`.)
+  `instituicao/financiamento/`.)
 
 ## Prioridade sugerida (hipótese — decisão do incorporador)
 

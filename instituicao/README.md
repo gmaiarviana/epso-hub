@@ -1,0 +1,1 @@
+O EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/): a institucionalização das ideias e práticas do incorporador, que pode ganhar vida própria e andar sem ele. O núcleo (`nucleo/`) deriva da filosofia pessoal e se sustenta sozinho; as iniciativas (`iniciativas/`) são o lado do fazer; comunicação e financiamento servem a elas. Próximos passos em `next-steps.md`.

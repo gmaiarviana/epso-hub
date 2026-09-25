@@ -35,7 +35,7 @@ Erro de transcrição em **uma** palavra que muda o sentido, mas que o contexto 
 
 ## Localizar um termo no áudio
 
-Para o degrau "reouvir" da escada de correções, estima-se a posição do termo pela contagem de palavras: % das palavras do áudio até o termo, convertido em minuto pela duração. O ritmo de fala do incorporador medido fica entre **80 e 100 palavras por minuto** (2026-09-24: áudio 2 com 1.323 palavras em 16:35 ≈ 80/min; áudio 5 com 3.018 palavras em 30:26 ≈ 99/min). Sem a duração, estimar por esse ritmo. A estimativa é aproximada; a busca pela palavra exata do bruto na transcrição do celular leva ao ponto certo.
+Para o degrau "reouvir" da escada de correções, estima-se a posição do termo pela contagem de palavras: % das palavras do áudio até o termo, convertido em minuto pela duração. O ritmo de fala do incorporador medido fica entre **80 e 100 palavras por minuto** (2026-09-24: áudio 2 com 1.323 palavras em 16:35 ≈ 80/min; áudio 5 com 3.018 palavras em 30:26 ≈ 99/min). Sem a duração, estimar por esse ritmo. A estimativa é aproximada; a busca pela palavra exata do bruto na transcrição do celular leva ao ponto certo. Aferição em 2026-09-24: "comentidade" estimada em 3:40, encontrada em 3:40; "lasonatos" estimada em ~5:00, encontrada em 5:16.
 
 ## Garbles marcados (resolução adiada)
 

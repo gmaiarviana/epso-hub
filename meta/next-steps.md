@@ -18,3 +18,7 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
 - **Formato do roadmap e do estado por frente** — definido pelos requisitos do motor de
   workflow, que vive temporariamente no paper-agent (`docs/process/workflow/`). Até lá vale
   a regra provisória de next-steps do [CLAUDE.md](../CLAUDE.md).
+- **"Em aberto" dos arquivos de conteúdo → [em espera](../fontes/em-espera.md)** — a regra
+  nova (o conteúdo guarda o mínimo em aberto; as provocações vivem em `em-espera.md`) já vale
+  para `linguagem`, `ecocidades` e `inteligencia-potencializada`. Falta aplicar em `precisao`,
+  `quem-sou-eu`, `ancora` e `vetor`.

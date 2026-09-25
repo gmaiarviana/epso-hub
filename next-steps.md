@@ -11,24 +11,25 @@ Cada fonte avança por registrar → passar a limpo → encaixar. Registrar e pa
 dependem da estrutura e seguem a qualquer momento; **os encaixes esperam a reestruturação
 (seção 2)**, para não mover o conteúdo duas vezes.
 
-- **Transcrição 2026-09-22** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`)
-  — passada a limpo; falta encaixar. Começa por linguagem em camadas + semiótica (fundir com
-  `2026-06-26-…#abstrair-as-palavras`), área estruturada em `estudos/precisao.md` e
-  `cosmovisao/quem-sou-eu.md`. As seções de carreira (lastro, mestrado) vão para o bloco de
-  contexto.
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
   — passada a limpo; falta encaixar. Destinos prováveis: eixos, chamados e temáticas na linha
-  editorial da comunicação; portais da plataforma nas iniciativas da instituição;
-  `#portal-linguagem` funde com `2026-06-26-…#abstrair-as-palavras`;
-  `#plataforma-e-autoridade` com o bloco de contexto.
+  editorial da comunicação (junto com o lastro de 22/9, registrado em
+  [em espera](fontes/em-espera.md#linha-editorial-comunicacao)); portais da plataforma nas
+  iniciativas da instituição; `#plataforma-e-autoridade` com o bloco de contexto.
+  `#portal-linguagem` já encaixado em `pensamento/estudos/linguagem.md`.
 - **Conversa 2026-07-07** (`fontes/conversas/`) — falta encaixar duas ideias: na migração,
   reaproveitar as ponderações e não o resultado; a iniciativa quatro como camada filosófica
-  (o paper-agent é um produto dentro dela; modelo de conceitos, não de tokens).
+  (o paper-agent é um produto dentro dela). "Modelo de conceitos, não de tokens" já está em
+  `pensamento/estudos/inteligencia-potencializada.md`.
 - **Transcrição 2026-09-24** (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)
-  — passada a limpo; falta encaixar. Destinos prováveis: atenção e corpo em
-  `pensamento/cosmovisao/quem-sou-eu.md`; linguagem como tecnologia da informação e camadas
-  de sentido em `pensamento/estudos/precisao.md`, fundindo com
-  `2026-06-26-…#abstrair-as-palavras`.
+  — passada a limpo; a linguagem (de `#feitos-para-aprender` ao fim) já encaixada em
+  `pensamento/estudos/linguagem.md`. Falta a parte de cosmovisão — de `#sem-controle` a
+  `#sem-manual-de-instrucoes` — em `pensamento/cosmovisao/quem-sou-eu.md`.
+  `#regua-coletiva` parece o eixo de universalidade de `pensamento/estudos/precisao.md`:
+  checar fusão.
+
+O que já saiu das fontes e espera elaboração do incorporador ou uma casa vive em
+[fontes/em-espera.md](fontes/em-espera.md).
 
 Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
 encaixadas — não entram na fila por conta própria.

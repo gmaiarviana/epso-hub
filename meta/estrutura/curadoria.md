@@ -1,7 +1,7 @@
 # Curadoria do acervo
 
 Como o acervo mantém ideias como objetos, um por âncora. Aplica ao acervo a tese da
-[âncora](../../pensamento/estudos/ancora.md): o significado é o invariante, as palavras o vestem.
+[âncora](../../filosofia/hipoteses/ancora.md): o significado é o invariante, as palavras o vestem.
 
 Estas regras valem para qualquer entrada — uma transcrição, um texto externo, uma migração. O
 registro de transcrições ([../processo-transcricoes.md](../processo-transcricoes.md)) é um
@@ -54,8 +54,8 @@ os galhos entram como seções de um objeto, e só viram objetos próprios quand
 dele. É a relação parte-todo (ver Objeto, acima) aplicada antes das decisões.
 
 Casos: os seis problemas abertos do `epso_paradigm` viraram um argumento só em
-[precisão](../../pensamento/estudos/precisao.md); os cinco conceitos, outro em
-[quem sou eu](../../pensamento/cosmovisao/quem-sou-eu.md).
+[precisão](../../filosofia/hipoteses/precisao.md); os cinco conceitos, outro em
+[quem sou eu](../../filosofia/cosmovisao/quem-sou-eu.md).
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#qual-argumento-estou-construindo`.
 

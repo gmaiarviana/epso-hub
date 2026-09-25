@@ -2,7 +2,7 @@
 
 O processo de aprender: academia, leituras livres e experimentos de aprendizado. Estudo cuida
 da logística — o que ler, onde estudar, que experimento roda; o que se aprende é encaixado em
-`pensamento/` ou na instituição. Sub-blocos viram seções abaixo.
+`filosofia/` ou na instituição. Sub-blocos viram seções abaixo.
 
 ## Academia
 
@@ -26,7 +26,7 @@ Muita coisa junta: organizar bem antes de correr.
 ### Recorte
 
 - **[academia/foco.md](academia/foco.md)** — o que quero estudar: já registra os candidatos de
-  recorte em aberto. O recorte fino espera a discussão em `pensamento/cosmovisao/a-tese.md`
+  recorte em aberto. O recorte fino espera a discussão em `filosofia/cosmovisao/a-tese.md`
   (identidade × paradigma da informação) — decorre dela.
 - **Método-ponte** — identificar o campo/método existente que faz a ponte entre a ambição não
   dual e o que um departamento aceita (filosofia da mente, semiótica, teoria da informação,

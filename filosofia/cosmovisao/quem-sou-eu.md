@@ -26,7 +26,7 @@ Não temos controle sobre nada — nem sobre o corpo, nem sobre os papéis que h
 
 Observar não é neutro. Quem assiste a um filme não controla o que acontece na tela, mas o
 assento, a companhia e a mentalidade mudam a experiência. É o mesmo observador que
-[entra na observação](../estudos/precisao.md) com seu repertório, sua biologia, seu contexto:
+[entra na observação](../hipoteses/precisao.md) com seu repertório, sua biologia, seu contexto:
 não escolhe o filme, e ainda assim cada um o vê de um lugar.
 
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#somos-nossa-atencao`,
@@ -82,7 +82,7 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#destino-e-in
   melhores para explicá-la, a encontrar.
 - **O pulsar e a física.** A fala liga o pulsar à entropia, à evolução e à flecha do tempo.
   Como essas leituras se relacionam com o pulsar é paradigma a elaborar — o mesmo cuidado da
-  física quântica em [precisão](../estudos/precisao.md#em-aberto).
+  física quântica em [precisão](../hipoteses/precisao.md#em-aberto).
 - **O pulsar e o vetor.** A conexão de tudo com tudo conversa com a
-  [família de vetores](../estudos/vetor.md#a-família) — forças que unem e movem a matéria sem
+  [família de vetores](../hipoteses/vetor.md#a-família) — forças que unem e movem a matéria sem
   se reduzirem a ela. A relação entre as duas imagens está por assentar.

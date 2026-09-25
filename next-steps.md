@@ -13,7 +13,7 @@ dependem da estrutura e seguem a qualquer momento; **os encaixes esperam a reest
 
 - **Transcrição 2026-09-22** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`)
   — passada a limpo; falta encaixar. Começa por linguagem em camadas + semiótica (fundir com
-  `2026-06-26-…#abstrair-as-palavras`), área estruturada em `estudos/precisao.md` e
+  `2026-06-26-…#abstrair-as-palavras`), área estruturada em `hipoteses/precisao.md` e
   `cosmovisao/quem-sou-eu.md`. As seções de carreira (lastro, mestrado) vão para o bloco de
   contexto.
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
@@ -26,8 +26,8 @@ dependem da estrutura e seguem a qualquer momento; **os encaixes esperam a reest
   (o paper-agent é um produto dentro dela; modelo de conceitos, não de tokens).
 - **Transcrição 2026-09-24** (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)
   — passada a limpo; falta encaixar. Destinos prováveis: atenção e corpo em
-  `pensamento/cosmovisao/quem-sou-eu.md`; linguagem como tecnologia da informação e camadas
-  de sentido em `pensamento/estudos/precisao.md`, fundindo com
+  `filosofia/cosmovisao/quem-sou-eu.md`; linguagem como tecnologia da informação e camadas
+  de sentido em `filosofia/hipoteses/precisao.md`, fundindo com
   `2026-06-26-…#abstrair-as-palavras`.
 
 Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
@@ -43,7 +43,7 @@ Estrutura-alvo:
 fontes/        entrada: áudios, conversas (fica como está)
 meta/          o repositório, os processos, o agente
 — a pessoa —
-filosofia/     cosmovisao/, hipoteses/ (ex-pensamento/estudos: âncora, vetor, precisão)
+filosofia/     cosmovisao/, hipoteses/ (âncora, vetor, precisão)
 estudo/        academia/, leituras, experimentos de aprendizado
 contexto/      trajetória, carreira, empresa atual, lastro, o momento
 — a instituição —
@@ -64,9 +64,8 @@ Fronteiras decididas:
 Uma etapa por PR, em ordem de esforço. Cada etapa move com `git mv`, corrige as referências
 e só termina quando a busca pelos caminhos antigos volta vazia.
 
-1. **`filosofia/`** — `pensamento/` muda; `estudos/` vira `hipoteses/`. Médio.
-2. **`instituicao/`** — `nucleo/`, `pratica/`, `comunicacao/`, `funding/` entram. Médio.
-3. **`contexto/`** — nasce; recebe a parte de carreira de `estudo/academia/jornada.md`. Médio
+1. **`instituicao/`** — `nucleo/`, `pratica/`, `comunicacao/`, `funding/` entram. Médio.
+2. **`contexto/`** — nasce; recebe a parte de carreira de `estudo/academia/jornada.md`. Médio
    (é conteúdo: pede leitura e decisão do incorporador).
 
 ## 3. Conteúdo
@@ -79,9 +78,9 @@ e só termina quando a busca pelos caminhos antigos volta vazia.
    Institucional e da página "Base de pensamento" do site,
    https://www.erapraserobvio.com.br/quem-somos/base-de-pensamento, com o método de 4 etapas
    de `/plataforma`). A postura epistemológica compara-se antes com
-   `pensamento/estudos/precisao.md`, que já tem a raiz "a realidade excede a verdade".
+   `filosofia/hipoteses/precisao.md`, que já tem a raiz "a realidade excede a verdade".
 4. **Cosmovisão — a discussão aberta** identidade × paradigma da informação
-   (`pensamento/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`estudo/academia/foco.md`).
+   (`filosofia/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`estudo/academia/foco.md`).
 5. **Prática** — construtora (institucional: princípios construtivos, acervo técnico,
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Registrar
    também as ferramentas livres já publicadas no site (Taquígrafo, Camadas da Linguagem).

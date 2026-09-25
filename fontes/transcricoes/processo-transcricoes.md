@@ -42,7 +42,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 ## Entrada no roadmap
 
-Toda transcrição registrada entra na fila do [next-steps da raiz](../../next-steps.md) como item de encaixe ("Encaixar a transcrição `AAAA-MM-DD-titulo`"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição na fila é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A fila da raiz concentra todo encaixe de transcrição, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
+Toda transcrição registrada entra na seção **Fontes** do [next-steps da raiz](../../next-steps.md#1-fontes) — a primeira da fila —, com a etapa que falta ("passada a limpo; falta encaixar"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição dentro da seção é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A seção concentra toda fonte em trânsito, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
 
 ## Rastreabilidade
 

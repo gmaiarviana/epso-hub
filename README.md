@@ -1,12 +1,17 @@
 # EPSO
 
-O EPSO é um projeto de contribuição que se organiza em torno de uma tese: trazer clareza para contribuir com a transformação da sociedade. Este repositório reúne o pensamento e a prática do EPSO num lugar só, legível por mim e por agentes de IA.
+O EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/) — é um projeto de contribuição que se organiza em torno de uma tese: trazer clareza para contribuir com a transformação da sociedade. É a institucionalização das minhas ideias e práticas: eu sou uma pessoa; o EPSO pode ganhar vida própria e andar sem mim.
+
+Este repositório reúne, num lugar só e legível por mim e por agentes de IA, as duas coisas: o que eu penso, estudo e vivo, e o EPSO.
 
 ## A balança: pensamento e prática
 
 O EPSO se sustenta no equilíbrio entre falar e fazer. O pensamento fundamenta e dá direção. A prática prova na realidade, gera dados e alimenta o pensamento de volta. Os dois lados têm o mesmo peso.
 
 ## Organização
+
+Em transição para blocos que separam a pessoa e a instituição — estrutura-alvo e etapas no
+[next-steps](next-steps.md#2-reestruturação-em-blocos). O mapa abaixo é o estado atual.
 
 - **nucleo/** — propósito, valores e postura. A régua que decide o que pertence ao EPSO. Herdada por todas as frentes.
 - **pensamento/** — o lado do falar.

@@ -89,6 +89,13 @@ Processual e pontual não se misturam:
 - **`next-steps.md` da raiz** — a **fila de conteúdo** entre frentes, em ordem. Não acumula os passos internos das frentes.
 - **`<frente>/next-steps.md`** (ex.: `academia/next-steps.md`) — os passos internos de conteúdo de cada frente.
 
+Diretrizes de ordem:
+
+- **Fontes primeiro.** Todo áudio passa por registrar → passar a limpo → encaixar ([processo](fontes/transcricoes/processo-transcricoes.md)); esse fluxo abre a fila da raiz.
+- **Conteúdo entre blocos depois**, na ordem da fila.
+- **Melhoria não entra na fila da raiz.** A que é exclusiva de um bloco vai para o next-steps dele; a transversal ou de método, para `docs/next-steps.md`.
+- **Rotinas de criação de conteúdo** ficam fora da fila ativa até o incorporador retomá-las.
+
 Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); a fila da raiz muda quando entra, sai ou muda de ordem um item entre frentes; `docs/next-steps.md` muda quando a sessão deixa pendência de processo.
 
 O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver [docs/next-steps.md](docs/next-steps.md)).
@@ -100,3 +107,5 @@ O `main` tem branch protection: push direto é bloqueado, inclusive para admin. 
 Staging é sempre intencional: adicionar arquivos por caminho explícito, um a um. Nunca `git add .`, `git add -A` ou `git add -u` — evita arrastar mudança fora do escopo (outra frente, artefato, edição concorrente) para dentro do commit.
 
 Branch nova nasce num worktree próprio, não por `switch` no diretório compartilhado — ver [docs/sessoes-paralelas.md](docs/sessoes-paralelas.md).
+
+Antes de ler o repositório para planejar, confirmar que a base está no `origin/main` atual. O estado do git que chega no início da sessão é uma foto local, sem `fetch`; o hook de início de sessão ([.claude/settings.json](.claude/settings.json)) faz o `fetch` e avisa quantos commits o working copy está atrás. Se estiver atrás, atualizar — ou abrir worktree novo de `origin/main` — antes de ler. Caso real (2026-09-25): uma proposta foi montada sobre um `main` 17 commits atrás e usou nomes de etapa já substituídos.

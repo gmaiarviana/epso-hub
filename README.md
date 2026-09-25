@@ -10,14 +10,15 @@ O EPSO se sustenta no equilíbrio entre falar e fazer. O pensamento fundamenta e
 
 ## Organização
 
-Em transição para blocos que separam a pessoa e a instituição — estrutura-alvo e etapas no
-[next-steps](next-steps.md#2-reestruturação-em-blocos). O mapa abaixo é o estado atual.
+Blocos que separam a pessoa (filosofia, estudo, contexto) e a instituição (o EPSO). Fronteiras
+entre eles em [meta/estrutura/criterios.md](meta/estrutura/criterios.md).
 
 - **filosofia/** — o lado do falar: as ideias e o pensamento.
   - **cosmovisao/** — a obra filosófica assentada, futura tese e livro.
   - **hipoteses/** — hipóteses em aberto, recortes que podem virar pesquisa.
 - **estudo/** — o processo de aprender: cuida da logística (o que ler, onde estudar, que experimento roda); o que se aprende é encaixado em filosofia ou na instituição.
   - **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
+- **contexto/** — onde a pessoa está: trajetória, carreira, a empresa atual, lastro e o momento.
 - **instituicao/** — o EPSO: a institucionalização das ideias e práticas, que pode andar sem a pessoa.
   - **nucleo/** — propósito, valores e postura. A régua que decide o que pertence ao EPSO. Herdada pelas iniciativas.
   - **iniciativas/** — o lado do fazer. Abriga a construtora, as ferramentas livres, a plataforma e a visão dos produtos de software.

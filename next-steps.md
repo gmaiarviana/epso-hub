@@ -7,9 +7,7 @@ Lista só de próximos passos — item concluído sai da lista; o histórico viv
 
 ## 1. Fontes
 
-Cada fonte avança por registrar → passar a limpo → encaixar. Registrar e passar a limpo não
-dependem da estrutura e seguem a qualquer momento; **os encaixes esperam a reestruturação
-(seção 2)**, para não mover o conteúdo duas vezes.
+Cada fonte avança por registrar → passar a limpo → encaixar.
 
 - **Transcrição 2026-09-22** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`)
   — passada a limpo; falta encaixar. Começa por linguagem em camadas + semiótica (fundir com
@@ -29,45 +27,15 @@ dependem da estrutura e seguem a qualquer momento; **os encaixes esperam a reest
   `filosofia/cosmovisao/quem-sou-eu.md`; linguagem como tecnologia da informação e camadas
   de sentido em `filosofia/hipoteses/precisao.md`, fundindo com
   `2026-06-26-…#abstrair-as-palavras`.
+- **Transcrição 2026-07-06 "Estratégia profissional"** (`fontes/transcricoes/2026-07-06-estrategia-profissional.md`)
+  — formato antigo (bruto com seções, sem camada limpa); falta passar a limpo e encaixar.
+  Destino: `contexto/trajetoria.md`; `#viabilidade-construtora` vai para as iniciativas
+  (construtora).
 
-Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
+As demais transcrições no formato antigo migram para as três camadas sob demanda, ao serem
 encaixadas — não entram na fila por conta própria.
 
-## 2. Reestruturação em blocos
-
-O repositório guarda duas coisas: **a pessoa** (o incorporador) e **a instituição** (o EPSO,
-Era Pra Ser Óbvio — a institucionalização das ideias e práticas, que pode andar sem a pessoa).
-Estrutura-alvo:
-
-```
-fontes/        entrada: áudios, conversas (fica como está)
-meta/          o repositório, os processos, o agente
-— a pessoa —
-filosofia/     cosmovisao/, hipoteses/ (âncora, vetor, precisão)
-estudo/        academia/, leituras, experimentos de aprendizado
-contexto/      trajetória, carreira, empresa atual, lastro, o momento
-— a instituição —
-instituicao/   nucleo/, iniciativas/ (construtora, ferramentas livres, plataforma),
-               comunicacao/, financiamento/
-```
-
-Fronteiras decididas:
-
-- **Estudo × filosofia/instituição** — estudo cuida da logística de aprender (o que ler, onde
-  estudar, que experimento roda); o que se aprende é encaixado em filosofia ou na instituição.
-- **Experimentos** — de produto ou solução, na instituição; de aprendizado, em estudo.
-- **Núcleo** — é da instituição. A filosofia pessoal fica em `filosofia/`; o núcleo deriva
-  dela e se sustenta sozinho.
-- **Comunicação** — é do incorporador, mas nasce fundida ao EPSO; mora na instituição até
-  as vozes se separarem.
-
-Uma etapa por PR, em ordem de esforço. Cada etapa move com `git mv`, corrige as referências
-e só termina quando a busca pelos caminhos antigos volta vazia.
-
-1. **`contexto/`** — nasce; recebe a parte de carreira de `estudo/academia/jornada.md`. Médio
-   (é conteúdo: pede leitura e decisão do incorporador).
-
-## 3. Conteúdo
+## 2. Conteúdo
 
 1. **Migração, sessão 2 — Academia.** `leituras` → `leituras-entrada.md`/`leituras-tese.md`;
    `mapeamento-academico` → `mapeamento.md`.
@@ -89,7 +57,7 @@ e só termina quando a busca pelos caminhos antigos volta vazia.
 ## Decisões adiadas
 
 - Nome do repositório — `epso-hub` guarda a pessoa e o EPSO. Renomear custa (GitHub,
-  caminhos locais, worktrees, memória do agente); decidir depois da reestruturação.
+  caminhos locais, worktrees, memória do agente); a reestruturação em blocos terminou, então a decisão já pode ser tomada.
 - Voz da comunicação — pessoa e EPSO fundidos no começo; reorganizar quando surgir opinião
   que não seja pelo EPSO.
 - Arquitetura de marca (EPSO como marca-mãe, construtora como submarca) — decidida quando a

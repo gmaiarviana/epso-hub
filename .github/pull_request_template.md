@@ -11,6 +11,7 @@
 - [ ] instituição/iniciativas
 - [ ] instituição/comunicação
 - [ ] estudo
+- [ ] contexto
 - [ ] instituição/financiamento
 - [ ] transcrições
 - [ ] meta (estrutura, processos)

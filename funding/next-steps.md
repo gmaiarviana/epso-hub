@@ -1,6 +1,6 @@
 # Próximos passos — Funding
 
-Funding é **meio, não fim**: a alavanca de financiamento e tração das iniciativas do EPSO. Serve o lado do fazer (`pratica/`); bolsas de entrada acadêmica ficam na `academia/`.
+Funding é **meio, não fim**: a alavanca de financiamento e tração das iniciativas do EPSO. Serve o lado do fazer (`pratica/`); bolsas de entrada acadêmica ficam em `estudo/academia/`.
 
 ## O que mapear
 

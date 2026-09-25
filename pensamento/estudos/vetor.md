@@ -59,7 +59,7 @@ as de alto stress.
   linguagem.
 - Fica em aberto qual formalismo vetorial cabe: se a projeção âncora→leitura é
   produto escalar, transformação, ou outra operação. Recorte de estudo, registrado
-  em [foco](../../academia/foco.md).
+  em [foco](../../estudo/academia/foco.md).
 - Fica em aberto o nome definitivo desta força. "Vetor" descreve a forma; a
   substância (a cola que une, o espírito) espera um nome próprio, a reancorar quando
   assentar.

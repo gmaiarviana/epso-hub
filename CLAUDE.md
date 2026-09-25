@@ -14,9 +14,9 @@ Português, sempre.
 
 ## Formato dos arquivos
 
-Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições são exceção: mantêm o bloco de metadados descrito em [fontes/transcricoes/processo-transcricoes.md](fontes/transcricoes/processo-transcricoes.md).)
+Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições são exceção: mantêm o bloco de metadados descrito em [meta/processo-transcricoes.md](meta/processo-transcricoes.md).)
 
-Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cujo alvo ainda não existe não é erro — é uma lacuna registrada, um pensamento a mapear. O método de trabalho com esses elos pendentes fica em `docs/metodologia.md` (a formalizar).
+Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cujo alvo ainda não existe não é erro — é uma lacuna registrada, um pensamento a mapear. O método de trabalho com esses elos pendentes fica em `meta/metodologia.md` (a formalizar).
 
 ## Organização e anti-redundância
 
@@ -24,7 +24,7 @@ Cada informação mora em um lugar só. Referências apontam para o dono da info
 
 Hoje o repositório está em migração inicial: núcleo, cosmovisão, estudos, prática e academia nascem como pastas e recebem conteúdo em sessões seguintes. O mapa detalhado de cada frente entra no momento em que ela for migrada.
 
-Os níveis de abrangência do conteúdo e os critérios de onde cada coisa mora estão em [docs/estrutura/](docs/estrutura/): [niveis.md](docs/estrutura/niveis.md) descreve os três níveis, [criterios.md](docs/estrutura/criterios.md) decide o destino e [mapa-documento-institucional.md](docs/estrutura/mapa-documento-institucional.md) traz um exemplo aplicado.
+Os níveis de abrangência do conteúdo e os critérios de onde cada coisa mora estão em [meta/estrutura/](meta/estrutura/): [niveis.md](meta/estrutura/niveis.md) descreve os três níveis, [criterios.md](meta/estrutura/criterios.md) decide o destino e [mapa-documento-institucional.md](meta/estrutura/mapa-documento-institucional.md) traz um exemplo aplicado.
 
 A estrutura do repositório está em evolução contínua; os critérios de organização são hipóteses de trabalho, revisáveis quando um novo conteúdo os desafiar.
 
@@ -38,7 +38,7 @@ Uma transcrição vive em três camadas, cada uma com sua régua:
 
 A camada limpa é **opcional** — o bruto sozinho já cumpre o dever de preservação. Nasce ao encaixar a transcrição na área de trabalho, ou antes disso quando se quer a versão legível do pensamento (pode ser gerada em lote). Não se gera para toda transcrição por obrigação.
 
-Detalhe do fluxo em [fontes/transcricoes/processo-transcricoes.md](fontes/transcricoes/processo-transcricoes.md).
+Detalhe do fluxo em [meta/processo-transcricoes.md](meta/processo-transcricoes.md).
 
 ## Rastreabilidade
 
@@ -50,9 +50,9 @@ Conteúdo vindo de um repositório aposentado cita `<repositório>:<caminho>` (e
 
 Cada processo específico tem seu próprio documento, carregado quando o fluxo é acionado.
 
-- Registro de transcrições → [fontes/transcricoes/processo-transcricoes.md](fontes/transcricoes/processo-transcricoes.md)
-- Sessões Claude em paralelo (higiene de working copy) → [docs/sessoes-paralelas.md](docs/sessoes-paralelas.md)
-- Encerramento de sessão ("vamos encerrar") → [docs/processo-encerramento.md](docs/processo-encerramento.md)
+- Registro de transcrições → [meta/processo-transcricoes.md](meta/processo-transcricoes.md)
+- Sessões Claude em paralelo (higiene de working copy) → [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md)
+- Encerramento de sessão ("vamos encerrar") → [meta/processo-encerramento.md](meta/processo-encerramento.md)
 
 ## Postura
 
@@ -79,26 +79,26 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 
 ## Encerramento de sessão
 
-Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [docs/processo-encerramento.md](docs/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
+Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [meta/processo-encerramento.md](meta/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
 
 Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
 
 Processual e pontual não se misturam:
 
-- **`docs/next-steps.md`** — o que falta em **processo e método** (como trabalhamos). É onde cai proposta de retrospectiva adiada.
+- **`meta/next-steps.md`** — o que falta em **processo e método** (como trabalhamos). É onde cai proposta de retrospectiva adiada.
 - **`next-steps.md` da raiz** — a **fila de conteúdo** entre frentes, em ordem. Não acumula os passos internos das frentes.
 - **`<frente>/next-steps.md`** (ex.: `estudo/next-steps.md`) — os passos internos de conteúdo de cada frente.
 
 Diretrizes de ordem:
 
-- **Fontes primeiro.** Todo áudio passa por registrar → passar a limpo → encaixar ([processo](fontes/transcricoes/processo-transcricoes.md)); esse fluxo abre a fila da raiz.
+- **Fontes primeiro.** Todo áudio passa por registrar → passar a limpo → encaixar ([processo](meta/processo-transcricoes.md)); esse fluxo abre a fila da raiz.
 - **Conteúdo entre blocos depois**, na ordem da fila.
-- **Melhoria não entra na fila da raiz.** A que é exclusiva de um bloco vai para o next-steps dele; a transversal ou de método, para `docs/next-steps.md`.
+- **Melhoria não entra na fila da raiz.** A que é exclusiva de um bloco vai para o next-steps dele; a transversal ou de método, para `meta/next-steps.md`.
 - **Rotinas de criação de conteúdo** ficam fora da fila ativa até o incorporador retomá-las.
 
-Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); a fila da raiz muda quando entra, sai ou muda de ordem um item entre frentes; `docs/next-steps.md` muda quando a sessão deixa pendência de processo.
+Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); a fila da raiz muda quando entra, sai ou muda de ordem um item entre frentes; `meta/next-steps.md` muda quando a sessão deixa pendência de processo.
 
-O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver [docs/next-steps.md](docs/next-steps.md)).
+O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver [meta/next-steps.md](meta/next-steps.md)).
 
 ## Fluxo git
 
@@ -106,6 +106,6 @@ O `main` tem branch protection: push direto é bloqueado, inclusive para admin. 
 
 Staging é sempre intencional: adicionar arquivos por caminho explícito, um a um. Nunca `git add .`, `git add -A` ou `git add -u` — evita arrastar mudança fora do escopo (outra frente, artefato, edição concorrente) para dentro do commit.
 
-Branch nova nasce num worktree próprio, não por `switch` no diretório compartilhado — ver [docs/sessoes-paralelas.md](docs/sessoes-paralelas.md).
+Branch nova nasce num worktree próprio, não por `switch` no diretório compartilhado — ver [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md).
 
 Antes de ler o repositório para planejar, confirmar que a base está no `origin/main` atual. O estado do git que chega no início da sessão é uma foto local, sem `fetch`; o hook de início de sessão ([.claude/settings.json](.claude/settings.json)) faz o `fetch` e avisa quantos commits o working copy está atrás. Se estiver atrás, atualizar — ou abrir worktree novo de `origin/main` — antes de ler. Caso real (2026-09-25): uma proposta foi montada sobre um `main` 17 commits atrás e usou nomes de etapa já substituídos.

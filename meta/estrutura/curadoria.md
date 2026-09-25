@@ -4,7 +4,7 @@ Como o acervo mantém ideias como objetos, um por âncora. Aplica ao acervo a te
 [âncora](../../pensamento/estudos/ancora.md): o significado é o invariante, as palavras o vestem.
 
 Estas regras valem para qualquer entrada — uma transcrição, um texto externo, uma migração. O
-registro de transcrições ([../../fontes/transcricoes/processo-transcricoes.md](../../fontes/transcricoes/processo-transcricoes.md)) é um
+registro de transcrições ([../processo-transcricoes.md](../processo-transcricoes.md)) é um
 caso particular que consome esta curadoria.
 
 ## Objeto

@@ -49,7 +49,7 @@ uma disciplina como ouvinte antes da aprovação.
 
 ## Escopos
 
-- **Construção não é o objeto de estudo.** É prática (`pratica/`); no máximo, tema em que se
+- **Construção não é o objeto de estudo.** É prática (`instituicao/iniciativas/`); no máximo, tema em que se
   pode orientar ou aconselhar. O foco do estudo é o filosófico. Fonte:
   `#construcao-nao-e-o-foco-do-estudo`.
 - **A empresa atual é entrada real, não conforto.** Dá flexibilidade e qualidade de vida

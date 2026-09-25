@@ -47,7 +47,7 @@ Muita coisa junta: organizar bem antes de correr.
     discussão da tese).
 - **`academia/bolsas.md`** — varredura mundial de **bolsas de mestrado/doutorado** (as de
   entrada acadêmica). Bolsas de execução de projeto e demais financiamentos das iniciativas
-  moram na frente `funding/`.
+  moram em `instituicao/financiamento/`.
 
 ### Ferramental
 

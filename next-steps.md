@@ -64,8 +64,7 @@ Fronteiras decididas:
 Uma etapa por PR, em ordem de esforço. Cada etapa move com `git mv`, corrige as referências
 e só termina quando a busca pelos caminhos antigos volta vazia.
 
-1. **`instituicao/`** — `nucleo/`, `pratica/`, `comunicacao/`, `funding/` entram. Médio.
-2. **`contexto/`** — nasce; recebe a parte de carreira de `estudo/academia/jornada.md`. Médio
+1. **`contexto/`** — nasce; recebe a parte de carreira de `estudo/academia/jornada.md`. Médio
    (é conteúdo: pede leitura e decisão do incorporador).
 
 ## 3. Conteúdo
@@ -81,11 +80,11 @@ e só termina quando a busca pelos caminhos antigos volta vazia.
    `filosofia/hipoteses/precisao.md`, que já tem a raiz "a realidade excede a verdade".
 4. **Cosmovisão — a discussão aberta** identidade × paradigma da informação
    (`filosofia/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`estudo/academia/foco.md`).
-5. **Prática** — construtora (institucional: princípios construtivos, acervo técnico,
+5. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Registrar
    também as ferramentas livres já publicadas no site (Taquígrafo, Camadas da Linguagem).
-6. **Funding** — parâmetros de interesse e maturidade; primeiro recorte de varredura (ver
-   `funding/next-steps.md`).
+6. **Financiamento** — parâmetros de interesse e maturidade; primeiro recorte de varredura (ver
+   `instituicao/next-steps.md`, seção Financiamento).
 
 ## Decisões adiadas
 

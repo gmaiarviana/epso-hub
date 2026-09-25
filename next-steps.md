@@ -34,6 +34,12 @@ da lista; o histórico vive no git.
    `comunicacao/linha-editorial.md`; portais da plataforma em `pratica/`; `#portal-linguagem`
    funde com `2026-06-26-…#abstrair-as-palavras`; `#plataforma-e-autoridade` com
    `academia/jornada.md`. Posição padrão (fim da fila) — reordenar se o incorporador decidir.
+10. **Encaixar a transcrição 2026-09-25** (`fontes/transcricoes/raw/2026-09-25-atencao-corpo-linguagem-e-camadas.raw.md`)
+    à área de trabalho — passar a limpo antes. Destinos prováveis: atenção e corpo em
+    `pensamento/cosmovisao/quem-sou-eu.md`; linguagem como tecnologia da informação e
+    camadas de sentido em `pensamento/estudos/precisao.md`, fundindo com
+    `2026-06-26-…#abstrair-as-palavras`. Posição padrão (fim da fila) — reordenar se o
+    incorporador decidir.
 
 Transcrições no formato antigo migram para as três camadas sob demanda, ao serem
 encaixadas — não entram na fila por conta própria.

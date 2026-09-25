@@ -1,0 +1,1 @@
+O processo de aprender: academia (entrada em mestrado e doutorado), leituras livres e experimentos de aprendizado. Cuida da logística — o que ler, onde estudar, que experimento roda; o que se aprende é encaixado em `pensamento/` ou na instituição. Experimento de produto ou solução é da instituição, não daqui. Próximos passos em `next-steps.md`.

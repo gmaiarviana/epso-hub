@@ -18,13 +18,15 @@ Em transição para blocos que separam a pessoa e a instituição — estrutura-
   - **cosmovisao/** — a obra filosófica assentada, futura tese e livro.
   - **estudos/** — hipóteses em aberto, recortes que podem virar pesquisa.
 - **pratica/** — o lado do fazer. Abriga a construtora e, no futuro, outras frentes concretas e a visão dos produtos de software.
-- **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
+- **estudo/** — o processo de aprender: cuida da logística (o que ler, onde estudar, que experimento roda); o que se aprende é encaixado em pensamento ou na prática.
+  - **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
 - **comunicacao/** — como o pensamento e a prática chegam ao público: método de construção da linha editorial e de produção de conteúdo a partir do acervo. Meio a serviço do EPSO.
 - **funding/** — alavanca de financiamento a serviço do EPSO: editais de inovação, startups, aceleradoras, bolsas de execução de projeto. Serve as iniciativas; meio, não fim.
 - **fontes/** — o material-fonte que se encaixa no acervo e nas frentes, na voz do incorporador; preservado e datado.
   - **transcricoes/** — falas gravadas: bruto intocado, cópia limpa e áudio (não versionado).
   - **conversas/** — ideias que surgiram em conversas escritas (chat), registradas como fonte.
   - **em-espera.md** — o que já saiu das fontes e ainda não encaixou: pauta para elaborar e tópicos sem casa.
+- **meta/** — o repositório, os processos e o agente: como trabalhamos. Estrutura e critérios de onde cada coisa mora, processos (transcrições, encerramento, sessões paralelas) e o roadmap de método. O `CLAUDE.md` fica na raiz.
 
 ## Código
 

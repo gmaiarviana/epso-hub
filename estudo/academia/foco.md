@@ -15,9 +15,9 @@ O interesse se concentra na camada filosófica mais profunda: a natureza das ide
 antes e por baixo das palavras. Duas faces do mesmo lugar:
 
 - **A forma das ideias** — a hipótese de que uma ideia é um vetor, e o que decorre
-  disso. Ver [vetor](../pensamento/estudos/vetor.md).
+  disso. Ver [vetor](../../pensamento/estudos/vetor.md).
 - **A epistemológica** — a âncora já é ela mesma uma leitura; o observador entra na
-  observação; a realidade excede a verdade. Ver [âncora](../pensamento/estudos/ancora.md).
+  observação; a realidade excede a verdade. Ver [âncora](../../pensamento/estudos/ancora.md).
 
 São a mesma pergunta — o que uma ideia é — vista de dois ângulos.
 
@@ -35,7 +35,7 @@ completa fica fora.
 ## Candidatos de recorte (em aberto)
 
 - **Método-ponte** — o campo/método existente que liga a ambição não dual ao que um
-  departamento aceita (ver [jornada](jornada.md) e `academia/next-steps.md`):
+  departamento aceita (ver [jornada](jornada.md) e `estudo/next-steps.md`):
   filosofia da mente, semiótica, teoria da informação, ciência cognitiva,
   sistemas/complexidade, epistemologias e ecologia de saberes. Varredura a fazer.
 - **A discussão que decide o recorte** — se o doutorado é *sobre a identidade* (com a

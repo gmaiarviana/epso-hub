@@ -1,0 +1,1 @@
+O repositório, os processos e o agente: como trabalhamos. Aqui vivem a estrutura e os critérios de onde cada coisa mora (`estrutura/`), os processos acionados por gatilho (transcrições, encerramento, sessões paralelas) e o que falta em processo e método (`next-steps.md`). O guia de entrada do agente é o `CLAUDE.md`, na raiz, que indexa estes processos.

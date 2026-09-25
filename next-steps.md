@@ -2,7 +2,7 @@
 
 A fila de **conteúdo** entre frentes, em ordem. Os passos internos de cada frente vivem em
 `<frente>/next-steps.md`; o que falta em processo e método vive em
-[docs/next-steps.md](docs/next-steps.md). Diretrizes de ordem no [CLAUDE.md](CLAUDE.md#encerramento-de-sessão).
+[meta/next-steps.md](meta/next-steps.md). Diretrizes de ordem no [CLAUDE.md](CLAUDE.md#encerramento-de-sessão).
 Lista só de próximos passos — item concluído sai da lista; o histórico vive no git.
 
 ## 1. Fontes
@@ -64,12 +64,9 @@ Fronteiras decididas:
 Uma etapa por PR, em ordem de esforço. Cada etapa move com `git mv`, corrige as referências
 e só termina quando a busca pelos caminhos antigos volta vazia.
 
-1. **`estudo/`** — `academia/` entra como sub-bloco. Pequeno.
-2. **`meta/`** — `docs/`, `processo-transcricoes.md`, `aprendizados-transcricao.md` e o
-   índice de processos. `CLAUDE.md` e `README.md` ficam na raiz. Médio (muitas referências).
-3. **`filosofia/`** — `pensamento/` muda; `estudos/` vira `hipoteses/`. Médio.
-4. **`instituicao/`** — `nucleo/`, `pratica/`, `comunicacao/`, `funding/` entram. Médio.
-5. **`contexto/`** — nasce; recebe a parte de carreira de `academia/jornada.md`. Médio
+1. **`filosofia/`** — `pensamento/` muda; `estudos/` vira `hipoteses/`. Médio.
+2. **`instituicao/`** — `nucleo/`, `pratica/`, `comunicacao/`, `funding/` entram. Médio.
+3. **`contexto/`** — nasce; recebe a parte de carreira de `estudo/academia/jornada.md`. Médio
    (é conteúdo: pede leitura e decisão do incorporador).
 
 ## 3. Conteúdo
@@ -84,7 +81,7 @@ e só termina quando a busca pelos caminhos antigos volta vazia.
    de `/plataforma`). A postura epistemológica compara-se antes com
    `pensamento/estudos/precisao.md`, que já tem a raiz "a realidade excede a verdade".
 4. **Cosmovisão — a discussão aberta** identidade × paradigma da informação
-   (`pensamento/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`academia/foco.md`).
+   (`pensamento/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`estudo/academia/foco.md`).
 5. **Prática** — construtora (institucional: princípios construtivos, acervo técnico,
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Registrar
    também as ferramentas livres já publicadas no site (Taquígrafo, Camadas da Linguagem).

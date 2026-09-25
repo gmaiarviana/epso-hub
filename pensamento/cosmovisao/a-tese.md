@@ -60,5 +60,5 @@ Fonte: `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.m
 ## Recorte acadêmico
 
 A distribuição desta tese entre mestrado e doutorado é estratégia de entrada, não conteúdo —
-vive em [[jornada]] (academia). A substância do recorte — que fatia estudar — vive em [[foco]]
-(academia), depois que a discussão acima assentar.
+vive em [[jornada]] (`estudo/academia/`). A substância do recorte — que fatia estudar — vive em [[foco]]
+(`estudo/academia/`), depois que a discussão acima assentar.

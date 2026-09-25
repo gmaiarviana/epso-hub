@@ -24,10 +24,10 @@ não existe como pensamento encaixado no hub.
 
 ### Universo 1 — jornada
 
-- [x] `foco-academico.md` → **coberto**: `academia/foco.md`, `academia/jornada.md`, `pensamento/cosmovisao/a-tese.md`.
-- [ ] `frentes/leituras.md` → **faltando** · destino `academia/leituras-entrada.md` + `leituras-tese.md` (nomeados, vazios) · **inserir**.
-- [ ] `frentes/mapeamento-academico.md` → **faltando** · destino `academia/mapeamento.md` (nomeado, vazio) · **inserir**.
-- [ ] `frentes/posicionamento.md` → **parcial** · destino `academia/jornada.md` · **evoluir** (recuperar "forças que você traz" + item "virar pitch").
+- [x] `foco-academico.md` → **coberto**: `estudo/academia/foco.md`, `estudo/academia/jornada.md`, `pensamento/cosmovisao/a-tese.md`.
+- [ ] `frentes/leituras.md` → **faltando** · destino `estudo/academia/leituras-entrada.md` + `leituras-tese.md` (nomeados, vazios) · **inserir**.
+- [ ] `frentes/mapeamento-academico.md` → **faltando** · destino `estudo/academia/mapeamento.md` (nomeado, vazio) · **inserir**.
+- [ ] `frentes/posicionamento.md` → **parcial** · destino `estudo/academia/jornada.md` · **evoluir** (recuperar "forças que você traz" + item "virar pitch").
 - [ ] `painel-de-controle.md` → **parcial** · destino next-steps das frentes · **fundir** (backlog "sinais ainda por registrar").
 
 ### Universo 2 — conceitos
@@ -53,7 +53,7 @@ na sessão 1 (2026-09-23). Viraram um arquivo só, em vez de seis.
 - [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `estudos/precisao.md` (comunicar na camada que o outro alcança). Em 2026-09-25 a seção completa mudou para `estudos/linguagem.md`; `precisao.md` guarda a resposta e aponta para lá.
 - [x] `problemas-abertos/ponte-fisica-quantica.md` → **fundido** em `estudos/precisao.md#em-aberto` (paradigma a elaborar; cuidado com o homônimo "observador").
 - [x] `problemas-abertos/no-da-medicao.md` → **fundido** em `estudos/precisao.md` (a medição acompanha, não fundamenta). Destino mudou de `ancora.md` para `precisao.md`.
-- [x] `problemas-abertos/mestrado-pernas-proprias.md` → **evoluído** em `academia/jornada.md`.
+- [x] `problemas-abertos/mestrado-pernas-proprias.md` → **evoluído** em `estudo/academia/jornada.md`.
 
 ### Universo 2 — sínteses
 
@@ -84,7 +84,7 @@ aposentado por decisão registrada). Até lá, ele permanece como fonte de leitu
   1 coberto, 7 parciais, 11 faltando; a camada `problemas-abertos` (6/7) e o legwork acadêmico não
   foram carregados no "primeiro corte" da migração. Plano de 3 sessões definido.
 - **2026-09-23** — sessão 1, parte 1: a camada `problemas-abertos` migrada (6 fundidos em
-  `estudos/precisao.md`, 1 evoluído em `academia/jornada.md`). A raiz "a realidade excede a
+  `estudos/precisao.md`, 1 evoluído em `estudo/academia/jornada.md`). A raiz "a realidade excede a
   verdade" ganhou dono em `precisao.md`. Próximo: os cinco conceitos.
 - **2026-09-23** — sessão 1, parte 2: os cinco conceitos migrados para
   `cosmovisao/quem-sou-eu.md`. Sessão 1 concluída; o método "qual argumento?" entrou na

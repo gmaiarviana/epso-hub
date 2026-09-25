@@ -24,6 +24,7 @@ Em transição para blocos que separam a pessoa e a instituição — estrutura-
 - **fontes/** — o material-fonte que se encaixa no acervo e nas frentes, na voz do incorporador; preservado e datado.
   - **transcricoes/** — falas gravadas: bruto intocado, cópia limpa e áudio (não versionado).
   - **conversas/** — ideias que surgiram em conversas escritas (chat), registradas como fonte.
+  - **em-espera.md** — o que já saiu das fontes e ainda não encaixou: pauta para elaborar e tópicos sem casa.
 
 ## Código
 

@@ -56,16 +56,10 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#medir-e-ler-
 
 ## Comunicar na camada que o outro alcança
 
-Faz sentido que algumas pessoas não captem uma leitura: podem não ter os receptores
-necessários para ela. Mas a responsabilidade não é só de quem não capta. Quem fala precisa
-comunicar de maneira adequada para todo mundo, começando pela camada mais básica — a
-material, sobre a qual ninguém tem dúvida.
-
-Referência reconhecida como chão: **Paulo Freire** — escutar o valor por trás das palavras,
-recusar tratar o outro como recipiente vazio, inclusão radical, consciência das limitações.
-
-Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`; Paulo Freire vem de
-`epso_paradigm:universo-2-conteudo/sinteses/nucleo-da-tese.md`.
+Uma leitura que alguns não captam não fica, por isso, imune à crítica: a responsabilidade
+também é de quem fala, que precisa começar pela camada material, sobre a qual ninguém tem
+dúvida. As camadas são um problema de linguagem, e o argumento completo vive em
+[linguagem](linguagem.md#comunicar-na-camada-que-o-outro-alcança).
 
 ## A intenção separa a leitura parcial da distorção
 

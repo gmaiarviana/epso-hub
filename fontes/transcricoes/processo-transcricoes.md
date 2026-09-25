@@ -67,6 +67,9 @@ Passos do encaixe:
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
+- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada ou registrada em [em espera](../em-espera.md) — esperando **elaboração** (pauta para um próximo áudio) ou **casa** (uma frente que ainda não existe ou não migrou). Só então o item de encaixe sai da fila da raiz.
+
+Nem tudo se elabora no encaixe. O que pede reflexão nova do incorporador não se resolve na hora: vira provocação em [em espera](../em-espera.md), e o arquivo de conteúdo guarda o mínimo em aberto — no máximo um ponteiro para lá.
 
 Abordagem em camadas:
 

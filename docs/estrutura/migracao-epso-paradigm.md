@@ -50,7 +50,7 @@ na sessão 1 (2026-09-23). Viraram um arquivo só, em vez de seis.
 - [x] `problemas-abertos/criterio-de-falsidade.md` → **fundido** em `estudos/precisao.md` (a intenção separa a leitura parcial da distorção; avaliar a intenção de fora fica em aberto).
 - [x] `problemas-abertos/regua-de-critica.md` → **fundido** em `estudos/precisao.md` (a régua são os eixos de precisão; a medição é uma página do livro).
 - [x] `problemas-abertos/tradicao-epistemologica.md` → **fundido** em `estudos/precisao.md#em-aberto` (Popper: referência, não prisão).
-- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `estudos/precisao.md` (comunicar na camada que o outro alcança).
+- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `estudos/precisao.md` (comunicar na camada que o outro alcança). Em 2026-09-25 a seção completa mudou para `estudos/linguagem.md`; `precisao.md` guarda a resposta e aponta para lá.
 - [x] `problemas-abertos/ponte-fisica-quantica.md` → **fundido** em `estudos/precisao.md#em-aberto` (paradigma a elaborar; cuidado com o homônimo "observador").
 - [x] `problemas-abertos/no-da-medicao.md` → **fundido** em `estudos/precisao.md` (a medição acompanha, não fundamenta). Destino mudou de `ancora.md` para `precisao.md`.
 - [x] `problemas-abertos/mestrado-pernas-proprias.md` → **evoluído** em `academia/jornada.md`.

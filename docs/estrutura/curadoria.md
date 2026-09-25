@@ -39,7 +39,8 @@ A analogia é a do quebra-cabeça, e cada gesto dele tem par no método:
   revisáveis.
 
 A caixa se preserva depois da extração. Nem todo objeto entra no acervo numa passagem, e a caixa
-guarda os que ficaram para uma abertura futura. Uma caixa já duplicada em outro lugar do acervo
+guarda os que ficaram para uma abertura futura; o que ficou, e o que cada um espera
+(elaboração ou casa), se lista em [em espera](../../fontes/em-espera.md). Uma caixa já duplicada em outro lugar do acervo
 dispensa cópia — mantê-la duas vezes suja o acervo.
 
 ## Antes de curar: qual argumento?

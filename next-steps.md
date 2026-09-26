@@ -56,19 +56,26 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
   - `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade → índice de temas →
     calendário) → `instituicao/comunicacao/`, junto com a transcrição 2026-09-23.
 
-- **Narrativa de carreira, excerto v8** (`fontes/documentos/2026-09-26-career-narrative-v8-excerto.raw.md`,
-  em inglês) — o repositório é o dono destas partes; o documento externo, complementar,
-  guarda o detalhe de carreira e passa a derivar daqui:
-  - `## 1. Purpose` e `## 2. Values` → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
+- **Narrativa de carreira v8** (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`, em
+  inglês) — encaixe seção por seção, tópico a tópico; o agente adianta o rascunho do que não
+  depende de decisão. O repositório é dono de propósito, valores, EPSO, direção e método; o
+  documento externo, complementar, é dono do detalhe de carreira e passa a derivar daqui.
+  O encaixe reescreve em português e na voz do incorporador, citando a fonte. Primeiro, os
+  destinos independentes:
   - Parágrafo do EPSO em `## 3. Career Vision` ("dois braços": ferramentas e catálogo; ideias
     entre culturas) → `instituicao/iniciativas/`. Diverge do README (construtora, ferramentas,
     plataforma): vira provocação em [elaborar](elaborar.md).
   - Pesquisa em IA eficiente (`## 3`) → checar fusão com `filosofia/hipoteses/inteligencia-potencializada.md`
     e `estudo/academia/foco.md`.
+  - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir: `meta/` ou
+    hipótese.
+
+  Depois, os que esperam outra fonte:
+  - `## 1. Purpose` e `## 2. Values` → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
   - Resto de `## 3` (autoridade de decisão, três autonomias, gestor generalista, áreas de
-    impacto) → `contexto/trajetoria.md`, junto com a transcrição "Estratégia profissional".
-  - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir no encaixe:
-    `meta/` ou hipótese.
+    impacto) → `contexto/trajetoria.md`, depois de passar a limpo a "Estratégia profissional".
+  - Seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações, registros, glossário)
+    → donas no documento externo; checar se algo alimenta `contexto/`, o resto fica como fonte.
 
 ## 4. Melhorias
 
@@ -84,5 +91,5 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
   construtora migrar.
 - Posição da visão dos produtos de software dentro das iniciativas — decidida quando o
   primeiro produto migrar.
-- Carreira num lugar só — hoje dividida entre o repositório (público) e o documento externo
-  da narrativa (privado, complementar). Revisitar quando houver solução para conteúdo privado.
+- Carreira num lugar só — hoje dividida entre o repositório e o documento externo da
+  narrativa (complementar). Revisitar quando os artefatos derivados estiverem concluídos.

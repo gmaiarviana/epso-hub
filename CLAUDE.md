@@ -20,7 +20,7 @@ Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cuj
 
 ## Organização e anti-redundância
 
-Cada informação mora em um lugar só. Referências apontam para o dono da informação. O repositório guarda o estado atual: não conta como era antes nem o caminho até a decisão — a genealogia vive no git. O porquê entra só quando é necessário para aplicar a regra. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
+Cada informação mora em um lugar só. Referências apontam para o dono da informação. O repositório guarda o estado atual: não conta como era antes nem o caminho até a decisão — a genealogia vive no git. Fica o que ajuda a agir: o sintoma ou mecanismo que faz reconhecer um problema, dados medidos que calibram uma regra e decisões que um critério exige registradas. Sai o relato: quem fez o quê, quando, como era antes. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
 
 O repositório se organiza em blocos por assunto; as fronteiras entre eles estão em [criterios.md](meta/estrutura/criterios.md). O mapa detalhado de cada frente entra no momento em que ela for migrada.
 

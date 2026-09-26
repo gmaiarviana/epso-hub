@@ -38,6 +38,12 @@ git worktree add ../epso-hub-<branch> -b <branch> origin/main
 
 e trabalhar dentro dele até o PR.
 
+**PR empilhado:** quando uma branch parte de outra cujo PR ainda está aberto (as duas mexem
+nos mesmos arquivos), o PR de cima mostra também os commits do de baixo — mesmo depois que o
+de baixo entra no `main`. Assim que ele entrar, rebasear a branch de cima em `origin/main` e
+enviar com `git push --force-with-lease`, só em branch de feature própria. Conferir com
+`gh pr view <n> --json commits,files` que o PR mostra só o que é dele.
+
 Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
 worktree é dispensável, e trabalha-se direto na branch designada pela sessão.
 

@@ -14,7 +14,7 @@ Português, sempre.
 
 ## Formato dos arquivos
 
-Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições são exceção: mantêm o bloco de metadados descrito em [meta/processo-transcricoes.md](meta/processo-transcricoes.md).)
+Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições e documentos brutos em `fontes/documentos/` são exceção: mantêm o bloco de metadados descrito em [meta/processo-transcricoes.md](meta/processo-transcricoes.md).)
 
 Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cujo alvo ainda não existe não é erro — é uma lacuna registrada, um pensamento a mapear. O método de trabalho com esses elos pendentes fica em `meta/metodologia.md` (a formalizar).
 

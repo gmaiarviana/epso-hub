@@ -56,6 +56,20 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
   - `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade → índice de temas →
     calendário) → `instituicao/comunicacao/`, junto com a transcrição 2026-09-23.
 
+- **Narrativa de carreira, excerto v8** (`fontes/documentos/2026-09-26-career-narrative-v8-excerto.raw.md`,
+  em inglês) — o repositório é o dono destas partes; o documento externo, complementar,
+  guarda o detalhe de carreira e passa a derivar daqui:
+  - `## 1. Purpose` e `## 2. Values` → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
+  - Parágrafo do EPSO em `## 3. Career Vision` ("dois braços": ferramentas e catálogo; ideias
+    entre culturas) → `instituicao/iniciativas/`. Diverge do README (construtora, ferramentas,
+    plataforma): vira provocação em [elaborar](elaborar.md).
+  - Pesquisa em IA eficiente (`## 3`) → checar fusão com `filosofia/hipoteses/inteligencia-potencializada.md`
+    e `estudo/academia/foco.md`.
+  - Resto de `## 3` (autoridade de decisão, três autonomias, gestor generalista, áreas de
+    impacto) → `contexto/trajetoria.md`, junto com a transcrição "Estratégia profissional".
+  - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir no encaixe:
+    `meta/` ou hipótese.
+
 ## 4. Melhorias
 
 - **Cosmovisão — a discussão aberta** identidade × paradigma da informação
@@ -70,3 +84,5 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
   construtora migrar.
 - Posição da visão dos produtos de software dentro das iniciativas — decidida quando o
   primeiro produto migrar.
+- Carreira num lugar só — hoje dividida entre o repositório (público) e o documento externo
+  da narrativa (privado, complementar). Revisitar quando houver solução para conteúdo privado.

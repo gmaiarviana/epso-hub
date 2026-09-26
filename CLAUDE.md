@@ -20,7 +20,7 @@ Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cuj
 
 ## Organização e anti-redundância
 
-Cada informação mora em um lugar só. Referências apontam para o dono da informação. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
+Cada informação mora em um lugar só. Referências apontam para o dono da informação. O repositório guarda o estado atual: não conta como era antes nem o caminho até a decisão — a genealogia vive no git. O porquê entra só quando é necessário para aplicar a regra. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
 
 O repositório se organiza em blocos por assunto; as fronteiras entre eles estão em [criterios.md](meta/estrutura/criterios.md). O mapa detalhado de cada frente entra no momento em que ela for migrada.
 
@@ -90,4 +90,4 @@ Staging é sempre intencional: adicionar arquivos por caminho explícito, um a u
 
 Branch nova nasce num worktree próprio, não por `switch` no diretório compartilhado — ver [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md).
 
-Antes de ler o repositório para planejar, confirmar que a base está no `origin/main` atual. O estado do git que chega no início da sessão é uma foto local, sem `fetch`; o hook de início de sessão ([.claude/settings.json](.claude/settings.json)) faz o `fetch` e avisa quantos commits o working copy está atrás. Se estiver atrás, atualizar — ou abrir worktree novo de `origin/main` — antes de ler. Caso real (2026-09-25): uma proposta foi montada sobre um `main` 17 commits atrás e usou nomes de etapa já substituídos.
+Antes de ler o repositório para planejar, confirmar que a base está no `origin/main` atual. O estado do git que chega no início da sessão é uma foto local, sem `fetch`; o hook de início de sessão ([.claude/settings.json](.claude/settings.json)) faz o `fetch` e avisa quantos commits o working copy está atrás. Se estiver atrás, atualizar — ou abrir worktree novo de `origin/main` — antes de ler.

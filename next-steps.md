@@ -5,8 +5,8 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 1. Passar a limpo
 
-Todas no formato antigo (bruto com seções na raiz de `fontes/transcricoes/`): passar a limpo
-leva o bruto para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
+Todas com o bruto seccionado na raiz de `fontes/transcricoes/`: passar a limpo leva o bruto
+para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
 `arquivo#secao` — se uma seção mudar de nome, as citações acompanham.
 
 - **2026-07-06 "Estratégia profissional"** — primeiro: é a fonte principal de `contexto/`.
@@ -59,7 +59,7 @@ se ajustam.
 
 ## Decisões adiadas
 
-- Incorporador × EPSO — hoje são uma coisa só. Quando se separarem (por exemplo, opinião que
+- Incorporador × EPSO — são uma coisa só. Quando se separarem (por exemplo, opinião que
   não seja pelo EPSO), revisitar a voz da comunicação, o bloco de contexto, os nomes de pasta
   e o nome do repositório.
 - Arquitetura de marca (EPSO como marca-mãe, construtora como submarca) — decidida quando a

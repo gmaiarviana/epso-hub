@@ -6,8 +6,8 @@ Os níveis a que estes critérios se referem estão descritos em [niveis.md](niv
 
 ## Fronteiras entre os blocos
 
-O mapa de pastas é do [README](../../README.md). Hoje o incorporador e o EPSO são uma coisa só;
-os blocos separam assuntos, não donos.
+O mapa de pastas é do [README](../../README.md). O incorporador e o EPSO são uma coisa só;
+os blocos separam assuntos.
 
 - **Estudo × filosofia/instituição** — estudo cuida da logística de aprender (o que ler, onde
   estudar, que experimento roda); o que se aprende é encaixado em filosofia ou na instituição.

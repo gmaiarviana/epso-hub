@@ -1,0 +1,1 @@
+Onde o incorporador está: trajetória, carreira, a empresa atual, lastro e o momento. É o pano de fundo que as decisões de estudo e do EPSO levam em conta. Começa enxuto em `trajetoria.md` e é alimentado aos poucos. Próximos passos em `next-steps.md`.

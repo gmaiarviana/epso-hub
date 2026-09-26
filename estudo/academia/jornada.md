@@ -52,8 +52,5 @@ uma disciplina como ouvinte antes da aprovação.
 - **Construção não é o objeto de estudo.** É prática (`instituicao/iniciativas/`); no máximo, tema em que se
   pode orientar ou aconselhar. O foco do estudo é o filosófico. Fonte:
   `#construcao-nao-e-o-foco-do-estudo`.
-- **A empresa atual é entrada real, não conforto.** Dá flexibilidade e qualidade de vida
-  (trabalho que cabe em menos de 40h) e respaldo institucional: estar em mestrado/doutorado é
-  bem visto e alimenta o crescimento corporativo (horizonte de diretoria em 10-15 anos).
-  Aberto a trocar por uma instituição que impulsione mais, mas não é o foco agora. Fonte:
-  `#a-empresa-flexibilidade-e-crescimento-institucional`.
+- **A empresa atual é uma possibilidade de entrada.** Valoriza o estudo e dá flexibilidade
+  para ele; o contexto vive na [trajetória](../../contexto/trajetoria.md#a-empresa-atual).

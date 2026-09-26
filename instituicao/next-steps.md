@@ -1,13 +1,11 @@
 # Próximos passos — Instituição
 
-O EPSO — a institucionalização das ideias e práticas, que pode andar sem a pessoa. Núcleo,
-iniciativas, comunicação e financiamento; sub-blocos viram seções abaixo. O que falta migrar
+A organização do EPSO: núcleo, iniciativas, comunicação e financiamento; sub-blocos viram seções abaixo. O que falta migrar
 para o núcleo e as iniciativas está na fila do [next-steps da raiz](../next-steps.md).
 
 ## Comunicação
 
-É do incorporador, mas nasce fundida ao EPSO; mora aqui até as vozes se separarem. Pautas de
-gravação geradas pelo calendário entram nesta seção.
+Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravação geradas pelo calendário entram nesta seção.
 
 1. **Arco narrativo** — definir os arcos adequados a pautas de pensamento ([dimensoes.md](comunicacao/metodo/dimensoes.md#arco-narrativo--estrutura)).
 2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois.

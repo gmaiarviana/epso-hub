@@ -18,20 +18,17 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
 
 ## 2. Trabalhos em aberto
 
-1. **Encaixe de 2026-09-22 ([PR #23](https://github.com/gmaiarviana/epso-hub/pull/23))** —
-   feito sobre os caminhos antigos (`pensamento/estudos/`); adaptar à estrutura em blocos
-   antes do merge.
-2. **Migração, sessão 2 — Academia.** `leituras` → `estudo/academia/leituras-entrada.md` e
+1. **Migração, sessão 2 — Academia.** `leituras` → `estudo/academia/leituras-entrada.md` e
    `leituras-tese.md`; `mapeamento-academico` → `estudo/academia/mapeamento.md`.
-3. **Migração, sessão 3 — mop-up e aposentadoria.** Parciais menores; inventário
+2. **Migração, sessão 3 — mop-up e aposentadoria.** Parciais menores; inventário
    ([meta/estrutura/migracao-epso-paradigm.md](meta/estrutura/migracao-epso-paradigm.md)) todo
    `[x]`; então aposentar e deletar o `epso_paradigm`.
-4. **Núcleo do EPSO** — propósito, valores, postura (do `epso_paradigm`, do Documento
+3. **Núcleo do EPSO** — propósito, valores, postura (do `epso_paradigm`, do Documento
    Institucional e da página "Base de pensamento" do site,
    https://www.erapraserobvio.com.br/quem-somos/base-de-pensamento, com o método de 4 etapas
    de `/plataforma`). A postura epistemológica compara-se antes com
    `filosofia/hipoteses/precisao.md`, que já tem a raiz "a realidade excede a verdade".
-5. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
+4. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Registrar
    também as ferramentas livres já publicadas no site (Taquígrafo, Camadas da Linguagem).
 
@@ -39,18 +36,25 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
 
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
   — destinos prováveis: eixos, chamados e temáticas na linha editorial da comunicação;
-  portais da plataforma nas iniciativas; `#portal-linguagem` funde com
-  `2026-06-26-…#abstrair-as-palavras`; `#eixo-mercado` e `#plataforma-e-autoridade` em
-  `contexto/`.
+  portais da plataforma nas iniciativas; `#eixo-mercado` e `#plataforma-e-autoridade` em
+  `contexto/`. `#portal-linguagem` já está em `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-09-24** (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)
-  — destinos prováveis: atenção e corpo em `filosofia/cosmovisao/quem-sou-eu.md`; linguagem
-  como tecnologia da informação e camadas de sentido em `filosofia/hipoteses/`.
+  — de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
+  `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
+  checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`.
 - **Conversa 2026-07-07** (`fontes/conversas/`) — duas ideias: na migração, reaproveitar as
   ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent é
-  um produto dentro dela; modelo de conceitos, não de tokens).
-
-O PR #23 já encaixa parte das falas de 23/9 e 24/9 sobre linguagem; ao entrar, estes itens
-se ajustam.
+  um produto dentro dela).
+- **Transcrição 2026-09-22, seções sem encaixe** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`):
+  - `#fora-do-paradigma-mecanicista` (valores: regeneração, coletividade, colaboração,
+    combate à desigualdade) → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
+  - `#instituicoes-do-novo-paradigma` (instituições do novo paradigma e renda) e
+    `#novas-instituicoes-e-rotina-autonoma` (rotina autônoma, cuidado de si junto com entrega
+    de valor) → `contexto/trajetoria.md`.
+  - `#empreender-em-construcao-sustentavel` → `instituicao/iniciativas/`, junto com a
+    construtora.
+  - `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade → índice de temas →
+    calendário) → `instituicao/comunicacao/`, junto com a transcrição 2026-09-23.
 
 ## 4. Melhorias
 

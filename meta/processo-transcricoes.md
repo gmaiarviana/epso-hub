@@ -67,6 +67,9 @@ Passos do encaixe:
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
+- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador) ou entrou no tier 3 do [next-steps da raiz](../next-steps.md) como encaixe com destino. Só então o item de encaixe sai da fila.
+
+Nem tudo se elabora no encaixe. O que pede reflexão nova do incorporador não se resolve na hora: vira provocação em [elaborar](../elaborar.md), e o arquivo de conteúdo guarda o mínimo em aberto — no máximo um ponteiro para lá.
 
 Abordagem em camadas:
 

@@ -50,7 +50,7 @@ reunidos num arquivo só.
 - [x] `problemas-abertos/criterio-de-falsidade.md` → **fundido** em `hipoteses/precisao.md` (a intenção separa a leitura parcial da distorção; avaliar a intenção de fora fica em aberto).
 - [x] `problemas-abertos/regua-de-critica.md` → **fundido** em `hipoteses/precisao.md` (a régua são os eixos de precisão; a medição é uma página do livro).
 - [x] `problemas-abertos/tradicao-epistemologica.md` → **fundido** em `hipoteses/precisao.md#em-aberto` (Popper: referência, não prisão).
-- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `hipoteses/precisao.md` (comunicar na camada que o outro alcança).
+- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `hipoteses/precisao.md` (a resposta) e `hipoteses/linguagem.md` (comunicar na camada que o outro alcança).
 - [x] `problemas-abertos/ponte-fisica-quantica.md` → **fundido** em `hipoteses/precisao.md#em-aberto` (paradigma a elaborar; cuidado com o homônimo "observador").
 - [x] `problemas-abertos/no-da-medicao.md` → **fundido** em `hipoteses/precisao.md` (a medição acompanha, não fundamenta).
 - [x] `problemas-abertos/mestrado-pernas-proprias.md` → **evoluído** em `estudo/academia/jornada.md`.

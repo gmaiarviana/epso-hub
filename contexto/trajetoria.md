@@ -1,6 +1,6 @@
 # Trajetória
 
-*Em construção. Registra onde a pessoa está e para onde caminha — carreira, a empresa atual,
+*Em construção. Registra onde o incorporador está e para onde caminha — carreira, a empresa atual,
 lastro, o momento. Alimentado aos poucos; divide-se em arquivos quando crescer.*
 
 ## A empresa atual

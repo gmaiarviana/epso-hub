@@ -59,11 +59,9 @@ se ajustam.
 
 ## Decisões adiadas
 
-- Nome do repositório — `epso-hub` guarda a pessoa e o EPSO. Renomear custa (GitHub,
-  caminhos locais, worktrees, memória do agente); a reestruturação em blocos terminou, então
-  a decisão já pode ser tomada.
-- Voz da comunicação — pessoa e EPSO fundidos no começo; reorganizar quando surgir opinião
-  que não seja pelo EPSO.
+- Incorporador × EPSO — hoje são uma coisa só. Quando se separarem (por exemplo, opinião que
+  não seja pelo EPSO), revisitar a voz da comunicação, o bloco de contexto, os nomes de pasta
+  e o nome do repositório.
 - Arquitetura de marca (EPSO como marca-mãe, construtora como submarca) — decidida quando a
   construtora migrar.
 - Posição da visão dos produtos de software dentro das iniciativas — decidida quando o

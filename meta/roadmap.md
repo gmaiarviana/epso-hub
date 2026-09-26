@@ -3,9 +3,6 @@
 As regras dos arquivos `next-steps.md`: onde cada pendência mora, em que ordem a fila anda e
 como se atualiza. Os `next-steps.md` são a aplicação destas regras — não as repetem.
 
-Regra provisória, até o motor de workflow definir o formato final do roadmap (ver
-[next-steps.md](next-steps.md)).
-
 ## Onde cada pendência mora
 
 Processual e pontual não se misturam:
@@ -38,4 +35,4 @@ Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador r
   entra, sai ou muda de tier/ordem um item; `meta/next-steps.md` muda quando a sessão deixa
   pendência de processo.
 - O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem
-  arquivado; o histórico vive no git.
+  arquivado; o histórico vive no git. Tier ou seção sem itens não aparece.

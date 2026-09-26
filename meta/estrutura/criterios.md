@@ -4,20 +4,18 @@ Estes critérios são hipóteses de trabalho, revisáveis quando um novo conteú
 
 Os níveis a que estes critérios se referem estão descritos em [niveis.md](niveis.md).
 
-## Os blocos: a pessoa e a instituição
+## Fronteiras entre os blocos
 
-O repositório guarda duas coisas: **a pessoa** (o incorporador) e **a instituição** (o EPSO,
-que pode andar sem a pessoa). O mapa de pastas é do [README](../../README.md). Fronteiras entre
-os blocos:
+O mapa de pastas é do [README](../../README.md). Hoje o incorporador e o EPSO são uma coisa só;
+os blocos separam assuntos, não donos.
 
 - **Estudo × filosofia/instituição** — estudo cuida da logística de aprender (o que ler, onde
   estudar, que experimento roda); o que se aprende é encaixado em filosofia ou na instituição.
 - **Experimentos** — de produto ou solução, na instituição; de aprendizado, em estudo.
-- **Núcleo** — é da instituição. A filosofia pessoal fica em `filosofia/`; o núcleo deriva
-  dela e se sustenta sozinho.
-- **Comunicação** — é do incorporador, mas nasce fundida ao EPSO; mora na instituição até
-  as vozes se separarem.
-- **Contexto** — onde a pessoa está (carreira, empresa atual, lastro, momento). O que é
+- **Núcleo × filosofia** — a filosofia é o pensamento do EPSO; o núcleo é a régua que decide
+  o que pertence a ele (propósito, valores, postura).
+- **Comunicação** — as vozes do incorporador e do EPSO são uma só por enquanto.
+- **Contexto** — onde o incorporador está (carreira, empresa atual, lastro, momento). O que é
   logística de estudo fica em estudo; o contexto dá o porquê.
 
 ## Caso 1 — nasce num nível e fica

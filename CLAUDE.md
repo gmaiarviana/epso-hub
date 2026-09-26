@@ -22,7 +22,7 @@ Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cuj
 
 Cada informação mora em um lugar só. Referências apontam para o dono da informação. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
 
-O repositório se organiza em blocos — a pessoa (filosofia, estudo, contexto) e a instituição (o EPSO); as fronteiras entre eles estão em [criterios.md](meta/estrutura/criterios.md). O mapa detalhado de cada frente entra no momento em que ela for migrada.
+O repositório se organiza em blocos por assunto; as fronteiras entre eles estão em [criterios.md](meta/estrutura/criterios.md). O mapa detalhado de cada frente entra no momento em que ela for migrada.
 
 Os níveis de abrangência do conteúdo e os critérios de onde cada coisa mora estão em [meta/estrutura/](meta/estrutura/): [niveis.md](meta/estrutura/niveis.md) descreve os três níveis, [criterios.md](meta/estrutura/criterios.md) decide o destino e [mapa-documento-institucional.md](meta/estrutura/mapa-documento-institucional.md) traz um exemplo aplicado.
 

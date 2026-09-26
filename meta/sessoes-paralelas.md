@@ -14,10 +14,6 @@ Duas ou mais sessões abertas no **mesmo diretório** do repositório compartilh
 vazia enquanto o commit aparece noutra; commits de sessões diferentes se intercalam numa
 linha só. No `git reflog` surgem `checkout: moving from X to Y` e `commit:` que você não fez.
 
-**Caso real (2026-09-22):** uma sessão criou `docs/plano-migracao-epso-paradigm`; outra
-sessão (transcrições) fez checkout para a própria branch no meio de um commit; o commit da
-primeira caiu como base da branch da segunda, e a branch da primeira ficou vazia no `main`.
-
 ## Prevenção: um worktree por sessão
 
 Cada sessão paralela deve ter seu **próprio working copy isolado**. A forma leve é um
@@ -40,9 +36,7 @@ já num worktree próprio:
 git worktree add ../epso-hub-<branch> -b <branch> origin/main
 ```
 
-e trabalhar dentro dele até o PR. Caso real que motivou a regra (2026-09-23): o `git switch`
-da sessão de comunicação fez o commit da sessão de transcrições cair na branch
-`comunicacao-metodo`.
+e trabalhar dentro dele até o PR.
 
 Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
 worktree é dispensável, e trabalha-se direto na branch designada pela sessão.

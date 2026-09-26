@@ -20,9 +20,9 @@ Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cuj
 
 ## Organização e anti-redundância
 
-Cada informação mora em um lugar só. Referências apontam para o dono da informação. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
+Cada informação mora em um lugar só. Referências apontam para o dono da informação. O repositório guarda o estado atual: não conta como era antes nem o caminho até a decisão — a genealogia vive no git. Fica o que ajuda a agir: o sintoma ou mecanismo que faz reconhecer um problema, dados medidos que calibram uma regra e decisões que um critério exige registradas. Sai o relato: quem fez o quê, quando, como era antes. O mapa de pastas é do [README.md](README.md) — consultar lá, não repetir aqui.
 
-Hoje o repositório está em migração inicial: núcleo, cosmovisão, estudos, prática e academia nascem como pastas e recebem conteúdo em sessões seguintes. O mapa detalhado de cada frente entra no momento em que ela for migrada.
+O repositório se organiza em blocos por assunto; as fronteiras entre eles estão em [criterios.md](meta/estrutura/criterios.md). O mapa detalhado de cada frente entra no momento em que ela for migrada.
 
 Os níveis de abrangência do conteúdo e os critérios de onde cada coisa mora estão em [meta/estrutura/](meta/estrutura/): [niveis.md](meta/estrutura/niveis.md) descreve os três níveis, [criterios.md](meta/estrutura/criterios.md) decide o destino e [mapa-documento-institucional.md](meta/estrutura/mapa-documento-institucional.md) traz um exemplo aplicado.
 
@@ -53,6 +53,7 @@ Cada processo específico tem seu próprio documento, carregado quando o fluxo �
 - Registro de transcrições → [meta/processo-transcricoes.md](meta/processo-transcricoes.md)
 - Sessões Claude em paralelo (higiene de working copy) → [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md)
 - Encerramento de sessão ("vamos encerrar") → [meta/processo-encerramento.md](meta/processo-encerramento.md)
+- Roadmap (regras dos next-steps) → [meta/roadmap.md](meta/roadmap.md)
 
 ## Postura
 
@@ -79,26 +80,7 @@ O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes 
 
 ## Encerramento de sessão
 
-Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [meta/processo-encerramento.md](meta/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam abaixo (o processo de encerramento aponta para cá, não as duplica).
-
-Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a atualização do `next-steps.md` da(s) frente(s) trabalhada(s).
-
-Processual e pontual não se misturam:
-
-- **`meta/next-steps.md`** — o que falta em **processo e método** (como trabalhamos). É onde cai proposta de retrospectiva adiada.
-- **`next-steps.md` da raiz** — a **fila de conteúdo** entre frentes, em ordem. Não acumula os passos internos das frentes.
-- **`<frente>/next-steps.md`** (ex.: `estudo/next-steps.md`) — os passos internos de conteúdo de cada frente.
-
-Diretrizes de ordem:
-
-- **Fontes primeiro.** Todo áudio passa por registrar → passar a limpo → encaixar ([processo](meta/processo-transcricoes.md)); esse fluxo abre a fila da raiz.
-- **Conteúdo entre blocos depois**, na ordem da fila.
-- **Melhoria não entra na fila da raiz.** A que é exclusiva de um bloco vai para o next-steps dele; a transversal ou de método, para `meta/next-steps.md`.
-- **Rotinas de criação de conteúdo** ficam fora da fila ativa até o incorporador retomá-las.
-
-Ao encerrar, atualiza-se o next-steps da(s) frente(s) tocada(s); a fila da raiz muda quando entra, sai ou muda de ordem um item entre frentes; `meta/next-steps.md` muda quando a sessão deixa pendência de processo.
-
-O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem arquivado; o histórico vive no git. Regra provisória, até o motor de workflow definir o formato final do roadmap (ver [meta/next-steps.md](meta/next-steps.md)).
+Acionado pela frase **"vamos encerrar"**, o encerramento roda o ritual completo descrito em [meta/processo-encerramento.md](meta/processo-encerramento.md): (1) **retrospectiva de processo** — reler a sessão e checar se algum processo definido precisa evoluir; (2) atualizar next-steps e limpar o que ficou obsoleto; (3) lembrar de registrar ideias da conversa em `fontes/conversas/`, se houver; (4) finalizar no git. As mecânicas de next-steps ficam em [meta/roadmap.md](meta/roadmap.md).
 
 ## Fluxo git
 
@@ -108,4 +90,4 @@ Staging é sempre intencional: adicionar arquivos por caminho explícito, um a u
 
 Branch nova nasce num worktree próprio, não por `switch` no diretório compartilhado — ver [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md).
 
-Antes de ler o repositório para planejar, confirmar que a base está no `origin/main` atual. O estado do git que chega no início da sessão é uma foto local, sem `fetch`; o hook de início de sessão ([.claude/settings.json](.claude/settings.json)) faz o `fetch` e avisa quantos commits o working copy está atrás. Se estiver atrás, atualizar — ou abrir worktree novo de `origin/main` — antes de ler. Caso real (2026-09-25): uma proposta foi montada sobre um `main` 17 commits atrás e usou nomes de etapa já substituídos.
+Antes de ler o repositório para planejar, confirmar que a base está no `origin/main` atual. O estado do git que chega no início da sessão é uma foto local, sem `fetch`; o hook de início de sessão ([.claude/settings.json](.claude/settings.json)) faz o `fetch` e avisa quantos commits o working copy está atrás. Se estiver atrás, atualizar — ou abrir worktree novo de `origin/main` — antes de ler.

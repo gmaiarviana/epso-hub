@@ -1,0 +1,1 @@
+A organização do EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/). O núcleo (`nucleo/`) é a régua do que pertence ao EPSO; as iniciativas (`iniciativas/`) são o lado do fazer; comunicação e financiamento servem a elas. Próximos passos em `next-steps.md`.

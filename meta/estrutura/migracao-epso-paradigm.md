@@ -1,6 +1,6 @@
 # Migração do epso_paradigm
 
-Inventário vivo da migração do antigo repositório `epso_paradigm` para o epso-hub. As sessões da
+Inventário vivo da migração do repositório `epso_paradigm` para o epso-hub. As sessões da
 migração estão na fila do [next-steps da raiz](../../next-steps.md). O `epso_paradigm`
 segue vivo como fonte e só é **aposentado e deletado quando todo objeto necessário estiver migrado**
 — este doc é o critério de "quando".
@@ -24,7 +24,7 @@ não existe como pensamento encaixado no hub.
 
 ### Universo 1 — jornada
 
-- [x] `foco-academico.md` → **coberto**: `estudo/academia/foco.md`, `estudo/academia/jornada.md`, `pensamento/cosmovisao/a-tese.md`.
+- [x] `foco-academico.md` → **coberto**: `estudo/academia/foco.md`, `estudo/academia/jornada.md`, `filosofia/cosmovisao/a-tese.md`.
 - [ ] `frentes/leituras.md` → **faltando** · destino `estudo/academia/leituras-entrada.md` + `leituras-tese.md` (nomeados, vazios) · **inserir**.
 - [ ] `frentes/mapeamento-academico.md` → **faltando** · destino `estudo/academia/mapeamento.md` (nomeado, vazio) · **inserir**.
 - [ ] `frentes/posicionamento.md` → **parcial** · destino `estudo/academia/jornada.md` · **evoluir** (recuperar "forças que você traz" + item "virar pitch").
@@ -32,8 +32,8 @@ não existe como pensamento encaixado no hub.
 
 ### Universo 2 — conceitos
 
-Os cinco conceitos eram uma corrente só — a resposta a "quem sou eu?" — e viraram um arquivo
-em `cosmovisao/` (sessão 1, 2026-09-23).
+Os cinco conceitos são uma corrente só — a resposta a "quem sou eu?" — e moram num arquivo
+em `cosmovisao/`.
 
 - [x] `conceitos/atencao.md` → **evoluído** em `cosmovisao/quem-sou-eu.md#sou-minha-atenção`.
 - [x] `conceitos/observador.md` → **evoluído** em `cosmovisao/quem-sou-eu.md#sou-o-observador`. A testemunha e o "observador situado" são o mesmo conceito: não se controla o filme, mas o assento, a companhia e a mentalidade mudam a experiência.
@@ -43,49 +43,27 @@ em `cosmovisao/` (sessão 1, 2026-09-23).
 
 ### Universo 2 — problemas abertos
 
-Camada crítica. Os seis problemas epistemológicos eram galhos de um só argumento — "a realidade
-excede a verdade; as leituras são mais ou menos precisas" — e foram respondidos pelo incorporador
-na sessão 1 (2026-09-23). Viraram um arquivo só, em vez de seis.
+Camada crítica. Os seis problemas epistemológicos são galhos de um só argumento — "a realidade
+excede a verdade; as leituras são mais ou menos precisas" — respondidos pelo incorporador e
+reunidos num arquivo só.
 
-- [x] `problemas-abertos/criterio-de-falsidade.md` → **fundido** em `estudos/precisao.md` (a intenção separa a leitura parcial da distorção; avaliar a intenção de fora fica em aberto).
-- [x] `problemas-abertos/regua-de-critica.md` → **fundido** em `estudos/precisao.md` (a régua são os eixos de precisão; a medição é uma página do livro).
-- [x] `problemas-abertos/tradicao-epistemologica.md` → **fundido** em `estudos/precisao.md#em-aberto` (Popper: referência, não prisão).
-- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `estudos/precisao.md` (comunicar na camada que o outro alcança). Em 2026-09-25 a seção completa mudou para `estudos/linguagem.md`; `precisao.md` guarda a resposta e aponta para lá.
-- [x] `problemas-abertos/ponte-fisica-quantica.md` → **fundido** em `estudos/precisao.md#em-aberto` (paradigma a elaborar; cuidado com o homônimo "observador").
-- [x] `problemas-abertos/no-da-medicao.md` → **fundido** em `estudos/precisao.md` (a medição acompanha, não fundamenta). Destino mudou de `ancora.md` para `precisao.md`.
+- [x] `problemas-abertos/criterio-de-falsidade.md` → **fundido** em `hipoteses/precisao.md` (a intenção separa a leitura parcial da distorção; avaliar a intenção de fora fica em aberto).
+- [x] `problemas-abertos/regua-de-critica.md` → **fundido** em `hipoteses/precisao.md` (a régua são os eixos de precisão; a medição é uma página do livro).
+- [x] `problemas-abertos/tradicao-epistemologica.md` → **fundido** em `hipoteses/precisao.md#em-aberto` (Popper: referência, não prisão).
+- [x] `problemas-abertos/paradigma-auto-imunizante.md` → **fundido** em `hipoteses/precisao.md` (a resposta) e `hipoteses/linguagem.md` (comunicar na camada que o outro alcança).
+- [x] `problemas-abertos/ponte-fisica-quantica.md` → **fundido** em `hipoteses/precisao.md#em-aberto` (paradigma a elaborar; cuidado com o homônimo "observador").
+- [x] `problemas-abertos/no-da-medicao.md` → **fundido** em `hipoteses/precisao.md` (a medição acompanha, não fundamenta).
 - [x] `problemas-abertos/mestrado-pernas-proprias.md` → **evoluído** em `estudo/academia/jornada.md`.
 
 ### Universo 2 — sínteses
 
-- [ ] `sinteses/nucleo-da-tese.md` → **parcial** · destino `cosmovisao/a-tese.md`, `estudos/vetor.md` · **evoluir**. A consequência da medição e Paulo Freire já entraram em `estudos/precisao.md` (2026-09-23). Falta: o choque de vetores como sinal de algo não dito (princípio de leitura) e as "sete camadas" de uma meditação anterior (cruzamento dos dois eixos da identidade).
+- [ ] `sinteses/nucleo-da-tese.md` → **parcial** · destino `cosmovisao/a-tese.md`, `hipoteses/vetor.md` · **evoluir**. A consequência da medição e Paulo Freire estão em `hipoteses/precisao.md`. Falta: o choque de vetores como sinal de algo não dito (princípio de leitura) e as "sete camadas" de uma meditação anterior (cruzamento dos dois eixos da identidade).
 
 ### Aposentado
 
-- [x] `mapa-do-sistema.md` → **não migra**: a ontologia (3 compartimentos; conceitos→argumentos→teses→sínteses) foi substituída pela estrutura própria do hub ([niveis.md](niveis.md), [criterios.md](criterios.md)). Função coberta, forma abandonada por decisão.
-
-## Plano em 3 sessões
-
-Uma frente por sessão, maior perda primeiro.
-
-1. **Pensamento** (estudos + cosmovisão) — a camada `problemas-abertos` + triagem dos conceitos entre
-   assentado (`cosmovisao/`) e hipótese em aberto (`estudos/`). Maior perda, mais cara de reconstruir.
-2. **Academia** (campo) — `leituras` → `leituras-entrada.md`/`leituras-tese.md`; `mapeamento-academico` → `mapeamento.md`.
-3. **Mop-up + aposentadoria** — parciais menores (`posicionamento`, `painel-de-controle`) nos next-steps;
-   conferir o inventário todo `[x]`; então retirar e deletar o `epso_paradigm`.
+- [x] `mapa-do-sistema.md` → **não migra**: a ontologia (3 compartimentos; conceitos→argumentos→teses→sínteses) tem a função coberta pela estrutura própria do hub ([niveis.md](niveis.md), [criterios.md](criterios.md)); a forma não migra, por decisão.
 
 ## Critério de deleção
 
 O `epso_paradigm` só é deletado quando **todo item deste inventário estiver `[x]`** (migrado ou
 aposentado por decisão registrada). Até lá, ele permanece como fonte de leitura.
-
-## Evolução do planejamento
-
-- **2026-09-22** — inventário criado a partir da varredura de cobertura dos 19 arquivos. Diagnóstico:
-  1 coberto, 7 parciais, 11 faltando; a camada `problemas-abertos` (6/7) e o legwork acadêmico não
-  foram carregados no "primeiro corte" da migração. Plano de 3 sessões definido.
-- **2026-09-23** — sessão 1, parte 1: a camada `problemas-abertos` migrada (6 fundidos em
-  `estudos/precisao.md`, 1 evoluído em `estudo/academia/jornada.md`). A raiz "a realidade excede a
-  verdade" ganhou dono em `precisao.md`. Próximo: os cinco conceitos.
-- **2026-09-23** — sessão 1, parte 2: os cinco conceitos migrados para
-  `cosmovisao/quem-sou-eu.md`. Sessão 1 concluída; o método "qual argumento?" entrou na
-  [curadoria](curadoria.md).

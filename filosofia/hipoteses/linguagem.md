@@ -196,4 +196,4 @@ Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-li
 
 ## Em aberto
 
-Ver [em espera](../../fontes/em-espera.md#linguagem).
+Ver [elaborar](../../elaborar.md#linguagem).

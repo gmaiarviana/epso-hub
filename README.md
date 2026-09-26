@@ -1,8 +1,8 @@
 # EPSO
 
-O EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/) — é um projeto de contribuição que se organiza em torno de uma tese: trazer clareza para contribuir com a transformação da sociedade. É a institucionalização das minhas ideias e práticas: eu sou uma pessoa; o EPSO pode ganhar vida própria e andar sem mim.
+O EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/) — é um projeto de contribuição que se organiza em torno de uma tese: trazer clareza para contribuir com a transformação da sociedade. É a institucionalização das minhas ideias e práticas. Hoje eu e o EPSO somos uma coisa só; um dia ele pode ganhar vida própria.
 
-Este repositório reúne, num lugar só e legível por mim e por agentes de IA, as duas coisas: o que eu penso, estudo e vivo, e o EPSO.
+Este repositório reúne o EPSO num lugar só, legível por mim e por agentes de IA.
 
 ## A balança: pensamento e prática
 
@@ -10,22 +10,23 @@ O EPSO se sustenta no equilíbrio entre falar e fazer. O pensamento fundamenta e
 
 ## Organização
 
-Em transição para blocos que separam a pessoa e a instituição — estrutura-alvo e etapas no
-[next-steps](next-steps.md#2-reestruturação-em-blocos). O mapa abaixo é o estado atual.
+Blocos por assunto. Fronteiras entre eles em [meta/estrutura/criterios.md](meta/estrutura/criterios.md).
 
-- **nucleo/** — propósito, valores e postura. A régua que decide o que pertence ao EPSO. Herdada por todas as frentes.
-- **pensamento/** — o lado do falar.
+- **filosofia/** — o lado do falar: as ideias e o pensamento.
   - **cosmovisao/** — a obra filosófica assentada, futura tese e livro.
-  - **estudos/** — hipóteses em aberto, recortes que podem virar pesquisa.
-- **pratica/** — o lado do fazer. Abriga a construtora e, no futuro, outras frentes concretas e a visão dos produtos de software.
-- **estudo/** — o processo de aprender: cuida da logística (o que ler, onde estudar, que experimento roda); o que se aprende é encaixado em pensamento ou na prática.
+  - **hipoteses/** — hipóteses em aberto, recortes que podem virar pesquisa.
+- **estudo/** — o processo de aprender: cuida da logística (o que ler, onde estudar, que experimento roda); o que se aprende é encaixado em filosofia ou na instituição.
   - **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
-- **comunicacao/** — como o pensamento e a prática chegam ao público: método de construção da linha editorial e de produção de conteúdo a partir do acervo. Meio a serviço do EPSO.
-- **funding/** — alavanca de financiamento a serviço do EPSO: editais de inovação, startups, aceleradoras, bolsas de execução de projeto. Serve as iniciativas; meio, não fim.
+- **contexto/** — onde o incorporador está: trajetória, carreira, a empresa atual, lastro e o momento.
+- **instituicao/** — a organização do EPSO: o núcleo, as iniciativas e o que as serve.
+  - **nucleo/** — propósito, valores e postura. A régua que decide o que pertence ao EPSO. Herdada pelas iniciativas.
+  - **iniciativas/** — o lado do fazer. Abriga a construtora, as ferramentas livres, a plataforma e a visão dos produtos de software.
+  - **comunicacao/** — como o pensamento e a prática chegam ao público: método de construção da linha editorial e de produção de conteúdo a partir do acervo. Por enquanto, a voz do incorporador e a do EPSO são uma só.
+  - **financiamento/** — alavanca de financiamento a serviço do EPSO: editais de inovação, startups, aceleradoras, bolsas de execução de projeto. Serve as iniciativas; meio, não fim.
 - **fontes/** — o material-fonte que se encaixa no acervo e nas frentes, na voz do incorporador; preservado e datado.
   - **transcricoes/** — falas gravadas: bruto intocado, cópia limpa e áudio (não versionado).
   - **conversas/** — ideias que surgiram em conversas escritas (chat), registradas como fonte.
-  - **em-espera.md** — o que já saiu das fontes e ainda não encaixou: pauta para elaborar e tópicos sem casa.
+- **elaborar.md** — a pauta do incorporador: tópicos que pedem reflexão nova, para gravar ou conversar.
 - **meta/** — o repositório, os processos e o agente: como trabalhamos. Estrutura e critérios de onde cada coisa mora, processos (transcrições, encerramento, sessões paralelas) e o roadmap de método. O `CLAUDE.md` fica na raiz.
 
 ## Código

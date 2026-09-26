@@ -31,7 +31,7 @@ rivais:
   tecnologia é o que torna esse reunir possível agora; separar a troca de ideias (global) do
   gasto de matéria (local), e impulsionar o novo paradigma para que seja benéfico, não
   destrutivo. A história dos saltos — fala, escrita, matemática, tecnologia da informação —
-  vive em [linguagem](../estudos/linguagem.md).
+  vive em [linguagem](../hipoteses/linguagem.md).
 - **A mudança de paradigma sobre a realidade** — sair de um entendimento predominantemente
   material para um equilíbrio não dual (matéria e ideia, físico e abstrato).
 - **A aplicação regenerativa** — mudar hábitos individuais e coletivos decorre de mudar o
@@ -52,7 +52,7 @@ premissa-raiz. A resposta muda o recorte e o departamento (filosofia × ciência
 Um dado a favor do lado da informação: um novo paradigma de tecnologia da informação dá as
 bases colaborativas globais de que os sistemas de cidades sustentáveis precisam — *é assim que
 talvez eu conecto tudo*. Mas ainda sem saber por onde começar, nem em que área se encaixa.
-O argumento da informação ganhou corpo em [linguagem](../estudos/linguagem.md).
+O argumento da informação vive em [linguagem](../hipoteses/linguagem.md).
 
 Fonte: `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#tecnologia-da-informacao-como-paradigma`,
 `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#como-tudo-se-conecta`.

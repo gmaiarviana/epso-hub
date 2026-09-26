@@ -69,4 +69,4 @@ Fonte: [22/9]`#semiotica-e-intencao`.
 
 ## Em aberto
 
-Ver [em espera](../../fontes/em-espera.md#inteligência-potencializada).
+Ver [elaborar](../../elaborar.md#inteligência-potencializada).

@@ -5,12 +5,14 @@
 ## Frente
 
 <!-- Marque as tocadas -->
-- [ ] núcleo
-- [ ] pensamento/cosmovisão
-- [ ] pensamento/estudos
-- [ ] prática
+- [ ] instituição/núcleo
+- [ ] filosofia/cosmovisão
+- [ ] filosofia/hipóteses
+- [ ] instituição/iniciativas
+- [ ] instituição/comunicação
 - [ ] estudo
-- [ ] funding
+- [ ] contexto
+- [ ] instituição/financiamento
 - [ ] transcrições
 - [ ] meta (estrutura, processos)
 - [ ] raiz (README, next-steps EPSO)

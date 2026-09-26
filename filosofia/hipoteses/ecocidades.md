@@ -81,4 +81,4 @@ Fonte: [22/9]`#transicao-para-ecocidades`.
 
 ## Em aberto
 
-Ver [em espera](../../fontes/em-espera.md#ecocidades).
+Ver [elaborar](../../elaborar.md#ecocidades).

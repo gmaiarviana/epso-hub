@@ -2,10 +2,10 @@
 
 *Em aberto. Registra as possibilidades e a direção do interesse, não decisões. O
 recorte fino decorre da discussão identidade × paradigma da informação
-(`pensamento/cosmovisao/a-tese.md`) — enquanto ela não assenta, aqui ficam
+(`filosofia/cosmovisao/a-tese.md`) — enquanto ela não assenta, aqui ficam
 referências e candidatos, não cravos.*
 
-A substância da tese vive em `pensamento/`; aqui fica só o recorte — que fatia
+A substância da tese vive em `filosofia/`; aqui fica só o recorte — que fatia
 estudar e por quê. A logística de entrada (fases, mestrado × doutorado) vive em
 [jornada](jornada.md).
 
@@ -15,9 +15,9 @@ O interesse se concentra na camada filosófica mais profunda: a natureza das ide
 antes e por baixo das palavras. Duas faces do mesmo lugar:
 
 - **A forma das ideias** — a hipótese de que uma ideia é um vetor, e o que decorre
-  disso. Ver [vetor](../../pensamento/estudos/vetor.md).
+  disso. Ver [vetor](../../filosofia/hipoteses/vetor.md).
 - **A epistemológica** — a âncora já é ela mesma uma leitura; o observador entra na
-  observação; a realidade excede a verdade. Ver [âncora](../../pensamento/estudos/ancora.md).
+  observação; a realidade excede a verdade. Ver [âncora](../../filosofia/hipoteses/ancora.md).
 
 São a mesma pergunta — o que uma ideia é — vista de dois ângulos.
 
@@ -41,4 +41,4 @@ completa fica fora.
 - **A discussão que decide o recorte** — se o doutorado é *sobre a identidade* (com a
   tecnologia da informação como consequência) ou *sobre impulsionar o paradigma da
   informação* (com a identidade como premissa-raiz). Muda departamento e leituras.
-  Aberta em `pensamento/cosmovisao/a-tese.md`.
+  Aberta em `filosofia/cosmovisao/a-tese.md`.

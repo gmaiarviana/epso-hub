@@ -1,7 +1,7 @@
 # Curadoria do acervo
 
 Como o acervo mantém ideias como objetos, um por âncora. Aplica ao acervo a tese da
-[âncora](../../pensamento/estudos/ancora.md): o significado é o invariante, as palavras o vestem.
+[âncora](../../filosofia/hipoteses/ancora.md): o significado é o invariante, as palavras o vestem.
 
 Estas regras valem para qualquer entrada — uma transcrição, um texto externo, uma migração. O
 registro de transcrições ([../processo-transcricoes.md](../processo-transcricoes.md)) é um
@@ -39,8 +39,9 @@ A analogia é a do quebra-cabeça, e cada gesto dele tem par no método:
   revisáveis.
 
 A caixa se preserva depois da extração. Nem todo objeto entra no acervo numa passagem, e a caixa
-guarda os que ficaram para uma abertura futura; o que ficou, e o que cada um espera
-(elaboração ou casa), se lista em [em espera](../../fontes/em-espera.md). Uma caixa já duplicada em outro lugar do acervo
+guarda os que ficaram para uma abertura futura; o que ficou se lista como encaixe no tier 3 do
+[next-steps da raiz](../../next-steps.md), ou em [elaborar](../../elaborar.md) quando pede
+reflexão nova do incorporador. Uma caixa já duplicada em outro lugar do acervo
 dispensa cópia — mantê-la duas vezes suja o acervo.
 
 ## Antes de curar: qual argumento?
@@ -55,8 +56,8 @@ os galhos entram como seções de um objeto, e só viram objetos próprios quand
 dele. É a relação parte-todo (ver Objeto, acima) aplicada antes das decisões.
 
 Casos: os seis problemas abertos do `epso_paradigm` viraram um argumento só em
-[precisão](../../pensamento/estudos/precisao.md); os cinco conceitos, outro em
-[quem sou eu](../../pensamento/cosmovisao/quem-sou-eu.md).
+[precisão](../../filosofia/hipoteses/precisao.md); os cinco conceitos, outro em
+[quem sou eu](../../filosofia/cosmovisao/quem-sou-eu.md).
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#qual-argumento-estou-construindo`.
 

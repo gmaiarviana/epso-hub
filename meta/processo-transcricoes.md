@@ -20,7 +20,7 @@ Gera a camada bruta — a transcrição automática intocada.
 - Adicionar no topo um bloco de metadados YAML: `data`, `sessao`, `tipo: transcricao-bruta`, `titulo`, `fonte-audio` (referência ao áudio, que não é versionado).
 - Nomear o arquivo `AAAA-MM-DD-titulo.raw.md`, dentro de `fontes/transcricoes/raw/`.
 - Não seccionar o bruto — a estrutura por assunto vive na camada limpa.
-- **Vários áudios de um mesmo bloco** vão para um arquivo só, na **ordem de gravação**. Um bloco é a unidade de pensamento que o incorporador grava em sequência; pode atravessar mais de um dia. Nesse caso, o arquivo leva a data do primeiro dia e a `nota` registra a data de cada áudio. Vale a ordem de gravação, independente da ordem em que foram colados no chat, que já veio invertida mais de uma vez. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
+- **Vários áudios de um mesmo bloco** vão para um arquivo só, na **ordem de gravação**. Um bloco é a unidade de pensamento que o incorporador grava em sequência; pode atravessar mais de um dia. Nesse caso, o arquivo leva a data do primeiro dia e a `nota` registra a data de cada áudio. Vale a ordem de gravação, independente da ordem em que foram colados no chat, que não é confiável. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
 
 ## Passar a limpo: a camada limpa
 
@@ -43,7 +43,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 ## Entrada no roadmap
 
-Toda transcrição registrada entra na seção **Fontes** do [next-steps da raiz](../next-steps.md#1-fontes) — a primeira da fila —, com a etapa que falta ("passada a limpo; falta encaixar"), para não ficar esquecida em `fontes/`. Entra ao fim do registro — depois da camada limpa, quando ela é gerada na mesma sessão. A posição dentro da seção é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. A seção concentra toda fonte em trânsito, qualquer que seja a frente de destino; o item sai de lá quando o encaixe termina.
+Toda transcrição registrada em que ainda falte trabalho entra no [next-steps da raiz](../next-steps.md), para não ficar esquecida em `fontes/`: sem camada limpa, no tier **1. Passar a limpo**; passada a limpo, no tier **3. Encaixar**. Ao passar a limpo, o item muda de tier; sai da fila quando o encaixe termina. A posição dentro do tier é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. Os tiers concentram toda fonte em trânsito, qualquer que seja o bloco de destino.
 
 ## Rastreabilidade
 
@@ -67,9 +67,9 @@ Passos do encaixe:
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
-- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada ou registrada em [em espera](../fontes/em-espera.md) — esperando **elaboração** (pauta para um próximo áudio) ou **casa** (uma frente que ainda não existe ou não migrou). Só então o item de encaixe sai da fila da raiz.
+- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador) ou entrou no tier 3 do [next-steps da raiz](../next-steps.md) como encaixe com destino. Só então o item de encaixe sai da fila.
 
-Nem tudo se elabora no encaixe. O que pede reflexão nova do incorporador não se resolve na hora: vira provocação em [em espera](../fontes/em-espera.md), e o arquivo de conteúdo guarda o mínimo em aberto — no máximo um ponteiro para lá.
+Nem tudo se elabora no encaixe. O que pede reflexão nova do incorporador não se resolve na hora: vira provocação em [elaborar](../elaborar.md), e o arquivo de conteúdo guarda o mínimo em aberto — no máximo um ponteiro para lá.
 
 Abordagem em camadas:
 

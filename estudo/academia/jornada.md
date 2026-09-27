@@ -17,12 +17,14 @@ referenciadas abaixo por `#secao`).
   precisa ser defensável por quem nunca ouviu a filosofia do doutorado — desenhado de fora
   para dentro, a partir do que a área valoriza.
 
+A direção, sem ser decisão fechada: no doutorado se aprofunda a minha tese; no mestrado se
+estuda uma tese que já existe e se aproxima da minha, para aprimorá-la.
+
 Isso exige estudar os métodos existentes — hoje um conhecimento de leigo. Não se faz em hobby:
 demanda tempo, energia, estratégia e intenção.
 
-Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`; o corte
-"com as próprias pernas" vem de
-`epso_paradigm:universo-2-conteudo/problemas-abertos/mestrado-pernas-proprias.md`.
+Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`; a tese
+vizinha vem de `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#doutorado-inédito-mestrado-vizinho`.
 
 ## Trajetória em fases
 

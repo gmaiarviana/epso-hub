@@ -10,6 +10,14 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 
 ## Filosofia
 
+### A tese
+
+- **As crenças do EPSO.** Você separou duas teses: a do EPSO, feita das crenças em que ele se
+  baseia, e a do doutorado, que ainda depende de estudo. Da primeira, "quem sou eu" é o
+  centro — mas você disse que vê várias. Por exemplo: "a realidade excede a verdade" é uma
+  delas? *Quais são as outras crenças do EPSO, e qual delas sustenta as demais?* →
+  [a tese](filosofia/cosmovisao/a-tese.md)
+
 ### Linguagem
 
 - **O nome "camada".** Hoje "camada" quer dizer duas coisas: a pilha de conceitos (vida →
@@ -61,3 +69,13 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   *O que o sistema guardaria no lugar das palavras: o conceito, o argumento, outra unidade? Como
   ele saberia que as duas querem dizer o mesmo?* →
   [inteligência potencializada](filosofia/hipoteses/inteligencia-potencializada.md)
+
+## Estudo
+
+### Academia
+
+- **Teses vizinhas.** No mestrado você quer estudar uma tese que já existe e se aproxima da
+  sua, e aprimorá-la. Um exemplo de vizinhança: pesquisadores que medem com IA se palavras de
+  tradições diferentes querem dizer a mesma coisa. *Que autores, teses ou grupos você já viu
+  que chegam perto do que você pensa? O que neles te atrai e o que falta?* →
+  [foco](estudo/academia/foco.md)

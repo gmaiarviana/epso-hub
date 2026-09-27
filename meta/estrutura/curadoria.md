@@ -55,8 +55,8 @@ então como galho — uma parte, uma consequência, uma objeção ao tronco. A d
 os galhos entram como seções de um objeto, e só viram objetos próprios quando têm vida fora
 dele. É a relação parte-todo (ver Objeto, acima) aplicada antes das decisões.
 
-Casos: os seis problemas abertos do `epso_paradigm` viraram um argumento só em
-[precisão](../../filosofia/hipoteses/precisao.md); os cinco conceitos, outro em
+Casos: seis problemas epistemológicos soltos viraram um argumento só em
+[precisão](../../filosofia/hipoteses/precisao.md); cinco conceitos, outro em
 [quem sou eu](../../filosofia/cosmovisao/quem-sou-eu.md).
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#qual-argumento-estou-construindo`.

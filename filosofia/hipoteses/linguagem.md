@@ -169,8 +169,7 @@ material, sobre a qual ninguém tem dúvida.
 Referência reconhecida como chão: **Paulo Freire** — escutar o valor por trás das palavras,
 recusar tratar o outro como recipiente vazio, inclusão radical, consciência das limitações.
 
-Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#comunicar-para-todos`; Paulo Freire vem de
-`epso_paradigm:universo-2-conteudo/sinteses/nucleo-da-tese.md`.
+Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#comunicar-para-todos`.
 
 ## Por baixo das palavras: a mensagem
 

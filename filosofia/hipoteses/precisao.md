@@ -11,6 +11,11 @@ A realidade excede a verdade.
 Esta é a espinha epistemológica de onde decorrem a [âncora](ancora.md) — a mesma tese
 aplicada ao domínio das ideias — e o [vetor](vetor.md).
 
+Na academia, o nome vizinho desta raiz é pluralismo epistemológico — várias formas válidas
+de conhecer. Vizinho no sentido, não no rótulo.
+
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#os-sentidos-não-as-palavras`.
+
 ## Mais preciso, menos preciso
 
 Se cada observação alcança só uma parte, as leituras não se dividem em certas e erradas,
@@ -50,9 +55,15 @@ O peso disso cai sobretudo no subjetivo, no abstrato, nas ciências sociais, ond
 metodologias já são narrativas. Mesmo no material que influi na saúde, somos tão
 holísticos que definir um grupo de controle é um exercício quase impossível de verificar.
 
+O modelo científico atual vai além de medir: joga os saberes que ficam fora dele para o lado
+da superstição. Boaventura de Sousa Santos chama essa fronteira de "linha abissal"; e a
+crítica que só aceita o que se mede tem, na academia, o nome de positivismo. São os nomes
+vizinhos — o que vale são os sentidos.
+
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#medir-e-ler-uma-pagina-do-livro`,
-`fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#sobretudo-no-subjetivo`; o
-índice como viés vem de `epso_paradigm:universo-2-conteudo/sinteses/nucleo-da-tese.md`.
+`fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#sobretudo-no-subjetivo`;
+`fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#o-modelo-científico-e-os-saberes-de-fora-dele`,
+`#os-sentidos-não-as-palavras`.
 
 ## Comunicar na camada que o outro alcança
 

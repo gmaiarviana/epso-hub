@@ -65,6 +65,8 @@ produto ou um relatório lateral, e o núcleo do negócio segue igual.
 - **[Radar de casos](radar-casos.md)** — casos de sucesso do novo paradigma pleno, para estudar e
   virar conteúdo. Sem filtro de salário nem de lugar.
 - **[Radar de emprego](radar-emprego.md)** — organizações que podem contratar o incorporador.
+  Não é busca ativa de vagas: a postura diante da mudança de emprego está na
+  [trajetória](../trajetoria.md#a-empresa-atual).
 
 **Nível:** Decidido.
 

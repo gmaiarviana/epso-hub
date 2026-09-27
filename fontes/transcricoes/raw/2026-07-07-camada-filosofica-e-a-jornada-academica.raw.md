@@ -5,8 +5,8 @@ tipo: transcricao-bruta
 titulo: Camada filosófica e a jornada acadêmica
 fonte-audio: pendente
 nota: >-
-  Registrado na sessão de 2026-07-07 (data de gravação e duração a
-  confirmar). A fala responde a perguntas de uma conversa ("só agora
+  Um áudio, gravado em 2026-07-07, duração 29:02; registrado na mesma
+  data. A fala responde a perguntas de uma conversa ("só agora
   respondendo umas perguntas"). Registrado originalmente com marcadores de
   seção no próprio bruto; na migração para as três camadas (2026-09-27) os
   marcadores saíram do bruto e passaram à camada limpa, com os mesmos nomes,

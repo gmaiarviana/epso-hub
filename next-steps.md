@@ -10,19 +10,36 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 2. **Migração, sessão 4 — olhar novo e aposentadoria**, em chat novo. Rever o que sobrou no
    `epso_paradigm` e guardar o que for válido e valioso — o que se reconstrói com a provocação
    certa pode ficar para trás. Então deletar o repositório, o inventário e estes itens.
-3. **Núcleo do EPSO** — propósito, valores, postura (do `epso_paradigm`, do Documento
-   Institucional e da página "Base de pensamento" do site,
-   https://www.erapraserobvio.com.br/quem-somos/base-de-pensamento, com o método de 4 etapas
-   de `/plataforma`). A postura epistemológica compara-se antes com
-   `filosofia/hipoteses/precisao.md`, que já tem a raiz "a realidade excede a verdade".
+3. **Núcleo do EPSO** — propósito, valores, postura. Sessão de encaixe: a fonte principal é
+   `fontes/documentos/2026-09-27-proposito-epso.raw.md` (objetivos, valores, manifesto,
+   propósito, crenças, formas), com o "Quem somos", a base de pensamento e o método de 4 etapas
+   de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`; completam o
+   `epso_paradigm` e o Documento Institucional. Valores (simplicidade, transparência,
+   colaboração) iguais em três versões: candidatos a Decidido. Fusões a checar:
+   - "consciência é agir com intenção" → `filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção`;
+   - "paradoxos são realidades sobrepostas", "todos os pontos de vista são valiosos" →
+     `filosofia/hipoteses/precisao.md` (a postura epistemológica compara-se antes com a raiz
+     "a realidade excede a verdade");
+   - "somos maioria, mas não convergimos por limitação da linguagem" → crença do EPSO
+     ([elaborar](elaborar.md#a-tese)) e `filosofia/hipoteses/linguagem.md`;
+   - crenças sobre trabalho → `filosofia/hipoteses/trabalho.md`.
+
+   Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e respostas
+   curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando alguém não
+   contribui?".
 4. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
-   operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Registrar
-   também as ferramentas livres já publicadas no site (Taquígrafo, Camadas da Linguagem).
+   operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. As
+   plataformas, de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`: o hub de
+   ferramentas e conhecimento (casos de uso, pilares construção/energia/água/política, curar
+   o que existe antes de criar, grátis para pessoa física e pago para instituição, foco no
+   Brasil), com os portais de 2026-09-23. A lista das iniciativas já está em
+   [iniciativas](instituicao/iniciativas/README.md).
 
 ## 3. Encaixar
 
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
-  — destinos prováveis: eixos, chamados e temáticas na linha editorial da comunicação;
+  — destinos prováveis: eixos → objetivos da linha editorial da comunicação (temáticas e
+  saúde mental já em Temas e Público);
   portais da plataforma nas iniciativas; `#eixo-mercado` e `#plataforma-e-autoridade` em
   `contexto/`. `#portal-linguagem` já está em `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-09-24** (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)

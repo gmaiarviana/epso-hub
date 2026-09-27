@@ -14,9 +14,23 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
 ### Adiados
 
 - Formato e canal (carrossel, vídeo, texto longo; escolha das redes).
-- Comunidade e relacionamento (newsletter, grupos, diálogo com seguidores).
+- Comunidade e relacionamento — estabelecer comunidade para envolver as pessoas: voluntários,
+  associação de membros em níveis (os mais altos por convite), newsletter, grupos, diálogo com
+  seguidores.
 - Rotina e custos.
 - Pasta de saída das peças produzidas.
+
+## Receitas
+
+Cada iniciativa pensa a própria receita (ver [iniciativas](iniciativas/README.md)). O
+financiamento, abaixo, é só propulsão de fora.
+
+- **Do EPSO como um todo** — doação (valor livre) e eventos (cursos, feiras, vendas) começam
+  globais; podem passar a cada produto depois.
+- **Web3** — interessa como forma de remunerar quem contribui: faz parte da mentalidade de
+  descentralização do EPSO. Em aberto.
+- **Natureza jurídica** (ONG sem fins lucrativos, empresa, outra) — Em aberto; não se decide
+  agora.
 
 ## Financiamento
 

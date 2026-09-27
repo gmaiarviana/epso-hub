@@ -365,6 +365,33 @@ funcionaram, **O que não funcionou**.
 - **Link:** https://bcmaterials.org/
 - **Nível:** Estimado (média) — prática e dados sólidos; custo pela missão fraco.
 
+### Transition Towns (movimento Cidades em Transição) — Totnes, Reino Unido, e rede internacional
+
+- **Tema:** ecocidades
+- **O que faz:** movimento de base iniciado em Totnes em 2006 (Rob Hopkins): comunidades locais
+  organizam a própria transição para uma vida de baixo carbono e mais resiliente — alimento,
+  energia, moeda e economia locais.
+- **Por que passa na régua:** a verificar. Entrou sem evidência, por exceção do incorporador;
+  a pesquisa aplica os sinais observáveis e registra os links.
+- **Conceitos que ilustra:** transformar o que já existe a partir da comunidade; raio de
+  produção; economia local. O projeto-âncora de Totnes está entre os
+  [casos que não funcionaram](#atmos-totnes-totnes-community-development-society--totnes-reino-unido).
+- **Link:** https://transitionnetwork.org/
+- **Nível:** Em aberto
+
+### Sarvodaya Shramadana — Sri Lanka
+
+- **Tema:** outro (desenvolvimento comunitário de vilas)
+- **O que faz:** movimento fundado em 1958 por A. T. Ariyaratne, de inspiração budista e
+  gandhiana: vilas se organizam em mutirão (shramadana, "doação de trabalho") para suprir as
+  próprias necessidades básicas.
+- **Por que passa na régua:** a verificar. Entrou sem evidência, por exceção do incorporador;
+  a pesquisa aplica os sinais observáveis e registra os links.
+- **Conceitos que ilustra:** mutirão e crédito de trabalho; comunidade que resolve os próprios
+  problemas; despertar como transformação pessoal e coletiva ao mesmo tempo.
+- **Link:** https://www.sarvodaya.org/
+- **Nível:** Em aberto
+
 ## Limítrofes
 
 ### Regeneração Natural Manejada pelo Agricultor (FMNR), Tony Rinaudo — Níger e Sahel

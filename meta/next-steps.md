@@ -13,8 +13,10 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   aberta: a conversa sai na voz recomposta (ideia reescrita em 1ª pessoa) ou colada ao que
   o incorporador digitou. Prova de conceito: `fontes/conversas/2026-07-07-…`. Até lá, o
   passo 3 do [encerramento](processo-encerramento.md) é lembrete, não fluxo fechado.
-- **O comum sobe para `fontes/`** — com os dois processos à vista, o que for comum a
-  transcrições e conversas (preservação, voz, rastreabilidade) sobe para um processo da mãe.
+- **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
+  documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
+  mãe. Documentos ainda não têm processo próprio; precedente:
+  `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`.
 - **"Em aberto" dos arquivos de conteúdo → [elaborar](../elaborar.md)** — o conteúdo guarda o
   mínimo em aberto; as provocações ao incorporador vivem em `elaborar.md`. Já vale para
   `linguagem`, `ecocidades` e `inteligencia-potencializada`; falta aplicar em `precisao`,

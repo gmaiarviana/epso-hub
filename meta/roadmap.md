@@ -21,7 +21,8 @@ Nesta ordem:
 1. **Passar a limpo** — transcrições sem camada limpa. Todo áudio passa por registrar →
    passar a limpo → encaixar ([processo](processo-transcricoes.md)).
 2. **Trabalhos em aberto** — refatoração e migração em curso.
-3. **Encaixar** — fontes já passadas a limpo que ainda não foram encaixadas.
+3. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
+   documentos, que já nascem legíveis.
 4. **Melhorias** — só as que cruzam blocos. A exclusiva de um bloco vai para o next-steps
    dele; a de método, para `meta/next-steps.md`.
 

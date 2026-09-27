@@ -44,6 +44,15 @@ guarda os que ficaram para uma abertura futura; o que ficou se lista como encaix
 reflexão nova do incorporador. Uma caixa já duplicada em outro lugar do acervo
 dispensa cópia — mantê-la duas vezes suja o acervo.
 
+**Caixa de fora do repositório.** Quando o conteúdo vem de fora — outro repositório, o Drive, o
+site —, decide-se antes se a caixa entra em `fontes/`, preservada, ou se só as ponderações
+migram. No segundo caso, curar é conversar: rever com o incorporador o que foi pensado lá e se
+ainda faz sentido diante do acervo atual. Guarda-se o que é válido e valioso; o que se
+reconstrói com a provocação e o contexto certos fica para trás. A caixa não se preserva, e o
+conteúdo migrado mora no acervo sem citar a origem.
+
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#migrar-é-guardar-o-válido-e-valioso`.
+
 ## Antes de curar: qual argumento?
 
 Antes de decidir objeto a objeto, perguntar: do que estamos falando? Qual argumento esses

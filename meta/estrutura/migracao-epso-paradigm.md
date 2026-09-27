@@ -15,9 +15,10 @@ o histórico fino vive no git.
 
 ## Estado da fonte
 
-O `epso_paradigm` está 100% sincronizado com `origin/main` (`git@github.com:gmaiarviana/epso_paradigm.git`).
-As transcrições de 2026-06-26, fonte dos conceitos, já vivem em `fontes/transcricoes/`. Falta rever
-os três parciais abaixo.
+O `epso_paradigm` (`git@github.com:gmaiarviana/epso_paradigm.git`) já passou pela poda: guarda só
+os três parciais abaixo; os itens `[x]` seguem consultáveis no histórico do git dele. As
+transcrições de 2026-06-26, fonte dos conceitos, já vivem em `fontes/transcricoes/`. Falta rever
+os três parciais.
 
 ## Inventário — 19 arquivos
 

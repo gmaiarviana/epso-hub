@@ -42,6 +42,12 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 - **Conversa 2026-07-07** (`fontes/conversas/`) — duas ideias: na migração, reaproveitar as
   ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent é
   um produto dentro dela).
+- **Conversa 2026-09-26** (`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md`) —
+  `#conteudo-como-aproximacao` → `instituicao/comunicacao/linha-editorial.md`: aprender
+  primeiro, visibilidade como consequência; conceitos primeiro, casos do
+  [radar de casos](contexto/trabalho/radar-casos.md) como ilustração, sem bajular
+  organizações; idioma inicial português; temas ecocidades, biorregionalismo, agrofloresta,
+  construção. O tom segue Em aberto até o trabalho de imagem (`contexto/next-steps.md`).
 - **Transcrição 2026-09-22, seções sem encaixe** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`):
   - `#fora-do-paradigma-mecanicista` (valores: regeneração, coletividade, colaboração,
     combate à desigualdade) → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.

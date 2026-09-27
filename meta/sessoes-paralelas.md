@@ -36,7 +36,9 @@ já num worktree próprio:
 git worktree add ../epso-hub-<branch> -b <branch> origin/main
 ```
 
-e trabalhar dentro dele até o PR.
+e trabalhar dentro dele até o PR. Em sessão longa, antes de editar arquivos compartilhados
+(os `next-steps`, o README) e antes do primeiro push, rodar `git fetch`; se o `origin/main`
+andou, rebasear a branch ainda não publicada.
 
 **PR empilhado:** quando uma branch parte de outra cujo PR ainda está aberto (as duas mexem
 nos mesmos arquivos), o PR de cima mostra também os commits do de baixo — mesmo depois que o

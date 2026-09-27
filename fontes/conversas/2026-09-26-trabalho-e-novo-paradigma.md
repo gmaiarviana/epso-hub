@@ -40,13 +40,6 @@ no emprego atual só faz sentido se escalar: mais dinheiro e mais tempo livre. O
 R$ 20 mil; abaixo disso, fico onde estou. Remoto, internacional, e mudança de cidade são
 possibilidades.
 
-## Mudar de emprego é consequência
-
-Não estou focando em mudar de emprego, mas isso não significa que não tenho interesse. A
-trajetória que estou construindo envolve estar aberto a novas possibilidades, então mudar de
-emprego é uma possibilidade real que me interessa. Mas coloco energia em construir meu
-caminho, e a mudança vem como consequência. Hoje não procuro vagas ativamente.
-
 ## Temas que me animam
 
 Ecocidades, biorregionalismo, agrofloresta e construção, mais perto da prática, da realidade,

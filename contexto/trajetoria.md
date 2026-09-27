@@ -22,4 +22,4 @@ vagas. O que o emprego precisa ser vive em [trabalho](trabalho/README.md); a log
 entrada acadêmica, em [jornada](../estudo/academia/jornada.md).
 
 Fontes: `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#a-empresa-flexibilidade-e-crescimento-institucional`,
-`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#mudar-de-emprego-e-consequencia`.
+`fontes/conversas/2026-09-27-mudar-de-emprego.md#mudar-de-emprego-e-consequencia`.

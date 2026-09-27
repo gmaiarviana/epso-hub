@@ -3,19 +3,6 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
-## 1. Passar a limpo
-
-Todas com o bruto seccionado na raiz de `fontes/transcricoes/`: passar a limpo leva o bruto
-para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
-`arquivo#secao` — se uma seção mudar de nome, as citações acompanham.
-
-- **2026-07-06 "Estratégia profissional"** — primeiro: é a fonte principal de `contexto/`.
-- **2026-07-06 "Quatro iniciativas"**
-- **2026-07-07 "Camada filosófica e a jornada acadêmica"** — já encaixada (tese, jornada, trajetória).
-- **2026-06-26 "A tese — mudança de paradigma"** — já encaixada (tese, precisão).
-- **2026-06-26 "Equilíbrio matéria-ideias e a tese de vida"**
-- **2026-06-26 "Mestrado, doutorado e contribuição à sociedade"** — já encaixada (quem sou eu).
-
 ## 2. Trabalhos em aberto
 
 1. **Migração, sessão 2 — Academia.** `leituras` → `estudo/academia/leituras-entrada.md` e
@@ -42,6 +29,16 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
   — de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
   `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
   checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`.
+- **Transcrições 2026-07-04 — estratégia profissional e quatro iniciativas**
+  (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`, `…-quatro-iniciativas.md`) —
+  uma fala contínua. A estratégia é a fonte principal de `contexto/` (carreira, empresa atual,
+  decisão pelo mestrado). As quatro iniciativas → `instituicao/iniciativas/`;
+  `#iniciativa-4-abstracao` checar fusão com `filosofia/hipoteses/linguagem.md`. Vieram do
+  `epso_paradigm`: conferir lá o que já foi absorvido.
+- **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
+  — equilíbrio matéria-ideias e novas bases em `filosofia/cosmovisao/`; tese de doutorado
+  como tese de vida e a estratégia mestrado → doutorado em `estudo/academia/jornada.md`.
+  Veio do `epso_paradigm`: conferir lá o que já foi absorvido.
 - **Conversa 2026-07-07** (`fontes/conversas/`) — duas ideias: na migração, reaproveitar as
   ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent é
   um produto dentro dela).
@@ -73,7 +70,7 @@ para `raw/` e cria a cópia limpa. As já encaixadas são citadas por
   Depois, os que esperam outra fonte:
   - `## 1. Purpose` e `## 2. Values` → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
   - Resto de `## 3` (autoridade de decisão, três autonomias, gestor generalista, áreas de
-    impacto) → `contexto/trajetoria.md`, depois de passar a limpo a "Estratégia profissional".
+    impacto) → `contexto/trajetoria.md`, junto com a "Estratégia profissional" (tier 3).
   - Seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações, registros, glossário)
     → donas no documento externo; checar se algo alimenta `contexto/`, o resto fica como fonte.
 

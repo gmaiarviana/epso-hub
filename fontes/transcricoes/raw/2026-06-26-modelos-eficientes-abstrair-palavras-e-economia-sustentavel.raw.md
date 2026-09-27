@@ -1,8 +1,18 @@
-# Modelos eficientes, abstrair as palavras e economia sustentável
-
-*2026-06-26*
-
-> Transcrição bruta. Datada e preservada sem alteração no conteúdo. Matéria-prima de onde o pensamento é extraído.
+---
+data: 2026-06-26
+sessao: 2026-06-26
+tipo: transcricao-bruta
+titulo: Modelos eficientes, abstrair as palavras e economia sustentável
+fonte-audio: pendente
+nota: >-
+  Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
+  Formatado para leitura já no registro original (epso_paradigm, commit
+  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
+  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  texto mais antigo disponível. Cabeçalho antigo (título, data, aviso de
+  bruto) padronizado para este bloco de metadados em 2026-09-27; o texto
+  falado segue intocado.
+---
 
 Pra finalizar, apesar de ter muito mais pra falar, mas é o que faz sentido pra esse momento, é dizer que eu entendo que precisamos de modelos de, de modelos de inteligência artificial mais eficientes, que gastem menos energia. Nós precisamos conseguir falar uns com os outros com mais eficiência, precisamos entender que as palavras são apenas formas, mas existem ideias por trás que são sem formas. Então as palavras elas têm limitações, essa linguagem tem limitação. E me interessa estudar essas limitações ou estudar como superar essas limitações.
 

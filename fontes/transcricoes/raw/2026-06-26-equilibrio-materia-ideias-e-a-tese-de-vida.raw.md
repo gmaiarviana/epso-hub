@@ -6,9 +6,12 @@ titulo: Equilíbrio matéria-ideias e a tese de vida
 fonte-audio: pendente
 nota: >-
   Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
-  Transcrição automática já pontuada. Migrado para as três camadas em
-  2026-09-27: o cabeçalho antigo (título, data, aviso de bruto) deu lugar a
-  este bloco de metadados; o texto falado segue intocado.
+  Formatado para leitura já no registro original (epso_paradigm, commit
+  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
+  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  texto mais antigo disponível. Migrado para as três camadas em 2026-09-27:
+  o cabeçalho antigo (título, data, aviso de bruto) deu lugar a este bloco
+  de metadados; o texto falado segue intocado.
 ---
 
 Eu não tenho dúvida que o que mais me interessa é a reflexão filosófica, talvez o mais distante possível da matéria e mais próximo possível da camada sem matéria, não matéria ou imatéria. Quando eu falo mais próximo possível é reconhecendo os limites e também reconhecendo a eficiência ou restrições, que também não me interessa aí filosofar em campos que estejam totalmente afastados do meu contexto, ou da minha realidade ou das minhas capacidades. Então é sempre o equilíbrio entre a matéria e as ideias, sempre o equilíbrio do que é prático e o que é abstrato. É no meio desse paradoxo que habita meu entendimento sobre a realidade.

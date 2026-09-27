@@ -6,8 +6,11 @@ titulo: A tese — mudança de paradigma para colaborar
 fonte-audio: pendente
 nota: >-
   Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
-  Transcrição automática já pontuada. Abre com "Então talvez o momento agora
-  é sobre falar sobre a minha tese"; hipótese não confirmada: continua
+  Formatado para leitura já no registro original (epso_paradigm, commit
+  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
+  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  texto mais antigo disponível. Abre com "Então talvez o momento agora é
+  sobre falar sobre a minha tese"; hipótese não confirmada: continua
   2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade, que termina
   cortado em "se refere a". Migrado para as três camadas em 2026-09-27: o
   cabeçalho antigo (título, data, aviso de bruto) deu lugar a este bloco de

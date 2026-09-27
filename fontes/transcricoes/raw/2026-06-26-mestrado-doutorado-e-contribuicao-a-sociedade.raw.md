@@ -6,12 +6,15 @@ titulo: Mestrado, doutorado e contribuição à sociedade
 fonte-audio: pendente
 nota: >-
   Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
-  Transcrição automática já pontuada. Termina cortado em "se refere a";
-  hipótese não confirmada: continua em
-  2026-06-26-a-tese-mudanca-de-paradigma, que abre com "Então talvez o
-  momento agora é sobre falar sobre a minha tese". Migrado para as três
-  camadas em 2026-09-27: o cabeçalho antigo (título, data, aviso de bruto)
-  deu lugar a este bloco de metadados; o texto falado segue intocado.
+  Formatado para leitura já no registro original (epso_paradigm, commit
+  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
+  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  texto mais antigo disponível. Termina cortado em "se refere a"; hipótese
+  não confirmada: continua em 2026-06-26-a-tese-mudanca-de-paradigma, que
+  abre com "Então talvez o momento agora é sobre falar sobre a minha tese".
+  Migrado para as três camadas em 2026-09-27: o cabeçalho antigo (título,
+  data, aviso de bruto) deu lugar a este bloco de metadados; o texto falado
+  segue intocado.
 ---
 
 Eu não sei se esse caminho é tradicional ou usual para outras pessoas, mas eu entendo que essa é a minha verdade. Então eu entendo que o mestrado e doutorado são caminhos para tanto eu estudar, ter bases, saber o que é atual, saber o que é relevante, saber falar a linguagem de quem está estudando seriamente os assuntos que me interessam, o que me interessam a todos, né. Tanto também para me dar respeito, me dar, me dá bagagem, me dá capacidade de contribuir com relevância e ser visto não como um curioso mas como alguém que tá produzindo, tá construindo. Então eu vejo camadas aqui, algumas mais práticas e outras mais abstratas.

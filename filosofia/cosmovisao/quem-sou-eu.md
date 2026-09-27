@@ -64,7 +64,7 @@ construção do caminho que acreditamos fazer mais sentido. É o fluir no plano 
 Isso não pressupõe controle. Não garante que conseguiremos; significa a diferença entre ir
 numa direção e ir à deriva.
 
-Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
+Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#evoluir-com-intencao`,
 `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#colaboracao-como-capacidade-humana`.
 
 ## Destino e intenção são camadas diferentes

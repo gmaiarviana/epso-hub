@@ -1,8 +1,15 @@
-# As primeiras teses — crenças e quem sou eu
-
-*2026-06-26*
-
-> Transcrição bruta. Datada e preservada sem alteração no conteúdo. Matéria-prima de onde o pensamento é extraído.
+---
+data: 2026-06-26
+sessao: 2026-06-26
+tipo: transcricao-bruta
+titulo: As primeiras teses — crenças e quem sou eu
+fonte-audio: pendente
+nota: >-
+  Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
+  Transcrição automática já pontuada. Cabeçalho antigo (título, data, aviso
+  de bruto) padronizado para este bloco de metadados em 2026-09-27; o texto
+  falado segue intocado.
+---
 
 A primeira tese é que nossos comportamentos depende de crenças. Isso não é novo, já existe muita gente falando sobre isso. Mas o ponto é, quais são as crenças. E eu cito que é a crença mais importante é de quem sou eu. Talvez seja essa a base que eu trago. Então eu vejo que são camadas de entendimento sobre o que, sobre nós. A primeira é muito básica, em que eu sou o meu corpo. Eu nem tenho noção que existe uma mente. Tem uma camada seguinte aí, eu sou o corpo e a mente. Terceira camada seria eu sou a cor, a mente mas eu tenho algum espírito. A quarta camada seria além de espírito, eu sou uma consciência. Eu não vou descrever as outras camadas agora, eu já, eu já refleti no passado, eu gostaria de revisitar minhas reflexões antes de. E trazer uma dupla definição.
 

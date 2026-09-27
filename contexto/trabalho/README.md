@@ -102,5 +102,5 @@ Fonte: `fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#temas-que-me-an
 
 ## Abordagem
 
-Como o incorporador se aproxima das organizações — conteúdo como aproximação — mora em
-[instituicao/comunicacao/](../../instituicao/comunicacao/).
+Como o incorporador se aproxima das organizações — conteúdo como aproximação — mora na
+comunicação, em [[conteudo-como-aproximacao]] (`instituicao/comunicacao/linha-editorial.md`).

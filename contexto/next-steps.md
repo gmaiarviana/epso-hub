@@ -11,3 +11,22 @@ destino estão no [next-steps da raiz](../next-steps.md) (tier 3).
   cargo na Nubank ausente no Act 2; data da certificação Automation Anywhere; ": :" e espaços
   duplos; frases em contraste negativo. Depois do encaixe do excerto, as seções 1–3 derivam do
   repositório.
+
+## Trabalho
+
+A frente de [trabalho](trabalho/README.md), nesta ordem:
+
+1. **Imagem e posicionamento** — currículo, LinkedIn e narrativa, antes de qualquer
+   aproximação. Parte da narrativa de carreira (item acima) e da conversa
+   `fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`.
+2. **Aprofundar o radar de casos** — os casos já estão em
+   [radar-casos.md](trabalho/radar-casos.md); o incorporador estuda cada um. Pendências
+   marcadas nos casos: fontes acadêmicas citadas e ainda não lidas; atividade atual não
+   confirmada (Hunnarshala, Cloughjordan, Parlamento do Arvari).
+3. **Pesquisar o radar de emprego** — 10 a 20 organizações que passam nos critérios
+   eliminatórios do [README](trabalho/README.md#critérios-eliminatórios-do-radar-de-emprego),
+   em [radar-emprego.md](trabalho/radar-emprego.md). Salário sem evidência vira "sem dado";
+   quem tem boa régua e salário provável abaixo do mínimo fica registrado explicitamente.
+   Cada organização inclui onde publica vagas e em que comunidades recruta. A lista passa pelo
+   incorporador antes de preencher.
+4. **Aproximação física** — visitas e campo, só depois dos três anteriores.

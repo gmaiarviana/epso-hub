@@ -44,7 +44,7 @@ Detalhe do fluxo em [meta/processo-transcricoes.md](meta/processo-transcricoes.m
 
 Quando um conteúdo encaixado deriva de uma transcrição, ele referencia a fonte no formato `arquivo#secao`: o caminho do arquivo **limpo** seguido do nome da seção de origem — é a camada limpa que carrega as seções e desambigua a fala. O limpo, por sua vez, aponta para o bruto (`fonte-bruta`) e para o áudio (`fonte-audio`). Assim toda afirmação encaixada aponta de volta para o trecho falado que a originou, com a cadeia até a verdade última preservada.
 
-Conteúdo migrado de outro repositório passa a morar aqui e não cita a origem: guarda-se o que é válido e valioso, e o que se reconstrói com a provocação certa pode ficar para trás.
+Conteúdo migrado de fora do repositório passa a morar aqui e não cita a origem — ver [caixa de fora do repositório](meta/estrutura/curadoria.md#caixa).
 
 ## Índice de processos
 

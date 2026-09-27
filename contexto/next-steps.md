@@ -28,5 +28,6 @@ A frente de [trabalho](trabalho/README.md), nesta ordem:
    em [radar-emprego.md](trabalho/radar-emprego.md). Salário sem evidência vira "sem dado";
    quem tem boa régua e salário provável abaixo do mínimo fica registrado explicitamente.
    Cada organização inclui onde publica vagas e em que comunidades recruta. A lista passa pelo
-   incorporador antes de preencher.
+   incorporador antes de preencher. Antes da pesquisa, ajustar o modelo de entrada de
+   `radar-emprego.md` (comunidades de recrutamento; régua boa com salário abaixo do mínimo).
 4. **Aproximação física** — visitas e campo, só depois dos três anteriores.

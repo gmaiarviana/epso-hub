@@ -12,7 +12,10 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   `fontes/conversas/`: como acionar, o que o assistente pergunta, como nomeia. Questão
   aberta: a conversa sai na voz recomposta (ideia reescrita em 1ª pessoa) ou colada ao que
   o incorporador digitou. Prova de conceito: `fontes/conversas/2026-07-07-…`. Até lá, o
-  passo 3 do [encerramento](processo-encerramento.md) é lembrete, não fluxo fechado.
+  passo 3 do [encerramento](processo-encerramento.md) é lembrete, não fluxo fechado. Regra
+  já decidida: conversa registrada não recebe fala de outro dia — ideia nova vira conversa
+  nova, com a data do dia; a antiga só muda se tiver informação errada, retirando a parte
+  errada e referenciando a conversa nova.
 - **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
   documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
   mãe. Documentos ainda não têm processo próprio; precedente:

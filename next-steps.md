@@ -5,11 +5,11 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 2. Trabalhos em aberto
 
-1. **Migração, sessão 2 — Academia.** `leituras` → `estudo/academia/leituras-entrada.md` e
-   `leituras-tese.md`; `mapeamento-academico` → `estudo/academia/mapeamento.md`.
-2. **Migração, sessão 3 — mop-up e aposentadoria.** Parciais menores; inventário
-   ([meta/estrutura/migracao-epso-paradigm.md](meta/estrutura/migracao-epso-paradigm.md)) todo
-   `[x]`; então aposentar e deletar o `epso_paradigm`.
+1. **Migração, sessão 3 — poda.** Remover do `epso_paradigm` os arquivos já migrados (todos
+   os `[x]` do [inventário](meta/estrutura/migracao-epso-paradigm.md)); ficam os três parciais.
+2. **Migração, sessão 4 — olhar novo e aposentadoria**, em chat novo. Rever o que sobrou no
+   `epso_paradigm` e guardar o que for válido e valioso — o que se reconstrói com a provocação
+   certa pode ficar para trás. Então deletar o repositório, o inventário e estes itens.
 3. **Núcleo do EPSO** — propósito, valores, postura (do `epso_paradigm`, do Documento
    Institucional e da página "Base de pensamento" do site,
    https://www.erapraserobvio.com.br/quem-somos/base-de-pensamento, com o método de 4 etapas
@@ -76,8 +76,12 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 4. Melhorias
 
-- **Cosmovisão — a discussão aberta** identidade × paradigma da informação
-  (`filosofia/cosmovisao/a-tese.md`). Destrava o recorte acadêmico (`estudo/academia/foco.md`).
+- **Duas teses** — separar a tese do EPSO (as crenças em que ele se baseia; "quem sou eu" no
+  centro, com outras ao lado) da tese do doutorado (objetiva, em termos acadêmicos; ainda não
+  definida, depende de estudo). Hoje `filosofia/cosmovisao/a-tese.md` mistura as duas: a
+  discussão identidade × paradigma da informação e o recorte acadêmico são do doutorado
+  (`estudo/academia/foco.md`). As crenças do EPSO pedem resposta no [elaborar](elaborar.md#a-tese).
+  Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
 
 ## Decisões adiadas
 

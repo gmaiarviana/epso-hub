@@ -38,6 +38,16 @@ completa fica fora.
   departamento aceita (ver [jornada](jornada.md) e `estudo/next-steps.md`):
   filosofia da mente, semiótica, teoria da informação, ciência cognitiva,
   sistemas/complexidade, epistemologias e ecologia de saberes. Varredura a fazer.
+- **Medir se duas palavras apontam para a mesma ideia** — já existe método: representar
+  palavras e frases como vetores e comparar a direção deles (similaridade de cosseno). Um
+  estudo de 2026, a verificar, comparou as traduções de conceitos filosóficos feitas por
+  diferentes modelos de IA: os concretos convergem, os abstratos divergem — o padrão do
+  espectro do material ao abstrato ([linguagem](../../filosofia/hipoteses/linguagem.md#dois-eixos-elaboração-e-espectro)).
+  Liga-se à pergunta de como saber que a "paz" de um e a "felicidade" de outro são o mesmo
+  ([inteligência potencializada](../../filosofia/hipoteses/inteligencia-potencializada.md#conceitos-não-tokens))
+  e ao formalismo em aberto do [vetor](../../filosofia/hipoteses/vetor.md): a similaridade
+  de cosseno é um produto escalar normalizado. Fonte:
+  `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#medir-se-duas-palavras-apontam-para-a-mesma-ideia`.
 - **A discussão que decide o recorte** — se o doutorado é *sobre a identidade* (com a
   tecnologia da informação como consequência) ou *sobre impulsionar o paradigma da
   informação* (com a identidade como premissa-raiz). Muda departamento e leituras.

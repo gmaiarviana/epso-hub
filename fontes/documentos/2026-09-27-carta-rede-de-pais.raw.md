@@ -5,7 +5,7 @@ titulo: Convite para uma rede de pais
 idioma: português
 genero: carta pessoal
 corpus: escrita do incorporador
-ia: não confirmado
+ia: sem IA (estimado pelo agente)
 escrito-em: sem data
 anonimizado: >-
   Nomes dos amigos, dos filhos deles e da filha do incorporador trocados por

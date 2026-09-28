@@ -5,7 +5,7 @@ titulo: Impressões como TPM num programa de cliente
 idioma: português
 genero: relatório
 corpus: escrita do incorporador
-ia: não confirmado
+ia: sem IA (estimado pelo agente)
 escrito-em: 2024-10-21
 anonimizado: >-
   Documento interno sobre um cliente, com anonimização pesada. Pessoas

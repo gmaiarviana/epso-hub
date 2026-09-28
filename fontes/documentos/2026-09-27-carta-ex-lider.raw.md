@@ -5,7 +5,7 @@ titulo: Carta de agradecimento a um ex-líder
 idioma: português
 genero: carta pessoal
 corpus: escrita do incorporador
-ia: não confirmado
+ia: sem IA (estimado pelo agente)
 escrito-em: sem data (cerca de 11 meses após deixar o Nubank)
 anonimizado: >-
   Nome do ex-líder trocado por [ex-líder].

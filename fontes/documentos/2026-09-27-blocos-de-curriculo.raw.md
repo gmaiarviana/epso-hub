@@ -5,7 +5,12 @@ titulo: Blocos de currículo
 idioma: português (um trecho em inglês)
 genero: currículo
 corpus: escrita do incorporador
-ia: não confirmado
+ia: misto (estimado pelo agente)
+ia-suspeito: >-
+  O trecho entre aspas no bloco "BA - Nubank" ("Como Business Analyst, minhas
+  principais responsabilidades incluíam"). Incertas: as respostas de
+  competência do início, polidas mas com marcas próprias. O resto tem marcas
+  de escrita própria.
 escrito-em: sem data (vários momentos)
 anonimizado: >-
   Nada anonimizado: os nomes de empresa são empregadores e clientes da

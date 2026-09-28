@@ -5,7 +5,7 @@ titulo: E-mails sobre avaliação de desempenho e PDI
 idioma: português
 genero: e-mail
 corpus: escrita do incorporador
-ia: não confirmado
+ia: sem IA (estimado pelo agente)
 escrito-em: 2025 (o primeiro e-mail cita setembro/25)
 anonimizado: >-
   Nome da destinatária trocado por [pessoa 1]; nome da empresa e o gentílico

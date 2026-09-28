@@ -5,7 +5,7 @@ titulo: Proposta à diretoria
 idioma: português
 genero: proposta interna
 corpus: escrita do incorporador
-ia: não confirmado
+ia: sem IA (estimado pelo agente)
 escrito-em: sem data (cerca de 11 meses após entrar na empresa)
 anonimizado: >-
   Nomes dos destinatários trocados por [pessoa 1] e [pessoa 2]; nome da

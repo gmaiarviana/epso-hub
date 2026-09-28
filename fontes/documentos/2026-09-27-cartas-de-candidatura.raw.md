@@ -5,7 +5,13 @@ titulo: Cartas de candidatura e apresentações
 idioma: português
 genero: candidatura
 corpus: escrita do incorporador
-ia: não confirmado
+ia: misto (estimado pelo agente)
+ia-suspeito: >-
+  Os dois resumos que abrem com "Sou apaixonado por resolver problemas
+  complexos" e "Sou apaixonado por criar soluções digitais" (fecham com a
+  mesma frase-molde e vocabulário ausente no resto do corpus); a carta para
+  Product Manager Jr, versão polida da lista crua da carta para Product
+  Manager Senior. O resto tem marcas de escrita própria.
 escrito-em: sem data (vários momentos; a maioria com cerca de 2 anos como Product Owner)
 anonimizado: >-
   Nome de empresa em que o incorporador se candidatou trocado pelo setor

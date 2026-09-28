@@ -5,7 +5,7 @@ titulo: Notas para o comitê de IA
 idioma: português
 genero: notas
 corpus: escrita do incorporador
-ia: não confirmado
+ia: sem IA (estimado pelo agente)
 escrito-em: sem data (provavelmente 2025, ano do comitê de IA na narrativa de carreira)
 anonimizado: >-
   Nome da empresa e o gentílico dos seus colaboradores trocados por [empresa]

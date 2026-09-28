@@ -15,8 +15,9 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    Decidido. Do mesmo documento, o incorporador já validou como do EPSO: no propósito,
    "experimentar e provar na prática que é possível fazer diferente" e "cada projeto é um
    experimento vivo"; na transparência, a financeira — margem decomposta em categorias
-   explícitas, destino de cada real rastreável, remuneração do incorporador visível. Fusões a
-   checar:
+   explícitas, destino de cada real rastreável, remuneração do incorporador visível
+   (`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#o-que-do-documento-institucional-é-do-epso`).
+   Fusões a checar:
    - "consciência é agir com intenção" → `filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção`;
    - "paradoxos são realidades sobrepostas", "todos os pontos de vista são valiosos" →
      `filosofia/hipoteses/precisao.md` (a postura epistemológica compara-se antes com a raiz
@@ -46,6 +47,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    metodologia, modo de trabalhar dela. O servidor de inferência fica só no bruto:
    especulação e desejo, não decisão. A construtora tem missão
    própria, mais específica e relacionada à do EPSO. A forma jurídica dela não se define.
+   Fonte dessas decisões: `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`.
    Pista para o encaixe: https://lageportilhojardim.com.br/blog/ecovila-e-inovacao-em-negocio-imobiliario-no-planejamento-territorial/
    (ecovila como negócio imobiliário: leis de parcelamento e condomínio; casos Clareando e
    Piracanga). Números sem fonte: no máximo Estimado (baixa). As

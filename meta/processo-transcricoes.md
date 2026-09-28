@@ -69,6 +69,7 @@ Passos do encaixe:
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
 - Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador) ou entrou no tier Encaixar do [next-steps da raiz](../next-steps.md) como encaixe com destino. Só então o item de encaixe sai da fila.
+- Conferir ideia a ideia, não só seção a seção: uma seção citada pode ter perdido ideias na síntese. Antes de declarar o encaixe pronto, reler cada seção e procurar cada ideia no destino; o que se perdeu volta ao texto, vira provocação ou ganha destino na fila. A conferência vai para o incorporador como tabela de cobertura (seção → onde ficou).
 
 Nem tudo se elabora no encaixe. O que pede reflexão nova do incorporador não se resolve na hora: vira provocação em [elaborar](../elaborar.md), e o arquivo de conteúdo guarda o mínimo em aberto — no máximo um ponteiro para lá.
 

@@ -4,6 +4,10 @@ Estes critérios são hipóteses de trabalho, revisáveis quando um novo conteú
 
 Os níveis a que estes critérios se referem estão descritos em [niveis.md](niveis.md).
 
+Arquivo novo é sempre opção: quando um assunto ganha corpo próprio, ou quando um arquivo cresce
+a ponto de misturar assuntos, cria-se ou divide-se em vez de espremer no que já existe. Não se
+cria arquivo vazio por antecipação — o arquivo nasce com o conteúdo.
+
 ## Fronteiras entre os blocos
 
 O mapa de pastas é do [README](../../README.md). O incorporador e o EPSO são uma coisa só;

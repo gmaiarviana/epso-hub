@@ -1,0 +1,393 @@
+---
+data: 2023-09-02
+sessao: 2026-09-27
+tipo: transcricao-bruta
+titulo: Sistema filosófico — a trilha do autoconhecimento
+fonte-audio: pendente
+nota: >-
+  Um áudio só, com duração de cerca de 1:07:32 pelo último marcador. Os
+  marcadores de tempo [hh:mm:ss] fazem parte da transcrição automática e
+  foram mantidos.
+---
+
+[00:00:00] Oi, essa é a primeira tentativa de fazer um sistema filosófico. Eu não preparei roteiro,
+[00:00:07] eu não tenho muita intenção clara, não pretendo terminar hoje, eu não tenho nenhuma pretensão
+[00:00:18] de dizer que está pronto, porque essa é a primeira versão. E eu estou fazendo isso com
+[00:00:25] auxílio do meu gravador do celular e pretendo utilizar outros ferramentas tecnológicos para
+[00:00:33] me auxiliar. Então vamos ver o resultado depois. E como é que consiste esse sistema filosófico?
+[00:00:41] Ok, eu não vou focar no sistema filosófico em si, até porque não me preparei, não estudei,
+[00:00:50] é com profundidade ainda, mas eu preparei a organização de alguns grupos e que podem dar
+[00:01:03] sentido a maneira que a gente se organiza como ser humano ou talvez como ser vivo. Então,
+[00:01:16] a ideia desse material aqui é ilustrar um pouquinho de como se relacionam alguns grupos.
+[00:01:27] Então vamos lá, primeiro. Quem são meus nois? Essa pergunta mais relevante que a gente
+[00:01:38] pode ter, é a pergunta filosófica mais importante. E todos os outros se respondem através
+[00:01:46] dela. Então a gente não tem como responder essa pergunta. E são fases, preciso ser caminhados
+[00:02:01] até a gente chegar lá. Então comentar a resposta da pergunta, quem somos nós se trata
+[00:02:06] de um autoconhecimento. Que é se conhecer. E é importante que a gente responda de se
+[00:02:13] conhecer, porque essa pergunta vale a ter metruras outras. Quer que eu vou trabalhar,
+[00:02:19] quer que eu quer trabalho, porque eu tenho uma cabeça, dois olhos, uma boca. Qualquer
+[00:02:27] outra coisa, porque o sol é amarelo e o cervezo. Qualquer outra pergunta se responde com quem
+[00:02:36] somos nós, ou quem sou eu. Então o caminho do autoconhecimento acaba sendo o caminho necessário.
+[00:02:43] Se responder essa pergunta, a gente vai dar respostas paciais. Se responder essa pergunta,
+[00:02:49] se torna a absurda. E, pente as absurdas, trazem respostas absurdas. Então, existe um caminho,
+[00:03:01] esse caminho não sei o que estou dizendo. Esse caminho é o que eu tenho empilhado. E,
+[00:03:12] do conversado, aprendido e conectado com outros seres humanos, percebo que é um caminho muito
+[00:03:19] parecido com eles. De repente, outros seres vivos, como os seres que se movem, que se animam
+[00:03:29] dos animais, eles poderiam ter outras percepções de outros caminhos. E os seres que estão parados,
+[00:03:39] os plantinhos, de apetos, têm outros caminhos também. Não posso falar por eles, posso falar
+[00:03:46] pelo ser humano, que parece ser esse o caminho, que tem sido comum, principalmente nas sociedades,
+[00:03:54] ocidentais, principalmente nos últimos décadas séculos, o milênio está ao vezes. Então,
+[00:04:03] como é esse processo, como é esse caminho, ele são a evolução de consciência. Várias filósofias
+[00:04:11] devem falar sobre isso, falam sobre isso. E a minha intenção aqui não é repetilas, também
+[00:04:18] não é evitar a roda. Fátalmente, eu vou repetilas, mas na minha intenção, a minha intenção
+[00:04:25] é trazer uma connotação, uma linguagem adequada para o século 21, 2023. Então, utilizando
+[00:04:39] minha visão em mundo, utilizando meus aprendizados, minhas percepções, e todas as construções
+[00:04:48] que foram acumuladas, e evoluídas a partir do meio em que eu vivo e por graças a os
+[00:05:03] que aumentam a cedeiro, ou seja, nas outras décadas, se utilizando mais décadas nos séculos.
+[00:05:12] Conclusão, eu vou utilizar, resumindo, vou utilizar as minhas palavras para que isso que
+[00:05:23] colin, que utilizam que beben da fonte, que foi um dia criada ou levantada por outras
+[00:05:34] pessoas, por outros filósofos, por outros sábios, por outros professores, por outros mestres,
+[00:05:43] por outros... enfim, outros líderes. E não sei o que eu sou em relação a nessa escala
+[00:05:55] de papel de transmissor de uma mensagem, mas também não quero na minha intenção, não pretendo
+[00:06:11] querer para mim nenhum título. Não estou interessado nisso, na verdade isso me distrai. Então,
+[00:06:19] não quero essa distração. O que eu quero é colocar para frente, expressar tudo que
+[00:06:28] eu tenho sentido nos últimos anos, aprendido e entendido que com a minha papel minha responsabilidade
+[00:06:39] e dado os poderes que eu aprendi. Curioso que eu não tinha a intenção de me prolongar
+[00:06:48] tanto, mas que eu estou começando a fluir. Então, eu vou explorar isso e vou até o fim.
+[00:06:56] Talvez... vamos ver o que é que vai acontecer. Vamos lá, já estava falando sobre a trilha
+[00:07:08] do autoconhecimento. A primeira etapa é consistido do corpo. Então, a gente, em certo momento,
+[00:07:20] a gente olha para o nosso corpo e fala "estou eu". Pode ser quando é criança, quando
+[00:07:26] é de alho no espelho, pode ser que quando a gente chama o nosso nome, tem vários psicólogos,
+[00:07:30] vários que aprofundam isso, me na minha intenção de ouvir, tomar esse tópico. Mas isso
+[00:07:46] vai ser... isso... Temos profundado bem maior. Não é apenas, eu sabia que sou nele de vida.
+[00:07:52] Mas chega o momento que a gente tem medo de morrer. Tem um momento que a gente nem te fica
+[00:07:56] com esse corpo. Que a gente fala "eu sou esse corpo". Então, nesse momento que a gente
+[00:08:06] está muito consciente de que a gente tem a ocorpo, a gente que é a cuidar dele, que é o melhor
+[00:08:09] para nossas vidas. Esse é o primeiro super básico de muitas psicologias e filosofias.
+[00:08:17] Que, por exemplo, a gente saiu que é o melhor para nossa vida. E para ver dos nossos, dos que estão
+[00:08:26] na sua redor, mas por conta da nossa vida. Ou pelo que a gente, pelo sentimento que a gente tem por eles.
+[00:08:33] Então, essa consciência do corpo que a gente chama a tem medo de que o sistema tere. Então, a gente
+[00:08:45] começa a gostar ou acidentificar a perceber as coisas que estão na nossa redor. Então, nós
+[00:08:56] mesmos as pessoas que estão na nossa redor, as matérias que estão do seu bom, os objetos, os
+[00:09:02] o ambiente com o texto. E essa consciência... É isso até o momento que a gente vai refletindo
+[00:09:11] mais e vai percebendo as coisas que também não são boas. Que estão na nossa redor. Um cheiro que
+[00:09:19] não é agradável, um mador no corpo que não é agradável, um cansaço, uma baixa energia, um corpo
+[00:09:31] que você não se nitifica, que ele se dio alguma maneira entre aspas de feio, um corpo que não é
+[00:09:41] saudável, que ele não tem muita saúde, que ele não está propagando vida. Ou ele está com
+[00:09:51] constante dor, ou ele não resiste, pois é estímulos que seriam adequados para um ser humano.
+[00:09:58] Então, nosso corpo está sempre cansado, sempre desgastado, se não representa saúde, se não representa
+[00:10:05] vida, se representa um declínio. Pois é, a gente não escolhe isso. Às vezes a gente escolhe
+[00:10:15] isso, às vezes as nossas atitudes refletem. Claro que são poucos os casos, porque até mesmo que
+[00:10:24] se alimentam mal, tem o motivo para se alimentar mal. Então, se a gente for pegar a raiz de por que a gente se
+[00:10:29] alimenta mal, pode ser que não seja uma escolha. Então, eu não quero, a gente que eu só sobrelevi a
+[00:10:36] bítril, eu não quero levantar nesse momento não, em outro momento que eu converso sobre isso. Mas,
+[00:10:42] claro que a gente não escolhe, muitas vezes são imagens enéticas, que é propensa a ter uma
+[00:10:51] situação de saúde ou de baixa saúde, porque a gente não teve nem, em momento, consciência disso.
+[00:11:02] Então, pela alimentação em, às vezes tem consciência disso, principalmente nos dias de hoje.
+[00:11:08] Tenho consciência que estou comendo, estou comendo, eu sei que ela vai me trazer mal, mas eu como ela por
+[00:11:14] diversos motivos, e no somatório, me parece que vale a pena, é positivo usar ela mesmo que eu
+[00:11:22] saiba que ela vai fazer mal o meu corpo. Mas, pode estar, essa ação, esse prazer que eu estou na
+[00:11:27] agora para fazer bem a minha alma. Então, eu que estou presando esse momento, talvez. Então, mais tem
+[00:11:36] coisa de que são inconscientes, porque a gente não sabe de onde veio para onde vai, a gente não tem
+[00:11:41] conhecimento ferramentas para saber. Por exemplo, células casserígenas, em certos momentos,
+[00:11:51] até eles se estão chamando de "môdeo" não conseguem ter total o domínio sobre isso.
+[00:11:58] Diferente, por exemplo, hoje a gente já consegue prever uma diabetes, não é prevelo,
+[00:12:04] mas a gente consegue acompanhar o crescimento de uma diabetes ou de uma pressão alta. Então, se
+[00:12:11] torna que acham nada, né? É fã genética que deu a saúde, mas os hábitos também vão atenuar
+[00:12:18] ou não. A mesma tempo que em outras épocas, essa mesma enfermedade não causaria, não causaria,
+[00:12:33] não causaria, a pessoa não conseguia saber que estava com essa enfermedade. Então, hoje a gente
+[00:12:40] consegue ter uma equas necessarias. Então, praticamente a pessoa ia comer, a tua abdusna mais,
+[00:12:45] e ele está atendo o ano sua doença e sem saber. Então, foi inconsciente. Hoje, essa mesma doença,
+[00:12:52] a pessoa tem hábitos que ela pode inconsciente meter a atenuar, porque ela, hoje já se tem
+[00:12:59] a ciência sobre a etapa e a enfermedade e tal, e quais tratamentos. Assim como, no futuro,
+[00:13:08] podemos ter ferramentas para descobrir algumas enfermedades atuais que hoje são difíceis
+[00:13:18] ou quase impossíveis de descobrir, prever em fazido iniciais que no futuro a gente tem
+[00:13:24] a ferramentas para descobrir. Então, hoje a gente vive atendo o ano, porque a gente não sabe
+[00:13:32] os tratamentos e pronto e futuramente pode ser que a gente já saiba mudar os hábitos. Então,
+[00:13:44] quando foi descoberto alguns elementos radiotivos, a pessoa não sabia que aquilo causava mal a curpa
+[00:13:52] e a pena vivia. E eu já vi histórias, não sei a veracidade delas, que a pessoa utilizava
+[00:14:00] inclusive na alimentação, na alimentação, como o medicamento, e não tinha um controle
+[00:14:07] rígido como se tem hoje. Então, aquilo atendou a... a ex-fermidade de outras pessoas,
+[00:14:17] de um engenjamento de problemas de outras pessoas. E hoje a gente já sabe fazer. Então, o
+[00:14:23] questionamento que se traz é quantas outras hábitos ruins que temos hoje e não sabemos
+[00:14:36] por falta de conhecimento, por falta de ciência, por falta de ferramentas. Então, talvez,
+[00:14:43] levantando isso para levantar a importância da colaboração, da ciência, dos questionamentos.
+[00:14:51] Então, sim, existe sim, a gente já evoluiu muito como sociedade humana, no sentido de conhecimento,
+[00:15:01] sentido de entendimento da realidade, entendimento da matéria, da natureza. E porque agora estamos
+[00:15:10] no conhecimento coletivo acumulado bem interessante no que de respeito à matéria, a ciência.
+[00:15:18] E a gente pode evoluir mais ainda. Então, o bem está... isso aqui é bem computável. O bem
+[00:15:32] está, de certa maneira, melhorou muito os últimos décadas de séculos e milênios. Existe
+[00:15:44] em coisas que são inquestionáveis, por exemplo, é... medo de morrer, medo de ser atacado por animais.
+[00:15:57] Então, novamente, a ciência do corpo nos deu uma edificação com o nosso corpo, nos deu
+[00:16:06] medo de morrer. E a gente conseguiu evoluir muito bem isso. Porque hoje, nossas estruturas
+[00:16:14] sociais estão isoladas de prédadores que poderiam tirar o seu vida. Então, hoje,
+[00:16:23] aqui em vivo nas cidades, não corre risco de morrer por animais, por violência animal. Claro
+[00:16:35] que eu estou falando isso e tiver vários outros que eu estou falando. Eu não estou botando
+[00:16:42] o moral aqui, é um fato. E eu sou um crítico da civilização, sou um crítico da identificação
+[00:16:55] com o corpo, mas a ciência evoluiu. E hoje, temos entendimento da matéria muito maior do que
+[00:17:04] a civilização dos outros. Sociedades, não? Então, destacando que talvez seja isso, nossa
+[00:17:19] consciência do corpo nos deu um mérito, um benefício, tem uma característica de edificação
+[00:17:28] com o corpo. Tem um benefício que foi a evolução da, vamos dizer assim, de verenciamento,
+[00:17:41] não? Pois é, da manipulação da matéria talvez, talvez ele fosse como matéria, a gente
+[00:17:48] teve sucesso sem manipular a matéria, de fazer as coisas entriais para as incríveis.
+[00:17:55] E aqui, mas é incrível mesmo. A diversidade de situação de complexidade que envolve
+[00:18:11] nossa sociedade hoje. Então...
+[00:18:26] Considerando então que a gente... Pois é, a gente é agora consegui viver mais. A gente consegue
+[00:18:53] multiplicar a nossos seres, os humanos. A população de humanos multiplicou. É um dos seres
+[00:19:06] que, enfim, não me infers, enfim, não. Então, mas a nossa população cresceu muito. E
+[00:19:15] a nossa maneira é positiva. Não sei o quanto. Tive um custo muito alto. Esse medo de morrer
+[00:19:26] não é positivo, porque morrer faz parte da vida. O sentido da vida é morrer, um dos centímetros.
+[00:19:35] O mesmo ex-adireção da vida é morrer. Mas essa é a consciência do corpo. Então,
+[00:19:51] provavelmente é aqui onde está todo mundo. O quase todo mundo. Então, desde criança a gente
+[00:19:57] tem uma consciência do corpo. Só que chega o momento que essa consciência do corpo não
+[00:20:00] é mais eficiente. Porque a matéria, por si só, ela sozinha. É incrível. Mas ela não
+[00:20:07] é tudo. Então, a gente consegue perceber que tem tudo. A gente consegue perceber que
+[00:20:13] não está faltando alguma coisa. Então, a gente começa a ver, que o que eu estava falando,
+[00:20:19] começa a ver as dificuldades, começa a ver e tentar encontrar sentido nessas outras
+[00:20:24] coisas. E é mais ou menos a consciência da mente. A consciência da... O que tipo nosso
+[00:20:35] corpo está separado, apesar de bem conectado, mas ele não é a mesma coisa que nossa mente.
+[00:20:42] Então, a gente consegue ver que existem processos mentais. A gente consegue fazer raciocínio,
+[00:20:51] linguagem. Chegue o momento que ele consegue ver que tem... que ele consegue fazer abestrações.
+[00:20:57] Então, tipo... Quando a pessoa não tem consciência da mente, a pessoa se aparenta para você,
+[00:21:04] o que é um país? Não, o país é a terra. Então, assim, mudar se... Então, mas porque...
+[00:21:14] O país é uma mistração. O país é um conjunto de pessoas, culturas, leis, note que cultura
+[00:21:33] e leita bestrações. Então, a pessoa começa a perceber que a consciência da mente é que
+[00:21:43] existem maneiras diferentes de viver. Existe corpos diferentes. Então, é nesse momento que
+[00:21:52] surge a filosofia, por exemplo. Você começa a pensar um pouquinho mais. Você começa a refletir,
+[00:21:58] você começa a ver a razão. Você começa a... Pois é, a questão, né? A saber que nem todos
+[00:22:06] corpos são iguais. Então, se você está em um... A gente consegue ambacitária dentro de um corpo,
+[00:22:16] tudo que está vendo aqui. Imagina que você é uma pessoa dentro de uma civilização, dentro de uma
+[00:22:22] sociedade. Eu nasce e morre e não vê ninguém de a civilização, de outra cidade, de outra cultura.
+[00:22:28] Todo mundo se parece com você. Então, se você não fico de fechar a questão, porque se não
+[00:22:36] fico de fechar a questão, quais são os tipos possíveis de variações de cor de pele, por exemplo,
+[00:22:44] de formato do cabelo, do caixa, do cabelo. Porque todo mundo que se conhece tem aquilo. Então,
+[00:22:54] se você passa a mostrar, vai definir seu... seu... seu... seu visão de mundo. Quando você...
+[00:23:01] quando começam a surge de diferentes povos, que começam a cupor ter medo de morrer,
+[00:23:07] como é se interagir, eu to começam a ter trocas de informações entre povos diferentes.
+[00:23:14] Isso começa a... tem um... nesse... gerar nas pessoas um... um questionamento de...
+[00:23:26] o que são pessoas, como é que porque a gente era de essa maneira, como é que a gente pode...
+[00:23:32] Porque toda vez que a gente que uma sociedade aumenta, que oidade de pessoas, ele cheguei com flito.
+[00:23:39] Como é que a gente pode diminuir o conflito? Então, qual é a apretação do mundo, o que é o mundo? Então,
+[00:23:46] são... são questionamentos que... aparecem. Quando a gente começa a entender que...
+[00:23:54] que tem uma razão aqui. A gente começa a... que a gente vê pessoas que têm linguagem diferente,
+[00:24:00] e depois a gente se surpreende que há linguagens apesar de ser diferentes, elas muitas vezes
+[00:24:05] querem expressar coisas parecidas ou quase iguais. Então, em todos os alínguas...
+[00:24:13] pelo menos, enfim, tem conceitos que vão existir, vão ter significados um pouquinho diferentes,
+[00:24:22] mas de alguma maneira eles existem. Porque, da verdade, porque nós somos mesmo sermos humanos,
+[00:24:28] e sermos humanos têm, mesmo os órgãos, mesmo as percepções, então eles vão ver o mundo de maneira pouca sem alho.
+[00:24:34] Nós temos similidade. Nossa linguagem vai mudar, vão ter sentido significados,
+[00:24:41] vão ter... uma... abestrações diferentes, mas o mundo que a gente vê... não é tão diferente.
+[00:24:54] Pode ser que, por exemplo, estou vendo uma garrafa verde aqui. Pode ser que outra pessoa chegue pra... chegue e fale.
+[00:25:01] E outra língua, essa é a garrafa amarela. E outra chegue é essa garrafa azul.
+[00:25:06] Porque na cultura deles, eles chamam dessa maneira e acaba que está no mesmo espectro.
+[00:25:13] Então, assim como em português, a gente não defere verde, claro, verde, escuro, azul, claro, azul, escuro.
+[00:25:18] E outras línguas, eles podem diferir e ver escuro, estão também diferentes.
+[00:25:21] Então, o que pra mim é... não, isso aqui é azul, então, essas duas coisas, Jesus.
+[00:25:27] Então, a maneira que eu agrupa algumas coisas, achando que eles estão no M.A.C.
+[00:25:33] pra outra pessoa, é claramente não faz sentido. Porque pra eles, eles conseguem ver com o clarinho daquela C.
+[00:25:41] Isso, você serve e a aplicação disso é não. Inteligência naturalística.
+[00:25:47] Então, a gente que consegue ver diferenças entre plantas animais, cores, com muito mais facilidade que outros.
+[00:25:56] Então, nessa albubage, nessa maneira pra apresentar, é a meditáligência.
+[00:26:02] Então, tem culturas que são mais inteligentes pra determinar as asuntas de que outros.
+[00:26:07] Então, não é apenas ter criado uma... criar... não é criar o nome pra isso.
+[00:26:16] Então, para ver se eu me falar, não, isso aqui é assim, ano.
+[00:26:19] A gente quer que fala assim, a gente reconhece assim, a gente quer que consegue... não é a língua, a linguagem.
+[00:26:27] Ela precisa... mais do que saber que isso, ela precisa estar na ponta da língua das pessoas.
+[00:26:33] Ela precisa estar tipo um dicionário de termilhões de palavras, mas as palavras que servem, são aquela que as pessoas sabem.
+[00:26:40] E o uso. A palavra que a pessoa não usa... não sabe.
+[00:26:46] É ruim. A palavra que a pessoa não usa é péssima.
+[00:26:51] Então, é isso. A... a... sucesso da linguagem é o quanto ela é usada.
+[00:27:01] Uma linguagem que não é usada é um ligual morto.
+[00:27:05] Uma linguagem que está sendo usada todo mundo, uma linguagem vivo.
+[00:27:08] Bem simples. Então, essa segunda fase do outro conhecimento é a fala da consciência da mente.
+[00:27:15] A fase em que a gente entende que tem uma... que a gente tem uma razão.
+[00:27:25] Então, isso também pode ser um grande problema no desenvolvimento da humanidade.
+[00:27:30] Porque por ter razão, a gente não conseguia dedificar... não conseguia empreender a razão dos outros seres, a gente subjuga eles.
+[00:27:39] Então, a gente acha que a gente é superior eles. Isso é um desmotivo da grande devastação que aconteceu nos últimos séculos e que tem ainda acontecido.
+[00:27:53] Então, algumas religiões, algumas filosofias colabaram para isso. Então, nós somos os...
+[00:28:02] A interpretação, né? Que nós somos... imagens semelhacidos de Deus. Então, nos estados especiais.
+[00:28:09] E a natureza feita para servir a gente.
+[00:28:12] Enfim, sem interpretação, um terrível. E o outro momento, eu dou minha interpretação para isso.
+[00:28:18] A gente coloca a matéria, troca a natureza para o matéria. E não necessariamente os seres vivos.
+[00:28:25] Muita coisa pode mudar. Mas sim, porra. Então, é isso que acontece. Então, a gente começa a trazer explicações, como é trazer filosofias, como é trazer estilos de vida.
+[00:28:41] Que atende nossa necessidade de chegar ao mundo. Uma vez que o só material não atende.
+[00:28:53] Então, se o sucesso material é ser rico, rico no sentido material. E a gente é pobre. Então, quase tudo o que a gente tem.
+[00:29:02] Mas, aí que tá. Então, enfim, não estou dizendo que a mente...
+[00:29:11] A mente cria... Não estou dizendo que a gente acredita ou cria... cria o a mente.
+[00:29:20] Mas, aí, tá. Se o mundo fosse perfeito, acho que seria isso. Se o mundo fosse perfeito para o seu corpo.
+[00:29:28] Se nem perceber, que tem uma mente. Estava a ser já isso. Se o mundo fosse perfeito, inclusive...
+[00:29:36] Se você não precisasse, se não... Se estou corpo, não se tisse douto. Não ter nem perceberia. Que tu tem um corpo.
+[00:29:50] Então, a gente percebe que tem um corpo porque a gente precisa. Porque, voletevamente, nosso corpo foi preparado para isso.
+[00:29:57] Então, existem seres que talvez eles não saibam. Que existam.
+[00:30:05] Por exemplo, o bactérias. E pode ser... E assim como, em certa momento, não sabe a gente nem saber que a gente existia.
+[00:30:13] Até a sociedade da gente. Então, a gente não tem lembrança porque pra gente não existia.
+[00:30:21] Então, a necessidade de movimentar o nosso corpo foi o que nos faz ter consciência.
+[00:30:29] A gente pode falar "Não, porque é um processo". Meu mental, tudo bem.
+[00:30:37] Aquilo negócio, já está explicando o como, está explicando por quê?
+[00:30:41] Explica o como o carro bateu. O carro bateu porque eu estava sem freio.
+[00:30:49] E porque estava sem freio porque ele não leva uma manutenção. Então, o carro bateu porque ele leva na manutenção.
+[00:30:56] Está mais... Se você está explicando como ele bateu. Quer saber por quê bateu?
+[00:31:01] Porque ele... O carro estava lá... Porque ele estava dirigindo aquele carro.
+[00:31:08] Porque ele não leva na manutenção. Porque ele está tendo diferente explicar o como, explicar o porquê.
+[00:31:17] E muitas vezes as explitações lógicas se contentam e dizer que a carro bateu porque não foi com a manutenção.
+[00:31:26] E é isso aí. O carro bateu porque os carros andam. Porque tem carro, não dá.
+[00:31:31] As pessoas que compram carro, porque precisam. Porque precisam do como veio. Então, ele precisou do como veio.
+[00:31:38] Então, ele sou suficiente. Então, tipo, ele precisou do como veio. Para algum motivo.
+[00:31:44] Então, eu poderia falar... Não, não acredito que... Enfim, não acredito e Deus não.
+[00:31:50] Mas acredito que não acredito nos espíritos não. Mas acredito em consciente. Porque é inconsciente.
+[00:31:55] Mas o que é inconsciente? Não sei. Tá lá. Mas não é espírito não. É inconsciente.
+[00:32:00] Tá. Enfim, só estou me perdendo aqui.
+[00:32:13] Tá. O bebê násseis e... Pois é, gente, não tem consciência até a gente precisar. Assim como a mente.
+[00:32:22] O mundo estrutural, esse tipo, se a gente não... Assim como os animais, eles têm tudo o que eles precisam para viver.
+[00:32:33] Então, o tudo o que eles precisam, eles têm. Claro que alguns deles não conseguem viver o tempo suficiente.
+[00:32:41] Ou não evoluiram ainda o tempo suficiente para desenvolver outros processos racionais.
+[00:32:49] Ou, na verdade, eu me pote muito forte que os que desenvolveram já foram mortos.
+[00:32:54] F foram mortos pelos humanos. Porque... Pois é.
+[00:33:00] Acaba sendo natural esse processo de... Não tipo... Outro animal que tem razão é uma mente.
+[00:33:08] Assim como os humanos devastaram todos os animais que eram ameaça, restando apenas poucos ali, ou nosológicos ou uma reserva forestal.
+[00:33:20] Talvez, os outros que tiveram algum elemento racional do jeito que a gente conseguia identificar, eles também devem ter sido mortos de gente nem saiba.
+[00:33:33] E hoje, nossa geração nem saiba, mas tudo bem.
+[00:33:40] Então, o que acontece é isso. Hoje em dia, a gente só conhece os humanos que têm esse processo racional, pelo menos um processo racional que a gente consiga entender também.
+[00:33:55] Ou seja, não consegue entender nenhum outro. E, aparentemente, enfim...
+[00:34:01] Não tem nenhum outro que se assemvelha o nosso. Então, a gente diz que não tem.
+[00:34:08] Mas... Então, foi essa necessidade de pensar, de superar a nossa... de organizar, de um desorganizar, de descomunicar, de aumentar a complexidade que faz a gente devolver nossa vida.
+[00:34:25] E, por certo, o momento de nossa vida, a gente faz, entender que a gente tem um momento.
+[00:34:32] Então, eu falei no processo evolutivo, mas no processo prático, isso também acontece.
+[00:34:39] A gente... Então, é isso. Quando a gente é criança, ele está desenvolvendo ela.
+[00:34:46] E se a gente tem tudo que a gente precisa, a gente nunca precisa utilizar ela. Então, esse é o caso de pessoas que ficam adultos e, às vezes, têm emoções, processos mentais, psicológicos, que não são amadorescidos.
+[00:35:08] A gente que envelha essa fica idoso com o sem esse processo. Então, tipo...
+[00:35:16] Primeiro motivo é que não foi estimulado. Segundo motivo é que quando precisa o estimulado não conseguiu o seu estimulado.
+[00:35:24] Então, não conseguiu das ferramentas que ele tinha a seu... Então, não conseguiu também ter necessidade, né?
+[00:35:37] Porque a pessoa tem um estilo de vida que, às vezes, consegue fugir, consegue acabar entrando em outros meios, como, por exemplo, álcool, drogas.
+[00:35:51] Ou qualquer outro tipo de vício, jogos, enfim, não importa. As pessoas acabam entrando no seu processo de depressão, que é um processo de evolução da consciência da mente.
+[00:36:06] Então, a pessoa está tendo consciência da mente, mas não consegue lidar com isso. Não consegue superar, sem commodar com o fato de estar consciente.
+[00:36:16] Então, quando está nessa fase, a pessoa está em depressão. Quando a pessoa não aceita, não consegue lidar com o fato da consciência da mente.
+[00:36:25] Então, e então, isso vem para todo mundo. A depressão vem para todo mundo. Ou não chegou ainda. Ou vai chegar. Ou já passou. Ou está passando.
+[00:36:40] Claro que aqui tem dois tipos de depressão. O depressão, o sintoma, depressivo e o transtorno depressivo. Eu estou me referindo como transtorno, de preciza diagnóstico.
+[00:36:56] Como tem uma diretriz pediagnóstico por transtorno. Eu não estou me referindo a ele não. Eu não me referindo a...
+[00:37:02] Ao sintoma, é que a pessoa olha para a vida e fala "Não, eu não vejo sentido". E pronto. Não vejo sentido porque a matéria não é suficiente para mim.
+[00:37:14] Eu estou tentando consistidamente, mas não estou conseguindo lidar com isso. Não cheguei ainda. Eu ainda olha para o mundo de uma maneira material. Não atravessei a barreira do...
+[00:37:33] O portão não passei a porta da consciência da mente. Eu estou vendo ela, me incomoda. Não consegui passar ainda. Então, é mais ou menos isso.
+[00:37:46] A terceiro fase é quando a gente passa dessa porta. Então, a gente consegue entender que também o corpo não explica tudo. Não explica tudo. A mente é só uma ferramenta. Porque, na verdade, a gente tem uma outra.
+[00:38:02] O nosso eu, tem uma outra camada, que é a camada da alma, ou do espírito, ou da consciência. Tem vários nomes aqui, não tem o certo não. Então, mas é a camada do nosso eu interior.
+[00:38:21] E essa camada é uma representação do nosso ser. De quem a gente realmente é. Mas é uma representação. Então, é que a gente se indica como indivíduo.
+[00:38:39] Eu sou um indivíduo. Eu sou alguma coisa que não sei dizer muito bem. Eu sou um espírito, sei lá o que eu sou. Uma energia. Eu tenho uma matéria, eu tenho um corpo. Também tenho uma mente.
+[00:38:53] E essa aqui é uma fase que você já entendeu a mente. Você não está submissivamente, já consegue militar bem. Você consegue... Você está aqui se conectando com o seu Deus.
+[00:39:04] Ou com sua filosofia, que pode se chamar, que não existe, pode dizer que não existe Deus. Não importa.
+[00:39:13] Não importa. Se você acredita em água, não acredita em alguma coisa. Se você acredita em alguma coisa, ou se você diz que não acredita em alguma coisa, você está acreditando que não acredita em alguma coisa.
+[00:39:25] Então, as crianças são naturais. O que a gente anda... pelo caminho, anda pelo segundo, anda pelo terceiro, a gente fala por aquele caminho. É melhor. Essa é uma criança.
+[00:39:40] Qualquer coisa que a gente faz é uma criança. Então, a gente acredita que a gente vai pisar em novecaíno chão. Porque o chão está a firme e o suficiente.
+[00:39:52] A gente tem motivos para isso. Não é ilusão, não é burrice, não é tolice, sei lá. A gente tem evidências. Então, esse é um raciocinheológico que nos diz isso.
+[00:40:06] Mas, assim como a pessoa pode falar, eu sei que se eu comer isso vai me fazer mal, mas eu vou comer mesmo assim. A pessoa pode falar, eu sei que você leva a dor. Não é cair. Mas eu tenho medo mesmo assim. Eu posso falar, eu sei que esse filme de terror é mentira, mas eu não quero ver mesmo assim, eu tenho medo mesmo assim.
+[00:40:29] Então, saber a razão não é suficiente. Nossa ação é isso, não depende da razão. Nossa ação é dependente de quem a gente crie. A gente pode falar, eu sei que Deus não existe.
+[00:40:43] Mas, alguma coisa vai fazer acontecer. Eu sei que eu tenho o sentido que eu sei o que.
+[00:40:50] Pronto, esse momento é o momento que a gente crie alguma coisa. Tem esse sentimento, não sabe explicar ele, novamente eu inconsciente.
+[00:40:59] Tem um sentimento ali, a intuição. E é verdade a intuição mesmo, a maneira que a gente chama esse sentimento que a gente não conhece.
+[00:41:07] Alguns vão chamar de espírito, vão chamar de energia, alguns vão chamar de Deus, alguns vão chamar de... Não importa.
+[00:41:13] É o que importa, é que a gente sente alguma coisa. E a gente age, de acordo com o jeito de sente. A razão vem para confirmar esse sentimento ou não.
+[00:41:25] Então a gente sente uma coisa, e a razão dos outros. Então, tem alguma coisa que está aí conflito aqui. Então, nesse processo que a gente tem que mastigar, entender, refinar, amadurecer.
+[00:41:36] E existe um processo para isso, então psicólogo ajuda muito, os líderes de espectuais ajudam muito, fisofisa ajudam muito.
+[00:41:44] Então, mas esse é o processo da gente entender o nosso alma. A gente está entendendo que apenas nossa mente, no suficiente, a gente sabe que tem alguma coisa ali, que o nosso eu é maior do que a mente, maior do nosso corpo.
+[00:42:05] Então, e quando a gente entende isso, inclusive entende que a gente tem alguma representação, uma alma, é quando a gente atravessa o portuguom.
+[00:42:20] Então, a gente paga de ter medo de morrer, a gente paga de pensar o tempo todo.
+[00:42:28] E a gente atravessou a mente. Talvez a maneira que eu organizei aqui não ficou muito legal, mas futuramente isso vai ser corrigido.
+[00:42:40] Então, existe, então, a gente passa a gente entendo nessa alma de consistência da alma.
+[00:42:46] Só que a consistência da alma também não responde tudo, porque qual sentido disso tudo? É apenas estar pedindo a Deus, pedindo a ser lá cofo a manifestação da nossa alma.
+[00:43:08] A gente acaba repetindo nossos processos, acaba de repetir nossas rotinas, a gente acaba vivendo tudo, a gente acaba... Então, a gente já não se importa com a matéria, a gente não se importa ser rico, a gente tem duma, se a gente é saudável ou não.
+[00:43:22] A gente não se importa com nossos pensamentos, a gente está pensando certo ou não. A gente não se importa, a gente se importa e se conecta com Deus. E fica nisso.
+[00:43:32] Até quando a gente não sabe. E muita gente não... Isso acaba não sendo sustentável, o que a gente... Nesse caminho, as gerações acabam se perdendo.
+[00:43:48] Então sim, talvez as pessoas que estão ali estão le conectadas. As iniciais. Essa história não já vai falar.
+[00:43:56] Ah, tal partido político surgiu com uma intenção muito boa, mas as pessoas atuais se perdiram. Ah, tal família, tinha uma intenção muito boa.
+[00:44:04] Ah, tal empresa surgiu com uma intenção muito boa. Ah, tal religião, a origem dela, a filosofia dela inicial, o que ela acredita muito boa, mas infelizmente se perdeu. Claro, claro, porque não a conexão, o sentimento, a ligação com Deus.
+[00:44:23] Não consegue ser explicada através da razão. Ela é só sentida. Então não é sustentável. Para no caminho da alma. Eu te diria "almo", só ficar aqui, não para.
+[00:44:40] Então eu estou falando do processo de persistência, de evolutivo humano. Então você vem pensando com uma espécie única.
+[00:44:50] Beleza, o ótimo que você está tendo consciência da alma, ou então que tal sensação, tal sociedade, se consista alma. Isso é muito bom. Eles estão tendo vários frutos positivos ali.
+[00:45:00] Afalmente, se não tiver base sol das, vai virar religiosidade. E base sol das não é leis, políticas, diretrizes, documentações, livros.
+[00:45:15] Não é isso. É principalmente a conexão. Saber que está conscientemente. Então aqui entra o que eu estava falando lá aqui. Isso é muito importante.
+[00:45:27] De repente, a gente pode ser a oportunidade. Então é como se a gente se liberta da nossa mente, a gente consegue conectar a nossa alma, mas a gente para por aí.
+[00:45:41] Porque a gente não sabe o que vem seguida. Então o que acontece é, a gente fica a preta a cultura, tradições, achando que os caminhos que as pessoas encontraram no passado devem ser repetidos.
+[00:45:55] E a resposta assim deve ser repetidos, mas não a forma, não a matéria, não as tradições que eles fizeram ou os hábitos que eles tinham, porque é que eles eram temporais. Mas é a conexão que eles tiveram. Aí, se a gente tem que buscar.
+[00:46:11] Então, isso que a gente repetir. Então, se está a civilização, a civilização que eles conseguiram prosperar, porque eles todo mundo conseguia viver bem. Não é porque eles comiam o milho. Ou sei lá o que eles comiam. É porque eles, se conectavam. Isso que a gente tem que aprender.
+[00:46:32] Então, sobre poto níveis de indivíduo encontrar a alma, passar de liberdademente, está conectado com o que você acredita. Ótimo, me sou comprido.
+[00:46:44] Mas vale a pena. As pessoas são felizes quando o indivíduamente se encontrou e outras pessoas estão tristes. A resposta é não. Então, por isso que as pessoas fazem missões, fazem ações, as pessoas têm que terem que seus filhos continuem.
+[00:47:06] Escolhe, históricamente, tradicionalmente, e é mais ou menos isso. Mesmo que se encontra, quer que as pessoas vivem bem. E até mesmo, seja bem prático. Quando a pessoa está tipo de "guém fica feliz sozinho". Então, se eu estou feliz, eu estou atriz, eu quero ajudar. Então, se eu estou feliz, está tudo dando-se à minha vida. Mas eu sei que é o meu redor. Está todo mundo passando fome. Eu fico triste.
+[00:47:34] Minha felicidade sozinho não é suficiente. Então, isso mostra que, passada com a sua alma, é suficiente. Porque nós estamos ligados aos outros. Nós temos empatia. Nós somos seres que têm essa incididade, que se conecta.
+[00:47:52] Que, de alguma maneira, está emitindo alguma troca. Então, isso, a conexão com o seu Deus não explica. A conexão com sua alma, não explica apenas. Porque tem algo ainda maior. Então, e, quando o invés de trapoar isso, então, novamente, olhando para os outros seres, a gente enxerga que os outros seres...
+[00:48:19] Sim, são conectados. Eles sabem. Eles sabem muita coisa que eles não veem. Eles têm sensores que a gente não faz ideia. Então, eles sentem cheiros que a gente não consegue sentir. Eles vêm cores que a gente não vê.
+[00:48:38] E, porém, vai. Então, existe parece algo coordenando tudo. Uma camada maior, mais profunda, que apenas, se livradamente, entender que você tem uma alma, ter consciência de sua alma, não é suficiente.
+[00:48:56] Mas, no passado, a gente tem que passar dessa fase, passar desse portão. Então, acho que é a repritação que eu estou gostando. Então, a gente não me dá ainda.
+[00:49:11] No jeito que tem que ir nesse momento, que, pois é, existe alguma coisa que coordena tudo. Mas, é de supermer, que algumas pessoas vão chamar de espíritos. Outras pessoas vão, enfim, cada cultura vai ter seu nome.
+[00:49:29] E não importa. Os nomes. O que importa é que existe alguma coisa. Existe, a gente vai dizer, não, é o DNA que diz que é evolutivamente aqui. Você está dizendo como. Tudo bem que a gente evolui por conta de DNA. Ótimo, que a gente já está descomplindo.
+[00:49:46] Eu digo mais. Se quanto mais fundo a gente for, mais a gente vai achar. Então, a gente vai ver porque a matéria é só distração. Então, se a gente quiser passar a vida todo dia, passar 40 anos, lendo estudando, fazendo pesquisa, a gente vai estar ali contando coisa, vai estar ali, aí encontrei.
+[00:50:08] E depois, mais, quem ele não vai explicar. Vamos lá, a gente evolui muito. A gente sabe muito como manipular a matéria, entro dando que ciência deve ser cortada negada, o coca-côio desse tipo. O que eu digo, é que apenas a ciência não é suficiente.
+[00:50:34] Ela não vai trazer a conexão. Ela não vai trazer nosso levisa. Ela não vai trazer... Não vai fazer as pessoas tomar e boos hábitos de saúde ou tomar educo de decisões políticas, porque as pessoas não voltam pela razão, voltam pela crença.
+[00:50:57] Então, apenas achar que não existe nada, já passou de cogitação. Porque é muita coisa que tem por aí, que não podemos varrer para debaixo de tapete, como diria um divulgar o científico que eu gosto muito.
+[00:51:21] Então, isso é alguma coisa aí, a gente não sabe o que é, que não precisa chamar do nada, mas ele existe. E de certa maneira...
+[00:51:36] Então, nesse processo de tentar entender-lo, se faz parte de outro conhecimento também. Então, talvez aqui faça sentido o nosso irmão de semelhassa. E Deus. Porque, de fato, parece que a nossa... E talvez aqui me idea platônica, né?
+[00:51:54] Nossa ideia de Deus, o que a gente vive, o que a gente faz, que se assemelha, é algo que este nosso energia. Então, enfim, eu também gosto da teoria de... A ideia de conatos de espinosa, que é, por exemplo, nossa energia, todos as nossas ações ou aumentam o diminuição da energia.
+[00:52:17] E parece que sim, algumas ações que são positivas, que são harmoniosas, são positivas. Enfim.
+[00:52:37] Então, a gente está barreira, que a gente tem que superar, a barreira da alma, que a gente tem que existir, não sei. E esse sei, há muita massa energia. E esse sei... Pois é...
+[00:52:58] É a gente, de certa maneira. Então, quando a gente fecha os olhos e respire medita, e entre em flow, e consegue selecê-los pensamentos, e tem controle, tem consista situação.
+[00:53:12] Neste momento, a gente está conectado como o C. Quando a gente quer fazer o bem, o que é o bem, mas quando a gente quer fazer algo que é o meio tendo aos outros, isso aumenta na sua energia também. E todo mundo fica feliz, todo mundo fica com energia aumentada.
+[00:53:29] Então, são várias coisas que sinto aqui, parece que tudo sobre energia, essas conexões necessitado, que a gente está obtendo energia do sol para nossa pele, assim como a energia dos alimentos de um trinete.
+[00:53:44] Os nutrientes para gerar energia, na que o processo que a gente faz é de geração de energia. Todas as nossas ações é energia, seja por ondas, estou falando aqui, gerando um som, que é uma energia, seja luz, seja movimento, isso tudo é energia.
+[00:54:12] Então, parece que tudo é energia, e parece que esse ser é uma energia, e talvez os espíritos também sejam energia, que, enfim, que a gente tem que repete os nomes que daram antes, porque é o melhor nome que a gente que consegue dar hoje, porque a gente não tem colaborado nesse sentido.
+[00:54:39] Então, quando a gente tem que... essa porta de entender que... temos consciência que tem um cedo, essa é a quarta fase do autoconhecimento.
+[00:54:55] Mas, e agora, sabemos que tem um cedo, conseguimos como viver agora, ou porque viver, ou quem somos nós, nós somos o cedo, mas como é que isso responde tudo?
+[00:55:12] Como isso responde, que eu devo comer... não, respondo muita coisa já, porque, se eu sou você, eu tenho um corpo, então vou comer, eu que faz bem com o meu corpo.
+[00:55:30] E... tá, mas o que eu vou fazer agora, tá, eu comi, mas se eu sou você, agora vou ficar aqui de boa na minha, conectado com a natureza, só vivendo.
+[00:55:48] Porque, por exemplo, eu não preciso mais nada, eu não preciso meus pensamentos, não preciso meu corpo, só espere nada ao de morrer, porque eu sou você.
+[00:56:00] Na verdade, poxa, tê-tê-tê, dou por aí, tê-tê tristeza, tê-tê-tê-tê coisa ruim, então... porque eu preciso... porque eu não morro logo, se eu sou você.
+[00:56:12] E... e são várias questionamentos que surgem, e eles são supervados. Então, e eles também são conflituosos, e... por exemplo, então, de fato, essas perguntas não conseguem ser respondidas apenas, tendo consistido do ser.
+[00:56:28] Parece que tem mais uma etapa, que precisa ser... que precisa ser compreendido. E eu sou o ser que... e os outros são seres também, então... que são os outros.
+[00:56:44] Os animais são seres, os vegetais são seres também, então eu sou o animal, eu sou tudo, eu sou outra pessoa, como é que é isso? Processa entre ter daninhado.
+[00:56:56] E realmente, está faltando uma chave de alimento. E tente, tente, tente, é um...
+[00:57:04] É surpreendente, pelo menos a minha visão, né? E eu acho que ela tem... ela converga com muitas outras. Então, eu acho que estou aqui dentro da roda, estou apenas compilando uma linea raciocínio que faz sentido para mim.
+[00:57:22] Então, é... o que acontece é... é... o que consegue observar natureza.
+[00:57:38] A gente vê que esse ciclo de... existe um ciclo que se repete. Isso pode falar de ciclo da vida, de... ciclo da vida de nascer, crescer, reproduzir, morrer.
+[00:58:00] Mas pode falar de outros. Na verdade, acho que esse ciclo para pensar agora, ele é muito bom, na verdade.
+[00:58:08] Porque é bem por aí. Então, uma onda... o que é... o que é uma onda do mar? É uma água? É água? É a partícula? É um movimento?
+[00:58:24] Mas, então, tipo, a onda que está no topo, ela quebra e volta a ser tudo. E novamente, ela vai fazer isso.
+[00:58:38] E a gente vai ver que no processo da vida tem sempre essa se forma e quebra e se forma e quebra e formar quebra, né? Na ser morrer.
+[00:58:54] E até mesmo... em todos... em todos os nossos interações, a gente é reparada na natureza, está lá.
+[00:59:00] E inspirar... respirar. Porque o nosso coração faz dois movimentos, né? Pode ser quatro, mas dois movimentos ali de...
+[00:59:13] O sangue a ver, entra e a artera sai, tá lisa, empuxando o outro. E tudo... e isso se repete de vários maneiros.
+[00:59:24] Parece que sempre... Pois é, existem... tem essa necessidade de ter o processo oposto que estão em equilíbrio.
+[00:59:36] E a gente vai percebendo que isso é mais profundo, porque até mesmo a nossa percepção de mundo da pele disso.
+[00:59:44] Então, só escuto música, escuto barulhos passarinhos, se tiver silêncio. Faço barulho, uma onda, faço liber energia, não consigo... ela não... ela não... ela não consigo escutar direito a outra energia, a outros sons.
+[01:00:04] Então, estou descrevendo o processo que a gente precisa de anteparos, que precisa de vazios.
+[01:00:10] E esse é um conceito que o pessoal fala muito sobre isso, que é Deus, o que é o C, é o vazio, é interesse de supremar.
+[01:00:20] E a matéria é o que completá-lo. Então, a gente só consegue ver Deus por causa da matéria. Então, essa fechei equação.
+[01:00:31] E em e em. É como você, a gente fosse espírito de matéria. Então, falei tanto mal na matéria, porque a gente primeiro estava se identificando exclusivamente com a matéria.
+[01:00:50] Mas também, se identificar exclusivamente com o espírito, não dá certo. Nós somos espírito de matéria.
+[01:01:00] E... Então, essa explica que... porque a gente tem que cuidar dos meus mesmos.
+[01:01:09] Então, nossa matéria foi origenada a partir de um processo que eles não entende, que não sabem por quê.
+[01:01:20] Porque se faz uma mitosa, a gente faz que se faz uma mitosa. Mas não, porque. Então, porque, em algum momento, as células reproduziram e de uma célulazinha nasceu, osso falou, surgindo e, certe momento, pá.
+[01:01:38] Uma pessoa ali, que daqui a pouco vai crescer, vai tomando leite e daqui a pouco pá. Tem olhos e tudo maravilhoso. Enfim, tem a visão inteligente, está falando mamãe.
+[01:01:50] Tipo, você está absorvendo tudo, ouvindo tudo. O cabritinho nasce e já sabe, já nasce pulando. E já sabe, falar "Bé, cadê meu leite?" Cadê meu mamadeira?
+[01:02:05] Então, existe... Pois é, existe uma história, existe uma inteligência que corre a dê-ne isso tudo, que a gente não sabe.
+[01:02:25] E a matéria também está construindo um raciocinilógico, que a gente deve respeitar esse olaço.
+[01:02:37] Se a gente é matéria, então vamos viver a matéria. Então, se eu sou o nazi assim, que eu viva assim. E por aí vai. Então, ela aceita. É aceitar que é isso.
+[01:02:58] A aceitar as injustiças que eu comeceiro. A aceitar o... Pois é, a realidade que a gente é. E essa é a quinta fase.
+[01:03:13] Quando a gente entende, a gente passa a barreira da consistência do C, a gente entende que a gente é mais de que o C. A gente faz parte da realidade. E a realidade é espírito e matéria.
+[01:03:29] E ela se configura de essa maneira. E uma frase que eu gostei é "não somos corpos, humanos, com espírito, vivendo o mundo de espírito".
+[01:03:41] Sei lá, não somos corpos, humanos, de venciando espíritos. A verdade, nós somos espíritos de venciando corpos, humanos. Então, é isso. Se a gente se en torna, foi duro com a gente. A gente vai aceitar e vai viver.
+[01:04:09] E vai se conectar com o nosso ser superior. Que na verdade é a gente que nesse superior já é um problema.
+[01:04:24] Por isso eu sei o interior. Então, a gente vai se conectar e a gente vai entender que a gente não é esse corpo. A gente não é essa mente. A gente tem capacidade de se conectar.
+[01:04:39] A gente vai viver a vida que nos foi dada. Isso aí não vivem. Problema nenhum. Porque a realidade é espírito e matéria. Então, eu estou falando nesse momento, não vou se alurar.
+[01:05:03] E esse material vai chegar em você. E eu sou você. De alguma maneira. Então, eu estou muito feliz de estar enviando. E ao mesmo tempo, a gente está recebendo isso.
+[01:05:24] Porque aí, isso que eu estou buscando. Então, se alguém tivesse me dado isso a muito para trás, eu teria sofri menos que eu sofri hoje.
+[01:05:40] E essa realidade é realidade. Está vindo mais de uma tarde. Ele vai negar o nome. Isso é a pessoa morrer e não tem problema.
+[01:05:49] O circuito no vivo. Eu espirro que no vivo. E pronto. E se eu morrer, eu, Guilherme, não tem problema. Porque eu vou continuar aí.
+[01:05:59] Cutor mundo. Cutor dos seres. Cutor das... Na forma de todas as matérias. Até o momento que não sei que vai acontecer e que fazer.
+[01:06:11] Não sei se é apenas o planeta Terra ou sem todos os planetas e todos os universos que a gente não conhece. Talvez todos os universos são fractal.
+[01:06:21] Então, é que se expande e na verdade eles são a casinha de uma bactéria. Então, é a casca de uma... Sei lá.
+[01:06:32] Então, tem um mundo que a gente não sabe, que a gente não entende e que não importa. Porque a gente não tem capacidade para ver.
+[01:06:41] Nossa matéria não permite. Nossa limitação. Nossa história não permite. Nossa história não permite que a gente fique supondo.
+[01:06:49] Então, a gente tem um espectro de luz limitado que nossos olhos podem ver. A gente tem uma velocidade.
+[01:06:59] Porque, tem um animado que você olha para ele. Tem uma aranha que você olha para ele. Parece que ele está dando o camera a ler.
+[01:07:06] Também na verdade está dando muito mais rápido que vocês vão te conselhe captar.
+[01:07:09] E tem sons que, no segos faz de gente não escuta, tem sensores que os outros animais fazem de não faz ideia.
+[01:07:17] Então, existe um mundo que a gente não vê. Isso é um fato.
+[01:07:23] O que a gente vai viver com isso vai ficar incomodado com a consciência que a gente não sabe de tudo. Hoje, a gente vai aceitar a realidade.
+[01:07:32] Essa é a mensagem e essa é a minha sistema filosófico. O início dela, né?

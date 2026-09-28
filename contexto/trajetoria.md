@@ -3,6 +3,14 @@
 *Em construção. Registra onde o incorporador está e para onde caminha — carreira, a empresa atual,
 lastro, o momento. Alimentado aos poucos; divide-se em arquivos quando crescer.*
 
+## Formação e disposição
+
+Engenheiro civil e empreendedor, com interesse por filosofia e governança e disposição para
+pôr a mão na massa: projetar, gerir e construir. É um recorte do perfil, não o retrato inteiro.
+
+Fonte: `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` (aba
+Identidade, "Quem sou").
+
 ## A empresa atual
 
 Traz qualidade de vida. A demanda cabe em menos de 40 horas semanais, e o tempo que sobra vai

@@ -14,17 +14,24 @@ Processual e pontual não se misturam:
 - **`<bloco>/next-steps.md`** (ex.: `estudo/next-steps.md`) — os passos internos de cada bloco.
   Um por bloco de primeiro nível; sub-blocos viram seções dentro dele.
 
-## A fila da raiz: quatro tiers
+## A fila da raiz: seis tiers
 
 Nesta ordem:
 
 1. **Passar a limpo** — transcrições sem camada limpa. Todo áudio passa por registrar →
    passar a limpo → encaixar ([processo](processo-transcricoes.md)).
-2. **Trabalhos em aberto** — refatoração e migração em curso.
-3. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
+2. **Foco** — um ou mais objetivos declarados pelo incorporador, cada um numa frase seguida da
+   lista, em ordem, do que o destrava. Sobe para cá o que vier de qualquer outro tier e sai do
+   tier de origem; de uma fonte que sobe só em parte, o resto fica onde estava. O agente propõe
+   a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
+3. **Trabalhos em aberto** — refatoração e migração em curso.
+4. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
    documentos, que já nascem legíveis.
-4. **Melhorias** — só as que cruzam blocos. A exclusiva de um bloco vai para o next-steps
+5. **Backlog** — ações definidas e ainda não iniciadas, que não são melhoria do que já existe.
+6. **Melhorias** — só as que cruzam blocos. A exclusiva de um bloco vai para o next-steps
    dele; a de método, para `meta/next-steps.md`.
+
+Cada item de Foco diz a ação: o que se faz, com qual fonte e em qual arquivo de destino.
 
 Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador retomá-las.
 

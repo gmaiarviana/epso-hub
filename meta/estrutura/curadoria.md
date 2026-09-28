@@ -39,7 +39,7 @@ A analogia é a do quebra-cabeça, e cada gesto dele tem par no método:
   revisáveis.
 
 A caixa se preserva depois da extração. Nem todo objeto entra no acervo numa passagem, e a caixa
-guarda os que ficaram para uma abertura futura; o que ficou se lista como encaixe no tier 3 do
+guarda os que ficaram para uma abertura futura; o que ficou se lista como encaixe no tier Encaixar do
 [next-steps da raiz](../../next-steps.md), ou em [elaborar](../../elaborar.md) quando pede
 reflexão nova do incorporador. Uma caixa já duplicada em outro lugar do acervo
 dispensa cópia — mantê-la duas vezes suja o acervo.

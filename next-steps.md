@@ -14,10 +14,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    replicável e não bolha) e os objetivos. Ajuda opcional, não obrigatória: princípios
    inegociáveis, o que o EPSO não é, e respostas curtas a "como decidimos?", "como lidamos com
    dinheiro?", "o que fazemos quando alguém não contribui?".
-2. **Encaixar a estratégia profissional** (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`)
-   em `contexto/trajetoria.md`: carreira, empresa atual, decisão pelo mestrado. É a fonte
-   principal de `contexto/`.
-3. **Completar a trajetória** em `contexto/trajetoria.md`:
+2. **Completar a trajetória** em `contexto/trajetoria.md`:
    - da narrativa de carreira v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`),
      de `## 1`, a migração da construção civil para o software; os traços de `## 2`
      (iniciativa, aprendizado contínuo, intencionalidade); o resto de `## 3`
@@ -31,12 +28,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    - do corpus, "virada de carreira e vontade de fundar" — valor indireto (fintech,
      eletrônicos, telecom) → segmentos de benefício direto; liderança desde cedo; limite de
      tempo e dinheiro (`cartas-de-candidatura`, carta à startup).
-4. **Encaixar a academia como lastro** em `estudo/academia/jornada.md`: da transcrição
-   2026-06-26 — equilíbrio (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`),
-   a tese de doutorado como tese de vida e a estratégia mestrado → doutorado; das outras
-   2026-06-26, plantar várias sementes (`#varias-sementes-uma-jornada`) e o não também é
-   caminho (`#entrada-na-academia`).
-5. **Encaixar o que já foi falado sobre comunicação:**
+3. **Encaixar o que já foi falado sobre comunicação:**
    - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`):
      os eixos como objetivos brutos em `instituicao/comunicacao/linha-editorial.md`, Em aberto,
      sem decidir (temáticas e saúde mental já em Temas e Público); `#eixo-mercado` e
@@ -48,7 +40,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
      primeiro, casos do [radar de casos](contexto/trabalho/radar-casos.md) como ilustração,
      sem bajular organizações; idioma inicial português; temas ecocidades, biorregionalismo,
      agrofloresta, construção. O tom segue Em aberto.
-6. **Se sobrar tempo** — enriquecem, não travam:
+4. **Se sobrar tempo** — enriquecem, não travam:
    - transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`):
      de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
      `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
@@ -71,17 +63,19 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   `#plataforma-e-autoridade` estão no Foco. `#portal-linguagem` já está em
   `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-07-04 — quatro iniciativas** (`fontes/transcricoes/2026-07-04-quatro-iniciativas.md`)
-  — continua a fala da estratégia profissional (no Foco). As quatro iniciativas →
-  `instituicao/iniciativas/`; `#iniciativa-4-abstracao` checar fusão com
-  `filosofia/hipoteses/linguagem.md`.
+  — continua a fala da estratégia profissional. As quatro iniciativas →
+  `instituicao/iniciativas/`, junto com duas seções da estratégia profissional
+  (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`): `#viabilidade-construtora`
+  (bagagem, demanda, remuneração; não investir agora) e, de `#sequenciamento-iniciativas`, a
+  ordem (a iniciativa quatro espera; a três, talvez unida à dois, pode despontar primeiro).
+  `#iniciativa-4-abstracao`: checar fusão com `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
-  — equilíbrio matéria-ideias e novas bases em `filosofia/cosmovisao/`. A parte acadêmica
-  está no Foco.
+  — `#equilibrio-materia-e-ideias`, `#cosmovisao-e-novas-bases` e `#escala-e-evidencias` em
+  `filosofia/cosmovisao/`. A parte acadêmica já está em `estudo/academia/jornada.md`.
 - **Transcrições 2026-06-26 — as outras quatro** (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
   `…-as-primeiras-teses-crencas-e-quem-sou-eu.md`, `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
   `…-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`) — parte já encaixada;
-  conferir seção a seção o que falta (plantar várias sementes e o não também é caminho estão
-  no Foco). Ao fim, verificar que estas ideias têm casa:
+  conferir seção a seção o que falta. Ao fim, verificar que estas ideias têm casa:
   - detentor de perguntas e as perguntas básicas (quem sou eu, para onde vou, por que estou
     aqui, o que há depois da morte) — `#quem-somos-nos-e-a-tese`;
   - a regeneração é por nós, "o planeta acredita na gente" — `#regeneracao-por-nos`;

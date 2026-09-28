@@ -9,7 +9,7 @@ Engenheiro civil e empreendedor, com interesse por filosofia e governança e dis
 pôr a mão na massa: projetar, gerir e construir. É um recorte do perfil, não o retrato inteiro.
 
 Fonte: `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` (aba
-Identidade, "Quem sou").
+Identidade, "Quem sou"); `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#um-recorte-de-quem-sou`.
 
 ## A empresa atual
 

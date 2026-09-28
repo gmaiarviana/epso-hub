@@ -51,7 +51,13 @@ ainda faz sentido diante do acervo atual. Guarda-se o que é válido e valioso; 
 reconstrói com a provocação e o contexto certos fica para trás. A caixa não se preserva, e o
 conteúdo migrado mora no acervo sem citar a origem.
 
-Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#migrar-é-guardar-o-válido-e-valioso`.
+Quando a caixa mistura níveis — por exemplo, um documento de iniciativa com trechos do núcleo
+do EPSO —, as duas saídas se combinam: a caixa entra preservada em `fontes/`, o que é do nível
+EPSO se pondera na hora e o específico da iniciativa fica no bruto para migrar depois, pela
+fila.
+
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#migrar-é-guardar-o-válido-e-valioso`;
+`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#o-específico-fica-bruto-o-do-epso-se-pondera`.
 
 ## Antes de curar: qual argumento?
 

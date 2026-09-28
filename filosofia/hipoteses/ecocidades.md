@@ -79,6 +79,38 @@ Liderar a transição para as ecocidades pede estudar:
 
 Fonte: [22/9]`#transicao-para-ecocidades`.
 
+## Reconhecer o que funciona
+
+Começar pelo que já existe pede saber reconhecer uma comunidade viva. Quatro marcadores:
+
+- **Materialidade** — sustenta-se com base produtiva ou renda robusta e recorrente.
+- **Abertura** — recebe visitantes, forma pessoas e multiplica a prática.
+- **Identidade** — reúne pessoas que são aquilo que fazem, movidas por pertencimento, e não
+  por remuneração ou aparência. Os sinais: crenças comuns, mesmo simples ("preservar o
+  ambiente é necessário"), propósito claro e prática existente — projetos, rotina,
+  governança, formais ou informais. É o marcador mais difícil de ler de longe.
+- **Tecido familiar** — famílias residentes com crianças. Uma rede de produtores articulada
+  por cooperativa ou ONG é tecido social, mas não é comunidade residente.
+
+**Renda e entorno.** O que pesa é a fonte da renda, não a presença de turismo. Agricultura,
+agroindústria, cooperativa, pesca e produção com marca sustentam o território; retiros,
+doações, mensalidades altas e fluxo de visitantes como base são frágeis. O turismo ao redor
+aquece a economia e dá mercado para formações, mas só ajuda se a comunidade controla o custo
+de vida e a terra; quando não controla, expulsa quem mora (ver o
+[Vale do Capão](../../contexto/trabalho/radar-casos.md#vale-do-capão--palmeiras-bahia)).
+
+**Duração.** Um projeto durável se reconhece pela continuidade entre gerações — adolescentes e
+jovens adultos presentes, filhos de fundadores que ficam, jovens assumindo responsabilidades —,
+pelos projetos parecidos que morreram no território, e por quê, e pelas tensões entre
+discurso e prática. Diante de uma comunidade genuína sob pressão, a pergunta deixa de ser
+"autêntica ou de fachada" e passa a ser "resiliente ou em descaracterização".
+
+**Peça que falta.** Produção agroecológica com escola para crianças pequenas quase não existe
+no Brasil como categoria: as escolas da pedagogia da alternância (EFAs, CFRs) atendem só a
+partir do fundamental II, porque pressupõem adolescentes que trabalham na propriedade. Nos
+territórios varridos, a vida comunitária rica — assentamentos, quilombos — convive com escolas
+públicas convencionais: a riqueza está fora da escola.
+
 ## Em aberto
 
 Ver [elaborar](../../elaborar.md#ecocidades).

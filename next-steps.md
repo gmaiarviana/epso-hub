@@ -19,6 +19,14 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
      ([elaborar](elaborar.md#a-tese)) e `filosofia/hipoteses/linguagem.md`;
    - crenças sobre trabalho → `filosofia/hipoteses/trabalho.md`.
 
+   Traços de postura a confrontar com a fonte, ainda sem casa: espiritualidade que depende de
+   fluxo financeiro urbano (retiros, mensalidades altas) é frágil; não construir uma bolha cara
+   que depende de desigualdade, e sim algo replicável; transformar em vez de combater — a
+   mudança vem por agregação, convencimento e demonstração; chegar para contribuir e aprender,
+   nem turista curioso nem salvador; ser aquilo que se faz, contra a performance (checar fusão
+   com a balança do [README](README.md) e com a identidade em
+   [ecocidades](filosofia/hipoteses/ecocidades.md#reconhecer-o-que-funciona)).
+
    Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e respostas
    curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando alguém não
    contribui?".

@@ -22,7 +22,8 @@ A frente de [trabalho](trabalho/README.md), nesta ordem:
 2. **Aprofundar o radar de casos** — os casos já estão em
    [radar-casos.md](trabalho/radar-casos.md); o incorporador estuda cada um. Pendências
    marcadas nos casos: fontes acadêmicas citadas e ainda não lidas; atividade atual não
-   confirmada (Hunnarshala, Cloughjordan, Parlamento do Arvari).
+   confirmada (Hunnarshala, Cloughjordan, Parlamento do Arvari); Transition Towns e Sarvodaya
+   entraram sem evidência e pedem a pesquisa completa dos sinais.
 3. **Pesquisar o radar de emprego** — 10 a 20 organizações que passam nos critérios
    eliminatórios do [README](trabalho/README.md#critérios-eliminatórios-do-radar-de-emprego),
    em [radar-emprego.md](trabalho/radar-emprego.md). Salário sem evidência vira "sem dado";

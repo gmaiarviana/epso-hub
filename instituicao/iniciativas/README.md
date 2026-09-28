@@ -9,4 +9,4 @@ As iniciativas do EPSO — o lado do fazer: provar na prática. Várias platafor
 
 Cada iniciativa pensa a própria receita. Receitas do EPSO como um todo e o financiamento de fora ficam em [instituicao/next-steps.md](../next-steps.md).
 
-Fonte: `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`, `fontes/documentos/2026-09-27-proposito-epso.raw.md` (mediação de debates).
+Fontes: `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`, `fontes/documentos/2026-09-27-proposito-epso.raw.md` (mediação de debates), `fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md#várias-plataformas`, `#receita-de-cada-iniciativa`.

@@ -4,22 +4,23 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 
 ## Objetivos
 
-Objetivos brutos, como apareceram, sem refinamento nem métrica. Eles definem a
-[imagem](imagem.md). Não precisam ser sequenciais: um objetivo de etapa posterior já pode
-começar a plantar a semente.
+Matéria bruta para a sessão de objetivos: o que já foi dito, organizado por eixo, sem
+refinamento nem métrica. Os eixos vão determinar os objetivos.
 
 - **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho. Foco
   importante.
 - **Rede de pessoas** — recrutar e inspirar pessoas: convidar a dialogar, colaborar, provocar,
-  se voluntariar, servir, trabalhar com o que acreditam. A rede de voluntários é talvez de uma
-  etapa posterior, com o projeto mais maduro e mais disponibilidade. A plataforma sonhada —
-  os portais das [iniciativas](../iniciativas/README.md), incluindo superar a linguagem —
-  precisa de colaboração, e o conteúdo planta a semente.
+  se voluntariar, servir, trabalhar com o que acreditam. A rede de voluntários talvez seja
+  de uma etapa posterior, com o projeto mais maduro e mais disponibilidade, mas não precisa
+  ser sequencial: já dá para plantar a sementinha. A plataforma sonhada (os portais, o
+  aspecto profundo de superar a linguagem) mostra que se quer fomentar uma rede de pessoas,
+  e isso deve abrir portas.
 - **Pesquisa** — estar em contato com outros pesquisadores: entender o que está sendo
   trabalhado, colaborar, aprender e contribuir. Perto de ser recrutado, mas mais específico.
-- **Aprender** — estudar um tema, um artigo, um caso de uso, um repositório, e falar sobre
-  isso, principalmente para aprender; a visibilidade vem como consequência e pode chamar a
-  atenção de uma instituição.
+
+Também dito, na aproximação com organizações — a situar na sessão: estudar um tema, um
+artigo, um caso de uso, um repositório, e falar sobre isso pode chamar a atenção de uma
+instituição, mas principalmente faz aprender e dá visibilidade.
 
 Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,
 `#eixo-mercado`, `#eixo-rede-de-pessoas`, `#plataforma-e-autoridade`, `#eixo-pesquisa`;
@@ -104,16 +105,16 @@ complexos.
 
 ## Temas
 
-As temáticas são os pilares de autoridade: talvez três, cinco, sete ou nove, para focar nelas.
-Saem da [imagem](imagem.md); a lista abaixo é o universo de partida, não a escolha. Conceitos
-primeiro: os casos do [radar de casos](../../contexto/trabalho/radar-casos.md) ilustram, sem
-bajular organizações.
+Dito, a elaborar:
+
+- definir algumas temáticas — talvez três, cinco, sete ou nove — e focar nelas;
+- conceitos primeiro; casos de sucesso (do [radar de casos](../../contexto/trabalho/radar-casos.md))
+  ilustram; sem ficar bajulando empresa.
 
 Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`;
-`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
 `fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`.
 
-**Nível:** Em aberto — o número e a escolha das temáticas.
+**Nível:** Em aberto.
 
 Temas para começar, sem ordem entre eles:
 
@@ -154,9 +155,12 @@ Fontes: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#canal`;
 
 ## Calendário
 
-Planejar sobretudo o começo, que é o mais difícil. Antes do calendário, o índice de temas; antes
-do índice, os pilares de autoridade ([temas](#temas)). O que o acervo não cobre vira áudio
-gravado sobre a temática ([produção](metodo/producao.md#calendário)).
+Dito, a elaborar:
+
+- planejar principalmente o começo, que é mais difícil;
+- antes do calendário de postagens, um índice de temas; antes dele, a construção de pilares de
+  autoridade;
+- gravar áudios sobre as temáticas importantes.
 
 Fontes: `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
 `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`.

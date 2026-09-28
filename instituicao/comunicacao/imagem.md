@@ -1,18 +1,15 @@
 # Imagem
 
-A imagem que a comunicação quer construir: a intenção sobre como o incorporador quer ser visto.
-Decide-se a partir dos [objetivos](linha-editorial.md#objetivos) e decide, por sua vez, duas
-coisas da [linha editorial](linha-editorial.md):
+A imagem que a comunicação quer construir. Ainda não foi elaborada; aqui está o que já foi dito
+sobre ela.
 
-- **Os temas em que se vira autoridade** — as temáticas que se quer reforçar, os
-  [pilares](linha-editorial.md#temas).
-- **A linguagem** — como se fala, o [ajuste de linguagem](linha-editorial.md#público-e-variações-de-linguagem)
-  sobre o tom base.
-
-Para isso a imagem pede um escopo definido, alinhado ao que se quer transmitir e ao que se quer
-alcançar. O público se infere dos objetivos; alguns temas, também.
-
-A imagem em si ainda não foi elaborada.
+- Trazer clareza sobre qual imagem se quer construir ajuda a definir os temas, as temáticas que
+  se quer reforçar e em que se vai tornar autoridade.
+- Ter intenção sobre qual imagem se quer passar define a linguagem que se vai usar.
+- Para isso, é preciso um escopo definido, totalmente alinhado com o que se quer transmitir e
+  com o que se quer alcançar.
+- Dos [objetivos](linha-editorial.md#objetivos) já dá para inferir o público-alvo e alguns
+  temas.
 
 Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,
 `#imagem-linguagem-e-publico`.

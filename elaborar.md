@@ -18,6 +18,15 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   delas? *Quais são as outras crenças do EPSO, e qual delas sustenta as demais?* →
   [a tese](filosofia/cosmovisao/a-tese.md)
 
+### Precisão
+
+- **Verdade coerente para cada um.** Numa nota antiga você escreveu: "verdade é aquilo que é
+  coerente para cada um". Hoje a raiz da precisão é "a realidade excede a verdade": cada um lê
+  um pedaço da realidade, com mais ou menos precisão. Exemplo: duas pessoas descrevem o mesmo
+  rio, uma pela correnteza e outra pela cor da água — cada relato é coerente para quem o fez.
+  *As duas frases dizem a mesma coisa em zooms diferentes, ou a verdade de cada um pode estar
+  errada sobre a realidade?* → [precisão](filosofia/hipoteses/precisao.md)
+
 ### Linguagem
 
 - **O nome "camada".** Hoje "camada" quer dizer duas coisas: a pilha de conceitos (vida →

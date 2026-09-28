@@ -49,6 +49,20 @@ enviar com `git push --force-with-lease`, só em branch de feature própria. Con
 Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
 worktree é dispensável, e trabalha-se direto na branch designada pela sessão.
 
+## Limpeza: worktree de PR mergeado
+
+O incorporador muitas vezes mergeia o PR e fecha a sessão; o agente dono do worktree não
+chega a removê-lo, e os worktrees se acumulam. Por isso a limpeza não depende da sessão dona:
+qualquer sessão, no encerramento, remove os worktrees cujo PR **já foi mergeado** — o trabalho
+acabou, não há sessão ativa ali. Três travas, todas obrigatórias:
+
+- PR da branch mergeado: `gh pr list --state merged --head <branch>`;
+- worktree limpo: `git -C <worktree> status --porcelain` vazio;
+- nenhum commit fora do remoto: `git log <branch> --not --remotes` vazio.
+
+Passou nas três: `git worktree remove <worktree>` e `git branch -D <branch>`. Worktree sem PR,
+com PR aberto ou com mudança local fica — pode ser sessão ativa.
+
 ## Se já colidiu
 
 Sem quebrar a sessão ativa alheia:

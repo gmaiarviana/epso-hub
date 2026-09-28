@@ -102,6 +102,9 @@ ela produza entre no mesmo PR. Isso troca "PR quando o trabalho fica pronto" por
 sempre tem onde cair. Mecânica de branch → commit → PR: ver
 [CLAUDE.md § Fluxo git](../CLAUDE.md).
 
+Por fim, remover os worktrees de PR já mergeado — desta e de sessões anteriores. Travas e
+comandos em [sessões paralelas](sessoes-paralelas.md#limpeza-worktree-de-pr-mergeado).
+
 **Ressalva:** trabalho grande ou independente pode abrir PR antes de encerrar,
 quando faz sentido pôr em revisão logo. Nesse caso o encerramento não reabre
 nada — só roda a retrospectiva, e um achado que edite processo vira commit

@@ -3,9 +3,17 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
-## 2. Trabalhos em aberto
+## 2. Foco
 
-1. **Núcleo do EPSO** — propósito, valores, postura. Sessão de encaixe: a fonte principal é
+**Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco.
+
+1. **Montar o núcleo** — escrever propósito, valores e postura em `instituicao/nucleo/`, cada
+   parte com seu nível; o que não fechar vira provocação no [elaborar](elaborar.md). Pode
+   levar mais de uma sessão. Entram também: `#fora-do-paradigma-mecanicista` da transcrição
+   2026-09-22 (valores: regeneração, coletividade, colaboração, combate à desigualdade);
+   `## 1. Purpose` e `## 2. Values` da narrativa de carreira v8; do corpus, "cuidado de
+   pessoas, ambiente de presença, valores propostos" (`proposta-a-diretoria`,
+   `notas-comite-ia`; foram propostos para outra organização). A fonte principal é
    `fontes/documentos/2026-09-27-proposito-epso.raw.md` (objetivos, valores, manifesto,
    propósito, crenças, formas), com o "Quem somos", a base de pensamento e o método de 4 etapas
    de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`; completa o Documento
@@ -37,54 +45,75 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e respostas
    curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando alguém não
    contribui?".
-2. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
-   operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Dois dos
-   cinco documentos do Drive já estão como bruto:
-   `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` e
-   `…-construtora-operacional.raw.md`. Faltam trazer como bruto o Acervo Técnico, a Concepção
-   e o Plano de Execução do EcoCondomínio. O que neles é do nível EPSO já foi
-   ponderado; o resto é da construtora e se migra daqui — inclusive os tipos de sessão da
-   metodologia, modo de trabalhar dela. O servidor de inferência fica só no bruto:
-   especulação e desejo, não decisão. A construtora tem missão
-   própria, mais específica e relacionada à do EPSO. A forma jurídica dela não se define.
-   Fonte dessas decisões: `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`.
-   Pista para o encaixe: https://lageportilhojardim.com.br/blog/ecovila-e-inovacao-em-negocio-imobiliario-no-planejamento-territorial/
-   (ecovila como negócio imobiliário: leis de parcelamento e condomínio; casos Clareando e
-   Piracanga). Números sem fonte: no máximo Estimado (baixa). As
-   plataformas, de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`: o hub de
-   ferramentas e conhecimento (casos de uso, pilares construção/energia/água/política, curar
-   o que existe antes de criar, grátis para pessoa física e pago para instituição, foco no
-   Brasil), com os portais de 2026-09-23. A lista das iniciativas já está em
-   [iniciativas](instituicao/iniciativas/README.md).
+2. **Encaixar a estratégia profissional** (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`)
+   em `contexto/trajetoria.md`: carreira, empresa atual, decisão pelo mestrado. É a fonte
+   principal de `contexto/`.
+3. **Completar a trajetória** em `contexto/trajetoria.md`:
+   - da narrativa de carreira v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`),
+     o resto de `## 3` (autoridade de decisão, três autonomias, gestor generalista, áreas de
+     impacto); das seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações,
+     registros, glossário), separar o que alimenta `contexto/` — o resto fica como fonte, dono
+     no documento externo. O encaixe reescreve em português e na voz do incorporador;
+   - da transcrição 2026-09-22, `#instituicoes-do-novo-paradigma` (instituições do novo
+     paradigma e renda) e `#novas-instituicoes-e-rotina-autonoma` (rotina autônoma, cuidado de
+     si junto com entrega de valor);
+   - do corpus, "virada de carreira e vontade de fundar" — valor indireto (fintech,
+     eletrônicos, telecom) → segmentos de benefício direto; liderança desde cedo; limite de
+     tempo e dinheiro (`cartas-de-candidatura`, carta à startup).
+4. **Encaixar a academia como lastro** em `estudo/academia/jornada.md`: da transcrição
+   2026-06-26 — equilíbrio (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`),
+   a tese de doutorado como tese de vida e a estratégia mestrado → doutorado; das outras
+   2026-06-26, plantar várias sementes (`#varias-sementes-uma-jornada`) e o não também é
+   caminho (`#entrada-na-academia`).
+5. **Encaixar o que já foi falado sobre comunicação:**
+   - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`):
+     os eixos como objetivos brutos em `instituicao/comunicacao/linha-editorial.md`, Em aberto,
+     sem decidir (temáticas e saúde mental já em Temas e Público); `#eixo-mercado` e
+     `#plataforma-e-autoridade` em `contexto/`;
+   - transcrição 2026-09-22 `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade →
+     índice de temas → calendário) → `instituicao/comunicacao/`;
+   - conversa 2026-09-26 (`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`)
+     → `linha-editorial.md`: aprender primeiro, visibilidade como consequência; conceitos
+     primeiro, casos do [radar de casos](contexto/trabalho/radar-casos.md) como ilustração,
+     sem bajular organizações; idioma inicial português; temas ecocidades, biorregionalismo,
+     agrofloresta, construção. O tom segue Em aberto.
+6. **Se sobrar tempo** — enriquecem, não travam:
+   - transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`):
+     de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
+     `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
+     checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`.
+     Dá lastro aos temas corpo e saúde mental;
+   - pesquisa em IA eficiente (`## 3` da narrativa v8) → checar fusão com
+     `filosofia/hipoteses/inteligencia-potencializada.md` e `estudo/academia/foco.md`;
+   - **duas teses** — separar a tese do EPSO (as crenças em que ele se baseia; "quem sou eu"
+     no centro, com outras ao lado) da tese do doutorado (objetiva, em termos acadêmicos;
+     ainda não definida, depende de estudo). Hoje `filosofia/cosmovisao/a-tese.md` mistura as
+     duas: a discussão identidade × paradigma da informação e o recorte acadêmico são do
+     doutorado (`estudo/academia/foco.md`). As crenças do EPSO pedem resposta no
+     [elaborar](elaborar.md#a-tese). Fonte:
+     `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
 
-## 3. Encaixar
+## 4. Encaixar
 
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
-  — destinos prováveis: eixos → objetivos da linha editorial da comunicação (temáticas e
-  saúde mental já em Temas e Público);
-  portais da plataforma nas iniciativas; `#eixo-mercado` e `#plataforma-e-autoridade` em
-  `contexto/`. `#portal-linguagem` já está em `filosofia/hipoteses/linguagem.md`.
-- **Transcrição 2026-09-24** (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)
-  — de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
-  `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
-  checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`.
-- **Transcrições 2026-07-04 — estratégia profissional e quatro iniciativas**
-  (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`, `…-quatro-iniciativas.md`) —
-  uma fala contínua. A estratégia é a fonte principal de `contexto/` (carreira, empresa atual,
-  decisão pelo mestrado). As quatro iniciativas → `instituicao/iniciativas/`;
-  `#iniciativa-4-abstracao` checar fusão com `filosofia/hipoteses/linguagem.md`.
+  — portais da plataforma nas iniciativas. Eixos, `#eixo-mercado` e
+  `#plataforma-e-autoridade` estão no Foco. `#portal-linguagem` já está em
+  `filosofia/hipoteses/linguagem.md`.
+- **Transcrição 2026-07-04 — quatro iniciativas** (`fontes/transcricoes/2026-07-04-quatro-iniciativas.md`)
+  — continua a fala da estratégia profissional (no Foco). As quatro iniciativas →
+  `instituicao/iniciativas/`; `#iniciativa-4-abstracao` checar fusão com
+  `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
-  — equilíbrio matéria-ideias e novas bases em `filosofia/cosmovisao/`; tese de doutorado
-  como tese de vida e a estratégia mestrado → doutorado em `estudo/academia/jornada.md`.
+  — equilíbrio matéria-ideias e novas bases em `filosofia/cosmovisao/`. A parte acadêmica
+  está no Foco.
 - **Transcrições 2026-06-26 — as outras quatro** (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
   `…-as-primeiras-teses-crencas-e-quem-sou-eu.md`, `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
   `…-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`) — parte já encaixada;
-  conferir seção a seção o que falta. Ao fim, verificar que estas ideias têm casa:
+  conferir seção a seção o que falta (plantar várias sementes e o não também é caminho estão
+  no Foco). Ao fim, verificar que estas ideias têm casa:
   - detentor de perguntas e as perguntas básicas (quem sou eu, para onde vou, por que estou
     aqui, o que há depois da morte) — `#quem-somos-nos-e-a-tese`;
   - a regeneração é por nós, "o planeta acredita na gente" — `#regeneracao-por-nos`;
-  - plantar várias sementes — `#varias-sementes-uma-jornada`; o não também é caminho —
-    `#entrada-na-academia`;
   - as camadas de reconhecimento, seis ou sete — `#camadas-de-reconhecimento`;
   - as condições do novo processamento (transparência, rastreabilidade, confiança,
     sustentável, responsável) — `#o-novo-processamento`;
@@ -104,48 +133,28 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 - **Conversa 2026-07-07** (`fontes/conversas/`) — duas ideias: na migração, reaproveitar as
   ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent é
   um produto dentro dela).
-- **Conversa 2026-09-26** (`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md`) —
-  `#conteudo-como-aproximacao` → `instituicao/comunicacao/linha-editorial.md`: aprender
-  primeiro, visibilidade como consequência; conceitos primeiro, casos do
-  [radar de casos](contexto/trabalho/radar-casos.md) como ilustração, sem bajular
-  organizações; idioma inicial português; temas ecocidades, biorregionalismo, agrofloresta,
-  construção. O tom segue Em aberto até o trabalho de imagem (`contexto/next-steps.md`).
-- **Transcrição 2026-09-22, seções sem encaixe** (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`):
-  - `#fora-do-paradigma-mecanicista` (valores: regeneração, coletividade, colaboração,
-    combate à desigualdade) → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
-  - `#instituicoes-do-novo-paradigma` (instituições do novo paradigma e renda) e
-    `#novas-instituicoes-e-rotina-autonoma` (rotina autônoma, cuidado de si junto com entrega
-    de valor) → `contexto/trajetoria.md`.
-  - `#empreender-em-construcao-sustentavel` → `instituicao/iniciativas/`, junto com a
-    construtora.
-  - `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade → índice de temas →
-    calendário) → `instituicao/comunicacao/`, junto com a transcrição 2026-09-23.
+- **Transcrição 2026-09-22 — empreender em construção sustentável**
+  (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#empreender-em-construcao-sustentavel`)
+  → `instituicao/iniciativas/`, junto com a construtora. As outras seções sem encaixe estão no
+  Foco.
 
 - **Narrativa de carreira v8** (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`, em
   inglês) — encaixe seção por seção, tópico a tópico; o agente adianta o rascunho do que não
   depende de decisão. O repositório é dono de propósito, valores, EPSO, direção e método; o
   documento externo, complementar, é dono do detalhe de carreira e passa a derivar daqui.
-  O encaixe reescreve em português e na voz do incorporador, citando a fonte. Primeiro, os
-  destinos independentes:
+  O encaixe reescreve em português e na voz do incorporador, citando a fonte. Propósito,
+  valores, o resto de `## 3`, as seções 4 a 10 e a pesquisa em IA eficiente estão no Foco.
+  Ficam aqui:
   - Parágrafo do EPSO em `## 3. Career Vision` ("dois braços": ferramentas e catálogo; ideias
     entre culturas) → `instituicao/iniciativas/`. Diverge do README (construtora, ferramentas,
     plataforma): vira provocação em [elaborar](elaborar.md).
-  - Pesquisa em IA eficiente (`## 3`) → checar fusão com `filosofia/hipoteses/inteligencia-potencializada.md`
-    e `estudo/academia/foco.md`.
   - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir: `meta/` ou
     hipótese.
-
-  Depois, os que esperam outra fonte:
-  - `## 1. Purpose` e `## 2. Values` → `instituicao/nucleo/`, junto com o item Núcleo do tier 2.
-  - Resto de `## 3` (autoridade de decisão, três autonomias, gestor generalista, áreas de
-    impacto) → `contexto/trajetoria.md`, junto com a "Estratégia profissional" (tier 3).
-  - Seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações, registros, glossário)
-    → donas no documento externo; checar se algo alimenta `contexto/`, o resto fica como fonte.
 
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
   [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
-  uma ideia por sessão, nesta ordem:
+  uma ideia por sessão, nesta ordem (virada de carreira e cuidado de pessoas estão no Foco):
   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os
     times por componente que alienam do produto final (`relato-tpm-programa`) entram como
@@ -157,9 +166,6 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
     `cartas-de-candidatura`, `proposta-a-diretoria`) → checar fusão com
     `filosofia/hipoteses/trabalho.md`; "pessoas não querem trabalho, querem valor"
     (`notas-comite-ia`) é a mesma âncora de "as pessoas não querem trabalhar" de lá.
-  - **Virada de carreira e vontade de fundar** — valor indireto (fintech, eletrônicos,
-    telecom) → segmentos de benefício direto; liderança desde cedo; limite de tempo e dinheiro
-    (`cartas-de-candidatura`, carta à startup) → `contexto/trajetoria.md`.
   - **Todo problema é uma expectativa não atendida** (`cartas-de-candidatura`, carta à
     startup) → hipótese pequena ou `filosofia/cosmovisao/quem-sou-eu.md`.
   - **Demais objetos do ensaio** → fundir: você não é sua mente → `quem-sou-eu.md`; a mente
@@ -169,9 +175,6 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
     `filosofia/hipoteses/precisao.md`; corpo e emoções → checar contra a transcrição 2026-09-24.
   - **O gargalo é de organização, não técnico** (`relato-tpm-programa`, `notas-comite-ia`) →
     caso anonimizado para `linguagem.md`.
-  - **Cuidado de pessoas, ambiente de presença, valores propostos** (`proposta-a-diretoria`,
-    `notas-comite-ia`) → `instituicao/nucleo/`, junto com o item Núcleo do tier 2; foram
-    propostos para outra organização.
   - **Parábola da Deusa Looa** (`ensaio-nao-somos-nosso-trabalho`) → comunicação; espera os
     temas da linha editorial.
   - **Quatro tipos de benchmarking** (`notas-comite-ia`) → pede explicação do incorporador;
@@ -185,14 +188,27 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   ([elaborar](elaborar.md#a-tese)). É fala de 2023: conferir o que o pensamento atual já
   revisou.
 
-## 4. Melhorias
+## 5. Backlog
 
-- **Duas teses** — separar a tese do EPSO (as crenças em que ele se baseia; "quem sou eu" no
-  centro, com outras ao lado) da tese do doutorado (objetiva, em termos acadêmicos; ainda não
-  definida, depende de estudo). Hoje `filosofia/cosmovisao/a-tese.md` mistura as duas: a
-  discussão identidade × paradigma da informação e o recorte acadêmico são do doutorado
-  (`estudo/academia/foco.md`). As crenças do EPSO pedem resposta no [elaborar](elaborar.md#a-tese).
-  Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
+- **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
+  operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. Dois dos
+  cinco documentos do Drive já estão como bruto:
+  `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` e
+  `…-construtora-operacional.raw.md`. Faltam trazer como bruto o Acervo Técnico, a Concepção
+  e o Plano de Execução do EcoCondomínio. O que neles é do nível EPSO já foi
+  ponderado; o resto é da construtora e se migra daqui — inclusive os tipos de sessão da
+  metodologia, modo de trabalhar dela. O servidor de inferência fica só no bruto:
+  especulação e desejo, não decisão. A construtora tem missão
+  própria, mais específica e relacionada à do EPSO. A forma jurídica dela não se define.
+  Fonte dessas decisões: `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`.
+  Pista para o encaixe: https://lageportilhojardim.com.br/blog/ecovila-e-inovacao-em-negocio-imobiliario-no-planejamento-territorial/
+  (ecovila como negócio imobiliário: leis de parcelamento e condomínio; casos Clareando e
+  Piracanga). Números sem fonte: no máximo Estimado (baixa). As
+  plataformas, de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`: o hub de
+  ferramentas e conhecimento (casos de uso, pilares construção/energia/água/política, curar
+  o que existe antes de criar, grátis para pessoa física e pago para instituição, foco no
+  Brasil), com os portais de 2026-09-23. A lista das iniciativas já está em
+  [iniciativas](instituicao/iniciativas/README.md).
 
 ## Decisões adiadas
 

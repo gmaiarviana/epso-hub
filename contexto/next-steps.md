@@ -1,7 +1,7 @@
 # Próximos passos — Contexto
 
 Bloco enxuto de propósito: o incorporador alimenta aos poucos. As fontes que têm este bloco como
-destino estão no [next-steps da raiz](../next-steps.md) (tier 3).
+destino estão no [next-steps da raiz](../next-steps.md) (tiers Foco e Encaixar).
 
 - **Estratégia profissional (2026-07-04)** — a fonte principal do bloco: contexto atual,
   decisão do mestrado, sequência das iniciativas. Encaixa em [trajetória](trajetoria.md).

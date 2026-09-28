@@ -19,7 +19,8 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    principal de `contexto/`.
 3. **Completar a trajetória** em `contexto/trajetoria.md`:
    - da narrativa de carreira v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`),
-     os traços de `## 2` (iniciativa, aprendizado contínuo, intencionalidade), o resto de `## 3`
+     de `## 1`, a migração da construção civil para o software; os traços de `## 2`
+     (iniciativa, aprendizado contínuo, intencionalidade); o resto de `## 3`
      (autoridade de decisão, três autonomias, gestor generalista, áreas de
      impacto); das seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações,
      registros, glossário), separar o que alimenta `contexto/` — o resto fica como fonte, dono

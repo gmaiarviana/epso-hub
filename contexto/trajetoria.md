@@ -11,16 +11,6 @@ pôr a mão na massa: projetar, gerir e construir. É um recorte do perfil, não
 Fonte: `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` (aba
 Identidade, "Quem sou"); `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#um-recorte-de-quem-sou`.
 
-## O canal de agora
-
-A tecnologia da informação é o canal escolhido hoje, porque é onde a comunicação e a
-colaboração humanas estão se transformando mais a fundo neste momento; dentro dela, a IA é o
-foco atual — uma ferramenta cultivada, não uma identidade. Já houve uma migração, da construção
-para a tecnologia, e pode haver outra: o apego é ao tipo de impacto, não à ferramenta (ver o
-[núcleo](../instituicao/nucleo/README.md#postura)).
-
-Fonte: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 1. Purpose`).
-
 ## A empresa atual
 
 Traz qualidade de vida. A demanda cabe em menos de 40 horas semanais, e o tempo que sobra vai

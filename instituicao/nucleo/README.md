@@ -120,8 +120,8 @@ de confiança explícito, e o que se aprende, decide e experimenta se documenta 
 reaplicado. No trabalho com o agente, a mesma postura está no [CLAUDE.md](../../CLAUDE.md#postura).
 
 **O apego é ao tipo de impacto, não à ferramenta.** O EPSO se prende à transformação que busca,
-não ao meio que usa. Tecnologia, construção, conteúdo e ensino são meios; quando outro servir
-melhor ao propósito, muda-se de meio.
+não a uma ferramenta específica — um modelo de IA, uma linguagem, uma plataforma, uma técnica
+construtiva. Quando outra servir melhor, troca-se.
 
 **Nível:** Estimado (alta).
 

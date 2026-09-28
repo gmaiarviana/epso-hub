@@ -9,7 +9,13 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
 
 1. **Arco narrativo** — definir os arcos adequados a pautas de pensamento ([dimensoes.md](comunicacao/metodo/dimensoes.md#arco-narrativo--estrutura)).
 2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois.
-3. **Linha editorial** — preencher [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md).
+3. **Tom de voz** — revisitar o método de extração da voz e revisar o perfil v1 item por item
+   contra o corpus de escrita do incorporador (`fontes/documentos/`, campo `corpus`). O
+   incorporador traz o manual e o perfil v1, gerados por LLM e guardados fora do repositório.
+   Todos os textos do corpus foram validados pelo incorporador; os critérios de extração
+   (peso do campo `ia`, do `genero`) se decidem nessa sessão. Resultado → Tom base em
+   [linha-editorial.md](comunicacao/linha-editorial.md).
+4. **Linha editorial** — preencher [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md).
 
 ### Adiados
 

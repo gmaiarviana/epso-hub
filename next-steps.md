@@ -97,6 +97,39 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   - Seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações, registros, glossário)
     → donas no documento externo; checar se algo alimenta `contexto/`, o resto fica como fonte.
 
+- **Corpus de escrita do incorporador** (`fontes/documentos/2026-09-27-*.raw.md`, campo
+  `corpus`) — nove documentos. Servem também de amostra da voz (item Tom de voz em
+  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
+  uma ideia por sessão, nesta ordem:
+  - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
+    lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os
+    times por componente que alienam do produto final (`relato-tpm-programa`) entram como
+    faceta.
+  - **Condições para colaborar** — humildade (cada um vê a verdade de um ângulo), liberdade de
+    compartilhar, comunicar sem ruído, organizar os pontos de vista em harmonia
+    (`cartas-de-candidatura`, última carta) → checar fusão com `filosofia/cosmovisao/a-tese.md`.
+  - **Não somos nosso trabalho; trabalhar com o que acreditamos** (`ensaio-nao-somos-nosso-trabalho`,
+    `cartas-de-candidatura`, `proposta-a-diretoria`) → filosofia ou `contexto/trabalho/`, a decidir.
+  - **Virada de carreira e vontade de fundar** — valor indireto (fintech, eletrônicos,
+    telecom) → segmentos de benefício direto; liderança desde cedo; limite de tempo e dinheiro
+    (`cartas-de-candidatura`, carta à startup) → `contexto/trajetoria.md`.
+  - **Todo problema é uma expectativa não atendida** (`cartas-de-candidatura`, carta à
+    startup) → hipótese pequena ou `filosofia/cosmovisao/quem-sou-eu.md`.
+  - **Demais objetos do ensaio** → fundir: você não é sua mente → `quem-sou-eu.md`; a mente
+    como máquina de sentido → `filosofia/hipoteses/linguagem.md`; o sistema operacional das
+    crenças → junto da transcrição 2026-06-26 sobre crenças; mensagens semelhantes, formas
+    diferentes → `filosofia/hipoteses/ancora.md`; limites da percepção →
+    `filosofia/hipoteses/precisao.md`; corpo e emoções → checar contra a transcrição 2026-09-24.
+  - **O gargalo é de organização, não técnico** (`relato-tpm-programa`, `notas-comite-ia`) →
+    caso anonimizado para `linguagem.md`.
+  - **Cuidado de pessoas, ambiente de presença, valores propostos** (`proposta-a-diretoria`,
+    `notas-comite-ia`) → `instituicao/nucleo/`, junto com o item Núcleo do tier 2; foram
+    propostos para outra organização.
+  - **Parábola da Deusa Looa** (`ensaio-nao-somos-nosso-trabalho`) → comunicação; espera os
+    temas da linha editorial.
+  - **Quatro tipos de benchmarking** (`notas-comite-ia`) → pede explicação do incorporador;
+    candidato a [elaborar](elaborar.md).
+
 ## 4. Melhorias
 
 - **Duas teses** — separar a tese do EPSO (as crenças em que ele se baseia; "quem sou eu" no

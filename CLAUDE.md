@@ -16,7 +16,7 @@ Português, sempre.
 
 Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições e documentos brutos em `fontes/documentos/` são exceção: mantêm o bloco de metadados descrito em [meta/processo-transcricoes.md](meta/processo-transcricoes.md).)
 
-Documento bruto em `fontes/documentos/` preserva o texto na íntegra, com uma exceção: a anonimização, porque o repositório é público. Nomes de pessoas e referências internas de empresa e de cliente saem, trocados por rótulo entre colchetes (`[pessoa 1]`, `[empresa]`, `[cliente]`) e declarados no metadado `anonimizado`. Nomes de empregadores ficam quando descrevem a carreira; em documento interno (proposta, relato, e-mail), a empresa também sai. O original identificado fica fora do repositório.
+Documento bruto em `fontes/documentos/` preserva o texto na íntegra, com uma exceção: a anonimização, porque o repositório é público. Nomes de pessoas e referências internas de empresa e de cliente saem, trocados por rótulo entre colchetes (`[pessoa 1]`, `[empresa]`, `[cliente]`) e declarados no metadado `anonimizado`. Nomes de empregadores ficam quando descrevem a carreira; em documento interno (proposta, relato, e-mail), a empresa também sai. O original identificado fica fora do repositório. A anonimização acontece antes do primeiro push: num repositório público, branch enviada já é publicação.
 
 Referências ao dono de uma ideia usam a notação `[[nome]]`. Um `[[nome]]` cujo alvo ainda não existe não é erro — é uma lacuna registrada, um pensamento a mapear. O método de trabalho com esses elos pendentes fica em `meta/metodologia.md` (a formalizar).
 

@@ -36,10 +36,12 @@ financiamento, abaixo, é só propulsão de fora.
 - **Web3** — interessa como forma de remunerar quem contribui: faz parte da mentalidade de
   descentralização do EPSO. Em aberto.
 - **Natureza jurídica** (ONG sem fins lucrativos, empresa, outra) — Em aberto; não se decide
-  agora.
+  agora. Hoje o EPSO já tem CNPJ (58.272.456/0001-90, CNAE 7319003 — marketing direto), que
+  atende a fase de experimentação.
 
 Fonte: `fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md#receita-de-cada-iniciativa`, `#doação-eventos-e-comunidade`, `#web3`,
-`#natureza-jurídica`.
+`#natureza-jurídica`; CNPJ em `fontes/documentos/2026-09-27-construtora-operacional.raw.md`
+(aba Habilitação e Estrutura).
 
 ## Financiamento
 

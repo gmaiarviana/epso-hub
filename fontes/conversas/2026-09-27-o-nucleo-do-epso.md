@@ -35,3 +35,8 @@ Não precisamos ser rígidos, mas sim: o método de quatro etapas é o framework
 
 Não sei afirmar se o que fazemos hoje é régua para toda iniciativa, porque estamos bem no
 começo.
+
+## Tudo é tecnologia
+
+Tecnologia não anda para trás, informação não anda para trás. Tudo é tecnologia, tudo envolve
+informação. O apego é ao tipo de impacto, não à ferramenta.

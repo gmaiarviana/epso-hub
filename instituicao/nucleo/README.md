@@ -139,7 +139,7 @@ urbano.
 
 **Nível:** Estimado (média) — traços de notas antigas, a validar.
 
-Fonte: [núcleo]`#o-método-é-o-framework-base`; [quem somos] (Base de pensamento, Plataforma
+Fonte: [núcleo]`#o-método-é-o-framework-base`, `#tudo-é-tecnologia`; [quem somos] (Base de pensamento, Plataforma
 EPSO); [construtora] (Postura epistemológica); [narrativa] `## 1. Purpose`.
 
 ## Como agimos hoje

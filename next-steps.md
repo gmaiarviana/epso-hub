@@ -14,21 +14,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    replicável e não bolha) e os objetivos. Ajuda opcional, não obrigatória: princípios
    inegociáveis, o que o EPSO não é, e respostas curtas a "como decidimos?", "como lidamos com
    dinheiro?", "o que fazemos quando alguém não contribui?".
-2. **Completar a trajetória** em `contexto/trajetoria.md`:
-   - da narrativa de carreira v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`),
-     de `## 1`, a migração da construção civil para o software; os traços de `## 2`
-     (iniciativa, aprendizado contínuo, intencionalidade); o resto de `## 3`
-     (autoridade de decisão, três autonomias, gestor generalista, áreas de
-     impacto); das seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações,
-     registros, glossário), separar o que alimenta `contexto/` — o resto fica como fonte, dono
-     no documento externo. O encaixe reescreve em português e na voz do incorporador;
-   - da transcrição 2026-09-22, `#instituicoes-do-novo-paradigma` (instituições do novo
-     paradigma e renda) e `#novas-instituicoes-e-rotina-autonoma` (rotina autônoma, cuidado de
-     si junto com entrega de valor);
-   - do corpus, "virada de carreira e vontade de fundar" — valor indireto (fintech,
-     eletrônicos, telecom) → segmentos de benefício direto; liderança desde cedo; limite de
-     tempo e dinheiro (`cartas-de-candidatura`, carta à startup).
-3. **Encaixar o que já foi falado sobre comunicação:**
+2. **Encaixar o que já foi falado sobre comunicação:**
    - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`):
      os eixos como objetivos brutos em `instituicao/comunicacao/linha-editorial.md`, Em aberto,
      sem decidir (temáticas e saúde mental já em Temas e Público); `#eixo-mercado` em
@@ -43,7 +29,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
      primeiro, casos do [radar de casos](contexto/trabalho/radar-casos.md) como ilustração,
      sem bajular organizações; idioma inicial português; temas ecocidades, biorregionalismo,
      agrofloresta, construção. O tom segue Em aberto.
-4. **Se sobrar tempo** — enriquecem, não travam:
+3. **Se sobrar tempo** — enriquecem, não travam:
    - transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`):
      de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
      `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
@@ -105,26 +91,33 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   um produto dentro dela).
 - **Transcrição 2026-09-22 — empreender em construção sustentável**
   (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#empreender-em-construcao-sustentavel`)
-  → `instituicao/iniciativas/`, junto com a construtora. As outras seções sem encaixe estão no
-  Foco.
+  → `instituicao/iniciativas/`, junto com a construtora. `#lastro-conteudo-e-academia` segue
+  no Foco (comunicação).
 
 - **Narrativa de carreira v8** (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`, em
   inglês) — encaixe seção por seção, tópico a tópico; o agente adianta o rascunho do que não
   depende de decisão. O repositório é dono de propósito, valores, EPSO, direção e método; o
   documento externo, complementar, é dono do detalhe de carreira e passa a derivar daqui.
-  O encaixe reescreve em português e na voz do incorporador, citando a fonte. Propósito,
-  valores, o resto de `## 3`, as seções 4 a 10 e a pesquisa em IA eficiente estão no Foco.
-  Ficam aqui:
+  O encaixe reescreve em português e na voz do incorporador, citando a fonte. `## 1` e `## 2`
+  estão no núcleo e na trajetória; `## 3`, em `contexto/direcao.md`; a forma do arco de `## 4`,
+  na trajetória. Ficam só no documento externo, por decisão: o detalhe de cada fase (`## 4`),
+  as competências (`## 5`), os resultados (`## 6`), as adaptações por contexto (`## 8`, que
+  servem a candidaturas), os registros (`## 9`) e o glossário (`## 10`). Os diferenciais
+  (`## 7`) são insumo da imagem ([contexto/next-steps.md](contexto/next-steps.md#trabalho)). A
+  pesquisa em IA eficiente está no Foco. Ficam aqui:
   - Parágrafo do EPSO em `## 3. Career Vision` ("dois braços": ferramentas e catálogo; ideias
     entre culturas) → `instituicao/iniciativas/`. Diverge do README (construtora, ferramentas,
     plataforma): vira provocação em [elaborar](elaborar.md).
   - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir: `meta/` ou
     hipótese.
+  - O fio da comunicação humana de `## 1` — as camadas entre a intenção de quem fala e a
+    interpretação de quem ouve; reduzir o ruído em todo papel → checar fusão com
+    `filosofia/hipoteses/linguagem.md`.
 
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
   [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
-  uma ideia por sessão, nesta ordem (a virada de carreira está no Foco):
+  uma ideia por sessão, nesta ordem (a virada de carreira e a liderança desde cedo já estão em `contexto/`):
   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os
     times por componente que alienam do produto final (`relato-tpm-programa`) entram como

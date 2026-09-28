@@ -20,8 +20,7 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   errada e referenciando a conversa nova.
 - **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
   documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
-  mãe. Documentos ainda não têm processo próprio; precedente:
-  `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`.
+  mãe.
 - **"Em aberto" dos arquivos de conteúdo → [elaborar](../elaborar.md)** — o conteúdo guarda o
   mínimo em aberto; as provocações ao incorporador vivem em `elaborar.md`. Já vale para
   `linguagem`, `ecocidades` e `inteligencia-potencializada`; falta aplicar em `precisao`,

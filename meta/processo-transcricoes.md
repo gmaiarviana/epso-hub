@@ -21,6 +21,7 @@ Gera a camada bruta — a transcrição automática intocada.
 - Nomear o arquivo `AAAA-MM-DD-titulo.raw.md`, dentro de `fontes/transcricoes/raw/`.
 - Não seccionar o bruto — a estrutura por assunto vive na camada limpa.
 - **Vários áudios de um mesmo bloco** vão para um arquivo só, na **ordem de gravação**. Um bloco é a unidade de pensamento que o incorporador grava em sequência; pode atravessar mais de um dia. Nesse caso, o arquivo leva a data do primeiro dia e a `nota` registra a data de cada áudio. Vale a ordem de gravação, independente da ordem em que foram colados no chat, que não é confiável. Conferir os rótulos ("áudio 1", "áudio 2") contra as emendas do conteúdo (a frase cortada no fim de um e retomada no começo do outro); se rótulo e conteúdo divergirem, perguntar ao incorporador antes de gravar. Marcar cada fronteira com `<!-- áudio N -->` e registrar a ordem adotada e o que a confirma num campo `nota` dos metadados.
+- **Mais de uma transcrição automática do mesmo áudio** (ferramentas diferentes) vão para o mesmo arquivo, cada uma intocada e marcada por `<!-- transcrição: ferramenta -->`. A `nota` registra a ferramenta de cada versão e para que cada uma serve (ex.: uma mais fiel à fala, outra com marcadores de tempo para localizar trechos no áudio). Ao passar a limpo, uma versão resolve as ambiguidades da outra antes de se subir a escada de correções.
 
 ## Passar a limpo: a camada limpa
 

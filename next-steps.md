@@ -3,6 +3,13 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
+## 1. Passar a limpo
+
+- **Transcrição 2023-09-02 — sistema filosófico, a trilha do autoconhecimento**
+  (`fontes/transcricoes/raw/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.raw.md`)
+  — cinco fases de consciência (corpo, mente, alma, "ser", realidade como espírito e
+  matéria). Destino provável: `filosofia/cosmovisao/quem-sou-eu.md`.
+
 ## 2. Trabalhos em aberto
 
 1. **Núcleo do EPSO** — propósito, valores, postura. Sessão de encaixe: a fonte principal é

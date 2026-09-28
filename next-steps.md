@@ -3,13 +3,6 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
-## 1. Passar a limpo
-
-- **Transcrição 2023-09-02 — sistema filosófico, a trilha do autoconhecimento**
-  (`fontes/transcricoes/raw/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.raw.md`)
-  — cinco fases de consciência (corpo, mente, alma, "ser", realidade como espírito e
-  matéria). Destino provável: `filosofia/cosmovisao/quem-sou-eu.md`.
-
 ## 2. Trabalhos em aberto
 
 1. **Núcleo do EPSO** — propósito, valores, postura. Sessão de encaixe: a fonte principal é
@@ -156,6 +149,14 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
     temas da linha editorial.
   - **Quatro tipos de benchmarking** (`notas-comite-ia`) → pede explicação do incorporador;
     candidato a [elaborar](elaborar.md).
+- **Transcrição 2023-09-02 — sistema filosófico, a trilha do autoconhecimento**
+  (`fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md`) — cinco
+  fases de consciência (corpo, mente, alma, ser, realidade como espírito e matéria). As fases,
+  `#espirito-e-materia` e `#ciclos-e-opostos` → `filosofia/cosmovisao/quem-sou-eu.md`; checar
+  fusão com `#tudo-pulsa` e `#fluir`. `#linguagem-viva` → `filosofia/hipoteses/linguagem.md`.
+  `#crencas` e `#algo-coordena-tudo` ("votam pela crença") → checar a crença do EPSO
+  ([elaborar](elaborar.md#a-tese)). É fala de 2023: conferir o que o pensamento atual já
+  revisou.
 
 ## 4. Melhorias
 

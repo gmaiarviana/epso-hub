@@ -6,7 +6,7 @@ Padrões recorrentes na transcrição de áudio do incorporador e decisões de l
 
 - **colaborar** — verbo central da tese ("mudança de paradigma para colaborar"), usado inclusive com objeto direto atípico ("colaborar ideias"). É voz do incorporador; não trocar por "conciliar/combinar".
 - **noosfera** — camada abstrata de colaboração/pensamento coletivo. O ASR a quebra de várias formas na mesma fala ("nós esfera", "nova esfera", "nosfera", "na esfera", "novafera", "noitefera", "nofera"); normalizar todas para "noosfera".
-- **conatus** — conceito de Espinosa: o esforço de cada ser para perseverar no seu ser, a potência de agir que os afetos aumentam ou diminuem. O incorporador o usa como régua ("aumenta ou diminui o conatus, aumenta a nossa energia vital"). O ASR o deformou em "lasonatos" (2026-09-24, áudio 2); validado pelo incorporador.
+- **conatus** — conceito de Espinosa: o esforço de cada ser para perseverar no seu ser, a potência de agir que os afetos aumentam ou diminuem. O incorporador o usa como régua ("aumenta ou diminui o conatus, aumenta a nossa energia vital"). O ASR o deformou em "lasonatos" (2026-09-24, áudio 2) e "conatos" (2023-09-02); validado pelo incorporador.
 - **ecocidades** — grafia sem hífen (forma dicionarizada), adotada na camada limpa. O slug do arquivo de 2026-09-22 mantém `eco-cidades` por herdar o nome do bruto.
 - **inteligência potencializada / intencional** — contraposta a "inteligência artificial"; preservar os dois adjetivos como ditos.
 
@@ -36,9 +36,22 @@ Erro de transcrição em **uma** palavra que muda o sentido, mas que o contexto 
 - Termos resolvidos pelo tema do trecho nas transcrições de julho (2026-07-04/07): "**autoatismo**" → "**toyotismo**" (explica a produção puxada); "**protecionismo**" → "**protestantismo**" (lista de divisões do cristianismo); "espaço pra **devagar**" → "**divagar**"; "agente **assimrome**" / "trabalha **síncrono**" → "**assíncrono**"; "**votar** ter uma noção" → "**vou estar**"; "saiam de **mais** condições" → "**más**"; "como **chegamos** o mundo" → "**enxergamos**"; "etapas **precensoras**" → "**precursoras**"; "com **textos**" → "**contextos**"; "**Paper Aggent**" → "paper-agent"; "eu **era pra ser óbvio**" → "é **Era Pra Ser Óbvio**" (nome do projeto).
 - Locução virando palavra inventada: "sobre o **tempo clarito** sobre nova esfera" → "sobre **ter clareza** sobre a noosfera" (validado pelo incorporador — não era nome próprio; não buscar referência erudita onde a fala é coloquial).
 
+## Palavra dita com o sentido trocado
+
+Não é erro de transcrição: o incorporador disse a palavra, mas querendo o sentido oposto. A camada limpa segue a intenção — o bruto guarda a palavra dita. Sintoma: duas ferramentas concordam na palavra, e o contexto pede o contrário.
+
+- "**atenuar**" no sentido de **agravar**: "iria estar atenuando sua doença, e sem saber", "aquilo atenuou as enfermidades de outras pessoas" → "agravando", "agravou" (2023-09-02, validado; no mesmo parágrafo "atenuar" também aparece no sentido certo, e foi mantido).
+
+## Duas transcrições do mesmo áudio
+
+Com duas ferramentas (ver [processo-transcricoes.md](processo-transcricoes.md#registro-do-bruto)), a comparação resolve a maior parte dos garbles sem o incorporador: onde uma deforma, a outra costuma acertar. Mas as duas podem errar a mesma palavra de formas diferentes, sem que nenhuma acerte — aí só a escuta resolve (2023-09-02):
+
+- "falando nesse momento **do Marcelo Lá**" / "**não vou se alurar**" → "**no meu celular**".
+- "Então, **citar** a civilização" / "se **está** a civilização" → "se **tal** civilização" — o "tal X" genérico que ele usa para exemplos ("tal partido político", "tal família"). Um "citar" antes de um substantivo genérico pode ser esse "tal".
+
 ## Localizar um termo no áudio
 
-Para o degrau "reouvir" da escada de correções, estima-se a posição do termo pela contagem de palavras: % das palavras do áudio até o termo, convertido em minuto pela duração. O ritmo de fala do incorporador medido fica entre **80 e 100 palavras por minuto** (2026-09-24: áudio 2 com 1.323 palavras em 16:35 ≈ 80/min; áudio 5 com 3.018 palavras em 30:26 ≈ 99/min; 2026-07-04: 855 palavras em 9:10 ≈ 93/min; 2026-07-07: 2.774 palavras em 29:02 ≈ 96/min). Sem a duração, estimar por esse ritmo. A estimativa é aproximada; a busca pela palavra exata do bruto na transcrição do celular leva ao ponto certo. Aferição em 2026-09-24: "comentidade" estimada em 3:40, encontrada em 3:40; "lasonatos" estimada em ~5:00, encontrada em 5:16.
+Para o degrau "reouvir" da escada de correções, estima-se a posição do termo pela contagem de palavras: % das palavras do áudio até o termo, convertido em minuto pela duração. O ritmo de fala do incorporador medido fica entre **80 e 120 palavras por minuto** (2023-09-02: 8.244 palavras em 67:32 ≈ 122/min, fala corrida e fluindo; 2026-09-24: áudio 2 com 1.323 palavras em 16:35 ≈ 80/min; áudio 5 com 3.018 palavras em 30:26 ≈ 99/min; 2026-07-04: 855 palavras em 9:10 ≈ 93/min; 2026-07-07: 2.774 palavras em 29:02 ≈ 96/min). Sem a duração, estimar por esse ritmo. A estimativa é aproximada; a busca pela palavra exata do bruto na transcrição do celular leva ao ponto certo. Aferição em 2026-09-24: "comentidade" estimada em 3:40, encontrada em 3:40; "lasonatos" estimada em ~5:00, encontrada em 5:16.
 
 ## Garbles marcados (resolução adiada)
 

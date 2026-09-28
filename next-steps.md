@@ -17,7 +17,13 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    propósito, crenças, formas), com o "Quem somos", a base de pensamento e o método de 4 etapas
    de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`; completa o Documento
    Institucional. Valores (simplicidade, transparência,
-   colaboração) iguais em três versões: candidatos a Decidido. Fusões a checar:
+   colaboração) iguais em quatro versões, a quarta no Documento Institucional da construtora
+   (`fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md`): candidatos a
+   Decidido. Do mesmo documento, o incorporador já validou como do EPSO: no propósito,
+   "experimentar e provar na prática que é possível fazer diferente" e "cada projeto é um
+   experimento vivo"; na transparência, a financeira — margem decomposta em categorias
+   explícitas, destino de cada real rastreável, remuneração do incorporador visível. Fusões a
+   checar:
    - "consciência é agir com intenção" → `filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção`;
    - "paradoxos são realidades sobrepostas", "todos os pontos de vista são valiosos" →
      `filosofia/hipoteses/precisao.md` (a postura epistemológica compara-se antes com a raiz
@@ -34,8 +40,10 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    cinco documentos do Drive já estão como bruto:
    `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` e
    `…-construtora-operacional.raw.md`. Faltam trazer como bruto o Acervo Técnico, a Concepção
-   e o Plano de Execução do EcoCondomínio. Dos brutos, migra-se aqui o específico da
-   construtora; o que é do nível EPSO se pondera em conversa. A construtora tem missão
+   e o Plano de Execução do EcoCondomínio. O que neles é do nível EPSO já foi
+   ponderado; o resto é da construtora e se migra daqui — inclusive os tipos de sessão da
+   metodologia, modo de trabalhar dela. O servidor de inferência fica só no bruto:
+   especulação e desejo, não decisão. A construtora tem missão
    própria, mais específica e relacionada à do EPSO. A forma jurídica dela não se define.
    Pista para o encaixe: https://lageportilhojardim.com.br/blog/ecovila-e-inovacao-em-negocio-imobiliario-no-planejamento-territorial/
    (ecovila como negócio imobiliário: leis de parcelamento e condomínio; casos Clareando e

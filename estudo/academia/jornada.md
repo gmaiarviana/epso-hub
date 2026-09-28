@@ -15,12 +15,15 @@ língua de quem estuda a sério os mesmos assuntos; base para saber o que é atu
 relacionamento com pessoas e instituições; e o título, que traz confiança e reconhecimento. É
 a diferença entre ser visto como um curioso e ser visto como alguém que produz.
 
+O lastro serve a um papel: conselheiro, mediador, facilitador — posição que pede respaldo,
+confiança e nome, para fomentar uma rede de pessoas e abrir portas.
+
 O caminho principal é registrar e compartilhar o que se elabora. O que se compartilha ganha
 força e respaldo quando segue ritos que se provaram eficientes — os das instituições
 acadêmicas comprometidas em renovar ideias e evidências.
 
-A academia dá algumas ferramentas, não todas: as outras se constroem no trabalho, na vida
-espiritual e na parentalidade.
+A academia dá algumas ferramentas, não todas; as outras estão na
+[estratégia](../../contexto/trajetoria.md#a-estratégia).
 
 Fontes: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#mestrado-como-caminho`;
 `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#registrar-e-os-ritos-da-academia`,
@@ -44,13 +47,19 @@ Fontes: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-soci
 A direção, sem ser decisão fechada: no doutorado se aprofunda a minha tese; no mestrado se
 estuda uma tese que já existe e se aproxima da minha, para aprimorá-la.
 
+A estratégia mira primeiro o doutorado: continuar elaborando a tese é o que torna fácil
+escolher o mestrado. Da tese descem os degraus até o mestrado e os projetos de pesquisa
+([escada da tese](foco.md#a-escada-da-tese)); os métodos existentes que se parecem com o meu
+apontam departamentos e instituições. Não é preciso ter muitas opções: poucas, em escala
+global, bastam se fizerem muito sentido.
+
 Isso exige estudar os métodos existentes — hoje um conhecimento de leigo. Não se faz em hobby:
 demanda tempo, energia, estratégia e intenção.
 
 Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`; a tese
 vizinha vem de `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#doutorado-inédito-mestrado-vizinho`;
 o encaixe de cada um, de `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#tese-de-doutorado-como-tese-de-vida`,
-`#mestrado-como-degrau`, `#metodos-existentes-e-o-mestrado`.
+`#mestrado-como-degrau`, `#estrategia-mirar-no-doutorado`, `#metodos-existentes-e-o-mestrado`.
 
 ## Várias sementes, uma jornada
 

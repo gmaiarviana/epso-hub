@@ -13,12 +13,15 @@ Identidade, "Quem sou"); `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#
 
 ## A estratégia
 
-O foco é o filosófico, e para engajar é preciso peso no discurso: daí a decisão de investir no
-mestrado ([por que a academia](../estudo/academia/jornada.md#por-que-a-academia)). Em volta
-dele, três frentes andam juntas, cada uma com seu foco:
+O foco é o filosófico: estabelecer novas bases. E estabelecer base não é só registrar e falar —
+é fazer. Para fazer é preciso engajar; para engajar, ferramentas, argumentos e peso no
+discurso; para negociar, ter construído. Daí a decisão de investir no mestrado
+([por que a academia](../estudo/academia/jornada.md#por-que-a-academia)) — uma das
+ferramentas, não todas. As outras se constroem na vida espiritual, na parentalidade e em
+frentes que andam juntas, cada uma com seu foco:
 
-- **trabalho em tecnologia**, aprendendo cada vez mais — o que se aprende ali (tecnologia,
-  governança) serve às iniciativas do EPSO;
+- **trabalho em tecnologia**, aprendendo cada vez mais e crescendo na carreira como gestor e
+  empreendedor — o que se aprende ali (tecnologia, governança) serve às iniciativas do EPSO;
 - **as [iniciativas](../instituicao/iniciativas/README.md)** — várias frentes de trabalho em
   que se envolver no longo prazo, em paralelo. A construtora é uma delas: meio, não fim — dar
   opções, aprender, obter dados e estimular discussões;
@@ -26,10 +29,11 @@ dele, três frentes andam juntas, cada uma com seu foco:
   contribuir. Não é estratégia estritamente profissional; aproximar essas buscas do trabalho,
   até fundi-las, é uma possibilidade.
 
-Todas compõem a mesma jornada.
+Todas compõem uma jornada só — a jornada espiritual —, com focos diferentes em cada momento.
 
 Fontes: `fontes/transcricoes/2026-07-04-estrategia-profissional.md#sequenciamento-iniciativas`,
-`#decisao-mestrado`; `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#jornada-com-intencao`.
+`#decisao-mestrado`; `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#construir-ferramentas`,
+`#jornada-com-intencao`.
 
 ## A empresa atual
 

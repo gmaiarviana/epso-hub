@@ -31,8 +31,11 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 3. **Encaixar o que já foi falado sobre comunicação:**
    - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`):
      os eixos como objetivos brutos em `instituicao/comunicacao/linha-editorial.md`, Em aberto,
-     sem decidir (temáticas e saúde mental já em Temas e Público); `#eixo-mercado` e
-     `#plataforma-e-autoridade` em `contexto/`;
+     sem decidir (temáticas e saúde mental já em Temas e Público); `#eixo-mercado` em
+     `contexto/`; de `#plataforma-e-autoridade`, a plataforma que engloba superar a linguagem
+     (a autoridade já está em `estudo/academia/jornada.md#por-que-a-academia`); ainda sem
+     casa: `#escopo-e-imagem` (a imagem define os temas em que se vira autoridade) e
+     `#linha-editorial-e-numero-de-tematicas` (três a nove temáticas; gravar áudios);
    - transcrição 2026-09-22 `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade →
      índice de temas → calendário) → `instituicao/comunicacao/`;
    - conversa 2026-09-26 (`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`)
@@ -70,8 +73,10 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   ordem (a iniciativa quatro espera; a três, talvez unida à dois, pode despontar primeiro).
   `#iniciativa-4-abstracao`: checar fusão com `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
-  — `#equilibrio-materia-e-ideias`, `#cosmovisao-e-novas-bases` e `#escala-e-evidencias` em
-  `filosofia/cosmovisao/`. A parte acadêmica já está em `estudo/academia/jornada.md`.
+  — de `#equilibrio-materia-e-ideias`, o paradoxo prático × abstrato como lugar do
+  entendimento da realidade (a borda do estudo já está em `estudo/academia/foco.md`);
+  `#cosmovisao-e-novas-bases` e `#escala-e-evidencias` — em `filosofia/cosmovisao/`. A parte
+  acadêmica já está em `estudo/academia/`; a estratégia, em `contexto/trajetoria.md`.
 - **Transcrições 2026-06-26 — as outras quatro** (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
   `…-as-primeiras-teses-crencas-e-quem-sou-eu.md`, `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
   `…-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`) — parte já encaixada;

@@ -32,6 +32,23 @@ ideias que nos tocam.
 Essa fronteira delimita o estudo: a arquitetura das ideias entra; a genealogia
 completa fica fora.
 
+A outra borda é a matéria. O interesse vai o mais longe possível dela, rumo ao que não
+é matéria — mas sem filosofar em campos afastados do contexto, da realidade e das
+capacidades de quem estuda. O estudo fica no equilíbrio entre o prático e o abstrato.
+Fonte: `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#equilibrio-materia-e-ideias`.
+
+## A escada da tese
+
+A tese não tem um ângulo só nem um título só. Dela descem degraus:
+
+- **Doutorado** — as perguntas e as ressignificações de crenças, que pedem embasamento.
+- **Mestrado** — camadas mais práticas, boas dissertações.
+- **Projetos de pesquisa e grupos de estudo** — aplicações e problemáticas concretas.
+
+Onde recortar depende também do estado atual das pesquisas sobre o assunto.
+
+Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#recortes-da-tese`.
+
 ## Candidatos de recorte (em aberto)
 
 - **Método-ponte** — o campo/método existente que liga a ambição não dual ao que um

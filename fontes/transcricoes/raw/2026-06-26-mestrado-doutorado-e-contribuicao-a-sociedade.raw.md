@@ -6,9 +6,8 @@ titulo: Mestrado, doutorado e contribuição à sociedade
 fonte-audio: pendente
 nota: >-
   Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
-  Formatado para leitura já no registro original (epso_paradigm, commit
-  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
-  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  Formatado para leitura, sem alteração de conteúdo, já no registro
+  original; a saída crua do transcritor não foi preservada, e este é o
   texto mais antigo disponível. Termina cortado em "se refere a"; hipótese
   não confirmada: continua em 2026-06-26-a-tese-mudanca-de-paradigma, que
   abre com "Então talvez o momento agora é sobre falar sobre a minha tese".

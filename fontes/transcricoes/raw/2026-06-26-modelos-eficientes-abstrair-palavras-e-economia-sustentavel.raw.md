@@ -6,9 +6,8 @@ titulo: Modelos eficientes, abstrair as palavras e economia sustentável
 fonte-audio: pendente
 nota: >-
   Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
-  Formatado para leitura já no registro original (epso_paradigm, commit
-  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
-  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  Formatado para leitura, sem alteração de conteúdo, já no registro
+  original; a saída crua do transcritor não foi preservada, e este é o
   texto mais antigo disponível. Cabeçalho antigo (título, data, aviso de
   bruto) padronizado para este bloco de metadados em 2026-09-27; o texto
   falado segue intocado.

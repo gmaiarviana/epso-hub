@@ -15,11 +15,11 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    Todos os textos do corpus foram validados pelo incorporador; os critérios de extração
    (peso do campo `ia`, do `genero`) se decidem nessa sessão. Resultado → Tom base em
    [linha-editorial.md](comunicacao/linha-editorial.md).
-4. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md). Público, chamados e temas já têm primeira versão. Faltam objetivos (os eixos de `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`), referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens esperam o [núcleo](nucleo/).
+4. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md). Público, chamados, temas, canal e objetivos (brutos) já têm primeira versão. Faltam refinar os objetivos (cenário e métrica), elaborar a [imagem](comunicacao/imagem.md) e, dela, escolher as temáticas; referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens esperam o [núcleo](nucleo/).
 
 ### Adiados
 
-- Formato e canal (carrossel, vídeo, texto longo; escolha das redes).
+- Formato (carrossel, vídeo, texto longo). O canal inicial está em [linha-editorial.md](comunicacao/linha-editorial.md#canal).
 - Comunidade e relacionamento — estabelecer comunidade para envolver as pessoas: voluntários,
   associação de membros em níveis (os mais altos por convite), newsletter, grupos, diálogo com
   seguidores. Fonte: `fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md#doação-eventos-e-comunidade`.

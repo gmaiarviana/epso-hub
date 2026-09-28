@@ -4,6 +4,28 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 
 ## Objetivos
 
+Objetivos brutos, como apareceram, sem refinamento nem métrica. Eles definem a
+[imagem](imagem.md). Não precisam ser sequenciais: um objetivo de etapa posterior já pode
+começar a plantar a semente.
+
+- **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho. Foco
+  importante.
+- **Rede de pessoas** — recrutar e inspirar pessoas: convidar a dialogar, colaborar, provocar,
+  se voluntariar, servir, trabalhar com o que acreditam. A rede de voluntários é talvez de uma
+  etapa posterior, com o projeto mais maduro e mais disponibilidade. A plataforma sonhada —
+  os portais das [iniciativas](../iniciativas/README.md), incluindo superar a linguagem —
+  precisa de colaboração, e o conteúdo planta a semente.
+- **Pesquisa** — estar em contato com outros pesquisadores: entender o que está sendo
+  trabalhado, colaborar, aprender e contribuir. Perto de ser recrutado, mas mais específico.
+- **Aprender** — estudar um tema, um artigo, um caso de uso, um repositório, e falar sobre
+  isso, principalmente para aprender; a visibilidade vem como consequência e pode chamar a
+  atenção de uma instituição.
+
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,
+`#eixo-mercado`, `#eixo-rede-de-pessoas`, `#plataforma-e-autoridade`, `#eixo-pesquisa`;
+`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`;
+`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#ser-recrutado`.
+
 **Nível:** Em aberto.
 
 ## Chamados
@@ -17,6 +39,13 @@ Fonte: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto e respost
 nossos").
 
 **Nível:** Estimado (média).
+
+Para onde direcionar quem se aproxima: idealmente uma página onde a pessoa possa se inscrever,
+se voluntariar, doar e se envolver.
+
+Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-rede-de-pessoas`.
+
+**Nível:** Em aberto.
 
 ## Tom base
 
@@ -40,10 +69,13 @@ O conteúdo não é para todo mundo. Fala com:
 
 Objetivos por segmento e ajuste de linguagem seguem em aberto.
 
-Fontes: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto);
-`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#saude-mental-e-trabalho`.
+Idioma: português, para todos os segmentos.
 
-**Nível:** Estimado (média) — segmentos; o resto Em aberto.
+Fontes: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto);
+`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#saude-mental-e-trabalho`;
+`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#idioma`.
+
+**Nível:** Decidido — idioma; Estimado (média) — segmentos; o resto Em aberto.
 
 ## Referências
 
@@ -71,6 +103,17 @@ complexos.
 **Nível:** Estimado (baixa).
 
 ## Temas
+
+As temáticas são os pilares de autoridade: talvez três, cinco, sete ou nove, para focar nelas.
+Saem da [imagem](imagem.md); a lista abaixo é o universo de partida, não a escolha. Conceitos
+primeiro: os casos do [radar de casos](../../contexto/trabalho/radar-casos.md) ilustram, sem
+bajular organizações.
+
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`;
+`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
+`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`.
+
+**Nível:** Em aberto — o número e a escolha das temáticas.
 
 Temas para começar, sem ordem entre eles:
 
@@ -100,7 +143,23 @@ Inclui as perguntas de análise específicas de cada arco.
 
 **Nível:** Em aberto.
 
+## Canal
+
+Começa no LinkedIn. Depois, talvez uma newsletter de apoio.
+
+Fontes: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#canal`;
+`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`.
+
+**Nível:** Decidido — LinkedIn; Em aberto — newsletter.
+
 ## Calendário
+
+Planejar sobretudo o começo, que é o mais difícil. Antes do calendário, o índice de temas; antes
+do índice, os pilares de autoridade ([temas](#temas)). O que o acervo não cobre vira áudio
+gravado sobre a temática ([produção](metodo/producao.md#calendário)).
+
+Fontes: `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
+`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`.
 
 **Nível:** Em aberto.
 

@@ -6,7 +6,9 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
 
 - **Formalizar `meta/metodologia.md`** — o loop, o método do elo pendente `[[nome]]`, os
   níveis de confiança e a direção em aberto de agentes na pesquisa. Adiados dentro dele:
-  como identificar o que precisa de link; critérios mais inteligentes de confiança.
+  como identificar o que precisa de link; critérios mais inteligentes de confiança. Insumo: a
+  escada conceito → argumento → tese → síntese, em
+  `fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md#mapa-do-sistema`.
 - **Processo de registro de conversas** — o gêmeo do
   [processo de transcrições](processo-transcricoes.md) para
   `fontes/conversas/`: como acionar, o que o assistente pergunta, como nomeia. Questão

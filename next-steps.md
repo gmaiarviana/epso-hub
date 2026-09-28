@@ -5,16 +5,11 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 2. Trabalhos em aberto
 
-1. **Migração, sessão 3 — poda.** Remover do `epso_paradigm` os arquivos já migrados (todos
-   os `[x]` do [inventário](meta/estrutura/migracao-epso-paradigm.md)); ficam os três parciais.
-2. **Migração, sessão 4 — olhar novo e aposentadoria**, em chat novo. Rever o que sobrou no
-   `epso_paradigm` e guardar o que for válido e valioso — o que se reconstrói com a provocação
-   certa pode ficar para trás. Então deletar o repositório, o inventário e estes itens.
-3. **Núcleo do EPSO** — propósito, valores, postura. Sessão de encaixe: a fonte principal é
+1. **Núcleo do EPSO** — propósito, valores, postura. Sessão de encaixe: a fonte principal é
    `fontes/documentos/2026-09-27-proposito-epso.raw.md` (objetivos, valores, manifesto,
    propósito, crenças, formas), com o "Quem somos", a base de pensamento e o método de 4 etapas
-   de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`; completam o
-   `epso_paradigm` e o Documento Institucional. Valores (simplicidade, transparência,
+   de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`; completa o Documento
+   Institucional. Valores (simplicidade, transparência,
    colaboração) iguais em três versões: candidatos a Decidido. Fusões a checar:
    - "consciência é agir com intenção" → `filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção`;
    - "paradoxos são realidades sobrepostas", "todos os pontos de vista são valiosos" →
@@ -27,7 +22,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e respostas
    curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando alguém não
    contribui?".
-4. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
+2. **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,
    operacional) e EcoCondomínio (concepção e plano de execução), migrados do Drive. As
    plataformas, de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`: o hub de
    ferramentas e conhecimento (casos de uso, pilares construção/energia/água/política, curar
@@ -50,12 +45,35 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`, `…-quatro-iniciativas.md`) —
   uma fala contínua. A estratégia é a fonte principal de `contexto/` (carreira, empresa atual,
   decisão pelo mestrado). As quatro iniciativas → `instituicao/iniciativas/`;
-  `#iniciativa-4-abstracao` checar fusão com `filosofia/hipoteses/linguagem.md`. Vieram do
-  `epso_paradigm`: conferir lá o que já foi absorvido.
+  `#iniciativa-4-abstracao` checar fusão com `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
   — equilíbrio matéria-ideias e novas bases em `filosofia/cosmovisao/`; tese de doutorado
   como tese de vida e a estratégia mestrado → doutorado em `estudo/academia/jornada.md`.
-  Veio do `epso_paradigm`: conferir lá o que já foi absorvido.
+- **Transcrições 2026-06-26 — as outras quatro** (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
+  `…-as-primeiras-teses-crencas-e-quem-sou-eu.md`, `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
+  `…-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`) — parte já encaixada;
+  conferir seção a seção o que falta. Ao fim, verificar que estas ideias têm casa:
+  - detentor de perguntas e as perguntas básicas (quem sou eu, para onde vou, por que estou
+    aqui, o que há depois da morte) — `#quem-somos-nos-e-a-tese`;
+  - a regeneração é por nós, "o planeta acredita na gente" — `#regeneracao-por-nos`;
+  - plantar várias sementes — `#varias-sementes-uma-jornada`; o não também é caminho —
+    `#entrada-na-academia`;
+  - as camadas de reconhecimento, seis ou sete — `#camadas-de-reconhecimento`;
+  - as condições do novo processamento (transparência, rastreabilidade, confiança,
+    sustentável, responsável) — `#o-novo-processamento`;
+  - mudar paradigmas para colaborar — `#mudar-paradigmas-para-colaborar`; da escala global
+    destrutiva à regenerativa — `#de-global-destrutivo-a-global-regenerativo`;
+  - boas práticas factíveis e fáceis (consumo, alimentação, lazer) — `#boas-praticas-factiveis`;
+  - construção sustentável de verdade e o novo capitalismo —
+    `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`.
+- **Sobras do epso_paradigm** (`fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md`) —
+  o que não teve casa natural. Candidatas a encaixe: a relação regenerativa como
+  reconhecimento de sermos a mesma onda (`#pulsar-fractal` → `filosofia/cosmovisao/quem-sou-eu.md#tudo-pulsa`);
+  "une-e-supera", as tradições parcialmente cegas, e "tudo é verdade" rebaixado a método de
+  leitura (`#nucleo-da-tese` → `filosofia/cosmovisao/a-tese.md`); a medição que volta
+  disfarçada de prova (`#no-da-medicao`) e o critério de falsidade como "coração do doutorado"
+  (`#criterio-de-falsidade`) → `filosofia/hipoteses/precisao.md`. O resto virou
+  provocação no [elaborar](elaborar.md) ou pista de estudo.
 - **Conversa 2026-07-07** (`fontes/conversas/`) — duas ideias: na migração, reaproveitar as
   ponderações e não o resultado; a iniciativa quatro como camada filosófica (o paper-agent é
   um produto dentro dela).

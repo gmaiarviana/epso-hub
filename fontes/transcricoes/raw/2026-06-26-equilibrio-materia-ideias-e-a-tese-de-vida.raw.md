@@ -6,9 +6,8 @@ titulo: Equilíbrio matéria-ideias e a tese de vida
 fonte-audio: pendente
 nota: >-
   Um de cinco áudios registrados em 2026-06-26 (duração não registrada).
-  Formatado para leitura já no registro original (epso_paradigm, commit
-  25ee1fe, 2026-06-26: "Formatada para leitura, mas não alterada no
-  conteúdo"); a saída crua do transcritor não foi preservada, e este é o
+  Formatado para leitura, sem alteração de conteúdo, já no registro
+  original; a saída crua do transcritor não foi preservada, e este é o
   texto mais antigo disponível. Migrado para as três camadas em 2026-09-27:
   o cabeçalho antigo (título, data, aviso de bruto) deu lugar a este bloco
   de metadados; o texto falado segue intocado.

@@ -17,6 +17,13 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   centro — mas você disse que vê várias. Por exemplo: "a realidade excede a verdade" é uma
   delas? *Quais são as outras crenças do EPSO, e qual delas sustenta as demais?* →
   [a tese](filosofia/cosmovisao/a-tese.md)
+- **Reunir sem apagar.** Quem trabalha com saberes indígenas e tradicionais costuma desconfiar
+  de projetos que querem "reunir cosmovisões": o medo é que a reunião apague diferenças, ou que
+  um saber alheio só passe a valer quando traduzido para a linguagem de quem reúne — a
+  benzedeira que só é levada a sério quando a farmacologia "confirma" a planta. Nesse campo, a
+  comunidade decidir o que se faz com o próprio saber é questão central. *Como a ideia de
+  reunir o que cada tradição captou se defende dessa crítica? Quem hoje discordaria de você, e
+  o que você aprenderia com essa pessoa?* → [a tese](filosofia/cosmovisao/a-tese.md)
 
 ### Precisão
 
@@ -26,6 +33,31 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   rio, uma pela correnteza e outra pela cor da água — cada relato é coerente para quem o fez.
   *As duas frases dizem a mesma coisa em zooms diferentes, ou a verdade de cada um pode estar
   errada sobre a realidade?* → [precisão](filosofia/hipoteses/precisao.md)
+- **Teoria e lei.** No dia a dia, "é só uma teoria" soa como palpite. Na ciência, costuma-se
+  dizer que a lei descreve *o quê* (os corpos caem) e a teoria explica *o porquê* (a
+  relatividade explica por que caem), e que uma não vira a outra ao amadurecer. O argumento já
+  foi usado contra a ideia de que a física quântica pode mudar a ponto de acomodar o lado
+  místico. *Você concorda com essa distinção? Onde ela não serve para o que você pensa?* →
+  [precisão](filosofia/hipoteses/precisao.md)
+- **Quem recusa Popper.** Para Popper, uma teoria precisa poder estar errada — um horóscopo que
+  sempre "acerta" não afirma nada. Há escolas que recusam esse critério: as holistas, que olham
+  o todo antes das partes e buscam uma síntese que abranja tudo. *Sua concordância quase total
+  com Popper tem limite? Em que caso uma leitura que abrange tudo ainda diz alguma coisa?* →
+  [precisão](filosofia/hipoteses/precisao.md)
+- **Mudar as regras do jogo.** Recusar uma crítica porque ela parte de um pressuposto que você
+  não aceita é legítimo. Recusar qualquer crítica porque "o outro não tem os receptores"
+  transforma a tese num sistema que se protege de tudo — um time que muda a regra quando vai
+  perder. *Como alguém de fora distingue os dois casos na sua tese? Que crítica você aceitaria
+  como válida contra ela?* → [precisão](filosofia/hipoteses/precisao.md)
+
+### Vetor
+
+- **Quando dois vetores se chocam.** Duas pessoas discutem: uma diz "é preciso crescer a
+  economia", a outra "é preciso frear o consumo". Uma leitura possível: nenhuma está errada —
+  cada uma aponta de um lugar diferente para uma direção diferente, e o choque sinaliza algo
+  que nenhuma das duas disse. A dialética, uma tradição filosófica, vê no choque de opostos um
+  caminho de conhecimento. *O choque entre dois vetores revela algo? Se revela, o quê: o ponto
+  em comum, o não dito, outra coisa?* → [vetor](filosofia/hipoteses/vetor.md)
 
 ### Linguagem
 
@@ -88,3 +120,12 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   tradições diferentes querem dizer a mesma coisa. *Que autores, teses ou grupos você já viu
   que chegam perto do que você pensa? O que neles te atrai e o que falta?* →
   [foco](estudo/academia/foco.md)
+- **O que você traz.** Um dia você vai se apresentar a um orientador em poucos minutos. Uma
+  leitura antiga via três forças raras em quem começa: um problema genuíno, que aguenta anos de
+  doutorado; uma visão sistêmica clara; e um artefato já prototipado (os produtos do
+  paper-agent). *Você se reconhece nessas três? O que falta ou sobra? Como diria isso em duas
+  frases?* → [jornada](estudo/academia/jornada.md)
+- **O tamanho do doutorado.** Uma leitura antiga dizia que o seu doutorado propõe o método e dá
+  os primeiros passos — iniciação e organização, não consolidação —, e que a consolidação vem
+  depois, como trabalho de outros. *Seu doutorado abre o caminho ou chega ao fim dele? O que
+  fica para quem vier depois?* → [jornada](estudo/academia/jornada.md)

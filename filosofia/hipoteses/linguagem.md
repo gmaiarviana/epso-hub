@@ -166,10 +166,10 @@ necessários para ela. Mas a responsabilidade não é só de quem não capta. Qu
 comunicar de maneira adequada para todo mundo, começando pela camada mais básica — a
 material, sobre a qual ninguém tem dúvida.
 
+Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#comunicar-para-todos`.
+
 Referência reconhecida como chão: **Paulo Freire** — escutar o valor por trás das palavras,
 recusar tratar o outro como recipiente vazio, inclusão radical, consciência das limitações.
-
-Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#comunicar-para-todos`.
 
 ## Por baixo das palavras: a mensagem
 

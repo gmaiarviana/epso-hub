@@ -40,6 +40,9 @@ Muita coisa junta: organizar bem antes de correr.
   departamentos → editais de processo seletivo → o que cada edital cobra**. Registra também
   orientadores e as metodologias-ponte. Alinhado ao centro (quem sou eu) e ao paradigma da
   informação; construção fica fora do objeto de estudo (ver `academia/jornada.md`).
+  Pontos de partida a verificar (frentes, nomes, perfil de orientador, instituições, termos de
+  busca): `fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md#mapeamento-academico` e
+  `#leituras`.
 - **Duas bibliografias, em arquivos separados** (cruzam-se, mas não são idênticas — uma para
   entrar, outra para construir):
   - **`academia/leituras-entrada.md`** — o que os editais cobram; puxada pelo processo seletivo.

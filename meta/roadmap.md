@@ -28,8 +28,9 @@ Nesta ordem:
 4. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
    documentos, que já nascem legíveis.
 5. **Backlog** — ações definidas e ainda não iniciadas, que não são melhoria do que já existe.
-6. **Melhorias** — só as que cruzam blocos. A exclusiva de um bloco vai para o next-steps
-   dele; a de método, para `meta/next-steps.md`.
+6. **Melhorias** — ajustes no que já existe que mexem em mais de um bloco. Melhoria que
+   mexe num bloco só fica no next-steps dele; melhoria de processo ou método, em
+   `meta/next-steps.md`.
 
 Cada item de Foco diz a ação: o que se faz, com qual fonte e em qual arquivo de destino.
 

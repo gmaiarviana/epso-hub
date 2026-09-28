@@ -24,6 +24,8 @@ Nesta ordem:
    lista, em ordem, do que o destrava. Sobe para cá o que vier de qualquer outro tier e sai do
    tier de origem; de uma fonte que sobe só em parte, o resto fica onde estava. O agente propõe
    a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
+   Ao fechar um item, o que ficou de fora volta nomeado por seção, nunca como "o resto"; o que
+   fica só na fonte, sem ser pendência, se declara como decisão na entrada da fonte.
 3. **Trabalhos em aberto** — refatoração e migração em curso.
 4. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
    documentos, que já nascem legíveis.

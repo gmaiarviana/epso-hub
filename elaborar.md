@@ -12,11 +12,10 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 
 ### A tese
 
-- **A crença que sustenta as outras.** O [núcleo](instituicao/nucleo/README.md#crenças) já
-  lista uma primeira versão das crenças do EPSO: coletividade no lugar da individualidade,
-  "juntos vamos mais longe", "todos os pontos de vista são valiosos", "cada palavra importa"…
-  Na tese, "quem sou eu" é o centro — e "coletividade" parece sair dele: se não sou só um corpo
-  separado, não sou só indivíduo. *Alguma crença da lista sustenta as demais? Falta alguma?* →
+- **As crenças do EPSO.** Você separou duas teses: a do EPSO, feita das crenças em que ele se
+  baseia, e a do doutorado, que ainda depende de estudo. Da primeira, "quem sou eu" é o
+  centro — mas você disse que vê várias. Por exemplo: "a realidade excede a verdade" é uma
+  delas? *Quais são as outras crenças do EPSO, e qual delas sustenta as demais?* →
   [a tese](filosofia/cosmovisao/a-tese.md)
 - **Reunir sem apagar.** Quem trabalha com saberes indígenas e tradicionais costuma desconfiar
   de projetos que querem "reunir cosmovisões": o medo é que a reunião apague diferenças, ou que

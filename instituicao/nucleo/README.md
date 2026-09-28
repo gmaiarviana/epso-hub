@@ -98,8 +98,7 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
   trabalhos repetitivos; tecnologia são ferramentas que melhoram a vida das pessoas
   ([potencializar, não substituir](../../filosofia/hipoteses/inteligencia-potencializada.md#potencializar-não-substituir)).
 
-**Nível:** Estimado (média) — primeira versão. Qual crença sustenta as demais:
-[elaborar](../../elaborar.md#a-tese).
+**Nível:** Estimado (média) — primeira versão.
 
 Fonte: [núcleo]`#as-crenças-do-epso`; [propósito] (Crenças); [quem somos] (Quem somos, No que
 acreditamos).

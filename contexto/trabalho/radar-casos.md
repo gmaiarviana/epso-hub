@@ -482,6 +482,35 @@ funcionaram, **O que não funcionou**.
 - **Nível:** Estimado (média) quanto aos resultados; Estimado (baixa) quanto a ser novo
   paradigma pleno.
 
+### Vale do Capão — Palmeiras, Bahia
+
+- **Tema:** ecocidades
+- **O que faz:** vila da Chapada Diamantina com infraestrutura comunitária de décadas. O Horto
+  Comunitário Vale Flora nasceu em 1995 de moradores que se juntaram para prevenir incêndios e
+  virou reflorestamento: produz mudas nativas, húmus e biofertilizante, mantém banco de
+  sementes e funciona com voluntários
+  ([Portal Vale do Capão](https://portalvaledocapao.com.br/horto-comunitario-vale-flora/)).
+  A Comunidade Campina, assentamento intencional desde 1991, produz alimento orgânico,
+  fitoterápicos e sistemas permaculturais e decide por consenso
+  ([Campina](https://www.comunidadecampina.org/historico/);
+  [como funciona](https://www.comunidadecampina.org/a-comunidade/como-funciona/)). A vila tem
+  biblioteca comunitária e integra a Rede Chapada Agroecológica.
+- **Por que é limítrofe:** a comunidade é genuína e politicamente ativa, mas a economia gira em
+  torno de turismo, hospedagem e terapias holísticas. O asfaltamento da estrada Palmeiras–Capão,
+  em maio de 2025, aumentou o fluxo turístico e disparou os preços; moradores relatam
+  sensação de expulsão
+  ([Correio, 2025](https://www.correio24horas.com.br/bahia/moradores-do-capao-reclamam-de-precos-exorbitantes-sinto-que-estou-sendo-expulsa-1125)).
+  Em dezembro de 2025 a Câmara de Palmeiras aprovou uma taxa de turismo sem audiência pública,
+  contra a mobilização dos movimentos do Vale
+  ([Criativa On Line](https://criativaonline.com.br/movimentos-do-vale-do-capao-criticam-projeto-que-cria-taxa-de-turismo-em-palmeiras-na-chapada-diamantina);
+  [Bahia Notícias](https://www.bahianoticias.com.br/municipios/noticia/48795-camara-municipal-de-palmeiras-aprova-taxa-de-turismo-de-ate-r-53-por-mes-no-vale-do-capao-veja-detalhes)).
+- **Conceitos que ilustra:** turismo sem controle do custo de vida e da terra como
+  fragilidade; comunidade resiliente ou em descaracterização (ver
+  [ecocidades](../../filosofia/hipoteses/ecocidades.md#reconhecer-o-que-funciona)); o sítio que
+  posta o que funciona (o horto).
+- **Link:** https://portalvaledocapao.com.br/horto-comunitario-vale-flora/
+- **Nível:** Estimado (baixa) — sem visita presencial.
+
 ## Casos que não funcionaram
 
 ### Findhorn Foundation — Escócia

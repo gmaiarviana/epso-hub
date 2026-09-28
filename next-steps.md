@@ -115,8 +115,8 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   - Seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações, registros, glossário)
     → donas no documento externo; checar se algo alimenta `contexto/`, o resto fica como fonte.
 
-- **Corpus de escrita do incorporador** (`fontes/documentos/2026-09-27-*.raw.md`, campo
-  `corpus`) — nove documentos. Servem também de amostra da voz (item Tom de voz em
+- **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
+  campo `corpus`). Servem também de amostra da voz (item Tom de voz em
   [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
   uma ideia por sessão, nesta ordem:
   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
@@ -127,7 +127,9 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
     compartilhar, comunicar sem ruído, organizar os pontos de vista em harmonia
     (`cartas-de-candidatura`, última carta) → checar fusão com `filosofia/cosmovisao/a-tese.md`.
   - **Não somos nosso trabalho; trabalhar com o que acreditamos** (`ensaio-nao-somos-nosso-trabalho`,
-    `cartas-de-candidatura`, `proposta-a-diretoria`) → filosofia ou `contexto/trabalho/`, a decidir.
+    `cartas-de-candidatura`, `proposta-a-diretoria`) → checar fusão com
+    `filosofia/hipoteses/trabalho.md`; "pessoas não querem trabalho, querem valor"
+    (`notas-comite-ia`) é a mesma âncora de "as pessoas não querem trabalhar" de lá.
   - **Virada de carreira e vontade de fundar** — valor indireto (fintech, eletrônicos,
     telecom) → segmentos de benefício direto; liderança desde cedo; limite de tempo e dinheiro
     (`cartas-de-candidatura`, carta à startup) → `contexto/trajetoria.md`.

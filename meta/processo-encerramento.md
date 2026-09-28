@@ -90,6 +90,9 @@ assistente pergunta, como nomeia, em que voz sai — ainda está **a formalizar*
 fluxo fechado: sinalizar ao incorporador que há ideia a registrar e capturar sob
 sua validação.
 
+Se a sessão já encaixou decisões tiradas da conversa, a conversa registrada passa a ser a
+fonte delas: os arquivos tocados ganham a referência `arquivo#secao`.
+
 ## 4. Finalizar no git
 
 Commit e PR são o **último** passo do encerramento — abertos ao dizer "vamos

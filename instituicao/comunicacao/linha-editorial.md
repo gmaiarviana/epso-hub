@@ -85,8 +85,8 @@ Temas para começar, sem ordem entre eles:
 - os temas prioritários do [trabalho](../../contexto/trabalho/README.md#temas): ecocidades,
   biorregionalismo, agrofloresta, construção.
 
-Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#temas-da-trajetoria`,
-`#saude-mental-e-trabalho`, `#precisar-de-menos`.
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#temas-da-trajetoria`,
+`#saude-mental-e-trabalho`, `#precisar-de-menos`; `fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md#temas-sem-ordem`.
 
 **Nível:** Estimado (baixa).
 

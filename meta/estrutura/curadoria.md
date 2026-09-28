@@ -59,10 +59,13 @@ Antes de decidir objeto a objeto, perguntar: do que estamos falando? Qual argume
 objetos constroem? Objetos que chegam soltos — arquivos, itens, problemas — costumam ser partes
 de um argumento só.
 
-Enunciar o argumento numa frase, na voz do incorporador: é o tronco. Cada objeto se reconhece
-então como galho — uma parte, uma consequência, uma objeção ao tronco. A divisão sai do tronco:
-os galhos entram como seções de um objeto, e só viram objetos próprios quando têm vida fora
-dele. É a relação parte-todo (ver Objeto, acima) aplicada antes das decisões.
+Enunciar numa frase a ideia central, na voz do incorporador. Cada objeto se reconhece então
+como parte dela — um pedaço, uma consequência, uma objeção. As partes entram como seções de um
+objeto, e só viram objetos próprios quando têm vida fora dele. É a relação parte-todo (ver
+Objeto, acima) aplicada antes das decisões.
+
+Nem todo conjunto tem ideia central. A frase é hipótese a validar com o incorporador; se ele
+não a reconhece, os objetos entram lado a lado, sem ordem nem fusão impostas.
 
 Casos: seis problemas epistemológicos soltos viraram um argumento só em
 [precisão](../../filosofia/hipoteses/precisao.md); cinco conceitos, outro em

@@ -20,8 +20,10 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   errada e referenciando a conversa nova.
 - **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
   documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
-  mãe. Documentos ainda não têm processo próprio; precedente:
-  `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`.
+  mãe. Documentos ainda não têm processo próprio; precedentes:
+  `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` e o corpus de 2026-09-27 (quebra
+  por documento ou conjunto; metadados `genero`, `corpus`, `ia`, `escrito-em`,
+  `anonimizado`). A regra da anonimização já está no CLAUDE.md.
 - **"Em aberto" dos arquivos de conteúdo → [elaborar](../elaborar.md)** — o conteúdo guarda o
   mínimo em aberto; as provocações ao incorporador vivem em `elaborar.md`. Já vale para
   `linguagem`, `ecocidades` e `inteligencia-potencializada`; falta aplicar em `precisao`,

@@ -15,6 +15,14 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    Todos os textos do corpus foram validados pelo incorporador; os critérios de extração
    (peso do campo `ia`, do `genero`) se decidem nessa sessão. Resultado → Tom base em
    [linha-editorial.md](comunicacao/linha-editorial.md).
+   Primeira contagem do perfil v1 contra o corpus (~16 mil palavras, nove documentos):
+   - **Confirma** — "clareza" (21×, em 7 de 9 documentos); "entendo que" (20×, em 7 de 9);
+     hífen com espaço como travessão (" - ", ~50×; nunca " — ", detalhe que o perfil não
+     viu); "a gente" (19×, inclusive no texto reflexivo).
+   - **Corrige** — "ou seja" (9×, em 3 documentos) e "de repente" (2×) estão exagerados;
+     "acredito que" (11 de 12 nas candidaturas) e "fico à disposição" (candidaturas e
+     e-mails) são do gênero; reticências são do registro casual (cartas pessoais, nenhuma no
+     ensaio); "imagine que" só no ensaio; o exemplo "É simples assim" não existe no corpus.
 4. **Linha editorial** — preencher [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md).
 
 ### Adiados

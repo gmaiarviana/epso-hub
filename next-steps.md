@@ -7,50 +7,21 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 **Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco.
 
-1. **Montar o núcleo** — escrever propósito, valores e postura em `instituicao/nucleo/`, cada
-   parte com seu nível; o que não fechar vira provocação no [elaborar](elaborar.md). Pode
-   levar mais de uma sessão. Entram também: `#fora-do-paradigma-mecanicista` da transcrição
-   2026-09-22 (valores: regeneração, coletividade, colaboração, combate à desigualdade);
-   `## 1. Purpose` e `## 2. Values` da narrativa de carreira v8; do corpus, "cuidado de
-   pessoas, ambiente de presença, valores propostos" (`proposta-a-diretoria`,
-   `notas-comite-ia`; foram propostos para outra organização). A fonte principal é
-   `fontes/documentos/2026-09-27-proposito-epso.raw.md` (objetivos, valores, manifesto,
-   propósito, crenças, formas), com o "Quem somos", a base de pensamento e o método de 4 etapas
-   de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`; completa o Documento
-   Institucional. Valores (simplicidade, transparência,
-   colaboração) iguais em quatro versões, a quarta no Documento Institucional da construtora
-   (`fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md`): candidatos a
-   Decidido. Do mesmo documento, o incorporador já validou como do EPSO: no propósito,
-   "experimentar e provar na prática que é possível fazer diferente" e "cada projeto é um
-   experimento vivo"; na transparência, a financeira — margem decomposta em categorias
-   explícitas, destino de cada real rastreável, remuneração do incorporador visível
-   (`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#o-que-do-documento-institucional-é-do-epso`).
-   Fusões a checar:
-   - "consciência é agir com intenção" → `filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção`;
-   - "paradoxos são realidades sobrepostas", "todos os pontos de vista são valiosos" →
-     `filosofia/hipoteses/precisao.md` (a postura epistemológica compara-se antes com a raiz
-     "a realidade excede a verdade");
-   - "somos maioria, mas não convergimos por limitação da linguagem" → crença do EPSO
-     ([elaborar](elaborar.md#a-tese)) e `filosofia/hipoteses/linguagem.md`;
-   - crenças sobre trabalho → `filosofia/hipoteses/trabalho.md`.
-
-   Traços de postura a confrontar com a fonte, ainda sem casa: espiritualidade que depende de
-   fluxo financeiro urbano (retiros, mensalidades altas) é frágil; não construir uma bolha cara
-   que depende de desigualdade, e sim algo replicável; transformar em vez de combater — a
-   mudança vem por agregação, convencimento e demonstração; chegar para contribuir e aprender,
-   nem turista curioso nem salvador; ser aquilo que se faz, contra a performance (checar fusão
-   com a balança do [README](README.md) e com a identidade em
-   [ecocidades](filosofia/hipoteses/ecocidades.md#reconhecer-o-que-funciona)).
-
-   Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e respostas
-   curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando alguém não
-   contribui?".
+1. **Validar o núcleo** — a primeira versão está em
+   [instituicao/nucleo/README.md](instituicao/nucleo/README.md). Falta o incorporador validar o
+   que está Estimado: os desdobramentos do propósito, as crenças, os traços de postura das
+   notas antigas (transformar em vez de combater, contribuir e aprender, ser aquilo que se faz,
+   replicável e não bolha) e os objetivos. Ajuda opcional, não obrigatória: princípios
+   inegociáveis, o que o EPSO não é, e respostas curtas a "como decidimos?", "como lidamos com
+   dinheiro?", "o que fazemos quando alguém não contribui?".
 2. **Encaixar a estratégia profissional** (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`)
    em `contexto/trajetoria.md`: carreira, empresa atual, decisão pelo mestrado. É a fonte
    principal de `contexto/`.
 3. **Completar a trajetória** em `contexto/trajetoria.md`:
    - da narrativa de carreira v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`),
-     o resto de `## 3` (autoridade de decisão, três autonomias, gestor generalista, áreas de
+     de `## 1`, a migração da construção civil para o software; os traços de `## 2`
+     (iniciativa, aprendizado contínuo, intencionalidade); o resto de `## 3`
+     (autoridade de decisão, três autonomias, gestor generalista, áreas de
      impacto); das seções 4 a 10 (arco, pilares, resultados, diferenciais, adaptações,
      registros, glossário), separar o que alimenta `contexto/` — o resto fica como fonte, dono
      no documento externo. O encaixe reescreve em português e na voz do incorporador;
@@ -154,7 +125,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
   [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
-  uma ideia por sessão, nesta ordem (virada de carreira e cuidado de pessoas estão no Foco):
+  uma ideia por sessão, nesta ordem (a virada de carreira está no Foco):
   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os
     times por componente que alienam do produto final (`relato-tpm-programa`) entram como

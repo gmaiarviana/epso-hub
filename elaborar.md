@@ -42,7 +42,9 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 - **Quem recusa Popper.** Para Popper, uma teoria precisa poder estar errada — um horóscopo que
   sempre "acerta" não afirma nada. Há escolas que recusam esse critério: as holistas, que olham
   o todo antes das partes e buscam uma síntese que abranja tudo. *Sua concordância quase total
-  com Popper tem limite? Em que caso uma leitura que abrange tudo ainda diz alguma coisa?* →
+  com Popper tem limite? Em que caso uma leitura que abrange tudo ainda diz alguma coisa?* Numa
+  nota antiga você escreveu: "se a hipótese estiver errada, quero saber; o projeto de vida é a
+  visão, a pesquisa é uma das formas de testá-la". *Isso já responde em parte?* →
   [precisão](filosofia/hipoteses/precisao.md)
 - **Mudar as regras do jogo.** Recusar uma crítica porque ela parte de um pressuposto que você
   não aceita é legítimo. Recusar qualquer crítica porque "o outro não tem os receptores"
@@ -68,8 +70,12 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   [linguagem](filosofia/hipoteses/linguagem.md)
 - **A escala do material ao abstrato.** Você citou dó-ré-mi e as cores do arco-íris para poder
   dizer "estou falando da camada 3". *Quantos degraus tem essa escala, e o que marca cada um?
-  "Tempo de construção" fica em qual degrau, e "tempo juntos"?* →
-  [linguagem](filosofia/hipoteses/linguagem.md)
+  "Tempo de construção" fica em qual degrau, e "tempo juntos"?* Uma leitura antiga propunha
+  seis degraus: palavras → contexto → proposições → argumentos → ideias → conceitos, do
+  específico (preso a uma época e a um idioma) ao universal. Ali os conceitos ficam no topo, o
+  mais universal; em linguagem, são onde a comunicação começa a falhar (paz, vida); e outra nota
+  antiga faz o caminho inverso, conceitos → argumentos → teses. *Os conceitos ficam no topo da
+  escala ou na base?* → [linguagem](filosofia/hipoteses/linguagem.md)
 - **Diversa e precisa.** Linguagem de contrato tira a ambiguidade, mas mata a piada e a gíria da
   família. *Numa conversa real — combinar um mutirão com um vizinho, por exemplo —, o que você
   faria para ser preciso sem ficar engessado?* → [linguagem](filosofia/hipoteses/linguagem.md)
@@ -129,3 +135,13 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   os primeiros passos — iniciação e organização, não consolidação —, e que a consolidação vem
   depois, como trabalho de outros. *Seu doutorado abre o caminho ou chega ao fim dele? O que
   fica para quem vier depois?* → [jornada](estudo/academia/jornada.md)
+- **Lente e campo.** Numa nota antiga você escreveu: "filosofia é a lente, tecnologia é o campo
+  de experimentação; não quero fazer pesquisa em filosofia" — a área de publicação seria NLP, a
+  parte da IA que trata texto. Depois disse que o que mais gosta é o filosófico. As duas podem
+  conviver: um mestrado técnico, numa tese vizinha, e um doutorado filosófico. *Isso ainda vale
+  para o mestrado?* → [jornada](estudo/academia/jornada.md)
+- **Mais dois recortes.** Além de medir se palavras de tradições diferentes dizem o mesmo, uma
+  leitura antiga sugeria: extrair a estrutura dos argumentos de uma conversa de perguntas e
+  respostas, como um diálogo socrático — o que estas sessões fazem à mão; e representar como
+  vetor a intenção de quem comunica — o tom, o que se quer dizer. *Algum deles entra como
+  candidato de recorte?* → [foco](estudo/academia/foco.md)

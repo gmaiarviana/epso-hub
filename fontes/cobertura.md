@@ -57,6 +57,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
+| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md) | pendente | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md) | na fila | — |
@@ -167,6 +168,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 - pendente, sem nota na fila
 
 ### 2026-09-29-aula-de-artes
+
+- pendente, sem nota na fila
+
+### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 
 - pendente, sem nota na fila
 

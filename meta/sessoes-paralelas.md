@@ -38,7 +38,9 @@ git worktree add ../epso-hub-<branch> -b <branch> origin/main
 
 e trabalhar dentro dele até o PR. Em sessão longa, antes de editar arquivos compartilhados
 (os `next-steps`, o README) e antes do primeiro push, rodar `git fetch`; se o `origin/main`
-andou, rebasear a branch ainda não publicada.
+andou, rebasear a branch ainda não publicada. Antes de cada push, conferir com
+`git log origin/main..HEAD` que a branch só tem commits desta sessão — outra sessão pode ter
+commitado no mesmo worktree. Commit alheio não sobe: avisar o incorporador antes.
 
 Branch ou worktree de outra sessão não recebe commit, `reset` nem `checkout` desta. Mudança
 nele vai como prompt para a sessão dona, por meio do incorporador.

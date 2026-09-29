@@ -166,11 +166,10 @@ Também não é desenhar o que vem. A evolução acontece de qualquer jeito: pod
 precisar menos de sol, a passar mais tempo sentados, a depender mais de açúcar — e isso não
 necessariamente aumenta nossa energia vital nem nos faz alcançar nossos potenciais. O convite
 é de mentalidade: focar no que acreditamos ser eficiente no longo prazo. Mesmo que tomemos
-caminhos ineficientes no curto prazo, eles provavelmente são insustentáveis; como um pêndulo,
-vamos de um extremo ao outro, oscilando cada vez menos e nos aproximando de uma linha. É o
-pêndulo de [[lucia-helena-galvao|Lúcia Helena Galvão]]: depois da experiência num lado, vamos
-para o outro e voltamos, de novo e de novo — não andando em círculos, mas evoluindo rumo a um
-eixo equilibrado. Num grande zoom out, parece uma linha.
+caminhos ineficientes no curto prazo, eles provavelmente são insustentáveis. Como um pêndulo:
+depois da experiência num lado, vamos para o outro e voltamos, de novo e de novo — não andando
+em círculos, mas oscilando cada vez menos e nos aproximando de um eixo equilibrado. Num grande
+zoom out, parece uma linha.
 
 O que se desenha com intenção são os construtos, não a vida. A vida é orgânica: não temos como
 planejar os detalhes dos nossos filhos, nem os nossos próprios. As construções e os artefatos

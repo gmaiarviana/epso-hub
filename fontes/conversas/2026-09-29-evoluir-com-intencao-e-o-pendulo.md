@@ -24,6 +24,9 @@ leis, políticas, crenças, realidades intersubjetivas.
 
 Mesmo que a gente vá por caminhos ineficientes no curto prazo, eles provavelmente são
 insustentáveis; como um pêndulo, vamos de um extremo ao outro, evoluindo, pendulando cada vez
-menos e nos aproximando de uma linha. A visualização da kundalini descreve bem nosso processo
-de aprendizagem: experienciamos extremos e vamos moldando, mas no longo prazo — ou num grande
-zoom out — parece uma linha.
+menos e nos aproximando de uma linha. É o pêndulo de um vídeo de
+[[lucia-helena-galvao|Lúcia Helena Galvão]], que descreve bem nosso processo de aprendizagem:
+depois da experiência num lado, vamos para o outro, depois voltamos, e voltamos de novo — mas
+não estamos só andando em círculos: estamos evoluindo e nos aproximando de um eixo
+equilibrado. Experienciamos extremos e vamos moldando; no longo prazo — ou num grande zoom
+out — parece uma linha.

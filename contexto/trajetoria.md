@@ -60,7 +60,8 @@ Fonte: `fontes/documentos/2026-09-27-carta-ex-lider.raw.md`.
 ### Por que saí de São Paulo
 
 Saí de São Paulo porque entendi que não me identifico com o modelo civilizatório. Não quero
-mais viver em cidade.
+mais viver em cidade. O argumento vive em
+[o desequilíbrio de agora](../filosofia/cosmovisao/quem-sou-eu.md#o-desequilíbrio-de-agora).
 
 Fonte: `fontes/conversas/2026-09-29-carta-ao-ex-lider.md#por-que-saí-de-são-paulo`.
 

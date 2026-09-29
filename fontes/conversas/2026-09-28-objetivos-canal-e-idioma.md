@@ -12,6 +12,10 @@ Ser recrutado é um objetivo da comunicação, sim, e é um foco importante.
 
 Vamos começar com o LinkedIn. Depois, talvez apoiar numa newsletter também.
 
+## Orgânico
+
+Engajamento orgânico em vez de viral: eu quero isso para mim.
+
 ## Idioma
 
 Vamos com português em tudo.

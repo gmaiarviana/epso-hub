@@ -153,6 +153,13 @@ Fontes: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#canal`;
 
 **Nível:** Decidido — LinkedIn; Em aberto — newsletter.
 
+Crescimento orgânico, não viral: o alcance vem de quem se identifica e compartilha, não de
+correr atrás de tendência ou de conteúdo feito para viralizar.
+
+Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#organico`.
+
+**Nível:** Decidido.
+
 ## Calendário
 
 Dito, a elaborar:

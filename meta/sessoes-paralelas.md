@@ -40,6 +40,9 @@ e trabalhar dentro dele até o PR. Em sessão longa, antes de editar arquivos co
 (os `next-steps`, o README) e antes do primeiro push, rodar `git fetch`; se o `origin/main`
 andou, rebasear a branch ainda não publicada.
 
+Branch ou worktree de outra sessão não recebe commit, `reset` nem `checkout` desta. Mudança
+nele vai como prompt para a sessão dona, por meio do incorporador.
+
 **PR empilhado:** quando uma branch parte de outra cujo PR ainda está aberto (as duas mexem
 nos mesmos arquivos), o PR de cima mostra também os commits do de baixo — mesmo depois que o
 de baixo entra no `main`. Assim que ele entrar, rebasear a branch de cima em `origin/main` e

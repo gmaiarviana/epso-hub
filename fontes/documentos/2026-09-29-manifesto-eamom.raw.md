@@ -11,8 +11,8 @@ anonimizado: Nada anonimizado.
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em
   2026-09-29 junto de outros documentos e quebrado por documento. Um dos
-  arquivos da pasta Livro; "eamom" é, pelo estimado do agente, a sigla de "E
-  assim mudamos o mundo", título do livro, modificado no mesmo dia. Conteúdo
+  arquivos da pasta Livro; "eamom" é a sigla de "E assim mudamos o
+  mundo" (confirmado pelo incorporador), título do livro, modificado no mesmo dia. Conteúdo
   preservado na íntegra, sem correção. O título H1 é o nome do documento no
   Drive.
 ---

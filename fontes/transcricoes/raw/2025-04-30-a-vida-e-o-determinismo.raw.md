@@ -21,7 +21,7 @@ nota: >-
   uma determinação sobre a vida". O áudio 4 cita "o vídeo anterior sobre o
   que é a vida", que põe 1 e 2 antes. A ordem entre 1 e 2 é estimada: o
   áudio 1 fecha com "até mais obrigado" e o 2 abre com "eu falo não é porque
-  eu sei mais", sem emenda; a confirmar pelo incorporador. Legendas
+  eu sei mais", sem emenda; o incorporador não lembra a ordem. Legendas
   automáticas do YouTube extraídas pelo tactiq.io, coladas pelo incorporador;
   o cabeçalho do tactiq faz parte da saída e fica intocado. Fronteiras
   marcadas com <!-- áudio N -->.

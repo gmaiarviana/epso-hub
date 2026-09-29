@@ -8,8 +8,8 @@ corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
 escrito-em: >-
   2022-12 a 2023: a última modificação no Google Drive é 2022-12-26 (pasta
-  Arquivo > Livro), mas o texto diz "Escrevo isso em 2023"; a divergência
-  fica em aberto.
+  Arquivo > Livro), mas o texto diz "Escrevo isso em 2023"; o incorporador
+  não lembra quando escreveu.
 anonimizado: Nada anonimizado.
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em

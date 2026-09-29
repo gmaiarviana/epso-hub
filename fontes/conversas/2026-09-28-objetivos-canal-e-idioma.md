@@ -23,3 +23,8 @@ Vamos com português em tudo.
 ## Temáticas e pilares
 
 Temática e pilar de autoridade são coisas diferentes.
+
+## Contexto e comunicação
+
+Contexto é sobre a minha história, sobre mim, informações. Linha editorial, imagem do
+personagem que irei criar e tom da minha comunicação dizem como irei me comunicar.

@@ -3,6 +3,8 @@
 A imagem do personagem que a comunicação vai construir. Quem o incorporador é vive em
 [contexto](../../contexto/); aqui, como ele quer ser visto. Ainda não foi elaborada.
 
+Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#contexto-e-comunicação`.
+
 ## O que já foi dito
 
 - Trazer clareza sobre qual imagem se quer construir ajuda a definir os temas, as temáticas que

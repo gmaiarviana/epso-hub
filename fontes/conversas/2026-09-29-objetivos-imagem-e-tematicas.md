@@ -56,3 +56,28 @@ conteúdo: autoridade (reforça o conhecimento numa área), desejo (mostra a nec
 trabalho), curiosidade (fala de temas quentes do mercado — "o que ninguém tem coragem de
 falar sobre…") e conexão (histórias pessoais — "o que aprendi quando tive vontade de
 desistir de…").
+
+## Recrutamento sem pressa
+
+Ser recrutado perdeu prioridade: eu pensava em sair mais brevemente do trabalho em que estou;
+agora pode ser sem pressa.
+
+## Uma semana de desafio
+
+Não vamos nos fixar no método. Quero pensar em uma semana como desafio inicial; depois
+pensamos de novo no tamanho do ciclo e na cadência.
+
+## Filósofo fora da cara pública
+
+Filósofo fica como identidade interna, fora da cara pública.
+
+## Posicionamento
+
+Posicionamento é um nome melhor do que pilar de autoridade.
+
+## Desejo, ressignificado
+
+Os tipos de conteúdo podem ser ressignificados para o que faz sentido para os meus objetivos,
+sem me fixar no modelo daquela postagem. O desejo, por exemplo: pode ser que eu defina que
+quero que as pessoas me tenham por perto, estejam querendo comprar de mim, só esperando eu
+oferecer algo.

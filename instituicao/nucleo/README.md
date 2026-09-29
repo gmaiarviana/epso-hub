@@ -105,7 +105,8 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
   ([a tese](../../filosofia/cosmovisao/a-tese.md#o-centro-a-pergunta-quem-sou-eu)). A
   desigualdade é sintoma: apego ao conforto, medo de morrer, querer ser servido, que só
   funciona quando outros precisam se submeter. Subjugar a natureza e manter uma civilização
-  que gasta energia demais em logística, poluição e lixo também são sintomas.
+  que gasta energia demais em logística, poluição e lixo também são sintomas
+  ([o desequilíbrio de agora](../../filosofia/cosmovisao/quem-sou-eu.md#o-desequilíbrio-de-agora)).
 - **Conforto é saudável; o medo de perdê-lo é a prisão.** Querer prazer o tempo todo é sinal
   de que o prazer deixou de equilibrar e passou a viciar.
 - **Soltar o apego não vem por convencimento.** Vem de condições: silêncio, sensibilidade,

@@ -39,6 +39,31 @@ desenvolvimento insustentável das cidades.
 
 Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#por-que-saí-da-construção-civil`.
 
+### O autoconhecimento como motor
+
+No Nubank, eu gostava da empresa, das pessoas e dos processos, mas não estava bem: muitas
+dúvidas, incertezas e questões abertas. Essas dificuldades internas me levaram ao burnout e
+intensificaram minhas crises, e o cuidado com a saúde mental passou a pedir dedicação. Depois
+de vários profissionais, exames e acompanhamentos, veio o diagnóstico de TDAH. Ele explicou
+a dificuldade com múltiplos estímulos, com a organização dos pensamentos e com o tempo. Com o
+tratamento, passei a me organizar melhor, a encarar minhas questões internas, a me aceitar e
+a estar mais presente no dia a dia.
+
+O amadurecimento profissional que veio depois — a promoção a PO sênior menos de um ano depois
+de entrar na empresa atual — deve-se principalmente a esse autoconhecimento. Com ele, consegui
+agir sobre os pontos do plano de desenvolvimento que discutia com a liderança no Nubank: ser
+mais sucinto, antecipar as expectativas da audiência, finalizar as iniciativas e dar
+visibilidade só ao que é relevante.
+
+Fonte: `fontes/documentos/2026-09-27-carta-ex-lider.raw.md`.
+
+### Por que saí de São Paulo
+
+Saí de São Paulo porque entendi que não me identifico com o modelo civilizatório. Não quero
+mais viver em cidade.
+
+Fonte: `fontes/conversas/2026-09-29-carta-ao-ex-lider.md#por-que-saí-de-são-paulo`.
+
 ### Do valor indireto ao direto
 
 Na tecnologia, trabalhei em setores de valor indireto para a sociedade — fintech,

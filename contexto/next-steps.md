@@ -12,6 +12,10 @@ destino estão no [next-steps da raiz](../next-steps.md) (tiers Foco e Encaixar)
   em `## 4`, o motivo da saída da construção
   ([trajetória](trajetoria.md#por-que-saí-da-construção)). As seções 1–3 derivam do repositório:
   [núcleo](../instituicao/nucleo/README.md), [trajetória](trajetoria.md) e [direção](direcao.md).
+- **Neurodivergência e TDAH** — o incorporador vai dizer o que pensa sobre o tema; pode
+  reescrever o trecho do diagnóstico em
+  [trajetória](trajetoria.md#o-autoconhecimento-como-motor). Toca o tema saúde mental da
+  [linha editorial](../instituicao/comunicacao/linha-editorial.md).
 
 ## Trabalho
 

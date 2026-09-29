@@ -11,7 +11,8 @@ Estados de uma seção (ver meta/roadmap.md e meta/processo-transcricoes.md):
 Uma citação vale para a fonte mencionada no mesmo bloco (parágrafo ou item de lista, com os
 subitens): `arquivo.md#secao`, ou o nome do arquivo e, adiante no bloco, `#secao`. Um item de
 fila que menciona a fonte e diz "arquivo inteiro" põe na fila toda seção ainda sem destino.
-Documentos brutos (`fontes/documentos/`) são contados por arquivo, não por seção.
+Documentos brutos (`fontes/documentos/`) são contados por arquivo, não por seção; o que tem
+camada limpa (mesmo nome, sem `.raw`) conta pela limpa, por seção.
 """
 
 import os
@@ -58,10 +59,15 @@ def metadados(texto):
 def fontes():
     """Lista de fontes: caminho, slug (nome sem data), tipo, título, seções, dispensadas."""
     lista = []
-    for pasta, sufixo in (("fontes/transcricoes", ".md"), ("fontes/conversas", ".md"),
-                          ("fontes/documentos", ".raw.md")):
-        for nome in sorted(os.listdir(os.path.join(RAIZ, pasta))):
-            if not nome.endswith(sufixo) or nome == "README.md":
+    for pasta in ("fontes/transcricoes", "fontes/conversas", "fontes/documentos"):
+        nomes = sorted(os.listdir(os.path.join(RAIZ, pasta)))
+        for nome in nomes:
+            if not nome.endswith(".md") or nome == "README.md":
+                continue
+            bruto = nome.endswith(".raw.md")
+            base = nome[: -len(".raw.md")] if bruto else nome[: -len(".md")]
+            # documento bruto com camada limpa conta pela limpa, por seção
+            if bruto and f"{base}.md" in nomes:
                 continue
             caminho = f"{pasta}/{nome}"
             texto = ler(caminho)
@@ -69,9 +75,8 @@ def fontes():
             if not titulo:
                 h1 = re.search(r"^# (.+)$", texto, re.M)
                 titulo = h1.group(1).strip() if h1 else ""
-            base = nome[: -len(sufixo)]
             fonte = {"caminho": caminho, "base": base, "slug": base[11:], "titulo": titulo,
-                     "dispensadas": dispensadas, "documento": pasta.endswith("documentos")}
+                     "dispensadas": dispensadas, "documento": bruto}
             if fonte["documento"]:
                 fonte["secoes"] = []
             else:

@@ -5,28 +5,36 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 2. Foco
 
-**Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco.
+**Decidir os objetivos e a imagem da comunicação.**
 
-1. **Se sobrar tempo** — enriquecem, não travam:
-   - transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`):
-     de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
-     `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
-     checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`,
-     menos `#excesso-de-racionalidade` (excesso de racionalidade, escassez de conexão com a
-     natureza, a mentalidade civilizatória que domina) — destino a decidir.
-     Dá lastro aos temas corpo e saúde mental;
-   - pesquisa em IA eficiente (`## 3` da narrativa v8) → checar fusão com
-     `filosofia/hipoteses/inteligencia-potencializada.md` e `estudo/academia/foco.md`;
-   - **duas teses** — separar a tese do EPSO (as crenças em que ele se baseia; "quem sou eu"
-     no centro, com outras ao lado) da tese do doutorado (objetiva, em termos acadêmicos;
-     ainda não definida, depende de estudo). Hoje `filosofia/cosmovisao/a-tese.md` mistura as
-     duas: a discussão identidade × paradigma da informação e o recorte acadêmico são do
-     doutorado (`estudo/academia/foco.md`). As crenças do EPSO já estão no
-     [núcleo](instituicao/nucleo/README.md#crenças). Fonte:
-     `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
+1. **Sessão de decisão** — o que já foi dito está em
+   [linha-editorial.md](instituicao/comunicacao/linha-editorial.md#objetivos) e
+   [imagem.md](instituicao/comunicacao/imagem.md); o [núcleo](instituicao/nucleo/README.md)
+   validado é a base. Perguntas a responder:
+   - dos objetivos brutos, qual é o principal; que cenário mostra cada um alcançado, e como
+     medir;
+   - aprender (conversa 2026-09-26) é objetivo ou jeito de fazer?
+   - como você quer ser visto — o personagem, com a identidade de filósofo como insumo;
+   - quais são os pilares de autoridade e como se diferenciam das temáticas;
+   - quais três a nove temáticas, a partir do universo em Temas.
 
 ## 4. Encaixar
 
+- **Transcrição 2026-09-24** (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)
+  — de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
+  `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
+  checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`,
+  menos `#excesso-de-racionalidade` (excesso de racionalidade, escassez de conexão com a
+  natureza, a mentalidade civilizatória que domina) — destino a decidir; checar contra a
+  desconexão nas [crenças do núcleo](instituicao/nucleo/README.md#crenças). Dá lastro aos
+  temas corpo e saúde mental.
+- **Conversa 2026-09-27 — duas teses**
+  (`fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`) — separar a tese do
+  EPSO (as crenças em que ele se baseia; "quem sou eu" no centro, com outras ao lado) da tese
+  do doutorado (objetiva, em termos acadêmicos; ainda não definida, depende de estudo). Hoje
+  `filosofia/cosmovisao/a-tese.md` mistura as duas: a discussão identidade × paradigma da
+  informação e o recorte acadêmico são do doutorado (`estudo/academia/foco.md`). As crenças do
+  EPSO já estão no [núcleo](instituicao/nucleo/README.md#crenças).
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
   — portais da plataforma nas iniciativas. De `#plataforma-e-autoridade`, falta só a dúvida
   sobre o modelo: talvez superar a linguagem não passe por IA, e seja preciso repensá-lo.
@@ -71,8 +79,8 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   um produto dentro dela).
 - **Transcrição 2026-09-22 — empreender em construção sustentável**
   (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#empreender-em-construcao-sustentavel`)
-  → `instituicao/iniciativas/`, junto com a construtora. `#lastro-conteudo-e-academia` segue
-  no Foco (comunicação).
+  → `instituicao/iniciativas/`, junto com a construtora. `#lastro-conteudo-e-academia` já está na
+  linha editorial.
 
 - **Narrativa de carreira v8** (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`, em
   inglês) — encaixe seção por seção, tópico a tópico; o agente adianta o rascunho do que não
@@ -83,11 +91,13 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   na trajetória. Ficam só no documento externo, por decisão: o detalhe de cada fase (`## 4`),
   as competências (`## 5`), os resultados (`## 6`), as adaptações por contexto (`## 8`, que
   servem a candidaturas), os registros (`## 9`) e o glossário (`## 10`). Os diferenciais
-  (`## 7`) são insumo da imagem ([contexto/next-steps.md](contexto/next-steps.md#trabalho)). A
-  pesquisa em IA eficiente está no Foco. Ficam aqui:
+  (`## 7`) são insumo da imagem ([contexto/next-steps.md](contexto/next-steps.md#trabalho)). Ficam
+  aqui:
   - Parágrafo do EPSO em `## 3. Career Vision` ("dois braços": ferramentas e catálogo; ideias
     entre culturas) → `instituicao/iniciativas/`. Diverge do README (construtora, ferramentas,
     plataforma): vira provocação em [elaborar](elaborar.md).
+  - Pesquisa em IA eficiente (`## 3`) → checar fusão com
+    `filosofia/hipoteses/inteligencia-potencializada.md` e `estudo/academia/foco.md`.
   - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir: `meta/` ou
     hipótese.
   - O fio da comunicação humana de `## 1` — as camadas entre a intenção de quem fala e a
@@ -130,8 +140,8 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   fases de consciência (corpo, mente, alma, ser, realidade como espírito e matéria). As fases,
   `#espirito-e-materia` e `#ciclos-e-opostos` → `filosofia/cosmovisao/quem-sou-eu.md`; checar
   fusão com `#tudo-pulsa` e `#fluir`. `#linguagem-viva` → `filosofia/hipoteses/linguagem.md`.
-  `#crencas` e `#algo-coordena-tudo` ("votam pela crença") → checar a crença do EPSO
-  ([elaborar](elaborar.md#a-tese)). É fala de 2023: conferir o que o pensamento atual já
+  `#crencas` e `#algo-coordena-tudo` ("votam pela crença") → checar as crenças do EPSO
+  ([núcleo](instituicao/nucleo/README.md#crenças)). É fala de 2023: conferir o que o pensamento atual já
   revisou.
 
 ## 5. Backlog

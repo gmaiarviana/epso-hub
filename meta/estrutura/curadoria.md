@@ -79,7 +79,9 @@ faço isso? por que não fico em casa vendo televisão?), escuta-se, e só depoi
 da fala já está no arquivo, o que falta e o que sobra; as palavras se ajustam no fim. Frase
 redigida pelo agente e aprovada com um "ok" não é decisão — sai na voz do agente e o
 incorporador não se reconhece nela. Texto do agente conta como do incorporador quando nasce da
-fala dele e ele o reconhece.
+fala dele e ele o reconhece. A cada rodada, o agente diz o que ainda falta para fechar o item
+e provoca primeiro nas pontas soltas; quando só resta refinamento, fecha — as sobras vão,
+nomeadas, para o [elaborar](../../elaborar.md).
 
 Casos: seis problemas epistemológicos soltos viraram um argumento só em
 [precisão](../../filosofia/hipoteses/precisao.md); cinco conceitos, outro em

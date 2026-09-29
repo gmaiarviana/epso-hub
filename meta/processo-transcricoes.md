@@ -29,7 +29,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 - Nomear `AAAA-MM-DD-titulo.md`, na raiz de `fontes/transcricoes/` (mesmo nome do bruto, sem o `.raw`).
 - Metadados YAML: `data`, `sessao`, `tipo: transcricao-limpa`, `titulo`, `fonte-bruta` (caminho do `.raw.md`), `fonte-audio`.
-- Dividir em seções, `## nome-da-secao` imediatamente antes do trecho — é aqui que a estrutura e as âncoras de rastreabilidade vivem. **Uma seção, uma ideia:** a seção com duas ideias se encaixa pela metade sem que nada acuse a perda (ver [Cobertura](#cobertura)). O nome diz a ideia, não o assunto: `#a-mente-sugere-a-atencao-escolhe`, não `#mente`; `#vida-como-respiracao`, não `#energia`.
+- Dividir em seções, `## nome-da-secao` imediatamente antes do trecho — é aqui que a estrutura e as âncoras de rastreabilidade vivem. **Uma seção, uma ideia:** a seção com duas ideias se encaixa pela metade sem que nada acuse a perda (ver [Cobertura](#cobertura)). O teste: se partes da seção iriam para destinos diferentes, são duas ideias. O nome diz a ideia, não o assunto: `#a-mente-sugere-a-atencao-escolhe`, não `#mente`; `#vida-como-respiracao`, não `#energia`.
 - Resolver as correções e apresentá-las ao incorporador **agrupadas por tipo, para validação em lote** — nunca uma a uma. Itens do lote não contestados na resposta contam como validados; só os contestados voltam para uma nova rodada. Formato: tabela com o trecho do bruto, a proposta, o motivo e a localização (áudio e minuto); reconstruções maiores — quando se reescreve mais que uma palavra — vão num grupo à parte. Os tipos:
   - **Correção óbvia de fala** — gagueira, falso começo, repetição. Sem risco de sentido; aplica-se direto.
   - **Truncamento** — pensamento ou palavra cortada. Propõe-se a reconstrução; na dúvida, marca-se `[...]`.
@@ -70,6 +70,7 @@ Passos do encaixe:
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
 - Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada ou entrou no tier Encaixar do [next-steps da raiz](../next-steps.md), nomeada pela âncora, como encaixe com destino. Só então o item de encaixe sai da fila.
+- Seção com mais de uma ideia (seções antigas não se revisam em lote): divide-se antes de encaixar, sob validação do incorporador, e as citações que a [cobertura](#cobertura) aponta para ela se atualizam na mesma mudança.
 - Encaixe parcial de uma seção: a mesma mudança que encaixa uma ideia registra na fila as que ficaram, nomeadas. A cobertura não enxerga ideia dentro da seção — este é o único momento em que a sobra aparece.
 - Conferir ideia a ideia, não só seção a seção: uma seção citada pode ter perdido ideias na síntese. Antes de declarar o encaixe pronto, reler cada seção e procurar cada ideia no destino; o que se perdeu volta ao texto, vira provocação ou ganha destino na fila. A conferência vai para o incorporador como tabela de cobertura (seção → onde ficou).
 

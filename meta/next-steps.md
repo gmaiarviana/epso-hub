@@ -17,7 +17,9 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   passo 3 do [encerramento](processo-encerramento.md) é lembrete, não fluxo fechado. Regra
   já decidida: conversa registrada não recebe fala de outro dia — ideia nova vira conversa
   nova, com a data do dia; a antiga só muda se tiver informação errada, retirando a parte
-  errada e referenciando a conversa nova.
+  errada e referenciando a conversa nova. Até o processo nascer, as seções de conversa seguem a
+  diretriz de seção das transcrições: uma seção, uma ideia, nome que diz a ideia
+  ([processo](processo-transcricoes.md#passar-a-limpo-a-camada-limpa)).
 - **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
   documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
   mãe.

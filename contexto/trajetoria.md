@@ -5,11 +5,13 @@ atual. Para onde caminha vive em [direção](direcao.md).*
 
 ## Formação e disposição
 
-Engenheiro civil e empreendedor, com interesse por filosofia e governança e disposição para
-pôr a mão na massa: projetar, gerir e construir. É um recorte do perfil, não o retrato inteiro.
+Filósofo, com formação em engenharia civil ([direção](direcao.md#filósofo-construindo-uma-nova-sociedade)).
+Empreendedor, com interesse por governança e disposição para pôr a mão na massa: projetar,
+gerir e construir.
 
-Fonte: `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` (aba
-Identidade, "Quem sou"); `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#um-recorte-de-quem-sou`.
+Fontes: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#sou-filósofo-os-temas-são-aplicações`;
+`fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` (aba Identidade,
+"Quem sou").
 
 ## O arco
 

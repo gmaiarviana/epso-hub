@@ -62,6 +62,7 @@ Encaixar uma transcrição significa levar o conteúdo para o lugar certo da ár
 
 Passos do encaixe:
 
+- Ler a fonte inteira antes de propor o plano: a entrada da fila é resumo e não substitui a fonte.
 - Passar a limpo a transcrição, se ainda não foi — é da camada limpa que se encaixa.
 - Identificar de que assunto o trecho trata.
 - Localizar o nível e o destino do assunto, usando [meta/estrutura/niveis.md](estrutura/niveis.md) e [meta/estrutura/criterios.md](estrutura/criterios.md).

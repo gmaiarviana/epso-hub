@@ -15,3 +15,7 @@ Vamos começar com o LinkedIn. Depois, talvez apoiar numa newsletter também.
 ## Idioma
 
 Vamos com português em tudo.
+
+## Temáticas e pilares
+
+Temática e pilar de autoridade são coisas diferentes.

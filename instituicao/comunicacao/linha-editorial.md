@@ -159,11 +159,13 @@ Dito, a elaborar:
 
 - planejar principalmente o começo, que é mais difícil;
 - antes do calendário de postagens, um índice de temas; antes dele, a construção de pilares de
-  autoridade;
+  autoridade. Pilares de autoridade e temáticas são coisas diferentes; a diferença está por
+  elaborar;
 - gravar áudios sobre as temáticas importantes.
 
 Fontes: `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
-`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`.
+`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`;
+`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#tematicas-e-pilares`.
 
 **Nível:** Em aberto.
 

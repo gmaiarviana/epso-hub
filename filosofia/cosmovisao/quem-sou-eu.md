@@ -55,7 +55,7 @@ reconheço em outras pessoas, dito nas palavras de agora.
    pergunta pelas variações. A razão também é um risco: sem compreender a razão dos outros
    seres, nos achamos superiores e os subjugamos — um dos motivos da devastação dos últimos
    séculos.
-3. **Espírito** — a parte de mim que não tem forma. Atravessado o portão da mente, ela vira
+3. **Espírito** — a parte de mim que não tem forma. Atravessado o portão da mente, a mente vira
    ferramenta: paramos de ter medo de pensar e de pensar o tempo todo. É a camada da conexão
    com aquilo em que cada um acredita — e quem diz não acreditar em nada acredita que não
    acredita. Crer é natural: nossas ações dependem do que cremos, não da razão ("sei que o

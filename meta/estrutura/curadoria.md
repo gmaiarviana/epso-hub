@@ -93,7 +93,9 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#qual-argumen
 
 Diante de um objeto extraído de uma caixa, a curadoria decide entre:
 
-- **Inserir** — o objeto agrega e ainda não existe no acervo. Entra.
+- **Inserir** — o objeto agrega e ainda não existe no acervo. Entra — num arquivo existente ou
+  num arquivo novo, se ele tem corpo próprio ou se espremê-lo misturaria assuntos
+  ([critérios](criterios.md)). O destino anotado na fila é sugestão, não obrigação.
 - **Fundir** — o objeto já existe sob outra roupa verbal. A âncora é a régua: duas expressões são
   o mesmo objeto quando compartilham âncora. Comparar por significado. Ver
   abaixo.

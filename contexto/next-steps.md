@@ -12,9 +12,6 @@ destino estão no [next-steps da raiz](../next-steps.md) (tiers Foco e Encaixar)
   em `## 4`, o motivo da saída da construção
   ([trajetória](trajetoria.md#por-que-saí-da-construção)). As seções 1–3 derivam do repositório:
   [núcleo](../instituicao/nucleo/README.md), [trajetória](trajetoria.md) e [direção](direcao.md).
-- **Formação e disposição** ([trajetória](trajetoria.md#formação-e-disposição)) — diz "interesse
-  por filosofia"; a [direção](direcao.md#filósofo-construindo-uma-nova-sociedade) diz "sou
-  filósofo". Decidir: manter como recorte do documento da construtora ou ajustar.
 
 ## Trabalho
 

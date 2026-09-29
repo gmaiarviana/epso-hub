@@ -3,6 +3,21 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
+## 1. Passar a limpo
+
+Vídeos de 2025 do canal Era pra ser Óbvio, registrados só como bruto:
+
+- `fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md` — por que o canal
+  nasceu e volta; o método em quatro etapas; filosofia, política e espiritualidade.
+- `fontes/transcricoes/raw/2025-03-06-sobre-filosofia.raw.md` — ser filósofo; percepção
+  única, palavras próprias.
+- `fontes/transcricoes/raw/2025-03-06-sobre-o-metodo.raw.md` — as quatro etapas do método,
+  uma por vídeo.
+- `fontes/transcricoes/raw/2025-04-17-sobre-a-plataforma-epso.raw.md` — os dois pilares da
+  plataforma: ferramentas gratuitas para pessoas e discussão.
+- `fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md` — vida como energia
+  em movimento, o conatus, determinismo em camadas; a ordem dos áudios 1 e 2 é estimada.
+
 ## 2. Foco
 
 **Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco:

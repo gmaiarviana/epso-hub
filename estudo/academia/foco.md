@@ -13,7 +13,8 @@ tem espaço para ser estudado na academia — a narrativa que faz sentido e tem 
 elaborada. O recorte é a porta de entrada, não o limite da tese. A logística de entrada
 (fases, mestrado × doutorado) vive em [jornada](jornada.md).
 
-Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#o-doutorado-como-junção`, `#a-narrativa-que-tem-espaço-na-academia`.
 
 ## A camada que move
 
@@ -56,7 +57,8 @@ do EPSO em termos acadêmicos. Os degraus, do mais abstrato ao mais prático:
 
 Onde recortar depende também do estado atual das pesquisas sobre o assunto.
 
-Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#recortes-da-tese`.
+Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#recortes-da-tese`;
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#o-doutorado-como-junção`.
 
 ## Candidatos de recorte (em aberto)
 

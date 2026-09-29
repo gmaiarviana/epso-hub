@@ -161,6 +161,18 @@ refaz no briefing da sessão.
   - **Quatro tipos de benchmarking** (`notas-comite-ia`) → pede explicação do incorporador;
     candidato a [elaborar](elaborar.md).
 
+- **Grupo EPSO no WhatsApp** (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`, 341
+  seções) — notas de 2020 a 2026; muitas antecedem ou repetem o que o acervo já tem, então o
+  encaixe começa checando fusão. Lastro direto do Foco (imagem e linha editorial), a decidir
+  se sobe: `#o-obvio-precisa-ser-dito`, `#por-que-produzir-conteudo`,
+  `#roteiro-do-primeiro-filme`, `#primeira-rodada-sonhos-quem-sou-eu-estamos-juntos`,
+  `#falar-de-ansiedade-em-vez-de-espiritualidade`. O livro → checar contra
+  `filosofia/cosmovisao/`: `#introducao-do-livro-quem-sou-eu`, `#prefacio-do-livro`,
+  `#estrutura-do-livro-manual-manifesto-conceitos`. Plataforma e debate →
+  `instituicao/iniciativas/`: `#plataforma-colaborativa-de-teorias-de-mundo`,
+  `#plataforma-de-comunidades-pelos-quatro-pilares`, `#encontros-de-debate-de-conciliacao`,
+  `#debate-com-feedback-visual-de-concordancia`.
+
 ## 5. Backlog
 
 - **Iniciativas** — construtora (institucional: princípios construtivos, acervo técnico,

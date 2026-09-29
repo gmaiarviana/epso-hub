@@ -1,6 +1,6 @@
 # Cobertura das fontes
 
-Gerado por [meta/cobertura.py](../meta/cobertura.py) — não editar à mão. Estado de encaixe de cada seção de cada fonte: onde já mora no acervo, se está na fila, se foi dispensada ou se está **sem dono**. Regras em [meta/roadmap.md](../meta/roadmap.md) e [meta/processo-transcricoes.md](../meta/processo-transcricoes.md).
+Gerado por [meta/cobertura.py](../meta/cobertura.py) — não editar à mão. Estado de encaixe de cada fonte e, nas pendências, as seções que faltam: na fila ou **sem dono**. Regras em [meta/roadmap.md](../meta/roadmap.md) e [meta/processo-transcricoes.md](../meta/processo-transcricoes.md).
 
 Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, não a ideia.
 
@@ -51,495 +51,103 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
 
-## Transcrições e conversas
+## Pendências
+
+Só o que não está concluído. Onde uma seção encaixada mora: buscar a âncora no repositório.
 
 ### 2023-09-02-sistema-filosofico-trilha-do-autoconhecimento
 
-Sistema filosófico — a trilha do autoconhecimento — não iniciado (0/26)
-
-- `#primeira-tentativa` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#quem-somos-nos` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#minhas-palavras` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#consciencia-do-corpo` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#habitos-inconscientes` — na fila: next-steps.md › 2. Foco
-- `#ciencia-da-materia` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#consciencia-da-mente` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#linguagem-viva` — na fila: next-steps.md › 2. Foco
-- `#razao-e-devastacao` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#perceber-por-necessidade` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#como-e-porque` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#razao-dos-outros-seres` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#depressao` — na fila: next-steps.md › 2. Foco
-- `#consciencia-da-alma` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#crencas` — na fila: next-steps.md › 2. Foco
-- `#atravessar-o-portao` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#alma-nao-sustenta` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#ninguem-feliz-sozinho` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#algo-coordena-tudo` — na fila: next-steps.md › 2. Foco
-- `#energia` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#consciencia-do-ser` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#ciclos-e-opostos` — na fila: next-steps.md › 2. Foco
-- `#espirito-e-materia` — na fila: next-steps.md › 2. Foco
-- `#aceitar-a-realidade` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#eu-sou-voce` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#um-mundo-que-nao-vemos` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
+- Foco: `#primeira-tentativa`, `#quem-somos-nos`, `#minhas-palavras`, `#consciencia-do-corpo`, `#habitos-inconscientes`, `#ciencia-da-materia`, `#consciencia-da-mente`, `#linguagem-viva`, `#razao-e-devastacao`, `#perceber-por-necessidade`, `#como-e-porque`, `#razao-dos-outros-seres`, `#depressao`, `#consciencia-da-alma`, `#crencas`, `#atravessar-o-portao`, `#alma-nao-sustenta`, `#ninguem-feliz-sozinho`, `#algo-coordena-tudo`, `#energia`, `#consciencia-do-ser`, `#ciclos-e-opostos`, `#espirito-e-materia`, `#aceitar-a-realidade`, `#eu-sou-voce`, `#um-mundo-que-nao-vemos`
 
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 
-A tese — mudança de paradigma para colaborar — parcial (1/13)
-
-- `#parte-do-pratico` — na fila: next-steps.md › 4. Encaixar
-- `#camadas-de-reconhecimento` — na fila: next-steps.md › 4. Encaixar
-- `#mudar-paradigmas-para-colaborar` — na fila: next-steps.md › 4. Encaixar
-- `#comunicar-para-todos` — encaixada em filosofia/hipoteses/linguagem.md
-- `#a-cola-imaterial` — na fila: next-steps.md › 4. Encaixar
-- `#crencas-e-palavras` — na fila: next-steps.md › 4. Encaixar
-- `#da-oralidade-a-escrita` — na fila: next-steps.md › 4. Encaixar
-- `#linguagem-com-intencao` — na fila: next-steps.md › 4. Encaixar
-- `#a-escrita-expandiu-o-processamento` — na fila: next-steps.md › 4. Encaixar
-- `#o-novo-processamento` — na fila: next-steps.md › 4. Encaixar
-- `#de-global-destrutivo-a-global-regenerativo` — na fila: next-steps.md › 2. Foco
-- `#boas-praticas-factiveis` — na fila: next-steps.md › 2. Foco
-- `#ressignificar-quem-somos` — na fila: next-steps.md › 4. Encaixar
+- Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`, `#o-novo-processamento`, `#ressignificar-quem-somos`
+- Foco: `#de-global-destrutivo-a-global-regenerativo`, `#boas-praticas-factiveis`
 
 ### 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu
 
-As primeiras teses — crenças e quem sou eu — parcial (4/6)
-
-- `#camadas-de-quem-sou-eu` — na fila: next-steps.md › 2. Foco
-- `#somos-nossa-atencao` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#expansao-de-consciencia-e-conexao` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#fluir-e-deixar-de-ser-reativo` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#colaboracao-como-capacidade-humana` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#tecnologia-da-informacao` — na fila: next-steps.md › 4. Encaixar
+- Encaixar: `#tecnologia-da-informacao`
+- Foco: `#camadas-de-quem-sou-eu`
 
 ### 2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida
 
-Equilíbrio matéria-ideias e a tese de vida — parcial (7/10)
-
-- `#equilibrio-materia-e-ideias` — encaixada em estudo/academia/foco.md; e na fila: next-steps.md › 4. Encaixar
-- `#registrar-e-os-ritos-da-academia` — encaixada em estudo/academia/jornada.md
-- `#cosmovisao-e-novas-bases` — na fila: next-steps.md › 4. Encaixar
-- `#escala-e-evidencias` — na fila: next-steps.md › 4. Encaixar
-- `#construir-ferramentas` — encaixada em contexto/direcao.md, estudo/academia/jornada.md
-- `#tese-de-doutorado-como-tese-de-vida` — encaixada em estudo/academia/jornada.md
-- `#mestrado-como-degrau` — encaixada em estudo/academia/jornada.md
-- `#estrategia-mirar-no-doutorado` — encaixada em estudo/academia/jornada.md
-- `#metodos-existentes-e-o-mestrado` — encaixada em estudo/academia/jornada.md
-- `#jornada-com-intencao` — encaixada em contexto/direcao.md, estudo/academia/jornada.md
+- Encaixar: `#cosmovisao-e-novas-bases`, `#escala-e-evidencias`
+- Encaixar, com parte já encaixada: `#equilibrio-materia-e-ideias`
 
 ### 2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade
 
-Mestrado, doutorado e contribuição à sociedade — parcial (5/10)
-
-- `#mestrado-como-caminho` — encaixada em estudo/academia/jornada.md
-- `#varias-sementes-uma-jornada` — encaixada em estudo/academia/jornada.md
-- `#contribuicao-e-divisao-do-trabalho` — na fila: next-steps.md › 2. Foco
-- `#um-retrato-no-tempo` — na fila: next-steps.md › 4. Encaixar
-- `#evoluir-com-intencao` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#regeneracao-por-nos` — na fila: next-steps.md › 2. Foco
-- `#mudar-paradigmas-no-seculo-xxi` — na fila: next-steps.md › 4. Encaixar
-- `#quem-somos-nos-e-a-tese` — na fila: next-steps.md › 4. Encaixar
-- `#recortes-da-tese` — encaixada em estudo/academia/foco.md
-- `#entrada-na-academia` — encaixada em estudo/academia/jornada.md
+- Encaixar: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
+- Foco: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
 
 ### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
 
-Modelos eficientes, abstrair as palavras e economia sustentável — parcial (3/5)
-
-- `#modelos-eficientes-e-limites-da-linguagem` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md, filosofia/hipoteses/linguagem.md
-- `#abstrair-as-palavras` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md, filosofia/hipoteses/linguagem.md, meta/processo-transcricoes.md
-- `#construcao-sustentavel-e-cadeia-produtiva` — na fila: next-steps.md › 2. Foco
-- `#economia-local-e-ciclos-de-consumo` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#novo-capitalismo-e-transformacao` — na fila: next-steps.md › 2. Foco
+- Foco: `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`
 
 ### 2026-07-04-estrategia-profissional
 
-Estratégia profissional — parcial (2/4)
-
-- `#viabilidade-construtora` — na fila: next-steps.md › 2. Foco
-- `#contexto-atual` — encaixada em contexto/trajetoria.md
-- `#sequenciamento-iniciativas` — encaixada em contexto/direcao.md; e na fila: next-steps.md › 2. Foco
-- `#decisao-mestrado` — encaixada em contexto/direcao.md, contexto/trajetoria.md, estudo/academia/jornada.md
+- Foco: `#viabilidade-construtora`
+- Foco, com parte já encaixada: `#sequenciamento-iniciativas`
 
 ### 2026-07-04-quatro-iniciativas
 
-Quatro iniciativas — não iniciado (0/6)
-
-- `#visao-portfolio` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#iniciativa-1-construtora` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#iniciativa-2-ferramentas` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#iniciativa-3-conhecimento` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
-- `#iniciativa-4-abstracao` — na fila: next-steps.md › 2. Foco
-- `#objetivo-de-carreira` — na fila: next-steps.md › 2. Foco (arquivo inteiro)
+- Foco: `#visao-portfolio`, `#iniciativa-1-construtora`, `#iniciativa-2-ferramentas`, `#iniciativa-3-conhecimento`, `#iniciativa-4-abstracao`, `#objetivo-de-carreira`
 
 ### 2026-07-07-camada-filosofica-e-a-jornada-academica
 
-Camada filosófica e a jornada acadêmica — parcial — 4 sem dono (8/12)
-
-- `#a-camada-filosofica-e-a-fonte` — **sem dono**
-- `#nivel-de-abstracao-do-doutorado` — encaixada em estudo/academia/jornada.md
-- `#tecnologia-da-informacao-como-paradigma` — encaixada em filosofia/cosmovisao/a-tese.md
-- `#ideias-globais-materia-local` — **sem dono**
-- `#a-solucao-mudar-o-paradigma-realidade-nao-dual` — **sem dono**
-- `#novo-paradigma-e-transformacao` — **sem dono**
-- `#resposta-o-centro-e-quem-sou-eu` — encaixada em filosofia/cosmovisao/a-tese.md
-- `#mestrado-pratico-doutorado-profundo` — encaixada em estudo/academia/jornada.md
-- `#sementes-ferramental-e-artigos` — encaixada em estudo/academia/jornada.md
-- `#projetos-grupos-instituicoes-e-bolsas` — encaixada em estudo/academia/jornada.md
-- `#construcao-nao-e-o-foco-do-estudo` — encaixada em estudo/academia/jornada.md
-- `#a-empresa-flexibilidade-e-crescimento-institucional` — encaixada em contexto/trajetoria.md
+- **sem dono**: `#a-camada-filosofica-e-a-fonte`, `#ideias-globais-materia-local`, `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao`
 
 ### 2026-09-22-regeneracao-lastro-e-eco-cidades
 
-Regeneração, lastro e a visão de ecocidades — parcial (12/13)
-
-- `#fora-do-paradigma-mecanicista` — encaixada em instituicao/nucleo/README.md
-- `#instituicoes-do-novo-paradigma` — encaixada em contexto/direcao.md
-- `#empreender-em-construcao-sustentavel` — na fila: next-steps.md › 2. Foco
-- `#novas-instituicoes-e-rotina-autonoma` — encaixada em contexto/direcao.md
-- `#lastro-conteudo-e-academia` — encaixada em estudo/academia/jornada.md, instituicao/comunicacao/linha-editorial.md
-- `#transicao-para-ecocidades` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#raios-de-producao-e-nucleos` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#informacao-livre-materia-local` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#linguagem-em-camadas` — encaixada em filosofia/hipoteses/linguagem.md
-- `#linguagem-e-noosfera` — encaixada em filosofia/hipoteses/linguagem.md
-- `#inteligencia-potencializada` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md
-- `#semiotica-e-intencao` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md, filosofia/hipoteses/linguagem.md
-- `#como-tudo-se-conecta` — encaixada em filosofia/cosmovisao/a-tese.md
+- Foco: `#empreender-em-construcao-sustentavel`
 
 ### 2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas
 
-Produção de conteúdo — eixos, portais da plataforma e temáticas — parcial (11/15)
-
-- `#escopo-e-imagem` — encaixada em instituicao/comunicacao/imagem.md, instituicao/comunicacao/linha-editorial.md
-- `#eixo-mercado` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#eixo-rede-de-pessoas` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#portal-open-source` — na fila: next-steps.md › 2. Foco
-- `#portal-linguagem` — encaixada em filosofia/hipoteses/linguagem.md
-- `#portal-solucoes-regenerativas` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#portal-economia-colaborativa` — na fila: next-steps.md › 2. Foco
-- `#sitio-restaurante-credito-de-trabalho` — na fila: next-steps.md › 2. Foco
-- `#plataforma-e-autoridade` — encaixada em estudo/academia/jornada.md, instituicao/comunicacao/linha-editorial.md; e na fila: next-steps.md › 2. Foco
-- `#eixo-pesquisa` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#linha-editorial-e-numero-de-tematicas` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#imagem-linguagem-e-publico` — encaixada em instituicao/comunicacao/imagem.md
-- `#temas-da-trajetoria` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#saude-mental-e-trabalho` — encaixada em filosofia/hipoteses/trabalho.md, instituicao/comunicacao/linha-editorial.md
-- `#precisar-de-menos` — encaixada em instituicao/comunicacao/linha-editorial.md
+- Foco: `#portal-open-source`, `#portal-economia-colaborativa`, `#sitio-restaurante-credito-de-trabalho`
+- Foco, com parte já encaixada: `#plataforma-e-autoridade`
 
 ### 2026-09-24-atencao-corpo-linguagem-e-camadas
 
-Atenção, corpo, mente, linguagem e camadas — parcial (16/28)
-
-- `#sem-controle` — na fila: next-steps.md › 2. Foco
-- `#somos-nossa-atencao` — na fila: next-steps.md › 2. Foco
-- `#corpo-veiculo-sagrado` — na fila: next-steps.md › 2. Foco
-- `#para-que-o-corpo` — na fila: next-steps.md › 2. Foco
-- `#vida-como-respiracao` — na fila: next-steps.md › 2. Foco
-- `#imaginar-e-sentir` — na fila: next-steps.md › 2. Foco
-- `#regua-coletiva` — na fila: next-steps.md › 2. Foco
-- `#equilibrio-e-flexibilidade` — na fila: next-steps.md › 2. Foco
-- `#interdependencia-das-especies` — na fila: next-steps.md › 2. Foco
-- `#humanidade-transitoria` — na fila: next-steps.md › 2. Foco
-- `#sem-manual-de-instrucoes` — na fila: next-steps.md › 2. Foco
-- `#feitos-para-aprender` — encaixada em filosofia/hipoteses/linguagem.md
-- `#mente` — encaixada em filosofia/hipoteses/linguagem.md
-- `#linguagem-e-representacao` — encaixada em filosofia/hipoteses/linguagem.md
-- `#linguagem-e-colaboracao` — encaixada em filosofia/hipoteses/linguagem.md
-- `#linguagem-e-noosfera` — encaixada em filosofia/hipoteses/linguagem.md
-- `#tecnologias-da-informacao` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md, filosofia/hipoteses/linguagem.md
-- `#camadas-limitacao-de-transicao` — encaixada em filosofia/hipoteses/linguagem.md
-- `#contexto-e-epoca` — encaixada em filosofia/hipoteses/linguagem.md
-- `#excesso-de-racionalidade` — na fila: next-steps.md › 2. Foco
-- `#camada-de-conceitos` — encaixada em filosofia/hipoteses/linguagem.md
-- `#do-sentir-ao-comunicar` — encaixada em filosofia/hipoteses/linguagem.md
-- `#nomear-para-acessar` — encaixada em filosofia/hipoteses/linguagem.md
-- `#falhas-na-comunicacao` — encaixada em filosofia/hipoteses/linguagem.md
-- `#atalhos-la-em-cima` — encaixada em filosofia/hipoteses/linguagem.md
-- `#precisao-e-brincadeira` — encaixada em filosofia/hipoteses/linguagem.md
-- `#we-had-a-good-time` — encaixada em filosofia/hipoteses/linguagem.md
-- `#espectro-de-camadas` — encaixada em filosofia/hipoteses/linguagem.md
+- Foco: `#sem-controle`, `#somos-nossa-atencao`, `#corpo-veiculo-sagrado`, `#para-que-o-corpo`, `#vida-como-respiracao`, `#imaginar-e-sentir`, `#regua-coletiva`, `#equilibrio-e-flexibilidade`, `#interdependencia-das-especies`, `#humanidade-transitoria`, `#sem-manual-de-instrucoes`, `#excesso-de-racionalidade`
 
 ### 2026-07-07-vetor-ancora-camada-de-fontes
 
-Conversa — vetor, âncora e a camada de fontes — parcial (7/10)
-
-- `#ideia-e-vetor` — encaixada em filosofia/hipoteses/vetor.md
-- `#a-familia-de-vetores` — encaixada em filosofia/hipoteses/vetor.md
-- `#o-vetor-veste-a-materia-para-se-propagar` — encaixada em filosofia/hipoteses/vetor.md
-- `#o-que-me-interessa-e-a-arquitetura-nao-a-genealogia` — encaixada em estudo/academia/foco.md
-- `#palavra-e-ideia-relacao-de-baixa-fidelidade` — encaixada em filosofia/hipoteses/ancora.md, filosofia/hipoteses/vetor.md
-- `#banco-mesa-e-madeira-identidade-por-uso-e-zoom` — encaixada em filosofia/hipoteses/ancora.md, filosofia/hipoteses/vetor.md
-- `#refinamento-adiciona-vetores-de-precisao` — encaixada em filosofia/hipoteses/precisao.md
-- `#migracao-reaproveitar-as-ponderacoes-nao-o-resultado` — na fila: next-steps.md › 4. Encaixar
-- `#tres-camadas-de-fonte-audio-bruto-limpo` — na fila: next-steps.md › 4. Encaixar
-- `#iniciativa-quatro-e-o-paper-agent` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md; e na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-23-precisao-e-a-pagina-do-livro
-
-Conversa — precisão e a página do livro — completo (9/9)
-
-- `#a-intencao-separa-a-verdade-relativa-da-distorcao` — encaixada em filosofia/hipoteses/precisao.md
-- `#medir-e-ler-uma-pagina-do-livro` — encaixada em filosofia/hipoteses/precisao.md
-- `#sobretudo-no-subjetivo` — encaixada em filosofia/hipoteses/precisao.md
-- `#mais-preciso-nao-melhor` — encaixada em filosofia/hipoteses/precisao.md
-- `#novos-paradigmas-sobre-a-ciencia` — encaixada em filosofia/hipoteses/precisao.md
-- `#fisica-quantica-um-paradigma-a-elaborar` — encaixada em filosofia/hipoteses/precisao.md
-- `#o-observador-o-assento-muda-a-experiencia` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#destino-e-intencao-sao-camadas-diferentes` — encaixada em filosofia/cosmovisao/quem-sou-eu.md
-- `#qual-argumento-estou-construindo` — encaixada em meta/estrutura/curadoria.md
+- Encaixar: `#migracao-reaproveitar-as-ponderacoes-nao-o-resultado`, `#tres-camadas-de-fonte-audio-bruto-limpo`
+- Encaixar, com parte já encaixada: `#iniciativa-quatro-e-o-paper-agent`
 
 ### 2026-09-25-a-mente-sugere-a-atencao
 
-Conversa — a mente sugere a atenção — parcial — 1 sem dono (1/2)
-
-- `#a-mente-sugere-a-atencao-escolhe` — **sem dono**
-- `#o-custo-da-precisao-nao-e-uma-escolha` — encaixada em filosofia/hipoteses/linguagem.md
-
-### 2026-09-25-linguagem-e-ecocidades
-
-Conversa — linguagem e ecocidades — completo (5/5)
-
-- `#dois-eixos-que-se-relacionam` — encaixada em filosofia/hipoteses/linguagem.md
-- `#inteligencia-potencializada-e-um-conceito-por-si-so` — encaixada em filosofia/hipoteses/inteligencia-potencializada.md
-- `#construir-ecocidades-a-partir-do-que-existe` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#politica-direciona-decisoes-fisicas` — encaixada em filosofia/hipoteses/ecocidades.md
-- `#o-sitio-que-posta-o-que-funciona` — encaixada em filosofia/hipoteses/ecocidades.md
+- **sem dono**: `#a-mente-sugere-a-atencao-escolhe`
 
 ### 2026-09-26-o-epso-e-eu
 
-Conversa — o EPSO e eu — não iniciado — 5 sem dono (0/5)
-
-- `#o-epso-e-a-institucionalizacao-das-minhas-ideias` — **sem dono**
-- `#somos-uma-coisa-so-por-enquanto` — **sem dono**
-- `#ainda-nao-comecei` — **sem dono**
-- `#a-comunicacao-nasce-ligada-ao-epso` — **sem dono**
-- `#o-estado-mais-atual-sem-genealogia` — **sem dono**
+- **sem dono**: `#o-epso-e-a-institucionalizacao-das-minhas-ideias`, `#somos-uma-coisa-so-por-enquanto`, `#ainda-nao-comecei`, `#a-comunicacao-nasce-ligada-ao-epso`, `#o-estado-mais-atual-sem-genealogia`
 
 ### 2026-09-26-trabalho-e-novo-paradigma
 
-Conversa — trabalho e novo paradigma — parcial (6/7)
-
-- `#o-que-e-o-novo-paradigma` — encaixada em contexto/trabalho/README.md
-- `#ressignificar-o-proprio-setor` — encaixada em contexto/trabalho/README.md
-- `#transicao-timida` — encaixada em contexto/trabalho/README.md
-- `#construir-alem-de-cargos` — encaixada em contexto/trabalho/README.md
-- `#o-que-o-emprego-precisa-ser` — encaixada em contexto/trabalho/README.md
-- `#temas-que-me-animam` — encaixada em contexto/trabalho/README.md
-- `#conteudo-como-aproximacao` — encaixada em contexto/trabalho/README.md, instituicao/comunicacao/linha-editorial.md; e na fila: contexto/next-steps.md › Trabalho
+- contexto/next-steps.md, com parte já encaixada: `#conteudo-como-aproximacao`
 
 ### 2026-09-27-a-construtora-e-o-epso
 
-Conversa — a construtora e o EPSO — parcial — 6 sem dono (3/9)
-
-- `#o-epso-vai-alem-de-ti` — **sem dono**
-- `#a-construtora-tem-missao-propria` — **sem dono**
-- `#sem-forma-juridica-para-a-construtora` — **sem dono**
-- `#o-especifico-fica-bruto-o-do-epso-se-pondera` — encaixada em meta/estrutura/curadoria.md
-- `#o-que-do-documento-institucional-e-do-epso` — encaixada em instituicao/nucleo/README.md
-- `#solucoes-gratuitas-sem-rigidez` — encaixada em instituicao/nucleo/README.md
-- `#um-recorte-de-quem-sou` — **sem dono**
-- `#servidor-de-inferencia` — **sem dono**
-- `#tipos-de-sessao` — **sem dono**
+- **sem dono**: `#o-epso-vai-alem-de-ti`, `#a-construtora-tem-missao-propria`, `#sem-forma-juridica-para-a-construtora`, `#um-recorte-de-quem-sou`, `#servidor-de-inferencia`, `#tipos-de-sessao`
 
 ### 2026-09-27-as-duas-teses-e-a-migracao
 
-Conversa — as duas teses e a migração — parcial (5/6)
-
-- `#doutorado-inedito-mestrado-vizinho` — encaixada em estudo/academia/jornada.md
-- `#duas-teses` — na fila: next-steps.md › 4. Encaixar
-- `#o-modelo-cientifico-e-os-saberes-de-fora-dele` — encaixada em filosofia/hipoteses/precisao.md
-- `#os-sentidos-nao-as-palavras` — encaixada em filosofia/hipoteses/precisao.md
-- `#medir-se-duas-palavras-apontam-para-a-mesma-ideia` — encaixada em estudo/academia/foco.md
-- `#migrar-e-guardar-o-valido-e-valioso` — encaixada em meta/estrutura/curadoria.md
-
-### 2026-09-27-estrategia-e-frentes
-
-Conversa — estratégia e frentes — completo (1/1)
-
-- `#varias-frentes-de-trabalho` — encaixada em contexto/direcao.md
-
-### 2026-09-27-mudar-de-emprego
-
-Conversa — mudar de emprego — completo (1/1)
-
-- `#mudar-de-emprego-e-consequencia` — encaixada em contexto/trajetoria.md
+- Encaixar: `#duas-teses`
 
 ### 2026-09-27-o-nucleo-do-epso
 
-Conversa — o núcleo do EPSO — parcial — 1 sem dono (6/7)
-
-- `#proposito` — encaixada em instituicao/nucleo/README.md
-- `#o-que-sao-valores` — encaixada em instituicao/nucleo/README.md
-- `#valores-de-outra-empresa` — **sem dono**
-- `#as-crencas-do-epso` — encaixada em instituicao/nucleo/README.md
-- `#o-metodo-e-o-framework-base` — encaixada em instituicao/nucleo/README.md
-- `#cedo-para-dizer-se-e-regua` — encaixada em instituicao/nucleo/README.md
-- `#tudo-e-tecnologia` — encaixada em instituicao/nucleo/README.md
+- **sem dono**: `#valores-de-outra-empresa`
 
 ### 2026-09-27-receitas-plataformas-e-notas-antigas
 
-Conversa — receitas, plataformas e notas antigas — parcial (2/6)
-
-- `#receita-de-cada-iniciativa` — encaixada em instituicao/iniciativas/README.md; e na fila: instituicao/next-steps.md › Receitas
-- `#doacao-eventos-e-comunidade` — na fila: instituicao/next-steps.md › Comunicação, instituicao/next-steps.md › Receitas
-- `#varias-plataformas` — encaixada em instituicao/iniciativas/README.md
-- `#web3` — na fila: instituicao/next-steps.md › Receitas
-- `#natureza-juridica` — na fila: instituicao/next-steps.md › Receitas
-- `#temas-sem-ordem` — encaixada em instituicao/comunicacao/linha-editorial.md
-
-### 2026-09-28-objetivos-canal-e-idioma
-
-Conversa — objetivos, canal e idioma da comunicação — completo (6/6)
-
-- `#ser-recrutado` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#canal` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#organico` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#idioma` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#tematicas-e-pilares` — encaixada em instituicao/comunicacao/linha-editorial.md
-- `#contexto-e-comunicacao` — encaixada em instituicao/comunicacao/imagem.md
+- instituicao/next-steps.md: `#doacao-eventos-e-comunidade`, `#web3`, `#natureza-juridica`
+- instituicao/next-steps.md, com parte já encaixada: `#receita-de-cada-iniciativa`
 
 ### 2026-09-28-trajetoria-e-direcao
 
-Conversa — trajetória e direção — parcial — 1 sem dono (2/3)
-
-- `#por-que-sai-da-construcao-civil` — encaixada em contexto/trajetoria.md
-- `#sou-filosofo-os-temas-sao-aplicacoes` — encaixada em contexto/direcao.md, contexto/trajetoria.md
-- `#a-narrativa-de-carreira-adapta-nao-define` — **sem dono**
+- **sem dono**: `#a-narrativa-de-carreira-adapta-nao-define`
 
 ### 2026-09-28-validacao-do-nucleo
 
-Conversa — validação do núcleo do EPSO — parcial — 1 sem dono (14/16)
-
-- `#desdobramentos` — encaixada em instituicao/nucleo/README.md
-- `#eficiencia` — **sem dono**
-- `#crencas` — encaixada em instituicao/nucleo/README.md
-- `#postura` — encaixada em instituicao/nucleo/README.md
-- `#para-que-vem-o-epso` — encaixada em instituicao/nucleo/README.md
-- `#a-camada-sem-forma` — encaixada em instituicao/nucleo/README.md
-- `#a-desconexao` — encaixada em instituicao/nucleo/README.md
-- `#entropia-e-o-tamanho-do-impacto` — encaixada em instituicao/nucleo/README.md
-- `#quem-decide-o-que-faz-sentido` — encaixada em instituicao/nucleo/README.md
-- `#soltar-o-apego` — encaixada em instituicao/nucleo/README.md
-- `#clareza` — encaixada em instituicao/nucleo/README.md
-- `#conforto-e-medo` — encaixada em instituicao/nucleo/README.md
-- `#por-que-o-epso` — encaixada em instituicao/nucleo/README.md
-- `#resolver-os-proprios-problemas` — encaixada em instituicao/nucleo/README.md
-- `#parcerias` — encaixada em instituicao/nucleo/README.md
-- `#objetivos` — encaixada em instituicao/nucleo/README.md; e na fila: instituicao/next-steps.md › Comunicação
-
-## Documentos
-
-### 2026-06-26-epso-paradigm-sobras
-
-Sobras do epso_paradigm — na fila
-
-- na fila: estudo/next-steps.md › Academia
-- na fila: meta/next-steps.md
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-26-career-narrative-v8
-
-Career Narrative — Guilherme Maia (Draft v8) — citado; na fila
-
-- citado em contexto/direcao.md
-- citado em contexto/trajetoria.md
-- citado em instituicao/nucleo/README.md
-- na fila: contexto/next-steps.md › Trabalho
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-blocos-de-curriculo
-
-Blocos de currículo — na fila
-
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-carta-ex-lider
-
-Carta de agradecimento a um ex-líder — na fila
-
-- na fila: next-steps.md › 2. Foco
-
-### 2026-09-27-carta-rede-de-pais
-
-Convite para uma rede de pais — na fila
-
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-cartas-de-candidatura
-
-Cartas de candidatura e apresentações — citado; na fila
-
-- citado em contexto/direcao.md
-- citado em contexto/trajetoria.md
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-construtora-documento-institucional
-
-Construtora — Documento Institucional (Identidade, Metodologia, Princípios Construtivos) — citado; na fila
-
-- citado em contexto/trajetoria.md
-- citado em instituicao/nucleo/README.md
-- na fila: next-steps.md › 5. Backlog
-
-### 2026-09-27-construtora-operacional
-
-Construtora — Operacional (Habilitação, Custos e Equipe, Marca, Roadmap, Infraestrutura) — na fila
-
-- na fila: instituicao/next-steps.md › Receitas
-- na fila: next-steps.md › 5. Backlog
-
-### 2026-09-27-emails-avaliacao-e-pdi
-
-E-mails sobre avaliação de desempenho e PDI — na fila
-
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-ensaio-nao-somos-nosso-trabalho
-
-Nós não somos nosso trabalho (carta-ensaio) — na fila
-
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-notas-comite-ia
-
-Notas para o comitê de IA — na fila
-
-- na fila: next-steps.md › 2. Foco
-- na fila: next-steps.md › 4. Encaixar
-
-### 2026-09-27-proposito-epso
-
-Propósito do EPSO — objetivos, valores, manifesto, propósito, crenças e formas — citado
-
-- citado em filosofia/hipoteses/trabalho.md
-- citado em instituicao/comunicacao/linha-editorial.md
-- citado em instituicao/iniciativas/README.md
-- citado em instituicao/nucleo/README.md
-
-### 2026-09-27-proposta-a-diretoria
-
-Proposta à diretoria — na fila
-
-- na fila: next-steps.md › 2. Foco
-
-### 2026-09-27-quem-somos-e-plataformas
-
-Quem somos, posicionamento e plataformas do EPSO — citado; na fila
-
-- citado em instituicao/iniciativas/README.md
-- citado em instituicao/nucleo/README.md
-- na fila: next-steps.md › 5. Backlog
-
-### 2026-09-27-relato-tpm-programa
-
-Impressões como TPM num programa de cliente — na fila
-
-- na fila: next-steps.md › 2. Foco
+- **sem dono**: `#eficiencia`
+- instituicao/next-steps.md, com parte já encaixada: `#objetivos`

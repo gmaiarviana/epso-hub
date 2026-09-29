@@ -200,16 +200,25 @@ def cruzar(lista, citantes):
                             f["acervo"][s].add(caminho)
 
 
+def curto(local):
+    """`next-steps.md › 2. Foco (arquivo inteiro)` vira `Foco`; next-steps de bloco fica pelo
+    caminho."""
+    arquivo, _, secao = local.partition(" › ")
+    if arquivo == "next-steps.md" and secao:
+        return re.sub(r"^\d+\. | \(arquivo inteiro\)$", "", secao)
+    return arquivo.replace(" (arquivo inteiro)", "")
+
+
 def estado_secao(f, s):
+    """Devolve (estado, grupo): o grupo é o rótulo sob o qual a seção aparece nas pendências;
+    vazio quando está concluída."""
+    fila = ", ".join(sorted({curto(l) for l in f["fila"][s]}))
     if f["acervo"][s]:
-        texto = "encaixada em " + ", ".join(sorted(f["acervo"][s]))
-        if f["fila"][s]:
-            texto += "; e na fila: " + ", ".join(sorted(f["fila"][s]))
-        return "encaixada", texto
+        return "encaixada", (f"{fila}, com parte já encaixada" if f["fila"][s] else "")
     if f["fila"][s]:
-        return "fila", "na fila: " + ", ".join(sorted(f["fila"][s]))
+        return "fila", fila
     if s in f["dispensadas"]:
-        return "dispensada", "dispensada: " + f["dispensadas"][s]
+        return "dispensada", ""
     return "sem dono", "**sem dono**"
 
 
@@ -242,8 +251,8 @@ def gerar():
         "# Cobertura das fontes",
         "",
         "Gerado por [meta/cobertura.py](../meta/cobertura.py) — não editar à mão. Estado de encaixe "
-        "de cada seção de cada fonte: onde já mora no acervo, se está na fila, se foi dispensada ou "
-        "se está **sem dono**. Regras em [meta/roadmap.md](../meta/roadmap.md) e "
+        "de cada fonte e, nas pendências, as seções que faltam: na fila ou **sem dono**. Regras em "
+        "[meta/roadmap.md](../meta/roadmap.md) e "
         "[meta/processo-transcricoes.md](../meta/processo-transcricoes.md).",
         "",
         "Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, não a ideia.",
@@ -257,27 +266,24 @@ def gerar():
     for f in lista:
         rotulo, fracao = resumo(f)
         linhas.append(f"| [{f['base']}](../{f['caminho']}) | {rotulo} | {fracao} |")
-    for tipo, titulo in ((False, "Transcrições e conversas"), (True, "Documentos")):
-        linhas += ["", f"## {titulo}"]
-        for f in [x for x in lista if x["documento"] == tipo]:
-            rotulo, fracao = resumo(f)
-            linhas += ["", f"### {f['base']}", "", f"{f['titulo']} — {rotulo}"
-                       + (f" ({fracao})" if fracao != "—" else "") + "", ""]
-            if f["documento"]:
-                if "*" in f["dispensadas"]:
-                    linhas.append("- dispensado: " + f["dispensadas"]["*"])
-                elif not (f["acervo_arquivo"] or f["fila_arquivo"]):
-                    alarmes += 1
-                    linhas.append("- **sem dono**")
-                for local in sorted(f["acervo_arquivo"]):
-                    linhas.append(f"- citado em {local}")
-                for local in sorted(f["fila_arquivo"]):
-                    linhas.append(f"- na fila: {local}")
-                continue
-            for s, h in f["secoes"]:
-                estado, texto = estado_secao(f, s)
-                alarmes += estado == "sem dono"
-                linhas.append(f"- `#{s}` — {texto}")
+    linhas += ["", "## Pendências", "",
+               "Só o que não está concluído. Onde uma seção encaixada mora: buscar a âncora no "
+               "repositório."]
+    for f in lista:
+        if f["documento"]:
+            if not (f["acervo_arquivo"] or f["fila_arquivo"] or "*" in f["dispensadas"]):
+                alarmes += 1
+                linhas += ["", f"### {f['base']}", "", "- **sem dono**"]
+            continue
+        grupos = {}
+        for s, _ in f["secoes"]:
+            estado, grupo = estado_secao(f, s)
+            alarmes += estado == "sem dono"
+            if grupo:
+                grupos.setdefault(grupo, []).append(f"`#{s}`")
+        if grupos:
+            linhas += ["", f"### {f['base']}", ""]
+            linhas += [f"- {g}: " + ", ".join(ss) for g, ss in sorted(grupos.items())]
     with open(os.path.join(RAIZ, SAIDA), "w", encoding="utf-8", newline="\n") as saida:
         saida.write("\n".join(linhas) + "\n")
     print(f"{SAIDA} gerado. Sem dono: {alarmes}.")

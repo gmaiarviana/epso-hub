@@ -89,10 +89,10 @@ Em aberto:
 
 ## Cobertura
 
-[fontes/cobertura.md](../fontes/cobertura.md), gerado por `python meta/cobertura.py`, mostra o estado de cada seção de cada fonte — transcrições, conversas e documentos:
+[fontes/cobertura.md](../fontes/cobertura.md), gerado por `python meta/cobertura.py`, mostra, por fonte — transcrições, conversas e documentos —, o estado geral e as seções ainda não concluídas. Os estados:
 
-- **encaixada** — citada no acervo (ou em `meta/`, ou no [elaborar](../elaborar.md)), com os arquivos onde mora; uma seção pode servir a mais de um;
-- **na fila** — citada em algum `next-steps.md`, com o tier;
+- **encaixada** — citada no acervo (ou em `meta/`, ou no [elaborar](../elaborar.md)); uma seção pode servir a mais de um arquivo. Não aparece nas pendências; onde mora se acha buscando a âncora;
+- **na fila** — citada em algum `next-steps.md`, com o tier; a seção encaixada em parte e com o resto na fila aparece assim;
 - **dispensada** — lida e sem destino, por decisão;
 - **sem dono** — nenhum dos anteriores: o alarme. Entra na fila ou é dispensada.
 

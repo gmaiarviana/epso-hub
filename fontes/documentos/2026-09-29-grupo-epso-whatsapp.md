@@ -1377,3 +1377,1563 @@ Mensagens que só nomeiam um tema, autor ou referência.
 - *14/08/2022* — Übermensch.
 - *24/10/2022* — Consciência libertadora.
 - *19/11/2022* — Intenção, conteúdo e forma.
+
+<!-- lote 2023 -->
+
+## quem-procura-acha
+
+*26/04/2023*
+
+Quem procura acha… quem procura defeito, o encontra… quem quer sentir, precisa se abrir.
+
+## mente-ocupada-e-defesa-contra-a-civilizacao
+
+*17/05/2023*
+
+Mente ocupada é uma defesa contra as coisas ruins da civilização.
+
+Se torna um ciclo vicioso.
+
+## presenca-a-habilidade-do-seculo-21
+
+*03/06/2023*
+
+A habilidade mais importante para o século 21 é a presença.
+
+## transformar-sonhos-em-realidade
+
+*03/06/2023*
+
+Estamos aqui pra transformar os sonhos em realidade.
+
+## a-vida-e-um-grande-fractal
+
+*10/06/2023*
+
+1. A vida é um grande fractal. Como se fôssemos uma onda de um grande oceano. Só que o tempo é infinito, dando condições a muita evolução e complexidade.
+
+3. É natural que pequenas partes vão se renovando, como nossos cabelos e unhas caem. Uma montanha muda de forma, ou o ciclo da água. Tudo isso é o fractal da vida. Alguns seres entenderam e vivem suas vidas sem impactar ou incomodar o outro, em harmonia e equilíbrio. Plantas são autossuficientes. Até mesmo ecossistemas encontram seus equilíbrios sem causar sofrimento — mesmo que tenham mortes de alguns membros.
+
+## somos-partes-de-um-so-ser
+
+*10/06/2023*
+
+2. Somos todos partes de um só ser. Até mesmo os seres minerais. Mas é como se precisássemos de estar juntos pra estar vivos. Como uma célula viva por algumas horas depois de ser retirada de um ser vivo. Ou uma folha continua verde logo após ser retirada do galho. Mas já não faz mais parte do todo. Ou aparentemente continua verde por um tempo limitado. Montanhas e águas possuem vida, desde que parte do todo. Uma água esquentada artificialmente ou uma pedra de uma montanha não possui essa conexão mais…
+
+## a-morte-so-e-temida-pela-dor
+
+*10/06/2023*
+
+4. A morte só é temida pela dor atrelada a ela. Ou também pela identificação com a vida, levando a um medo de deixar de viver.
+
+## a-depressao-deve-ser-vivida-por-todos
+
+*10/06/2023*
+
+5. A depressão é algo que deve ser vivido por todos. Encarar nossos fantasmas é o que nos leva a entender e aceitar a vida.
+
+## nosso-papel-na-natureza
+
+*10/06/2023*
+
+6. A natureza vive em equilíbrio e ela encontra um papel para cada espécie. Talvez nossa espécie deva ter um papel importante sim, já que temos habilidades diferentes.
+
+7. Nosso papel aqui vai ser mais facilmente desempenhado ao nos equilibrar com o Ser, com o todo, com a Natureza.
+
+## seres-perdidos-com-instinto-predador
+
+*10/06/2023*
+
+8. Alguns seres estão perdidos. E têm o instinto predador. Impactando os outros. Causando medo. Tendo feições que causam sensações negativas.
+
+## o-que-e-x-por-que-x-nao-e-tudo
+
+*10/06/2023*
+
+Sugestões de artigos/capítulos:
+
+- O que é x?
+- Por que x não é tudo?
+- Qual a importância de x?
+
+Para x em:
+
+- Arte
+- Ciência
+- Religião
+- Filosofia
+
+## diminuir-a-carga-mental-para-evoluir
+
+*11/06/2023*
+
+Diminuir nossa carga mental, estar presente e consequentemente deixar nossa capacidade mental disponível. Isso nos permitirá evoluir.
+
+## energia-ruim-se-transforma-por-ressignificacao
+
+*11/06/2023*
+
+Energia ruim é transformada através de ressignificação. Aceitação e enfrentamento.
+
+## a-confianca-e-a-liga
+
+*13/06/2023*
+
+A confiança é o que une. É a liga. Confiamos nas pessoas através de seus valores. O quanto confiamos nas coisas muda a maneira que agimos.
+
+## inovacao-e-aplicacao-na-vida-das-pessoas
+
+*24/06/2023*
+
+O que faz a inovação é a aplicação na vida das pessoas. Enquanto as pessoas não veem valor em determinada tecnologia, ainda continua no status de invenção.
+
+## comunicacao-eficiente-vem-da-conexao-presente
+
+*16/07/2023*
+
+A comunicação eficiente virá através da conexão presente.
+
+## resolver-esquecer-aceitar
+
+*16/07/2023*
+
+- Resolver
+- Esquecer
+- Aceitar
+
+## o-espelho-no-inferno
+
+*16/07/2023*
+
+Só conhecemos a nós mesmos quando olhamos pro espelho que fica no inferno e enxergamos o diabo que somos nós mesmos. E quando aceitamos, deixamos de ter medo.
+
+## o-que-sinto-nao-depende-de-circunstancias
+
+*20/07/2023*
+
+O que sei não é relevante, pois meu saber é circunstancial.
+
+O que sinto não depende de circunstâncias, palavras, tecnologia, linguagem.
+
+Razão é a transformação do sentimento em lógica.
+
+## consumir-conteudo-e-entrar-na-mente-de-alguem
+
+*23/07/2023*
+
+Consumir o conteúdo tem um pouco de entrar na mente de alguém.
+
+No começo será necessário se habituar com o ritmo, linguagem, metáforas… depois que se acostuma, o fluxo se torna mais orgânico.
+
+## a-natureza-nao-precisa-de-filosofia
+
+*23/07/2023*
+
+A natureza não precisa de filosofia. Nem de arte. Nem de religião ou ciência.
+
+Essas todas são necessidades da camada de abstração criada pela mente, linguagem e que resultou na civilização.
+
+## autoconhecimento-passa-pela-aceitacao-da-vulnerabilidade
+
+*24/07/2023*
+
+O caminho do autoconhecimento, da descoberta verdadeira de quem somos, passa necessariamente pela aceitação de nossa vulnerabilidade, nossas limitações, nossa efemeridade.
+
+## a-materia-e-manifestacao-e-distracao
+
+*24/07/2023*
+
+A matéria e as coisas ao nosso redor são só manifestações (e distrações) que nos ajudam a entender a realidade como ela é.
+
+## as-outras-vidas-tem-percepcoes-proprias
+
+*24/07/2023*
+
+A única dúvida que tenho é se as experiências que tenho são vividas unicamente por mim.
+
+E assim as outras pessoas e manifestações de vida existem apenas como parte das minhas percepções.
+
+Ou se as outras vidas também estão tendo suas próprias percepções.
+
+No primeiro caso, minha atenção se deve em seguir no descobrimento da realidade, me afastando das distrações.
+
+No segundo caso, devo ser responsável pra contribuir com as outras vidas. Utilizar minhas habilidades e manifestações para afastá-las de suas distrações…
+
+Ao mesmo tempo que me parece fazer mais sentido me desvincular das distrações, também não me pareço desconectado das outras vidas…
+
+*27/07/2023*
+
+Todas as pessoas que interajo são manifestações existentes na minha realidade.
+
+Não consigo afirmar se essas pessoas possuem suas próprias realidades — porém, aparentemente sim. Mas as realidades delas são diferentes da minha e eu não tenho como atuar ou contribuir diretamente nelas. Só devo e posso pensar na minha realidade.
+
+## o-sentido-da-vida-e-aumentar-a-propria-energia
+
+*27/07/2023*
+
+O sentido da vida é viver. Aqui e agora. Aumentar minha própria energia e, em seguida, contribuir para que as outras manifestações de vida também aumentem suas energias.
+
+Considerando que outras vidas fazem parte do todo, só consigo contribuir com a energia delas a partir da minha própria energia.
+
+Então, definitivamente, devo apenas focar a atenção na minha própria energia. E naturalmente colocarei essa energia para fora.
+
+## conectar-com-a-camada-profunda-e-o-fim-em-si
+
+*27/07/2023*
+
+Através do autoconhecimento conseguiremos nos conectar, estar presentes.
+
+E esse é o fim em si mesmo. Não é ajudar aos outros, realizar sonhos ou ser feliz. É nos conectar com nossa camada profunda.
+
+E essa conexão nos faz querer evoluir, superar, nos adaptar, contribuir, participar. Porque aumenta nossa energia. Entrar no jogo. Parar de lutar contra.
+
+Só conseguimos entender, participar, contribuir, agir quando temos consciência. E só temos consciência quando notamos, percebemos os detalhes, estamos presentes.
+
+Não precisamos contribuir ativamente, podemos simplesmente continuar vivendo inconscientemente.
+
+## verdade-e-a-linha-de-raciocinio-que-faz-mais-sentido
+
+*29/07/2023*
+
+Verdade é a linha de raciocínio que faz mais sentido.
+
+## a-linguagem-que-conecta-e-a-pessoal
+
+*31/07/2023*
+
+A linguagem que conecta é a humana, a que fala em primeira pessoa, pessoal.
+
+## materialistas-e-idealistas
+
+*31/07/2023*
+
+Se vemos mais materialistas se importando com a matéria, se deve ao fato que idealistas não estão interessados nesse ponto de vista.
+
+## a-vida-se-mostra-conforme-o-que-focamos
+
+*08/08/2023*
+
+A gente sente a frequência da realidade que estamos focando.
+
+A vida se mostra de acordo com o que queremos acreditar. De como decidimos pensar alguns assuntos.
+
+## quanto-mais-simples-a-arte-melhor
+
+*11/08/2023*
+
+Quanto mais simples for a arte, melhor…
+
+Menos trabalhoso, mais fácil de entender.
+
+## intencao-objetivo-tema-e-proposta
+
+*12/08/2023*
+
+- Intenção — vontade subjetiva
+- Objetivo — avaliação do sucesso
+- Tema — contexto, ambiente, "substância"
+- Proposta — tática, condução, "esqueleto"
+
+## simplicidade-deve-ser-o-foco-das-filosofias
+
+*12/08/2023*
+
+Realmente é a simplicidade que deve ser o foco das filosofias…
+
+Tanto em relação às leis quanto à comunicação/expressão…
+
+## falamos-ao-outro-o-que-queremos-reforcar
+
+*12/08/2023*
+
+Falamos pro outro aquilo que queremos reforçar para nós mesmos. Quando a situação envolve algo que está muito consolidado pra gente, às vezes não tentamos explicar para outra pessoa. Talvez nos sintamos desafiados a falar de uma maneira mais simples.
+
+Então, mesmo que estejamos evoluindo, buscaremos falar de maneira mais simples.
+
+## a-materia-precisa-chegar-la
+
+*12/08/2023*
+
+Apesar de eu sentir e saber muita coisa, apesar de não existir o passado nem o futuro, a matéria precisa chegar lá…
+
+Preciso viver o que tenho que viver para chegar lá… então é necessário perder o medo, parar de lutar contra e aceitar a transformação em nós mesmos.
+
+## cultura-e-feita-por-quem-vive
+
+*14/08/2023*
+
+Cultura é feita por quem vive.
+
+*17/08/2023*
+
+A cultura é viva.
+
+## os-seres-mais-evoluidos-estao-em-outra-frequencia
+
+*15/08/2023*
+
+Os seres que evoluíram estão em outra frequência.
+
+*17/08/2023*
+
+Os seres mais evoluídos não estão visíveis aos humanos.
+
+Evolutivamente, não conseguimos causar impacto neles. Assim como bactérias ou formigas (aparentemente) não enxergam os humanos como seres maiores.
+
+Não se conectam com a gente…
+
+Assim como não nos conectamos com o que existe por aí…
+
+## responsabilidade-pela-nossa-especie
+
+*15/08/2023*
+
+Nós temos responsabilidades sobre nossos contemporâneos.
+
+*19/08/2023*
+
+Temos responsabilidade por nossa espécie.
+
+## humanos-como-criancas-distraidas
+
+*15/08/2023*
+
+Os humanos atuais são feito crianças distraídas, sem entender nada sobre a vida…
+
+Identificados com o corpo atual, sem sentir ou se conectar.
+
+## o-humano-extinguiu-quem-ocupava-papeis-semelhantes
+
+*15/08/2023*
+
+Nós estamos no topo da cadeia alimentar, comunicativa, organizacional.
+
+Durante o nosso processo evolutivo, extinguimos os seres que poderiam ameaçar.
+
+Assim como o sol não suporta outro semelhante, o humano não conseguiu harmonizar com outros seres grandes que ocupassem papéis semelhantes.
+
+Realmente a harmonia evita o conflito, tende ao "monopólio".
+
+## a-cidade-concentra-pessoas-e-microideias
+
+*15/08/2023*
+
+Cidade = pessoas.
+Interior = silêncio.
+
+*11/09/2023*
+
+Cidade concentra pessoas.
+
+Microorganismos danosos ao ser humano possuem maiores chances de se reproduzir.
+
+Microideias danosas ao ser humano possuem maiores chances de se reproduzir.
+
+## filosofia-espiritualidade-cultura-arte-politica-ciencia-e-religiao
+
+*17/08/2023*
+
+Filosofia é feita por humanos para humanos. É a formatação e visualização de um conjunto de crenças.
+
+Espiritualidade é algo que existe e sentimos.
+
+Cultura são os hábitos e costumes humanos de quem vive, baseados nas crenças e contextos.
+
+Arte é a expressão do que sentimos através das ferramentas e culturas disponíveis. Destinada aos humanos.
+
+Política é o conjunto de diretrizes para que humanos vivam em harmonia e alcancemos nossos objetivos.
+
+Ciência é a observação humana da realidade (principalmente a matéria) para melhorar nossa qualidade de vida.
+
+Religião reúne cultura, política, filosofia em torno da espiritualidade.
+
+## preservar-as-sabedorias
+
+*17/08/2023*
+
+Devemos preservar as sabedorias. Os aprendizados sobre como lidar com a realidade e se conectar com aquilo que "não conseguimos ver".
+
+## problemas-de-comunicacao-transparencia-e-proposito
+
+*18/08/2023*
+
+Problema da comunicação.
+
+Problema da transparência.
+
+Problema do propósito.
+
+Problema secundário da complexidade.
+
+## nao-quero-nada-apenas-ser
+
+*19/08/2023*
+
+Não quero nada, apenas ser.
+
+Viver a vida que devo viver.
+
+Potencializar a experiência humana.
+
+Aumentar energia (conatus).
+
+Evolução é um fato.
+
+Nadar em direção do fluxo natural da vida. Deslizar, entrar no ritmo.
+
+## unir-razao-e-espiritualidade
+
+*19/08/2023*
+
+O fato é que muita gente continua materialista.
+
+Então a missão é unir a razão e espiritualidade.
+
+Não devem andar em detrimento um do outro.
+
+Sim, devemos estar com o coração aberto a entender aquilo que não conseguimos tocar. Mas também não podemos fechar nossa racionalidade.
+
+Explorar o potencial humano é unir as duas áreas de sabedoria.
+
+## ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo
+
+*20/08/2023*
+
+Não existe ninguém isento.
+
+Se você tá vivo, está impactando a realidade de alguma maneira.
+
+Ou facilitamos o fluxo ou dificultamos.
+
+Resistir é inútil. O fluxo é muito maior e vai seguir o caminho que deve seguir, independente da gente…
+
+A cooperação é sobre a gente conseguir aumentar nossa energia…
+
+## drogas-alteram-a-percepcao-pela-materia
+
+*23/08/2023*
+
+Drogas são também um processo material.
+
+Alterar as percepções através de substâncias.
+
+## sexualidade-e-processo-espiritual
+
+*23/08/2023*
+
+Sexualidade é também um processo espiritual.
+
+Conhecer pessoas é uma maneira de identificar valores, checar por conexão.
+
+*03/09/2023*
+
+Sexualidade é um processo da espiritualidade.
+
+Pessoas não resolvidas sexualmente também não são resolvidas espiritualmente.
+
+Por isso que sexo é tão forte na sociedade material.
+
+Por isso tem tanta gente com vontades insaciáveis…
+
+## polaridades-yin-yang
+
+*25/08/2023*
+
+Yin — yang.
+
+Liberar energia — ser sensível para receber energia.
+
+Masculino — feminino.
+
+*25/08/2023*
+
+- Duro, mole
+- Forte, fraco
+- Bonito, feio
+- Rígido, flexível
+
+*25/08/2023*
+
+Difícil, fácil.
+
+## espirito-como-entender-as-energias
+
+*26/08/2023*
+
+Por espírito, as pessoas podem estar se referindo a entender as energias.
+
+A energia que um ser passa na alimentação.
+
+A energia materializada em visões ou fluxos que não entendemos considerando o nosso corpo atual.
+
+## olhar-o-fluxo-e-nao-a-fotografia
+
+*30/08/2023*
+
+O grande erro é olhar para o fluxo e observar apenas a "fotografia", esquecendo que tudo que vai também volta…
+
+Então as pessoas possuem preferência em um polo energético e vai ser natural equilibrar transitando por outro polo…
+
+Como se fosse importante (ou necessário) para todo mundo viver, refletir, servir, contemplar, liberar energia, receber energia, falar, ouvir…
+
+E quando temos uma sociedade focada na fotografia, em que uns vão se dedicar apenas em uma posição, causa essa incompletude, insatisfação coletiva.
+
+## o-ciclo-da-descoberta-ao-novo-paradigma
+
+*03/09/2023*
+
+Ciclo:
+
+- Problema → notar algo errado
+- Confusão/conflito → questionar
+- Curiosidade → investigar
+- Descoberta → prazer
+- Acostumar/curtir → viver no novo paradigma
+- Tédio → perceber que não responde tudo
+- Tensão/Problema → início do ciclo
+
+## a-visao-de-mundo-como-gatilho-da-evolucao
+
+*03/09/2023*
+
+Talvez o gatilho da evolução seja a visão de mundo.
+
+Quando um ser começa a encarar a realidade um pouco diferente (baseado nas suas percepções), é o que faz se diferenciar de outros seres semelhantes.
+
+Talvez o humano esteja evoluindo em (pelo menos) duas espécies. Homo sapiens civilizado e Homo sapiens selvagem.
+
+Não percebemos a extinção em um processo que não entendemos. Não sentimos falta daquilo que não conhecemos.
+
+## inspiracao-atravessa-a-logica-e-chega-na-emocao
+
+*06/09/2023*
+
+A inspiração ocorre quando a mensagem atravessa a barreira da lógica e chega na emoção.
+
+## a-pergunta-acontece-na-camada-interior
+
+*06/09/2023*
+
+Existe um momento em que a pergunta acontece na camada interior.
+
+## o-ser-e-energia-manifestada-em-materia-e-ideia
+
+*06/09/2023*
+
+O Ser (consciência) manifestado através da matéria + espírito.
+
+*07/09/2023*
+
+O Ser é a energia, o grande espírito.
+
+Se manifesta através da matéria e nas ideias (não-matéria)…
+
+Tudo que se coloca energia se transforma.
+
+## a-mitose-e-energia-suficiente-numa-ideia
+
+*07/09/2023*
+
+A mitose acontece quando uma matéria tem energia suficiente pra transformar uma ideia em outra matéria.
+
+*02/10/2023*
+
+A mitose, ou qualquer outro processo de "surgimento" de matéria, acontece quando é depositada energia suficiente em uma ideia.
+
+O sistema de fato é limitado, mas não significa que não pode haver maior valor/eficiência.
+
+A limitação do sistema não é estritamente material.
+
+## so-podemos-direcionar-a-atencao
+
+*07/09/2023*
+
+Nós somos a consciência, fonte de energia, e tudo que colocamos atenção, aumenta energia.
+
+Única coisa que podemos fazer é direcionar atenção.
+
+## introducao-do-livro-quem-sou-eu
+
+*07/09/2023*
+
+Introdução — escrevo para os meus. Se quer saber sobre o que é esse livro: superação, paz, equilíbrio, saúde, vida, natureza. Vejo a necessidade de explorar esse assunto, pois tenho vivido e percebo a prevalência de dúvidas, problemas, angústias, problemas globais — são problemas pra quem? O que é um problema? Todas essas perguntas são respondidas através do questionamento mais importante de todos: quem sou eu? Minha proposta é simplificar e sei que isso vai causar muito incômodo, pois aqueles que se identificam com as formas não querem ser reduzidos. É instintivo querer proteger nossa existência…
+
+- Quem sou eu? — Identificação com as formas (matérias, ideias).
+- O que são formas? — Mitos, anteparo para as mensagens, possui limitações.
+- O que são mensagens? — Expressão, essência. Toda matéria possui uma substância. Toda ideia possui um sentido. Outros seres transmitem mensagem?
+- Paradigma atual — ter consciência da realidade.
+- Aceitar a realidade — sensibilidade para ouvir os sinais. Humildade para reconhecer.
+- Nossa consciência é nossa energia (interno) — superar, adaptar, evoluir, fazer diferente.
+- Energia em flow para ser quem nós somos (externo) — gratidão, leveza, conexão, presença.
+- Mudança de paradigma — foco no Ser, abstrair formas. A vida não é fácil. Fácil é não viver.
+- Revisar nossas crenças — simplificar para colaborar, harmonia entre os seres.
+
+## abstracao-fala-com-abstracao-estado-com-familia
+
+*07/09/2023*
+
+Abstração fala com abstração.
+
+Estado fala com família.
+
+A colaboração tá na comunidade.
+
+## estado-paga-as-familias-e-estima-custos-de-manutencao
+
+*07/09/2023*
+
+Estado possui fontes de receita.
+
+Estado paga um valor pra família poder se manter e fazer o que quiser.
+
+Família pode trabalhar para ajudar a aumentar a receita.
+
+Estado empreende para aumentar as receitas.
+
+Custos de manutenção — comida + saúde básica + infraestrutura básica.
+
+Estado estima custos de manutenção.
+
+Família paga sua contribuição.
+
+Família pode trabalhar para ajudar a reduzir os custos de manutenção.
+
+## empreender-e-gerar-valor-com-organizacao-e-sabedorias
+
+*07/09/2023*
+
+Empreender é gerar valor a partir de organização e sabedorias.
+
+Gerar valor é transformar recurso em solução de problemas.
+
+Problema é uma situação indesejada.
+
+## saude-mental-e-equilibrio-entre-energia-das-ideias-e-do-corpo
+
+*07/09/2023*
+
+Saúde mental se debilita quando sobrecarregamos a energia das ideias.
+
+Precisamos equilibrar com a energia do corpo.
+
+## toda-analogia-e-um-mito
+
+*07/09/2023*
+
+O sol é um mito.
+
+Dizemos que nasce e se põe.
+
+Está quente ou está forte…
+
+Bateu um sol, hoje é dia de sol.
+
+O sol é o mesmo… o que muda é o nosso ambiente e as nossas percepções.
+
+Sabemos da realidade, mas facilita dizer "errado"… todos entendemos…
+
+Toda analogia é um mito.
+
+*07/09/2023*
+
+Toda analogia (e todo mito) se constitui de ideia e de matéria.
+
+## ajudar-e-diferente-de-tentar-melhorar
+
+*07/09/2023*
+
+A diferença entre tentar melhorar e ajudar é a aceitação…
+
+Quando aceitamos, não queremos mudar.
+
+Quando aceitamos, conseguimos olhar de verdade, ter empatia e só então conseguir ajudar.
+
+Quando não aceitamos, projetamos nossas idealizações.
+
+Outra diferença é a intenção.
+
+Ajudar se refere a servir.
+
+Tentar melhorar se refere a achar que não está bom o suficiente.
+
+## energia-demais-desequilibra
+
+*09/09/2023*
+
+Energia demais desequilibra.
+
+Uma ideia com muita energia fica pesada demais.
+
+Uma matéria com energia demais se transforma.
+
+É necessário utilizar, deixar fluir, liberar…
+
+## cura-e-acolhimento-e-aceitar-a-realidade
+
+*12/09/2023*
+
+Cura é o acolhimento.
+
+É fazer sentido.
+
+É perdoar.
+
+É aceitar a realidade.
+
+É entrar na grande harmonia.
+
+É aumentar energia.
+
+*28/09/2023*
+
+Cura é aceitar a realidade como ela é — sem querer mudar nada.
+
+## oficina-de-filosofia
+
+*12/09/2023*
+
+Oficina de filosofia:
+
+- Organizar os conteúdos
+- Separar os materiais
+- Preparar os temas
+- Priorizar tópicos
+- Conectar os assuntos
+
+## estado-e-familia
+
+*14/09/2023*
+
+Estado quer indivíduos, o que entra em detrimento da família.
+
+Uma família pode ser autoritária, o que pode enclausurar os novos seres.
+
+As rápidas mudanças do mundo fizeram novos seres sentirem novas ideias e não se identificarem com as suas famílias — o que fortaleceu os Estados.
+
+Os Estados não conseguem dar suporte a todos os indivíduos com eficiência — a não ser que seja um Estado pequeno ou que os indivíduos tenham muitas similaridades (principalmente nas crenças). A diferença de Estado e Família diminui nesses casos.
+
+Estado e Família ideais servem sem contraponto. Estado real tem dificuldade porque necessita de alto grau de colaboração, e é difícil manter alto grau de colaboração sem ter bases firmes, crenças semelhantes ou senso de justiça.
+
+As pessoas precisam de apoio para criar filhos e cuidar de idosos e enfermos. O Estado tenta prover, mas apenas as Famílias conseguem.
+
+Uma Família não precisa ter o mesmo sangue. Mas confiança, crenças, pertencimento.
+
+*14/09/2023*
+
+O papel do Estado não é alcançar os indivíduos mais distantes, mas dar condições que as famílias consigam alcançar com eficiência.
+
+*14/09/2023*
+
+Famílias ou grupos.
+
+## escalas-de-familia-a-nacao-e-de-individuo-a-pais
+
+*14/09/2023*
+
+Família → comunidade → sociedade → povo → nação.
+
+Indivíduo → bairro → município → estado → país.
+
+## indice-de-forca-de-trabalho-disponivel
+
+*14/09/2023*
+
+(Um índice que identifica a força de trabalho disponível e seja base para uma tentativa de equilíbrio.)
+
+## incentivos-para-nao-depender-de-sistemas-ruins
+
+*14/09/2023*
+
+Incentivos para as pessoas fazerem o que precisam fazer, se separar, estudar e não ficarem dependentes de sistemas ruins.
+
+## processos-seletivos-por-cartas
+
+*14/09/2023*
+
+Os processos seletivos de um emprego ou de uma faculdade seriam cartas para checar o quanto a pessoa quer, está pronta para se dedicar, as motivações, maturidades e autoconhecimento.
+
+## plano-da-universidade-indigena
+
+*14/09/2023*
+
+Grupo de filosofia → grupo de estudos aplicados → grupo de experimentações → grupo de ensino.
+
+**Filosofia:**
+
+Progressivamente estabelecer bases para que tenhamos definições comuns e pleno conhecimento dos contextos que nos envolvem, para resolvermos problemas relevantes.
+
+- Identificar dores.
+- Identificar causas raízes.
+- Definir um problema relevante.
+- Ter clareza de por que é um problema.
+- Propor soluções.
+- Ter clareza de quais benefícios e malefícios de cada solução.
+
+Possíveis tópicos:
+
+- Por que estudar filosofia?
+- Por que fazer uma universidade indígena?
+- Quem somos nós?
+- O que é uma aldeia?
+- O que é um território indígena?
+- O que é pobreza?
+- O que é política?
+- O que é Estado?
+- O que é Família?
+- O que é ciência?
+- O que é uma cidade?
+- Por que as pessoas preferem morar na cidade?
+- Qual estilo de vida queremos ter?
+- O que queremos mudar?
+- Quais questões culturais queremos preservar?
+- Quais questões culturais não são importantes?
+- O que é religião?
+- O que é cultura?
+
+**Estudos aplicados:**
+
+- Construção sustentável
+- Agrofloresta
+- Tecnologia da informação
+- Política interna
+- Política nawá
+- Energia material
+- Reparação ambiental
+- Medicina/saúde
+- Etnoturismo
+- Teologia
+
+Filosofia e ciência demandam mentes livres e descansadas.
+
+Precisamos de fontes de renda para que as pessoas se dediquem a estudar.
+
+O sucesso da universidade depende do envolvimento das pessoas.
+
+## consciencia-e-quem-somos
+
+*17/09/2023*
+
+Consciência é quem somos. A presença, a atenção. É a inteligência, é a conexão, o entendimento.
+
+## mapear-mundo-material-e-mundo-das-ideias
+
+*17/09/2023*
+
+Fazer mapeamento/relacionamento/ligação de mundo material e mundo das ideias.
+
+O que significa as coisas aqui/com as palavras e sentidos que colocamos.
+
+E os significados paralelos no mundo das ideias.
+
+## todas-as-visoes-honestas-estao-certas-em-parte
+
+*18/09/2023*
+
+Todos os filósofos e visões do mundo estão certas, desde que sejam honestas.
+
+Apenas contam uma parte da história com uma parte da linguagem, considerando uma parte das percepções.
+
+## perfeccionismo-na-coerencia
+
+*23/09/2023*
+
+Perfeccionismo na coerência é sobre garantir que as ideias — criadas por humanos — estão sólidas o suficiente para que sua aplicação não seja circunstancial. Assim pode ser duradouro e escalável.
+
+As construções materiais humanas precisam de planejamento, estabilidade e sustentabilidade.
+
+As construções ideais humanas também precisam de planejamento, estabilidade e sustentabilidade.
+
+## a-revolucao-vira-quando-as-ideias-estiverem-maduras
+
+*27/09/2023*
+
+A visão que eu tive foi uma recordação… de que a história não é percebida por quem vive…
+
+Me lembrei de um contexto que acho que faz muito sentido de ter em mente… No fim do século 19, várias ideias, filosofias, revoluções científicas e artísticas estavam rolando… mas não conseguiam quebrar as estruturas existentes…
+
+Com a Primeira Guerra Mundial, muitas das instituições tiveram que se readaptar ao novo mundo, dando espaço e margem para uma nova maneira de se organizar…
+
+Mas ainda tava muito recente, e só depois da Segunda Guerra é que o mundo apareceu que tinha encontrado mais estabilidade que permitia o desenvolvimento e impulsionamento de muitas áreas de conhecimento.
+
+Sinto algo semelhante atualmente… A pandemia trouxe muita reflexão, mas ainda não estamos maduros… Vai ser necessário um novo evento de ordem global pra que as estruturas sejam de fato remodeladas…
+
+A janela de oportunidade é já ter propostas, projetos, comunidades, ideias preparadas e em amadurecimento…
+
+E nesse momento é que conseguiremos escalar.
+
+E esse evento pode ser algo natural como tsunami, pode ser a falência de uma empresa, pode ser o falecimento de alguém, pode ser o rompimento de uma parceria… qualquer coisa…
+
+Talvez, na verdade, a visão é que diariamente essas coisas acontecem e oportunidades surgem… mas uma revolução não acontece por falta de maturidade das ideias existentes…
+
+E essa maturidade vem a partir de um processo evolutivo… então todas as discussões anteriores e existentes estão contribuindo e fazendo parte da revolução…
+
+Conclusão: a revolução virá quando conseguirmos construir (planejar, elaborar e executar) um modelo que seja escalável, inclusivo e seja robusto/sólido o suficiente para se adaptar ao atual contexto, faça sentido para as pessoas e traga verdadeiro e real valor.
+
+## quando-a-expressao-vira-arte
+
+*27/09/2023*
+
+A expressão individual vira coletiva quando pessoas acreditam na mesma coisa e querem expressar o mesmo sentimento.
+
+A expressão se transforma em arte quando:
+
+- conseguimos atravessar a mensagem da limitação do tempo. Pessoas conseguem consumir a expressão em momentos diferentes.
+- quando uma ideia pode ser transmitida para mais pessoas. É escalável.
+- possui a intenção de transmitir uma mensagem/sentimento específica.
+
+Um passarinho faz arte?
+
+Por muitos séculos, a expressão artística se direcionava às experiências espirituais.
+
+No século 19, arte foi utilizada para transmitir mensagens intencionais.
+
+## individual-coletivo-razao-emocao
+
+*27/09/2023*
+
+- Individual + razão → desenvolvimento, contemplação
+- Coletivo + razão → mensagem, provocação
+- Individual + emoção → expressão, liberação
+- Coletivo + emoção → pertencimento, conexão
+
+## nao-querer-assumir-forma-para-nao-se-limitar
+
+*28/09/2023*
+
+Às vezes, nesse processo de entender quem realmente somos, não queremos assumir nenhuma forma porque não queremos nos limitar — mas criar todas as lindas possibilidades.
+
+## o-corpo-esta-onde-deve-estar
+
+*28/09/2023*
+
+Nossa experiência nesse espaço-tempo nos fez organizar nessa matéria que chamamos de nosso corpo.
+
+Nosso corpo não consegue estar em todos os lugares. E não precisamos. Única coisa a fazer é sentir o lugar que nosso corpo deve estar…
+
+## evolucao-e-um-fato-indiferente
+
+*28/09/2023*
+
+Evolução é um fato. É natural e orgânica. Porém indiferente, sem identificação ou moral.
+
+## consciencia-individual-e-coletiva-se-retroalimentam
+
+*29/09/2023*
+
+A gente fala verdades para trazer consciência — individual e coletiva.
+
+A partir da consciência coletiva, a consciência individual se expande. Se retroalimentam.
+
+## competicao-e-cooperacao-andam-juntas
+
+*29/09/2023*
+
+Competição (conflito/concorrência) e cooperação andam juntas.
+
+Assim como a matéria existe para termos consciência do vazio, o conflito nos mostra a necessidade de adaptação.
+
+## ubuntu
+
+*29/09/2023*
+
+Ubuntu → eu sou o que sou por aquilo que todos somos.
+
+## entrar-no-ritmo-da-natureza-e-das-ideias
+
+*30/09/2023*
+
+A natureza material consegue se equilibrar. Como somos natureza, devemos entrar no ritmo.
+
+O mundo ideal/espiritual também tem suas estruturas, que deixam as maneiras de organização mais leves. Também devemos aprender a entrar no ritmo.
+
+## nao-existe-vacuo-as-pessoas-ocupam-espacos
+
+*30/09/2023*
+
+Não existe vácuo… a necessidade faz as coisas se reorganizarem.
+
+Apesar de poder assumir infinitas formas, as personalidades humanas possuem alguns espectros limitados e, de acordo com as necessidades, as pessoas vão ocupando alguns espaços…
+
+Esses espaços ocupados possuem padrões que possivelmente são as maneiras invisíveis/espirituais/ideias que estamos entrando no fluxo/ritmo que seja orgânico/harmônico/saudável/sustentável…
+
+## so-existe-o-presente-considerar-o-futuro
+
+*30/09/2023*
+
+Só existe o presente.
+
+Porém, aprendemos a considerar o passado.
+
+Para equilibrar, devemos aprender a considerar o futuro.
+
+Consideramos o passado através de registros históricos. Considerar o futuro é através de visão progressiva.
+
+## o-oposto-do-medo-e-o-amor
+
+*01/10/2023*
+
+O oposto de medo é amor.
+
+Entrar na camada espiritual sem a intenção de (ou estar em um ambiente que permita) amar causa medo.
+
+O amor cura.
+
+O medo paralisa.
+
+## profissionalismo-e-pessoalidade
+
+*01/10/2023*
+
+Profissionalização é o processo de tornar as interações e metodologias impessoais.
+
+Existe um valor em utilizar um método impessoal, pois economiza energia. Utilização de políticas e diretrizes facilita a tomada de decisões.
+
+O profissionalismo prevalece porque é mais eficiente que a pessoalidade.
+
+Mas a necessidade de trabalhar torna o processo de profissionalização presente inclusive na pessoalidade.
+
+A profissionalização da pessoalidade é que afasta as pessoas de se conectar uns com os outros. Olhamos as situações como "ocorrências", pessoas como "sujeitos" e ações como "diretrizes".
+
+Pessoalidade é o que gera pertencimento.
+
+Precisamos ser profissionais quando não sabemos como lidar com determinado contexto. E isso acontece principalmente quando não sabemos o que queremos, o que somos e qual nossa intenção.
+
+Viver com presença e com intenção é o que traz eficiência pra pessoalidade. É o que empodera a pessoa para utilizar conscientemente o profissionalismo sem perder a pessoalidade.
+
+## input-processamento-output
+
+*01/10/2023*
+
+Eu vejo com clareza esses três blocos:
+
+Input → processamento → output.
+
+Precisamos respeitar essas 3 fases.
+
+Se nossos outputs não nos aproximam de quem queremos ser, significa que existe algum desequilíbrio em algum desses passos anteriores.
+
+## o-chamado-e-coletivo
+
+*01/10/2023*
+
+O chamado está ligado à humanidade.
+
+Individualmente, nós iremos morrer… coletivamente, precisamos evoluir.
+
+## tres-atos-reunir-mudar-paradigma-agir
+
+*01/10/2023*
+
+- Ato 1: reunir
+- Ato 2: mudança de paradigma
+- Ato 3: ação
+
+## o-argumento-irresistivel
+
+*02/10/2023*
+
+O argumento irresistível é o que tem equilíbrio material e espiritual.
+
+Precisa ter bases sólidas, pois os desdobramentos/aplicações possuirão formas e, consequentemente, fragilidades.
+
+## comunicacao-e-transformar-sentimento-em-mensagem
+
+*03/10/2023*
+
+Método.
+
+O que é comunicação? — Transformar sentimento em mensagem.
+
+Transformação tem base no nosso repertório, cosmovisão.
+
+Toda transformação pode ter falhas.
+
+Existem transformações mais eficientes e menos eficientes.
+
+O que faz uma comunicação ser eficiente? (Mais palavras? Mais carregado de informações? Mais livre? Mais profundo?)
+
+Equilíbrio entre matéria e ideia. Aproxima-se da maior quantidade de verdades possível.
+
+Para nossa comunicação atingir outras pessoas, devemos buscar um equilíbrio entre o concreto e o abstrato.
+
+## a-consciencia-so-se-expande
+
+*03/10/2023*
+
+Consciência não diminui, só se expande.
+
+É a partir da expansão da consciência que conseguimos enxergar novas ideias/visões, sejam materiais ou espirituais.
+
+## o-desconforto-expande-a-consciencia
+
+*03/10/2023*
+
+O conforto, o prazer, o equilíbrio nos faz não precisar expandir consciência, colocar atenção.
+
+A falta de conforto nos demanda expandir consciência.
+
+Esse é o eterno ciclo... Estamos vivendo como seres que possuem desconforto para conseguirmos ter consciência e buscarmos o equilíbrio/prazer.
+
+Quando alcançarmos esse equilíbrio, não perceberemos que estamos em equilíbrio. E qualquer movimentação nos trará consciência.
+
+A consciência nos faz extrapolar/imaginar/lembrar de um entorno com maior equilíbrio. Assim que criamos nossos valores.
+
+*03/10/2023*
+
+Quem está em estado confortável acaba entrando em algum grau de equilíbrio, nem que seja temporário…
+
+Mas quando esse conforto e equilíbrio não são sustentáveis, cedo ou tarde serão despertados.
+
+*03/10/2023*
+
+Quem está em desconforto acaba estando mais presente…
+
+Quem está em conforto acaba se identificando com o processo.
+
+## viver-e-ir-do-desequilibrio-ao-equilibrio
+
+*03/10/2023*
+
+Não existe o estático. O equilíbrio pode estar em uma frequência muito baixa, mas nunca irá chegar a ficar completamente parado. Existe uma tendência de se desequilibrar.
+
+Esse desequilíbrio se assemelha ao caos, quando comparado ao estado anterior (que é de equilíbrio).
+
+Viver é o processo de experienciar o desequilíbrio e alcançar o equilíbrio.
+
+Vida é a manifestação da energia eterna durante o processo de conscientização (buscar equilíbrio).
+
+Uma onda no mar vai movimentando (estressando e acomodando) as partículas.
+
+A vida desperta e adormece os seres para que a energia seja propagada.
+
+## o-trabalho-remoto-exige-confianca-e-clareza
+
+*04/10/2023*
+
+Existe dificuldade no trabalho remoto porque o trabalho sustentável demanda:
+
+- confiança
+- objetivos claros
+- demandas claras
+- capacidade de se conectar
+- pertencimento
+- discussão de ideias
+- comunicação clara
+- expectativas claras
+
+## por-que-estamos-em-momento-critico
+
+*04/10/2023*
+
+Estamos em momento crítico porque:
+
+- destruição do meio ambiente
+- sobrecarga mental — muita informação
+- depressão — não aceitar a realidade apesar dos avanços tecnológicos
+- falta de espaço para evoluir — substituição do trabalho, falta de sentido, desempoderamento
+- manipulação genética — seleção artificial
+- energia — estamos demandando mais do que o planeta pode oferecer
+
+## escola-e-lugar-de-amor
+
+*05/10/2023*
+
+Escola é lugar de amor.
+
+## despertos-encontram-despertos
+
+*05/10/2023*
+
+Quando despertamos, encontramos aqueles que estão acordados…
+
+Quando temos consciência, encontramos aqueles que estão transitando na mesma frequência.
+
+## o-corpo-resiste-a-despertar
+
+*07/10/2023*
+
+Nosso corpo não quer despertar porque dormir é prazeroso.
+
+Estar inconsciente dá prazer ao corpo.
+
+Por isso às vezes existe uma resistência em estar consciente.
+
+## heisenberg-posicao-ou-movimento
+
+*07/10/2023*
+
+Heisenberg.
+
+Posição x movimento.
+
+Quando olhamos pra onda ou pra nuvem pelo avião, vemos eles estáticos ou parados.
+
+O mesmo acontece quando olhamos pra nossas células.
+
+Com a mesma quantidade de informação, ou temos precisão da posição ou da velocidade.
+
+O mesmo acontece com a existência… Nosso tempo aqui é só uma pequena fração da eternidade. Então, no fim das contas, vamos retornar às matérias e ideias sem formas.
+
+## autoconhecimento-e-cura-liberam-os-canais
+
+*09/10/2023*
+
+Quando estamos crescendo em abundância, vamos fluindo energia.
+
+Autoconhecimento e cura são os processos de liberar os canais que estão fechados e que são necessários pra fluir energia.
+
+## arquetipos-das-deusas
+
+*09/10/2023*
+
+- Ártemis — natureza/autossuficiência
+- Afrodite — relação entre as pessoas
+- Atena — razão
+- Perséfone — deusa ocultista
+- Hera — deusa da família / ambição
+
+## tudo-parece-aleatorio-sem-a-contagem
+
+*12/10/2023*
+
+Tudo parece aleatório quando a gente não tem consciência da contagem.
+
+## quem-ve-em-duas-dimensoes-nao-nota-profundidade
+
+*12/10/2023*
+
+Quem vê o mundo em duas dimensões não consegue notar diferenças de profundidade.
+
+## linguagem-contem-racionalizacao
+
+*12/10/2023*
+
+Linguagem contém racionalização.
+
+## chamar-atencao-e-se-diferenciar-da-harmonia
+
+*12/10/2023*
+
+Chamar atenção é apenas fazer um movimento que se diferencie da harmonia.
+
+## escola-solta-ideias-como-arvore-solta-sementes
+
+*12/10/2023*
+
+Árvore solta milhões de sementes.
+
+Escola solta milhões de ideias.
+
+## o-centro-nao-existe-sem-a-circunferencia
+
+*16/10/2023*
+
+O centro não existe sem a circunferência.
+
+## aceitar-a-realidade-e-assinar-o-contrato-da-vida
+
+*18/10/2023*
+
+Aceitar a realidade é assinar o contrato da vida.
+
+## orar-e-comunhao-com-o-eu-divino
+
+*20/10/2023*
+
+Orar é entrar em comunhão com o nosso eu divino.
+
+A comunhão acontece pela união, não ter barreiras. Não vem pela fala ou repetição.
+
+## meus-maiores-estudos-vieram-do-silencio
+
+*20/10/2023*
+
+Até esse momento, meus maiores estudos não vieram dos livros que li, dos vídeos que vi ou das instituições que frequentei…
+
+Mas no silêncio que habitei, nos portais invisíveis que acessei…
+
+Enquanto estiver vivo, minhas palavras e métodos provavelmente serão aperfeiçoados.
+
+Mas a mensagem continuará a mesma…
+
+## nao-existe-selecao-nao-natural
+
+*21/10/2023*
+
+Não existe seleção não-natural. Não existe nada que não seja natureza. Somos humanos usando nossas ferramentas e habilidades para sobreviver e adaptar. Isso é semelhante a um pássaro nascer com um bico mais fino que permite comer mais variedade de alimentos.
+
+Claro que no caso do pássaro a adaptação aparentemente foi aleatória e com motivação genética e biológica.
+
+E isso é julgamento nosso porque, como não sabemos como se dá esse processo evolutivo, chamamos de aleatoriedade.
+
+Humanos são seres diferentes, pois não nascem prontos para a vida. Grande parte de seu desenvolvimento se dá depois do nascimento. O uso da mente é parte de nossas características fundamentais. Precisamos das relações para sobreviver. Então nossa adaptação não se dá unicamente na matéria, pois nos desenvolvemos também através do espírito.
+
+Distinguimos espécies diferentes de animais através de nossas observações. Mas primeiro eles se diferenciaram, depois encontramos as diferenças. O mesmo acontece com os humanos. Provavelmente estejamos em diferentes subespécies lutando pela nossa sobrevivência. Passamos genes materiais, mas também ideias culturais para nossos filhos.
+
+Qualquer comportamento que temos como sociedade reflete na nossa evolução, e não necessariamente o que acontece no curto prazo significa maior adaptação em médio ou longo prazo.
+
+Assim como espécies diferentes de animais não se relacionam, também temos grandes grupos que não se relacionam entre humanos.
+
+Não conseguimos ver diferença entre espécies quando são sutis as diferenças. Precisamos desenvolver técnicas e ferramentas pra ter clareza. A mesma coisa acontece com as ciências humanas e sociais, que vão identificando novos padrões que permitem identificar quais são os "genes ideais" mais adaptados.
+
+## da-revolucao-ao-novo-paradigma
+
+*21/10/2023*
+
+Revolução/paz/equilíbrio → nova política → nova economia → nova ciência → novo paradigma.
+
+## comunidade-autossustentavel-e-modelo-escalavel
+
+*21/10/2023*
+
+Construir uma comunidade autossustentável com pessoas que sabem cuidar de si.
+
+A maneira que nos organizamos, comunicamos, somos transparentes é como agregaremos valor e conseguiremos escalar.
+
+Organizar um modelo de negócio escalável.
+
+Empreender, causar impacto na sociedade, movimentar dinheiro, inspirar e mostrar que é possível fazer diferente.
+
+Estudar e estabelecer bases para fazer planejamentos estratégicos.
+
+## carne-racionalidade-veganismo-sensibilidade
+
+*23/10/2023*
+
+Neurônios no músculo — comer carne — absorver energia — racionalidade — veganismo — sensibilidade.
+
+## como-nos-unimos-no-mundo-espiritual-e-no-material
+
+*26/10/2023*
+
+No mundo espiritual, nos unimos através das ideias/valores/visões/abstrações.
+
+No mundo material, nos unimos através das ações/palavras/gestos/presença.
+
+## interpretacoes-complementares-da-inteligencia-suprema
+
+*26/10/2023*
+
+Todos somos capazes para interpretar todos os lados da inteligência suprema, mas cada um vai desenvolvendo habilidades que torna mais fácil alguns lados específicos.
+
+Quanto mais pessoas, mais interpretações. Precisamos aprender a cooperar e harmonizar essas visões. Entender que elas são complementares e que não existe uma visão perfeita.
+
+Precisamos de formas materiais para falar de ideias espirituais.
+
+## dia-energia-material-noite-energia-espiritual
+
+*26/10/2023*
+
+De dia, existe muita energia material sendo propagada. Calor e luz vindo do sol acaba despertando todos os outros seres.
+
+De noite, tem menos energia vindo do sol. Nesse momento tem mais espaço para as energias espirituais.
+
+## na-cerimonia-os-despertos-acessam-portais-juntos
+
+*26/10/2023*
+
+Quando a energia espiritual está forte, como em uma cerimônia, a frequência está muito baixa. As pessoas que estão abertas/despertas se conectam e acessam portais juntos, mas quem está fechado/distraído acaba dormindo e acessa o portal sozinho.
+
+## colaboracao-e-evolucao
+
+*26/10/2023*
+
+Sozinhos, indivíduos vão ficar sem recursos ou sem saúde física/mental.
+
+Colaboração é evolução.
+
+## as-sabedorias-dos-povos
+
+*28/10/2023*
+
+As sabedorias dos povos:
+
+- pretos: corpo/música
+- branco: razão/comunicação
+- amarelo: energia/organização/meditação
+- vermelho: natureza
+
+Através desses caminhos, podemos nos conectar com o Ser.
+
+## pulsos-de-desafio-e-conforto
+
+*31/10/2023*
+
+Pulsos de alongamento e relaxamento.
+Desafio e conforto.
+
+Nossa mente não se desenvolve tão diferente de nosso corpo. Precisamos equilibrar, ser constantes e pacientes. Alternar estímulos.
+
+## uma-ideia-precisa-estar-firme-para-entrar
+
+*09/11/2023*
+
+Uma ideia precisa estar firme para conseguir entrar nas mentes. Não existe vácuo. As estruturas existentes não permitem ideias fracas… apenas não consegue se firmar.
+
+(O mesmo que na penetração material. Não existe algo meio firme. Ou está firme ou está mole.)
+
+## so-posso-dar-o-que-recebi
+
+*11/11/2023*
+
+Só posso dar o que recebi. Preciso me entregar e sentir mais a fundo o que recebo.
+
+*26/11/2023*
+
+Só posso dar aquilo que recebi.
+
+Preciso liberar energia para abrir espaço e ter sensibilidade para aceitar a energia que recebo.
+
+Estou o tempo todo recebendo energia. Mas quando estou preso no que acho que é meu, não consigo absorver as coisas boas ao meu redor.
+
+*07/12/2023*
+
+Só podemos recitar os mantras que ouvimos/recebemos.
+
+*14/12/2023*
+
+Só posso ajudar pessoas por caminhos que já trilhei.
+
+## musica-e-corpo-como-caminhos-de-energia
+
+*11/11/2023*
+
+1. Musicalidade/espiritualidade/entrega/transe — movimentar energia através da música — conduzir a energia do espaço.
+2. Consciência corporal/movimentação da energia do corpo — curar através da energia do meu corpo — experienciar canais de fluxo de energia.
+
+## estar-em-equilibrio-aqui-e-agora
+
+*11/11/2023*
+
+O futuro não existe… somente o aqui e agora.
+
+Meu objetivo é estar em equilíbrio, estar em perfeita harmonia. Aqui e agora. Não me falta nada, não preciso mudar nada…
+
+Só devo potencializar e me abrir para o que a vida me oferece.
+
+Ser humilde, entrar no jogo e testemunhar. Ouvir, participar, harmonizar. Estar atento aos sinais e agir quando a oportunidade estiver clara.
+
+## abrir-espaco-para-a-vida-se-auto-organizar
+
+*11/11/2023*
+
+Abrir espaço pra vida se auto-organizar…
+
+Relaxar para que o ambiente consiga relaxar também.
+
+## falta-tesao-energia-e-intencao
+
+*12/11/2023*
+
+O que falta para a sociedade comum é tesão, energia, intenção.
+
+## o-amor-comeca-pelo-proprio-corpo
+
+*13/11/2023*
+
+Só podemos amar se soubermos o que é o amor.
+
+Amor começa com o próprio corpo.
+
+## viver-no-meio-do-paradoxo
+
+*18/11/2023*
+
+Viver no meio do paradoxo.
+
+## liberar-os-pontos-de-energia
+
+*19/11/2023*
+
+Ajudar a liberar os pontos de energia.
+
+Equilíbrio de espírito e matéria.
+
+Começar pelo corpo energético, mas expandir aos corpos materiais, mentais e energéticos.
+
+Utilizar a respiração para concentrar a intenção. Canalizar nas pontas a força e a energia que se originam na base.
+
+Não duvidar do potencial de liberação.
+
+## mapear-crencas-como-codigo-genetico
+
+*27/11/2023*
+
+Talvez consigamos estruturar nossas crenças/cosmovisões assim como consigamos mapear o código genético.
+
+Ideias precisam de campo fértil pra florescer. Podem até se unir, podem até formar novos produtos, mas se possuem ligações fracas, tendem a definhar.
+
+## filhos-impulsionam-quem-sabe-viver
+
+*29/11/2023*
+
+Eu tenho resistência ao pensamento de que "a vida para quando se tem filhos"… Eu entendo e penso frontalmente oposto a isso… Claro que é fácil falar quando não tem filhos…
+
+Mas acho que a gente tem que fortalecer nossa rede/comunidade/relações, nos fortalecer individualmente com nossas crenças/hábitos/interesses para que um bebê adicione e agregue mais do que cause afastamento ou separação.
+
+Entendo que a gente tem que aprender a amar viver e curtir cada pequeno momento, então um filho se torna um impulsionador. Quando a gente está sempre anestesiado (seja por álcool, celular ou distrações), um filho se torna um fardo/trabalho.
+
+## unir-os-fragmentos-da-individualidade
+
+*02/12/2023*
+
+Um dos objetivos de nosso processo de autoconhecimento deve ser unir os fragmentos de nossa individualidade. Temos partes nossas que aparentemente são opostas/incoerentes, mas na verdade apenas não conseguimos conectar nossas partes. Então, quanto mais nos conhecemos, mais aceitamos e incluímos as mais diversas faces de nosso indivíduo.
+
+## eleger-guias-sem-se-identificar
+
+*02/12/2023*
+
+Não há certo e errado. Devemos aceitar que pessoas possuem processos e caminhos diferentes para as camadas espirituais.
+
+Dado isso, devemos eleger nossos guias. Confiar neles, mas ao mesmo tempo não se identificar. Escolher os caminhos que funcionam pra gente e não ter vergonha, mas, pelo contrário, ir aprofundando e se familiarizando com o processo, deixando-o cada vez mais natural.
+
+O desafio é não se identificar, para estar aberto caso não esteja mais fazendo sentido. Estar aberto a questionar e agregar novas ferramentas, mudar de estratégia ou abordagem sem vergonha ou culpa.
+
+Respeitar os caminhos das pessoas e não julgar superioridade sobre qual o caminho mais eficiente. Mas focar em encontrar os seus guias e em materializar os sonhos. Menos reflexões e mais ações.
+
+## prefacio-do-livro
+
+*10/12/2023*
+
+Prefácio — Centenas de decisões sucessivas precisaram acontecer para que esse livro esteja nesse momento em suas mãos. Isso pode ser uma grande obra do destino ou pode ser simplesmente uma sobreposição de probabilidades estatísticas.
+
+Qualquer uma das situações são possíveis, afinal é imensamente difícil diferenciar uma coincidência de uma mensagem vinda do "além".
+
+Sendo bem direto aqui, nosso corpo possui limitações em relação às percepções da realidade. Existe uma infinidade de raios passando em camadas ultravioletas ou infravermelhos que não conseguimos enxergar. Do mesmo jeito, existe uma infinidade de sons sendo transmitidos, mas que estão fora das frequências que conseguimos perceber. Mas isso não quer dizer que não existam sons ou não existam luzes, quer dizer apenas que não somos capazes de perceber. E é natural acharmos que não existe aquilo que não conhecemos ou ouvimos falar.
+
+Então minha provocação nessa primeira página (e que irei retomar algumas vezes durante o livro) é de que não podemos partir do princípio que temos absoluto conhecimento sobre a vida, mas devemos ser humildes para conseguir perceber a realidade como ela é.
+
+Considerando que a observação da matéria visível é uma interpretação incompleta da realidade, convido-os a respeitar as inteligências e sincronias que nos trouxeram pra esse exato momento.
+
+Ao mesmo tempo, também convido-os para não levar muito a sério todas as mensagens que nos cercam, para não nos distrairmos. São muitas informações, e quando focamos nelas perdemos a atenção sobre a verdadeira mensagem.
+
+Se essas palavras não fizeram sentido pra você e de alguma forma você se entediou ou encontrou um desconforto, convido-o a respeitar seu corpo (que é seu oráculo interno mais importante) e não continuar a leitura.
+
+Mas se você chegou até aqui e essa primeira reflexão lhe despertou curiosidade sobre o que irei aprofundar em seguida, é porque esse livro foi feito pra você.
+
+Eu começo o livro com um manifesto, que pode ser considerado um resumo da mensagem que me propus a manifestar. Os capítulos seguintes irão detalhar cada um dos versos do manifesto.
+
+## abundancia-e-escassez-em-equilibrio
+
+*30/12/2023*
+
+Existe abundância e existe escassez. Não devemos buscar uma mentalidade em detrimento de outra.
+
+O segredo é o equilíbrio, e só conseguimos isso quando vivemos harmonizando os elementos internos sem adicionar energias externas.
+
+## nao-consigo-te-escutar-energia-no-lugar-errado
+
+*30/12/2023*
+
+"Não consigo te escutar, tá dedicando energia para o lugar errado."
+
+## topicos-soltos-2023
+
+Mensagens que só nomeiam um tema, autor ou referência.
+
+- *17/07/2023* — Viver em comunidade.
+- *20/08/2023* — Simbiose.
+- *18/09/2023* — Homeostase.
+- *18/09/2023* — Criar novos valores.
+- *07/12/2023* — Tattva.
+- *07/12/2023* — Prakriti + Purusha.

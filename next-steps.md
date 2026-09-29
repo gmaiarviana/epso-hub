@@ -19,7 +19,7 @@ Vídeos de 2025 do canal Era pra ser Óbvio, registrados só como bruto:
   em movimento, o conatus, determinismo em camadas; a ordem dos áudios 1 e 2 é estimada.
 
 - **Grupo EPSO no WhatsApp** (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.raw.md`) —
-  em lotes por período; faltam 2023 e 2024–2026.
+  em lotes por período; falta 2024–2026.
 
 ## 2. Foco
 

@@ -45,6 +45,16 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 - Antes de propor, consultar [aprendizados-transcricao.md](aprendizados-transcricao.md) — padrões recorrentes de erro e termos-assinatura a preservar, que aceleram a validação. Registrar ali o que a sessão ensinar.
 - Ao final, listar as seções criadas com a primeira linha de cada, para o incorporador conferir os cortes.
 
+### Documento escrito
+
+Um documento bruto de `fontes/documentos/` também ganha camada limpa quando reúne ideias demais para contar por arquivo: o primeiro encaixe o daria como citado e esconderia o resto na [cobertura](#cobertura). Valem as regras acima, com estas diferenças:
+
+- O limpo fica ao lado do bruto, com o mesmo nome sem o `.raw` e metadados `tipo: documento-limpo` e `fonte-bruta`, sem `fonte-audio`.
+- Não há escada de escuta: as correções são de digitação, acentuação, abreviação de chat (por extenso, mantido o registro falado, como "pra") e grafia de nome próprio, validadas em lote como as de transcrição.
+- O que o bruto repete — rascunho reescrito — fica no limpo só na última versão; trecho de uma versão anterior que a última perdeu fica também. Linha de sistema e marca de formatação (separadores de post) saem.
+- Documento datado por trecho (notas, chat) leva a data de origem em itálico logo abaixo do título da seção. Mensagens de uma mesma ideia se juntam numa seção, cada trecho com sua data; mensagem que só nomeia um tema, autor ou referência, sem afirmar nada, vai para uma seção de tópicos soltos do período.
+- Documento grande passa a limpo em lotes, cada um validado antes do próximo.
+
 ## Entrada no roadmap
 
 Transcrição registrada sem camada limpa entra no tier **1. Passar a limpo** do [next-steps da raiz](../next-steps.md), para não ficar esquecida em `fontes/`. Passada a limpo, o que falta encaixar aparece na [cobertura](#cobertura); a transcrição só entra no tier **Encaixar** se houver nota a guardar (ver [roadmap](roadmap.md#fontes-na-fila)). A posição dentro do tier é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados.

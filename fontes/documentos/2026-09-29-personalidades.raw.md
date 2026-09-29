@@ -6,7 +6,7 @@ idioma: português
 genero: nota de reflexão
 corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
-escrito-em: sem data
+escrito-em: até 2022-11-08 (última modificação no Google Drive, pasta Arquivo > Reflexões)
 anonimizado: Nada anonimizado.
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em

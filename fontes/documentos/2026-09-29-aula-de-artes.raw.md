@@ -6,7 +6,7 @@ idioma: português
 genero: notas de aula
 corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
-escrito-em: sem data
+escrito-em: até 2023-08-03 (última modificação no Google Drive, pasta 2023 > Artes)
 anonimizado: Nada anonimizado.
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em

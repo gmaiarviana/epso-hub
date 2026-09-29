@@ -6,7 +6,7 @@ idioma: português
 genero: roteiro de apresentação musical
 corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
-escrito-em: sem data
+escrito-em: até 2023-07-31 (última modificação no Google Drive, pasta 2023 > Artes)
 anonimizado: >-
   Nada anonimizado: o nome no repertório é crédito público da música
   interpretada, não referência pessoal.

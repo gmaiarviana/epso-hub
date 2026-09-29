@@ -33,23 +33,13 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
      alguém de renda comum consegue copiar. A derivação para
      `instituicao/comunicacao/linha-editorial.md` fica para depois da validação.
 
-2. **Encaixar o que já foi falado sobre comunicação** — as falas estão reunidas em
-   [linha-editorial.md](instituicao/comunicacao/linha-editorial.md) e
-   [imagem.md](instituicao/comunicacao/imagem.md). Pendente:
-   - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`),
-     `#eixo-mercado` em `contexto/`: falar a verdade, que fecha e abre portas; constância;
-     ser visto além do que a própria empresa vê. O objetivo de ser recrutado já está na linha
-     editorial. Na mesma passada, o ponteiro `[[conteudo-como-aproximacao]]` de
-     `contexto/trabalho/README.md#abordagem` passa a apontar para `linha-editorial.md#objetivos`
-     e `#temas`;
-   - da mesma transcrição, `#plataforma-e-autoridade`: talvez superar a linguagem não passe
-     por IA, e seja preciso repensar o modelo. Não é da comunicação: ao fechar este item,
-     volta ao item da transcrição em Encaixar, junto dos portais.
-3. **Se sobrar tempo** — enriquecem, não travam:
+2. **Se sobrar tempo** — enriquecem, não travam:
    - transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`):
      de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;
      `#regua-coletiva` parece o eixo de universalidade de `filosofia/hipoteses/precisao.md` —
-     checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`.
+     checar fusão. De `#feitos-para-aprender` ao fim já está em `filosofia/hipoteses/linguagem.md`,
+     menos `#excesso-de-racionalidade` (excesso de racionalidade, escassez de conexão com a
+     natureza, a mentalidade civilizatória que domina) — destino a decidir.
      Dá lastro aos temas corpo e saúde mental;
    - pesquisa em IA eficiente (`## 3` da narrativa v8) → checar fusão com
      `filosofia/hipoteses/inteligencia-potencializada.md` e `estudo/academia/foco.md`;
@@ -64,9 +54,9 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 ## 4. Encaixar
 
 - **Transcrição 2026-09-23** (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
-  — portais da plataforma nas iniciativas. Eixos, `#eixo-mercado` e
-  `#plataforma-e-autoridade` estão no Foco. `#portal-linguagem` já está em
-  `filosofia/hipoteses/linguagem.md`.
+  — portais da plataforma nas iniciativas. De `#plataforma-e-autoridade`, falta só a dúvida
+  sobre o modelo: talvez superar a linguagem não passe por IA, e seja preciso repensá-lo.
+  `#portal-linguagem` já está em `filosofia/hipoteses/linguagem.md`.
 - **Transcrição 2026-07-04 — quatro iniciativas** (`fontes/transcricoes/2026-07-04-quatro-iniciativas.md`)
   — continua a fala da estratégia profissional. As quatro iniciativas →
   `instituicao/iniciativas/`, junto com duas seções da estratégia profissional
@@ -132,7 +122,10 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
-  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
+  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). As ideias abaixo vêm de
+  cinco deles; `blocos-de-curriculo`, `carta-ex-lider`, `carta-rede-de-pais` e
+  `emails-avaliacao-e-pdi` ainda não foram lidos em busca de ideias — triagem antes de
+  fechar o item. Encaixe por conversa,
   uma ideia por sessão, nesta ordem (a virada de carreira e a liderança desde cedo já estão em `contexto/`):
   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os

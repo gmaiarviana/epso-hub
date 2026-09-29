@@ -47,6 +47,8 @@ Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador r
 - Ao encerrar, atualiza-se o next-steps do(s) bloco(s) tocado(s); a fila da raiz muda quando
   entra, sai ou muda de tier/ordem um item; `meta/next-steps.md` muda quando a sessão deixa
   pendência de processo.
+- Quando a sessão muda um critério de onde algo mora, revisam-se os destinos da fila que
+  dependem dele — o destino regride de nível como qualquer informação cuja dependência mudou.
 - Antes de acrescentar um item ou regra: se se reconstrói em segundos quando for preciso, ou
   se o caso não vai se repetir, não se registra. Na dúvida, oferece-se em uma linha em vez de
   aplicar.

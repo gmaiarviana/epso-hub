@@ -11,10 +11,6 @@ Em ordem, do que mais pesa na decisão ao que menos; a sessão pode acontecer de
 ou do 2.
 
 1. **Imagem e pilares de autoridade**
-   - **Carta ao ex-líder** (`fontes/documentos/2026-09-27-carta-ex-lider.raw.md`) →
-     `contexto/trajetoria.md`: o burnout, o diagnóstico de TDAH, o autoconhecimento como motor
-     do amadurecimento profissional; o que aprendeu com a liderança (ser sucinto, antecipar a
-     audiência, finalizar, dar visibilidade só ao relevante).
    - **Triagem** de `blocos-de-curriculo`, `emails-avaliacao-e-pdi` e `carta-rede-de-pais`
      (`fontes/documentos/`) em busca de ideias; o que render entra no item Corpus, em
      Encaixar, e o documento sem ideia nova é declarado assim lá.
@@ -159,11 +155,11 @@ ou do 2.
 
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
-  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). A carta ao ex-líder, a
-  triagem de `blocos-de-curriculo`, `emails-avaliacao-e-pdi` e `carta-rede-de-pais`, e as
-  ideias Valor, Não somos nosso trabalho e O gargalo é de organização estão no Foco. Encaixe
-  por conversa, uma ideia por sessão, nesta ordem (a virada de carreira e a liderança desde
-  cedo já estão em `contexto/`):
+  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). A triagem de
+  `blocos-de-curriculo`, `emails-avaliacao-e-pdi` e `carta-rede-de-pais`, e as ideias Valor,
+  Não somos nosso trabalho e O gargalo é de organização estão no Foco. Encaixe por conversa,
+  uma ideia por sessão, nesta ordem (a virada de carreira, a liderança desde cedo e a carta ao
+  ex-líder já estão em `contexto/`):
   - **Condições para colaborar** — humildade (cada um vê a verdade de um ângulo), liberdade de
     compartilhar, comunicar sem ruído, organizar os pontos de vista em harmonia
     (`cartas-de-candidatura`, última carta) → checar fusão com `filosofia/cosmovisao/a-tese.md`.
@@ -174,6 +170,8 @@ ou do 2.
     crenças → junto da transcrição 2026-06-26 sobre crenças; mensagens semelhantes, formas
     diferentes → `filosofia/hipoteses/ancora.md`; limites da percepção →
     `filosofia/hipoteses/precisao.md`; corpo e emoções → checar contra a transcrição 2026-09-24.
+  - **O que acredito de uma liderança** — ambiente seguro para feedback, transparência,
+    estímulo à excelência (`carta-ex-lider`) → pede a fala do incorporador; destino a decidir.
   - **Parábola da Deusa Looa** (`ensaio-nao-somos-nosso-trabalho`) → comunicação; espera os
     temas da linha editorial.
   - **Quatro tipos de benchmarking** (`notas-comite-ia`) → pede explicação do incorporador;

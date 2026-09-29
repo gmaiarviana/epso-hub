@@ -159,8 +159,11 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   um em ação?* → [núcleo](instituicao/nucleo/README.md#postura)
 - **Matéria local, informação global.** A comida vem de perto e as ideias circulam pelo mundo:
   você disse "é por aí". *Onde essa linha passa — um remédio, um celular, uma semente são
-  matéria ou informação? O que o EPSO faz quando algo precisa vir de longe?* →
-  [núcleo](instituicao/nucleo/README.md#objetivos), manifesto
+  matéria ou informação? O que o EPSO faz quando algo precisa vir de longe?* Em julho você já
+  tinha dito que a distribuição de ideias pode ser global desde que não seja violenta, seja
+  inclusiva e respeite os contextos locais. *Essa condição ainda é sua — entra no
+  núcleo junto da frase?* → [núcleo](instituicao/nucleo/README.md#objetivos), manifesto. Fonte:
+  `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#ideias-globais-materia-local`
 - **Perguntas curtas.** Ajuda opcional para o núcleo: princípios inegociáveis, o que o EPSO não
   é, e respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos
   quando alguém não contribui?". → [núcleo](instituicao/nucleo/README.md)

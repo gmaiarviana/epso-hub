@@ -27,8 +27,9 @@ A frente de [trabalho](trabalho/README.md), nesta ordem:
    `fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`.
    Insumos ainda na fonte: os diferenciais (`## 7` da narrativa v8,
    `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`). Pergunta a responder: quais
-   competências da narrativa (`## 5`) viram pilares de autoridade — a organização do
-   pensamento e a análise baseada em evidência são candidatas naturais.
+   competências da narrativa (`## 5`) dão lastro a quais pilares de autoridade — o pilar é
+   aquilo em que se quer ser referência ([imagem](../instituicao/comunicacao/imagem.md#insumos-em-outros-lugares));
+   a organização do pensamento e a análise baseada em evidência são lastros naturais.
 2. **Aprofundar o radar de casos** — os casos já estão em
    [radar-casos.md](trabalho/radar-casos.md); o incorporador estuda cada um. Pendências
    marcadas nos casos: fontes acadêmicas citadas e ainda não lidas; atividade atual não

@@ -11,13 +11,12 @@ Em ordem, do que mais pesa na decisão ao que menos; a sessão pode acontecer de
 ou do 2.
 
 1. **Imagem e pilares de autoridade**
-   - **Diferenciais** (`## 7` de `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`) —
-     resumo em português para o briefing da sessão. Não se encaixa: fica no documento
-     externo, por decisão; é insumo da pergunta dos pilares
-     ([contexto/next-steps.md](contexto/next-steps.md#trabalho)).
-   - **O gargalo é de organização, não técnico** (`relato-tpm-programa`, `notas-comite-ia`) →
-     caso anonimizado para `filosofia/hipoteses/linguagem.md`; sustenta o pilar candidato
-     organização do pensamento.
+   - **Diferenciais e evidência** — resumo em português, para o briefing da sessão, dos
+     diferenciais (`## 7` de `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`) e da
+     evidência de cada pilar de competência (`## 5` e `## 6`), com `relato-tpm-programa` e
+     `notas-comite-ia` como casos do Pillar 3 (organização do pensamento). Não se encaixa:
+     fica no documento externo, por decisão; é o lastro dos pilares de autoridade
+     ([imagem](instituicao/comunicacao/imagem.md#insumos-em-outros-lugares)).
 2. **Lastro de saúde mental e autoconhecimento** — o primeiro tema, a primeira
    mensagem-chave candidata e dois segmentos de público da
    [linha editorial](instituicao/comunicacao/linha-editorial.md).
@@ -153,7 +152,8 @@ ou do 2.
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
   [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). As ideias Valor, Não
-  somos nosso trabalho e O gargalo é de organização estão no Foco. `blocos-de-curriculo` não
+  somos nosso trabalho estão no Foco; O gargalo é de organização entra como evidência no
+  item Diferenciais do Foco, sem encaixe. `blocos-de-curriculo` não
   tem ideia nova: é detalhe de carreira, do documento externo. Encaixe por conversa, uma ideia
   por sessão, nesta ordem (a virada de carreira, a liderança desde cedo e a carta ao ex-líder
   já estão em `contexto/`):

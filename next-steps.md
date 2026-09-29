@@ -122,7 +122,10 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
-  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). Encaixe por conversa,
+  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). As ideias abaixo vêm de
+  cinco deles; `blocos-de-curriculo`, `carta-ex-lider`, `carta-rede-de-pais` e
+  `emails-avaliacao-e-pdi` ainda não foram lidos em busca de ideias — triagem antes de
+  fechar o item. Encaixe por conversa,
   uma ideia por sessão, nesta ordem (a virada de carreira e a liderança desde cedo já estão em `contexto/`):
   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os

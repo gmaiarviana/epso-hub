@@ -20,6 +20,8 @@ já escolhe palavras, e a escolha já é um recorte, uma leitura situada. O obse
 observação: repertório, biologia e contexto compõem cada expressão da ideia. A âncora é o centro
 que essas leituras compartilham e excede cada uma delas.
 
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#banco-mesa-e-madeira-identidade-por-uso-e-zoom`.
+
 ## Camadas de stress
 
 O que se registra são leituras em camadas de stress crescente. Uma leitura de baixo stress carrega
@@ -43,11 +45,14 @@ A âncora é o ponto de retorno quando nenhum contexto puxa — a madeira quando
 banco. Ela é a leitura de menor stress: sobrevive a sentar, apoiar, comparar com metal. Banco e
 madeira são projeções da mesma âncora sob usos diferentes, uma ideia só vista de dois ângulos.
 
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#banco-mesa-e-madeira-identidade-por-uso-e-zoom`.
+
 ## Consequências (em aberto)
 
 - Duas expressões são a mesma ideia quando compartilham âncora, ainda que as palavras difiram. O
   significado é o invariante; as palavras vestem esse invariante. É a base da curadoria do acervo
-  (ver [curadoria do acervo](../../meta/estrutura/curadoria.md)).
+  (ver [curadoria do acervo](../../meta/estrutura/curadoria.md)). Fonte:
+  `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#palavra-e-ideia-relação-de-baixa-fidelidade`.
 - A âncora é revisável: um contexto novo quebra o invariante e obriga a reancorar. A âncora
   vale para os contextos já testados, aberta ao próximo que a desafie.
 - O trabalho de registrar uma ideia é destilar sua leitura de menor stress e guardar as

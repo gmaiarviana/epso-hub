@@ -32,6 +32,8 @@ ideias que nos tocam.
 Essa fronteira delimita o estudo: a arquitetura das ideias entra; a genealogia
 completa fica fora.
 
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#o-que-me-interessa-é-a-arquitetura-não-a-genealogia`.
+
 A outra borda é a matéria. O interesse vai o mais longe possível dela, rumo ao que não
 é matéria — mas sem filosofar em campos afastados do contexto, da realidade e das
 capacidades de quem estuda. O estudo fica no equilíbrio entre o prático e o abstrato.

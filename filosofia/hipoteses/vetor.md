@@ -9,6 +9,8 @@ direção e se propaga, como as outras forças que atravessam o mundo sem serem 
 matéria que movem. A [âncora](ancora.md) já trata a ideia como direção; esta é a
 camada abaixo, que diz por quê.
 
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#ideia-é-vetor`.
+
 ## A família
 
 O vetor da ideia pertence a uma família. Neste instante atravessam o espaço raios
@@ -18,6 +20,8 @@ A força que une as partículas — que faz as moléculas quererem continuar jun
 que em algumas leituras se chama antimatéria ou espírito — é dessa mesma família.
 A ideia entra aí: mais um vetor entre os que unem e movem a matéria sem se
 reduzirem a ela.
+
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#a-família-de-vetores`.
 
 Isto conversa com a espinha não dual da [tese](../cosmovisao/a-tese.md): matéria e
 ideia, físico e abstrato, em equilíbrio — a matéria não é tudo o que há.
@@ -34,12 +38,17 @@ O que se vê é a manifestação e a manipulação desses eventos — a matéria
 vestiu para atravessar de uma mente a outra. A palavra é uma dessas roupas, não a
 ideia (ver [âncora](ancora.md): o significado é o invariante, as palavras o vestem).
 
+Fontes: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#o-vetor-veste-a-matéria-para-se-propagar`,
+`#palavra-e-ideia-relação-de-baixa-fidelidade`.
+
 ## A ideia evolui
 
 O vetor da ideia não é estático. A ideia evolui e busca o caminho mais eficiente;
 por isso se veste na matéria para se reproduzir. Tratada assim, a ideia é algo que
 sofre seleção e se propaga — não um objeto inerte que apenas guardamos, mas um vetor
 que procura se transmitir.
+
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#o-vetor-veste-a-matéria-para-se-propagar`.
 
 ## O observador entra na observação
 
@@ -50,6 +59,8 @@ toda âncora já é ela mesma uma leitura. Não há acesso ao vetor puro, sem ro
 leituras de menor e maior stress. O trabalho do acervo é mitigar esse viés, não
 eliminá-lo — camadas de baixo stress servem de referência para organizar e rastrear
 as de alto stress.
+
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#banco-mesa-e-madeira-identidade-por-uso-e-zoom`.
 
 ## Consequências (em aberto)
 

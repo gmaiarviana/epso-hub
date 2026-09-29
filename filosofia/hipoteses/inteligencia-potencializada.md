@@ -12,10 +12,18 @@ contexto, sem nos deixar preguiçosos.
 da mente, a matemática processou fora dela, e o próximo passo processa o volume que
 demandaria energia demais do nosso cérebro, ou do nosso cérebro coletivo.
 
-O que me move vem também do que vejo nos modelos de hoje: são treinados com a internet
-inteira, tendem a se concentrar em poucas grandes empresas e replicam as limitações da
-comunicação humana (ver [linguagem](linguagem.md#onde-a-comunicação-falha)). Não quero só
-otimizar modelos; quero impulsionar a comunicação entre as pessoas.
+O que me move vem também do que vejo nos modelos de hoje. Não é a qualidade: eles são bons, e
+estão ficando cada vez maiores. É para onde isso leva:
+
+- **Centralização.** Modelos desse tamanho só cabem em poucas empresas, e a elas entregamos
+  muito poder e muitos dados. Precisamos descentralizar.
+- **Delegação demais.** De tão poderosos, fazem por nós o que precisaríamos exercitar: a
+  criatividade, a abstração, a construção do raciocínio.
+- **Energia.** Gastamos muita para sustentá-los.
+
+E replicam as limitações da comunicação humana (ver
+[linguagem](linguagem.md#onde-a-comunicação-falha)). Não quero só otimizar modelos; quero
+impulsionar a comunicação entre as pessoas.
 
 Fontes, referenciadas abaixo por rótulo e `#secao`:
 
@@ -24,9 +32,12 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
 - **[7/7]** `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md`
 - **[conversa]** `fontes/conversas/2026-09-25-linguagem-e-ecocidades.md`
+- **[29/9]** `fontes/conversas/2026-09-29-a-critica-a-ia-atual.md`
+- **[narrativa]** `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`
 
 Fonte do argumento: [22/9]`#inteligencia-potencializada`; [24/9]`#tecnologias-da-informacao`;
-[conversa]`#inteligência-potencializada-é-um-conceito-por-si-só`.
+[conversa]`#inteligência-potencializada-é-um-conceito-por-si-só`;
+[29/9]`#não-é-a-qualidade-é-para-onde-leva`; [narrativa] (`## 3. Career Vision`).
 
 ## Previsível, não caixa-preta
 
@@ -57,6 +68,13 @@ Fonte: [22/9]`#inteligencia-potencializada`.
 Em aberto: os agentes do próprio sistema poderiam se comunicar por conceitos, não por texto,
 e cada um trabalhar num degrau do espectro do material ao abstrato (ver
 [linguagem](linguagem.md#dois-eixos-elaboração-e-espectro)).
+
+Isso já funciona na prática: um pedido grande, que tenta fazer tudo de uma vez, sai pior do
+que o mesmo trabalho dividido em etapas pequenas, cada uma com uma tarefa só. O desafio é
+descobrir as etapas — o caminho que o pensamento percorre para processar uma ideia. Quanto
+melhor descrito esse caminho, melhor o sistema.
+
+Fonte: [narrativa] (`## 5`, Pillar 5, princípio 4).
 
 ## Conceitos, não tokens
 

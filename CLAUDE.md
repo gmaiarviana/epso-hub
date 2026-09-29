@@ -83,7 +83,9 @@ O trabalho acontece em dois papéis.
 - **Planejador** (Claude em conversa): discute, pesquisa, analisa, aponta riscos e produz o prompt de edição — arquivo alvo, mudança exata, trecho a inserir ou alterar.
 - **Executor** (Claude Code): recebe o prompt e edita o arquivo direto no repositório.
 
-O incorporador revisa entre os dois papéis, mantendo clareza do que muda antes de autorizar.
+O incorporador decide na conversa e revisa no PR. As decisões se discutem antes de executar; o
+texto final não passa por aprovação na conversa: o executor commita, faz o push da branch e abre
+o PR, e a revisão acontece lá.
 
 ## Encerramento de sessão
 

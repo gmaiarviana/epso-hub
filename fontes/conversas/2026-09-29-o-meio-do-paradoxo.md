@@ -32,3 +32,7 @@ momento como vejo a depressão.
 
 Espírito não é o mesmo que consciência. Espírito é a parte de mim que não tem forma. E chamo
 de espiritual tudo o que é energético e astral.
+
+## Alma e espírito são a mesma coisa
+
+Alma e espírito, a parte de mim sem forma, são a mesma coisa. Fica só "espírito".

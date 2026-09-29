@@ -55,7 +55,7 @@ reconheço em outras pessoas, dito nas palavras de agora.
    pergunta pelas variações. A razão também é um risco: sem compreender a razão dos outros
    seres, nos achamos superiores e os subjugamos — um dos motivos da devastação dos últimos
    séculos.
-3. **Alma** — ou espírito: tudo o que não é material. Atravessado o portão da mente, ela vira
+3. **Espírito** — a parte de mim que não tem forma. Atravessado o portão da mente, ela vira
    ferramenta: paramos de ter medo de pensar e de pensar o tempo todo. É a camada da conexão
    com aquilo em que cada um acredita — e quem diz não acreditar em nada acredita que não
    acredita. Crer é natural: nossas ações dependem do que cremos, não da razão ("sei que o
@@ -102,7 +102,7 @@ espiritual é tudo o que é energético e astral. A consciência está ligada à
 a mesma de [fluir](#fluir).
 
 Fonte: `fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#espirito-e-tudo-que-nao-e-material`,
-`#o-meio-do-paradoxo`, `#consciencia-e-atencao`, `#espirito-nao-e-consciencia`.
+`#o-meio-do-paradoxo`, `#consciencia-e-atencao`, `#espirito-nao-e-consciencia`, `#alma-e-espirito-sao-a-mesma-coisa`.
 
 ### A depressão na porta da mente
 
@@ -301,9 +301,9 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#destino-e-in
 - **O pulsar e o vetor.** A conexão de tudo com tudo conversa com a
   [família de vetores](../hipoteses/vetor.md#a-família) — forças que unem e movem a matéria sem
   se reduzirem a ela. A relação entre as duas imagens está por assentar.
-- **Os nomes das camadas.** Espírito e consciência são coisas diferentes. Falta assentar se
-  alma e espírito nomeiam a mesma camada, como o ser se relaciona com a consciência e onde a
-  atenção entra na trilha.
+- **Os nomes das camadas.** Alma e espírito são a mesma camada; espírito e consciência são
+  coisas diferentes. Falta assentar como o ser se relaciona com a consciência e onde a atenção
+  entra na trilha.
 - **As camadas e o pulsar.** A trilha de 2023 e a síntese de agora (pulsar, observador,
   atenção) contam a mesma resposta por caminhos diferentes; a forma de juntá-las está por
   encontrar, e passa pelo [meio do paradoxo](#o-meio-do-paradoxo).

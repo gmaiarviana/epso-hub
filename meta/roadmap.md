@@ -18,9 +18,8 @@ Processual e pontual não se misturam:
 
 Nesta ordem:
 
-1. **Passar a limpo** — transcrições sem camada limpa e os lotes que faltam de documento em
-   limpeza. Todo áudio passa por registrar → passar a limpo → encaixar
-   ([processo](processo-transcricoes.md)).
+1. **Passar a limpo** — transcrições sem camada limpa. Todo áudio passa por registrar →
+   passar a limpo → encaixar ([processo](processo-transcricoes.md)).
 2. **Foco** — um ou mais objetivos declarados pelo incorporador, cada um numa frase seguida da
    lista, em ordem, do que o destrava. Sobe para cá o que vier de qualquer outro tier e sai do
    tier de origem; de uma fonte que sobe só em parte, o resto fica onde estava. O agente propõe

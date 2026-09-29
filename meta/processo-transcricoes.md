@@ -53,7 +53,7 @@ Um documento bruto de `fontes/documentos/` também ganha camada limpa quando re�
 - Não há escada de escuta: as correções são de digitação, acentuação, abreviação de chat (por extenso, mantido o registro falado, como "pra") e grafia de nome próprio, validadas em lote como as de transcrição.
 - O que o bruto repete — rascunho reescrito — fica no limpo só na última versão; trecho de uma versão anterior que a última perdeu fica também. Linha de sistema e marca de formatação (separadores de post) saem.
 - Documento datado por trecho (notas, chat) leva a data de origem em itálico logo abaixo do título da seção. Mensagens de uma mesma ideia se juntam numa seção, cada trecho com sua data; mensagem que só nomeia um tema, autor ou referência, sem afirmar nada, vai para uma seção de tópicos soltos do período.
-- Documento grande passa a limpo em lotes, cada um validado antes do próximo; os lotes que faltam ficam no tier Passar a limpo do [next-steps da raiz](../next-steps.md).
+- Documento grande passa a limpo em lotes, cada um validado antes do próximo.
 
 ## Entrada no roadmap
 

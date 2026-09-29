@@ -73,6 +73,14 @@ Objeto, acima) aplicada antes das decisões.
 Nem todo conjunto tem ideia central. A frase é hipótese a validar com o incorporador; se ele
 não a reconhece, os objetos entram lado a lado, sem ordem nem fusão impostas.
 
+Quando o objeto é de identidade — propósito, crenças, objetivos, postura —, validar é
+dialogar, não conferir uma lista. Parte-se de perguntas abertas (o que quero fazer? por que
+faço isso? por que não fico em casa vendo televisão?), escuta-se, e só depois se confere o que
+da fala já está no arquivo, o que falta e o que sobra; as palavras se ajustam no fim. Frase
+redigida pelo agente e aprovada com um "ok" não é decisão — sai na voz do agente e o
+incorporador não se reconhece nela. Texto do agente conta como do incorporador quando nasce da
+fala dele e ele o reconhece.
+
 Casos: seis problemas epistemológicos soltos viraram um argumento só em
 [precisão](../../filosofia/hipoteses/precisao.md); cinco conceitos, outro em
 [quem sou eu](../../filosofia/cosmovisao/quem-sou-eu.md).

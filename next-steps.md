@@ -14,11 +14,8 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    objetivos. Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e
    respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando
    alguém não contribui?".
-   - **Por diálogo, não por lista.** Frase a frase, com "ok ou ajuste", o texto sai na voz do
-     agente e o incorporador não se reconhece; na fala livre sai a verdade dele. Partir de
-     perguntas abertas — o que eu quero fazer? por que faço isso? por que não fico em casa
-     vendo televisão? — e só depois conferir o que da fala já está no núcleo, o que falta e o
-     que sobra. As palavras se ajustam no fim.
+   - **Por diálogo, não por lista** — ver
+     [curadoria](meta/estrutura/curadoria.md#antes-de-curar-qual-argumento).
    - **Pistas da primeira tentativa** (falas em
      `fontes/conversas/2026-09-28-validacao-do-nucleo.md`): crenças são as bases que
      justificam decisões e direções — acham-se pela decisão, perguntando por quê (ver

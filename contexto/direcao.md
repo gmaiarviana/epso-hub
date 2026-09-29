@@ -41,7 +41,7 @@ Todas compõem uma jornada só — a jornada espiritual —, com focos diferente
 
 Fontes: `fontes/transcricoes/2026-07-04-estrategia-profissional.md#sequenciamento-iniciativas`,
 `#decisao-mestrado`; `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#construir-ferramentas`,
-`#jornada-com-intencao`.
+`#jornada-com-intencao`; `fontes/conversas/2026-09-27-estrategia-e-frentes.md#várias-frentes-de-trabalho`.
 
 ## O que busco no trabalho
 

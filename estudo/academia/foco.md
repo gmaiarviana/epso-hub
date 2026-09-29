@@ -48,7 +48,7 @@ Fonte: `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vid
 ## A escada da tese
 
 A tese não tem um ângulo só nem um título só. O doutorado é a junção: reúne as teses
-do EPSO em termos acadêmicos. Dele descem degraus:
+do EPSO em termos acadêmicos. Os degraus, do mais abstrato ao mais prático:
 
 - **Doutorado** — as perguntas e as ressignificações de crenças, que pedem embasamento.
 - **Mestrado** — camadas mais práticas, boas dissertações.

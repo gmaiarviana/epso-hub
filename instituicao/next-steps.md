@@ -19,13 +19,20 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    [next-steps da raiz](../next-steps.md). O que já foi dito está em
    [linha-editorial.md](comunicacao/linha-editorial.md#objetivos) e
    [imagem.md](comunicacao/imagem.md); o [núcleo](nucleo/README.md) validado é a base.
-   Perguntas a responder:
-   - dos objetivos brutos, qual é o principal; que cenário mostra cada um alcançado, e como
-     medir;
-   - aprender (conversa 2026-09-26) é objetivo ou jeito de fazer?
-   - como você quer ser visto — o personagem, com a identidade de filósofo como insumo;
-   - quais são os pilares de autoridade e como se diferenciam das temáticas;
-   - quais três a nove temáticas, a partir do universo em Temas.
+   Respostas já dadas, a levar à linha editorial e à imagem na sessão:
+   `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md` — sem objetivo principal
+   (sonho alto, começo pequeno; o agente propôs "abrir portas", os eixos como tipos de porta);
+   recrutamento sem pressa; aprender não é objetivo; um desafio de uma semana, acompanhando
+   alcance e interação, antes de pensar ciclo e cadência; filósofo fora da cara pública;
+   pilar de autoridade passa a se chamar posicionamento; temática é o pano de fundo; tipos de
+   conteúdo (autoridade, desejo, curiosidade, conexão) ressignificados para os objetivos.
+   Perguntas que restam:
+   - "abrir portas" como objetivo — confirmar;
+   - o que observar no desafio de uma semana, além de alcance e interação;
+   - a imagem — a liderança que pensa e faz, sem título fixo: como ela aparece no perfil;
+   - quais posicionamentos;
+   - quais três a nove temáticas, a partir do universo em Temas;
+   - os tipos de conteúdo: dimensão própria ou abordagem, e o que é "desejo" para os objetivos.
 5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens derivam do [núcleo](nucleo/README.md). Os traços de postura são praticamente o tom: complementar em vez de concorrer, sem falar *contra*, nem turista nem salvador, postar o que se vive, mostrar o que alguém de renda comum consegue copiar.
 6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:
    matéria local, informação global — a comida vem de perto, as ideias circulam pelo mundo.

@@ -21,11 +21,102 @@ respirar. Entre o início e o fim, a energia se abre, diverge, vira caos, até e
 equilíbrio, convergir e se encerrar; e então se inicia de novo. O que cada ser experiencia é
 a abertura de um ponto de vista, entre infinitos.
 
+O pulsar pede opostos em equilíbrio: a onda que se forma e quebra, nascer e morrer, inspirar e
+expirar, o sangue que entra pela veia e sai pela artéria, um puxando o outro. Até a percepção
+depende disso: só escuto os passarinhos se houver silêncio. Precisamos de vazios. Há quem chame
+esse vazio de Deus, a inteligência suprema, e a matéria é o que o completa — só vemos um por
+causa do outro.
+
 Reconhecer isso é expansão de consciência. Nascemos com a impressão de sermos só o corpo; à
 medida que evoluímos, as ilusões se desfazem e percebemos a conexão de tudo com tudo.
 
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#expansao-de-consciencia-e-conexao`,
-`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#vida-como-respiracao`.
+`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#vida-como-respiracao`,
+`fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#ciclos-e-opostos`.
+
+## As camadas de quem sou eu
+
+"Quem sou eu" é a pergunta que responde a todas as outras — com o que trabalhar, por que o céu
+é azul. Sem ela, as respostas são parciais. Ela não se responde de imediato: é uma trilha de
+autoconhecimento, em camadas. Cada camada é um portão, que atravessamos quando a anterior
+deixa de bastar. Não invento o caminho — várias filosofias falam dele; é o que trilhei e
+reconheço em outras pessoas, dito nas palavras de agora.
+
+1. **Corpo.** Em algum momento olhamos para o corpo e dizemos "isso sou eu". Daí vem querer
+   cuidar dele — e o medo de morrer. A identificação com a matéria nos deu um mérito:
+   aprendemos a manipulá-la, nos isolamos dos predadores, vivemos mais, multiplicamos a
+   população — a um custo muito alto. É onde está quase todo mundo, desde criança.
+2. **Mente.** Chega um momento em que a matéria não basta: temos tudo e ainda falta algo.
+   Percebemos que a mente não é o corpo e que fazemos abstrações — o país não é a terra, é um
+   conjunto de pessoas, culturas e leis, também abstrações. Daí nasce a filosofia. Só
+   percebemos o que precisamos: se o corpo não sentisse dor, nem saberíamos que temos corpo;
+   foi a necessidade de pensar, de nos organizar e de nos comunicar que nos fez descobrir a
+   mente. E o espaço amostral define a visão de mundo: quem só conhece gente parecida não se
+   pergunta pelas variações. A razão também é um risco: sem compreender a razão dos outros
+   seres, nos achamos superiores e os subjugamos — um dos motivos da devastação dos últimos
+   séculos.
+3. **Espírito** — a parte de mim que não tem forma. Atravessado o portão da mente, a mente vira
+   ferramenta: paramos de ter medo de pensar e de pensar o tempo todo. É a camada da conexão
+   com aquilo em que cada um acredita — e quem diz não acreditar em nada acredita que não
+   acredita. Crer é natural: nossas ações dependem do que cremos, não da razão ("sei que o
+   elevador não vai cair, mas tenho medo mesmo assim"). Mas parar aqui não se sustenta. A
+   conexão só se sente, não se explica pela razão, e sem base as gerações se perdem — o
+   partido, a empresa, a religião que nasceram com boa intenção. O que se repete dos antigos é
+   a conexão que tiveram, não a forma nem os hábitos, que eram do tempo deles. E ninguém fica
+   feliz sozinho: se estou bem e ao meu redor há fome, fico triste.
+4. **Ser.** Algo coordena tudo — os outros seres sentem o que não sentimos —, uma inteligência
+   que cada cultura nomeia de um jeito; os nomes não importam. A ciência explica o como, mas
+   não traz a conexão nem faz as pessoas tomarem boas decisões: as pessoas votam pela crença.
+   Esse ser é energia, e somos nós: quando respiramos, meditamos, entramos em flow, estamos
+   conectados a ele; o que aumenta a energia dos outros aumenta a nossa — o conatus de
+   Espinosa. Mas saber que somos o ser não responde como viver, nem o que são os outros.
+5. **Realidade: espírito e matéria.** Somos espírito e matéria juntos: identificar-se só com a
+   matéria não dá certo, e só com o espírito também não. A matéria vem de um processo que não
+   entendemos — sabemos como a célula se divide, não por quê — e pede respeito: por isso
+   cuidamos de nós. Aceitar a realidade é viver a vida que nos foi dada, inclusive as
+   injustiças. Não somos corpos humanos vivendo o espírito; somos espíritos vivendo corpos
+   humanos. Por isso eu sou você, e, se eu morrer, continuo aí, com todos os seres, em todas as
+   matérias. Se alguém tivesse me dado isso muito antes, eu teria sofrido menos.
+
+Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#quem-somos-nos`,
+`#consciencia-do-corpo`, `#ciencia-da-materia`, `#consciencia-da-mente`, `#perceber-por-necessidade`,
+`#razao-e-devastacao`, `#razao-dos-outros-seres`, `#consciencia-da-alma`, `#crencas`,
+`#atravessar-o-portao`, `#alma-nao-sustenta`, `#ninguem-feliz-sozinho`, `#algo-coordena-tudo`,
+`#energia`, `#consciencia-do-ser`, `#espirito-e-materia`, `#aceitar-a-realidade`, `#eu-sou-voce`;
+`fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#camadas-de-quem-sou-eu`.
+
+**Nível:** Estimado (média) — a trilha é de 2023; o incorporador a confirmou em 2026, e os
+nomes das camadas seguem em aberto.
+
+### O meio do paradoxo
+
+Somos espírito e matéria, e ao mesmo tempo não somos o corpo — temos um corpo. Não há
+contradição: é um paradoxo. Nos enxergamos separados e também somos tudo junto. Somos o corpo
+e não somos o corpo; temos um corpo e não temos, porque não temos nada. O equilíbrio é viver
+no meio do paradoxo — o que o núcleo já diz: paradoxos são
+[realidades sobrepostas](../../instituicao/nucleo/README.md#a-confirmar-no-rol).
+
+Espírito e consciência não são a mesma coisa. Espírito é a parte de mim que não tem forma, e
+espiritual é tudo o que é energético e astral. A consciência está ligada à
+[atenção](#sou-minha-atenção) — a capacidade de fazer diferente, sem comportamento repetitivo,
+a mesma de [fluir](#fluir).
+
+Fonte: `fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#espirito-e-tudo-que-nao-e-material`,
+`#o-meio-do-paradoxo`, `#consciencia-e-atencao`, `#espirito-nao-e-consciencia`, `#alma-e-espirito-sao-a-mesma-coisa`.
+
+### A depressão na porta da mente
+
+O sintoma depressivo — não o transtorno, que pede diagnóstico — é ver a porta da mente e não
+conseguir atravessá-la: "não vejo sentido, porque a matéria não me basta". Quem tem tudo de
+que precisa não é estimulado a amadurecer a mente; quando precisa, pode não ter as
+ferramentas, e às vezes foge — álcool, drogas, jogos, qualquer vício. É o lastro do tema saúde
+mental da [linha editorial](../../instituicao/comunicacao/linha-editorial.md#temas).
+
+Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#depressao`;
+`fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#a-depressao-a-atualizar`.
+
+**Nível:** Estimado (baixa) — leitura de 2023; o incorporador vai atualizar como vê a
+depressão.
 
 ## Sou o observador
 
@@ -210,3 +301,9 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#destino-e-in
 - **O pulsar e o vetor.** A conexão de tudo com tudo conversa com a
   [família de vetores](../hipoteses/vetor.md#a-família) — forças que unem e movem a matéria sem
   se reduzirem a ela. A relação entre as duas imagens está por assentar.
+- **Os nomes das camadas.** Alma e espírito são a mesma camada; espírito e consciência são
+  coisas diferentes. Falta assentar como o ser se relaciona com a consciência e onde a atenção
+  entra na trilha.
+- **As camadas e o pulsar.** A trilha de 2023 e a síntese de agora (pulsar, observador,
+  atenção) contam a mesma resposta por caminhos diferentes; a forma de juntá-las está por
+  encontrar, e passa pelo [meio do paradoxo](#o-meio-do-paradoxo).

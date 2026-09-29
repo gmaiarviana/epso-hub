@@ -31,7 +31,8 @@ Nesta ordem:
    (mover pastas, renomear blocos) entra aqui antes de começar, quebrada em etapas por esforço,
    uma por PR, as de baixo custo primeiro.
 4. **Encaixar** — notas sobre o encaixe de fontes: destino já decidido, fusão a checar,
-   ressalva. O que falta encaixar não mora aqui, mora na cobertura (ver
+   ressalva. O destino da nota não fecha a porta a um arquivo novo
+   ([curadoria](estrutura/curadoria.md#curar-as-decisões)). O que falta encaixar não mora aqui, mora na cobertura (ver
    [Fontes na fila](#fontes-na-fila)).
 5. **Backlog** — ações definidas e ainda não iniciadas, que não são melhoria do que já existe.
 6. **Melhorias** — ajustes no que já existe que mexem em mais de um bloco. Melhoria que

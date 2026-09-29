@@ -150,6 +150,16 @@ contexto entende. Cada cultura evolui a linguagem para o que faz sentido para el
 velocidade, frequência, peso. Unificar talvez não seja benéfico, nem gostoso. O desafio é uma
 comunicação ao mesmo tempo diversa e precisa.
 
+As línguas diferem, mas muitas vezes querem dizer coisas parecidas: temos os mesmos órgãos,
+as mesmas percepções, e o mundo que vemos não é tão diferente. A diferença também não é só de
+representação. Onde o português agrupa tons sob "azul", outra língua distingue cores que
+quem a fala vê com clareza — é inteligência, a naturalística, e há culturas mais inteligentes
+para certos assuntos. E a palavra precisa mais do que existir: precisa estar na ponta da
+língua. A que a pessoa não sabe é ruim; a que ela não usa é péssima. Língua usada por todo
+mundo é língua viva.
+
+Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#linguagem-viva`.
+
 A intuição da direção: estabelecer símbolos para uma escala — como dó-ré-mi, as cores do
 arco-íris —, de um lado mais material, do outro mais abstrato, e ao dialogar acertar o contexto
 dizendo de qual camada se fala. Uma linguagem mais precisa não para tirar o brilho, mas para

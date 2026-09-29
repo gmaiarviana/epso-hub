@@ -22,32 +22,13 @@ Vídeos de 2025 do canal Era pra ser Óbvio, registrados só como bruto:
 
 **Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco:
 é o item Objetivos e imagem de [instituicao/next-steps.md](instituicao/next-steps.md#comunicação).
-Em ordem, do que mais pesa na decisão ao que menos; a sessão pode acontecer depois do grupo 1
-ou do 2.
+Em ordem, do que mais pesa na decisão ao que menos. Parte das perguntas da sessão já teve
+resposta, ainda não levada à linha editorial:
+`fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md`. O resumo dos diferenciais e da
+evidência (narrativa v8, `relato-tpm-programa`, `notas-comite-ia`) não se guarda: o agente o
+refaz no briefing da sessão.
 
-1. **Imagem e pilares de autoridade**
-   - **Diferenciais e evidência** — resumo em português, para o briefing da sessão, dos
-     diferenciais (`## 7` de `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`) e da
-     evidência de cada pilar de competência (`## 5` e `## 6`), com `relato-tpm-programa` e
-     `notas-comite-ia` como casos do Pillar 3 (organização do pensamento). Não se encaixa:
-     fica no documento externo, por decisão; é o lastro dos pilares de autoridade
-     ([imagem](instituicao/comunicacao/imagem.md#insumos-em-outros-lugares)).
-2. **Lastro de saúde mental e autoconhecimento** — o primeiro tema, a primeira
-   mensagem-chave candidata e dois segmentos de público da
-   [linha editorial](instituicao/comunicacao/linha-editorial.md).
-   - Transcrição 2023-09-02, trilha do autoconhecimento
-     (`fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md`),
-     arquivo inteiro — cinco fases de consciência (corpo, mente, alma, ser, realidade como
-     espírito e matéria). As fases, `#espirito-e-materia` e `#ciclos-e-opostos` →
-     `filosofia/cosmovisao/quem-sou-eu.md`; checar fusão com `#tudo-pulsa` e `#fluir`.
-     `#depressao` e `#habitos-inconscientes` → lastro do tema saúde mental.
-     `#linguagem-viva` → `filosofia/hipoteses/linguagem.md`. `#crencas` e
-     `#algo-coordena-tudo` ("votam pela crença") → checar as crenças do EPSO
-     ([núcleo](instituicao/nucleo/README.md#crenças)). É fala de 2023: conferir o que o
-     pensamento atual já revisou.
-   - Transcrição 2026-06-26 (`fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`):
-     `#camadas-de-quem-sou-eu` → `filosofia/cosmovisao/quem-sou-eu.md`.
-3. **Lastro do tema trabalho**
+1. **Lastro do tema trabalho**
    - **Não somos nosso trabalho; trabalhar com o que acreditamos** (`ensaio-nao-somos-nosso-trabalho`,
      `cartas-de-candidatura`, `proposta-a-diretoria`) → checar fusão com
      `filosofia/hipoteses/trabalho.md`; "pessoas não querem trabalho, querem valor"
@@ -58,7 +39,7 @@ ou do 2.
      faceta.
    - Transcrição 2026-06-26 (`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md`):
      `#contribuicao-e-divisao-do-trabalho` → checar fusão com `filosofia/hipoteses/trabalho.md`.
-4. **Lastro de precisar de menos, economia e construção**
+2. **Lastro de precisar de menos, economia e construção**
    - Transcrições 2026-06-26 (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
      `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
      `…-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`): boas práticas
@@ -71,7 +52,7 @@ ou do 2.
    - Transcrição 2026-09-22 (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`):
      `#empreender-em-construcao-sustentavel` → `instituicao/iniciativas/`, junto com a
      construtora.
-5. **Chamados e a prática que o conteúdo mostra** — para onde vai quem se aproxima; o que se
+3. **Chamados e a prática que o conteúdo mostra** — para onde vai quem se aproxima; o que se
    faz, para postar o que se vive.
    - Transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
      → portais da plataforma em `instituicao/iniciativas/`: `#portal-open-source`,

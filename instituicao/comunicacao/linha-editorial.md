@@ -4,6 +4,29 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 
 ## Objetivos
 
+Matéria bruta para a sessão de objetivos: o que já foi dito, organizado por eixo, sem
+refinamento nem métrica. Os eixos vão determinar os objetivos.
+
+- **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho. Foco
+  importante.
+- **Rede de pessoas** — recrutar e inspirar pessoas: convidar a dialogar, colaborar, provocar,
+  se voluntariar, servir, trabalhar com o que acreditam. A rede de voluntários talvez seja
+  de uma etapa posterior, com o projeto mais maduro e mais disponibilidade, mas não precisa
+  ser sequencial: já dá para plantar a sementinha. A plataforma sonhada (os portais, o
+  aspecto profundo de superar a linguagem) mostra que se quer fomentar uma rede de pessoas,
+  e isso deve abrir portas.
+- **Pesquisa** — estar em contato com outros pesquisadores: entender o que está sendo
+  trabalhado, colaborar, aprender e contribuir. Perto de ser recrutado, mas mais específico.
+
+Também dito, na aproximação com organizações — a situar na sessão: estudar um tema, um
+artigo, um caso de uso, um repositório, e falar sobre isso pode chamar a atenção de uma
+instituição, mas principalmente faz aprender e dá visibilidade.
+
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,
+`#eixo-mercado`, `#eixo-rede-de-pessoas`, `#plataforma-e-autoridade`, `#eixo-pesquisa`;
+`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`;
+`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#ser-recrutado`.
+
 **Nível:** Em aberto.
 
 ## Chamados
@@ -17,6 +40,13 @@ Fonte: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto e respost
 nossos").
 
 **Nível:** Estimado (média).
+
+Para onde direcionar quem se aproxima: idealmente uma página onde a pessoa possa se inscrever,
+se voluntariar, doar e se envolver.
+
+Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-rede-de-pessoas`.
+
+**Nível:** Em aberto.
 
 ## Tom base
 
@@ -40,10 +70,13 @@ O conteúdo não é para todo mundo. Fala com:
 
 Objetivos por segmento e ajuste de linguagem seguem em aberto.
 
-Fontes: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto);
-`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#saude-mental-e-trabalho`.
+Idioma: português, para todos os segmentos.
 
-**Nível:** Estimado (média) — segmentos; o resto Em aberto.
+Fontes: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto);
+`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#saude-mental-e-trabalho`;
+`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#idioma`.
+
+**Nível:** Decidido — idioma; Estimado (média) — segmentos; o resto Em aberto.
 
 ## Referências
 
@@ -71,6 +104,17 @@ complexos.
 **Nível:** Estimado (baixa).
 
 ## Temas
+
+Dito, a elaborar:
+
+- definir algumas temáticas — talvez três, cinco, sete ou nove — e focar nelas;
+- conceitos primeiro; casos de sucesso (do [radar de casos](../../contexto/trabalho/radar-casos.md))
+  ilustram; sem ficar bajulando empresa.
+
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`;
+`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`.
+
+**Nível:** Em aberto.
 
 Temas para começar, sem ordem entre eles:
 
@@ -100,7 +144,35 @@ Inclui as perguntas de análise específicas de cada arco.
 
 **Nível:** Em aberto.
 
+## Canal
+
+Começa no LinkedIn. Depois, talvez uma newsletter de apoio.
+
+Fontes: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#canal`;
+`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`.
+
+**Nível:** Decidido — LinkedIn; Em aberto — newsletter.
+
+Crescimento orgânico, não viral: o alcance vem de quem se identifica e compartilha, não de
+correr atrás de tendência ou de conteúdo feito para viralizar.
+
+Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#organico`.
+
+**Nível:** Decidido.
+
 ## Calendário
+
+Dito, a elaborar:
+
+- planejar principalmente o começo, que é mais difícil;
+- antes do calendário de postagens, um índice de temas; antes dele, a construção de pilares de
+  autoridade. Pilares de autoridade e temáticas são coisas diferentes; a diferença está por
+  elaborar;
+- gravar áudios sobre as temáticas importantes.
+
+Fontes: `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
+`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`;
+`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#tematicas-e-pilares`.
 
 **Nível:** Em aberto.
 

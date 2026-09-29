@@ -14,21 +14,18 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
    replicável e não bolha) e os objetivos. Ajuda opcional, não obrigatória: princípios
    inegociáveis, o que o EPSO não é, e respostas curtas a "como decidimos?", "como lidamos com
    dinheiro?", "o que fazemos quando alguém não contribui?".
-2. **Encaixar o que já foi falado sobre comunicação:**
-   - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`):
-     os eixos como objetivos brutos em `instituicao/comunicacao/linha-editorial.md`, Em aberto,
-     sem decidir (temáticas e saúde mental já em Temas e Público); `#eixo-mercado` em
-     `contexto/`; de `#plataforma-e-autoridade`, a plataforma que engloba superar a linguagem
-     (a autoridade já está em `estudo/academia/jornada.md#por-que-a-academia`); ainda sem
-     casa: `#escopo-e-imagem` (a imagem define os temas em que se vira autoridade) e
-     `#linha-editorial-e-numero-de-tematicas` (três a nove temáticas; gravar áudios);
-   - transcrição 2026-09-22 `#lastro-conteudo-e-academia` (LinkedIn; pilares de autoridade →
-     índice de temas → calendário) → `instituicao/comunicacao/`;
-   - conversa 2026-09-26 (`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`)
-     → `linha-editorial.md`: aprender primeiro, visibilidade como consequência; conceitos
-     primeiro, casos do [radar de casos](contexto/trabalho/radar-casos.md) como ilustração,
-     sem bajular organizações; idioma inicial português; temas ecocidades, biorregionalismo,
-     agrofloresta, construção. O tom segue Em aberto.
+2. **Encaixar o que já foi falado sobre comunicação** — as falas estão reunidas em
+   [linha-editorial.md](instituicao/comunicacao/linha-editorial.md) e
+   [imagem.md](instituicao/comunicacao/imagem.md). Pendente:
+   - transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`),
+     `#eixo-mercado` em `contexto/`: falar a verdade, que fecha e abre portas; constância;
+     ser visto além do que a própria empresa vê. O objetivo de ser recrutado já está na linha
+     editorial. Na mesma passada, o ponteiro `[[conteudo-como-aproximacao]]` de
+     `contexto/trabalho/README.md#abordagem` passa a apontar para `linha-editorial.md#objetivos`
+     e `#temas`;
+   - da mesma transcrição, `#plataforma-e-autoridade`: talvez superar a linguagem não passe
+     por IA, e seja preciso repensar o modelo. Não é da comunicação: ao fechar este item,
+     volta ao item da transcrição em Encaixar, junto dos portais.
 3. **Se sobrar tempo** — enriquecem, não travam:
    - transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`):
      de `#sem-controle` a `#sem-manual-de-instrucoes`, em `filosofia/cosmovisao/quem-sou-eu.md`;

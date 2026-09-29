@@ -1,7 +1,7 @@
 # Jornada — estratégia de entrada acadêmica
 
 A sequência de entrada na academia e a distinção entre mestrado e doutorado. A substância do
-que estudar (o recorte) vive em [[foco]]; o conteúdo da tese vive em
+que estudar (o recorte) vive em [[foco]]; a tese do EPSO, base do doutorado, vive em
 `filosofia/cosmovisao/a-tese.md`. Aqui é o porquê e a logística: por onde se entra e em que
 ordem.
 

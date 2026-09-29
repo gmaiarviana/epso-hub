@@ -26,8 +26,8 @@ Muita coisa junta: organizar bem antes de correr.
 ### Recorte
 
 - **[academia/foco.md](academia/foco.md)** — o que quero estudar: já registra os candidatos de
-  recorte em aberto. O recorte fino espera a discussão em `filosofia/cosmovisao/a-tese.md`
-  (identidade × paradigma da informação) — decorre dela.
+  recorte em aberto. A tese de doutorado ainda não está definida: depende de estudo, e a
+  discussão identidade × paradigma da informação é um dos candidatos.
 - **Método-ponte** — identificar o campo/método existente que faz a ponte entre a ambição não
   dual e o que um departamento aceita (filosofia da mente, semiótica, teoria da informação,
   ciência cognitiva, sistemas/complexidade, epistemologias/ecologia de saberes). É o passo

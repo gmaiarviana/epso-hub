@@ -1,7 +1,8 @@
-# A tese
+# A tese do EPSO
 
-*Documento em construção. O centro da história já foi escolhido; o que fica em aberto é
-como a narrativa se organiza em volta dele e como o doutorado a recorta.*
+*O mapa das teses do EPSO: quais são e como se ligam. Tese é crença argumentada: a crença, em
+uma frase, mora no [núcleo](../../instituicao/nucleo/README.md#crenças); o argumento, no
+arquivo para onde o mapa aponta.*
 
 ## O centro: a pergunta *quem sou eu*
 
@@ -9,20 +10,23 @@ No centro está uma pergunta: **quem sou eu?** Todo comportamento nasce de uma c
 crença raiz é a que temos sobre nossa própria identidade. Hoje nos enxergamos como corpo
 separado, indivíduo isolado — e daí decorre o resto; a relação destrutiva com a natureza é
 apenas o sintoma mais visível. A jornada é de expansão: para dentro (corpo → mente →
-espírito → consciência) e para fora (indivíduo → espécie → planeta → cosmos), e no fundo sou
-minha atenção, o observador (ver [quem sou eu](quem-sou-eu.md)). Ressignificar isso reordena os hábitos por consequência: a
-regeneração não é o destino que persigo — é o que decorre de me reconhecer diferente.
+espírito → consciência) e para fora (indivíduo → espécie → planeta → cosmos). Ressignificar
+isso reordena os hábitos por consequência: a regeneração não é o destino que persigo — é o que
+decorre de me reconhecer diferente. A resposta que a cosmovisão dá à pergunta vive em
+[quem sou eu](quem-sou-eu.md).
 
 Escolhido sobre a outra abertura candidata ("reunir o que cada tradição captou"): *a questão
 de quem sou eu é muito mais forte do que reunir as tradições.*
 
+**Em aberto:** se *quem sou eu* é o centro do qual as outras teses decorrem, ou se são várias
+teses lado a lado, sem hierarquia ([elaborar](../../elaborar.md#a-tese)). O mapa abaixo segue a
+primeira leitura enquanto a pergunta não assenta.
+
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`,
-`fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`.
+`fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`,
+`fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
 
 ## O que decorre do centro
-
-Com a identidade como espinha, as outras peças entram como consequência, não como teses
-rivais:
 
 - **Reunir o que cada tradição captou** — cada cosmovisão captou um pedaço da resposta sobre
   quem somos, e nenhuma captou o todo; presumir que cada uma captou algo real e extrair o
@@ -37,28 +41,16 @@ rivais:
 - **A aplicação regenerativa** — mudar hábitos individuais e coletivos decorre de mudar o
   entendimento sobre nós mesmos.
 
+As outras teses, ainda em lapidação, vivem em [hipóteses](../hipoteses/).
+
 Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
 `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md`.
 
-## Discussão aberta: identidade × paradigma da informação
+## O que parte das teses
 
-O centro é a identidade, mas o doutorado descrito gravita fortemente sobre a tecnologia da
-informação e o novo paradigma. Falta clareza — a obter em novas iterações — sobre se o
-doutorado é *sobre a identidade* (com a tecnologia como consequência) ou *sobre como
-impulsionar o paradigma da informação para ser benéfico*, tendo a identidade como
-premissa-raiz. A resposta muda o recorte e o departamento (filosofia × ciência da informação
-× interdisciplinar).
+- **A tese de doutorado** — outra peça: a junção destas teses, em termos acadêmicos. Ainda não
+  definida; vive em [[foco]] (`estudo/academia/foco.md`).
+- **O manifesto** — as crenças organizadas numa narrativa para quem vai colaborar; deriva do
+  núcleo e vive na instituição.
 
-Um dado a favor do lado da informação: um novo paradigma de tecnologia da informação dá as
-bases colaborativas globais de que os sistemas de cidades sustentáveis precisam — *é assim que
-talvez eu conecto tudo*. Mas ainda sem saber por onde começar, nem em que área se encaixa.
-O argumento da informação vive em [linguagem](../hipoteses/linguagem.md).
-
-Fonte: `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#tecnologia-da-informacao-como-paradigma`,
-`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#como-tudo-se-conecta`.
-
-## Recorte acadêmico
-
-A distribuição desta tese entre mestrado e doutorado é estratégia de entrada, não conteúdo —
-vive em [[jornada]] (`estudo/academia/`). A substância do recorte — que fatia estudar — vive em [[foco]]
-(`estudo/academia/`), depois que a discussão acima assentar.
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.

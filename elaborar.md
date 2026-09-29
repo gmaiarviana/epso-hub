@@ -12,6 +12,12 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 
 ### A tese
 
+- **Um centro ou várias teses.** Em julho você escolheu *quem sou eu* como centro, sobre
+  "reunir o que cada tradição captou": *a questão de quem sou eu é muito mais forte*. Depois
+  disse que talvez o EPSO tenha mais de uma tese. Por exemplo: "a palavra fixa a mensagem"
+  (linguagem) decorre de *quem sou eu*, ou se sustenta sozinha, lado a lado com ela? *Há um
+  centro do qual as outras decorrem, ou várias teses sem hierarquia?* →
+  [a tese](filosofia/cosmovisao/a-tese.md)
 - **Reunir sem apagar.** Quem trabalha com saberes indígenas e tradicionais costuma desconfiar
   de projetos que querem "reunir cosmovisões": o medo é que a reunião apague diferenças, ou que
   um saber alheio só passe a valer quando traduzido para a linguagem de quem reúne — a

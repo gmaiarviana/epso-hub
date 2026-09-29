@@ -12,17 +12,6 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 
 ### A tese
 
-- **As crenças do EPSO.** Você separou duas teses: a do EPSO, feita das crenças em que ele se
-  baseia, e a do doutorado, que ainda depende de estudo. Crenças são as bases que justificam
-  as decisões e as direções — então se encontram pegando uma decisão e perguntando por quê.
-  Perguntado por que transparência, você disse: "gostamos de entender; somos materiais, mas
-  também informacionais; gostamos de coerência, de lastro, de concordar". E trouxe outra: "não
-  somos a nossa mente, temos uma mente" — aceitar que ela pode enganar e questionar sem
-  paralisar. Ainda não é certo que essas entram no rol; a lista do núcleo tem sua concordância,
-  mas a formulação não é sua. *Que decisões do EPSO você explicaria com um "porque
-  acreditamos que…"? O que se repete nas respostas, e qual crença sustenta as demais?* Fonte:
-  `fontes/conversas/2026-09-28-validacao-do-nucleo.md#crenças` →
-  [núcleo](instituicao/nucleo/README.md#crenças), [a tese](filosofia/cosmovisao/a-tese.md)
 - **Reunir sem apagar.** Quem trabalha com saberes indígenas e tradicionais costuma desconfiar
   de projetos que querem "reunir cosmovisões": o medo é que a reunião apague diferenças, ou que
   um saber alheio só passe a valer quando traduzido para a linguagem de quem reúne — a
@@ -151,3 +140,27 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   respostas, como um diálogo socrático — o que estas sessões fazem à mão; e representar como
   vetor a intenção de quem comunica — o tom, o que se quer dizer. *Algum deles entra como
   candidato de recorte?* → [foco](estudo/academia/foco.md)
+
+## Instituição
+
+### Núcleo
+
+- **As crenças a confirmar.** As seis crenças-base do núcleo já são suas — da camada sem forma
+  ao "gostamos de entender". Abaixo delas ficaram nove da lista antiga, com a sua concordância
+  mas não com as suas palavras: "juntos vamos mais longe", "somos seres integrais", "a criação
+  é o ápice do prazer" e outras. Exemplo: você já disse que a criação como ápice do prazer "é
+  mais minha do que do EPSO". *Quais dessas você explicaria numa decisão com "porque
+  acreditamos que…"? As que não aparecerem em decisão nenhuma saem do rol?* →
+  [núcleo](instituicao/nucleo/README.md#a-confirmar-no-rol)
+- **Três traços de notas antigas.** Chegar para contribuir e aprender, nem turista nem
+  salvador; ser aquilo que se faz, contra a performance; replicável, não bolha. Você os achou
+  bons, mas não os disse com as suas palavras. Exemplo: um retiro espiritual caro, pago pelo
+  dinheiro da cidade, é a "bolha" que o terceiro traço recusa. *Qual situação sua mostra cada
+  um em ação?* → [núcleo](instituicao/nucleo/README.md#postura)
+- **Matéria local, informação global.** A comida vem de perto e as ideias circulam pelo mundo:
+  você disse "é por aí". *Onde essa linha passa — um remédio, um celular, uma semente são
+  matéria ou informação? O que o EPSO faz quando algo precisa vir de longe?* →
+  [núcleo](instituicao/nucleo/README.md#objetivos), manifesto
+- **Perguntas curtas.** Ajuda opcional para o núcleo: princípios inegociáveis, o que o EPSO não
+  é, e respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos
+  quando alguém não contribui?". → [núcleo](instituicao/nucleo/README.md)

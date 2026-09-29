@@ -171,6 +171,11 @@ depois da experiência num lado, vamos para o outro e voltamos, de novo e de nov
 em círculos, mas oscilando cada vez menos e nos aproximando de um eixo equilibrado. Num grande
 zoom out, parece uma linha.
 
+A imagem junta dois vizinhos conhecidos: o Princípio do Ritmo, do *Caibalion* — o pêndulo que
+se manifesta em tudo, e quem sobe pela corda dele sente menos a oscilação —, e a espiral da
+dialética de Hegel, em que cada volta retoma o oposto num patamar acima. Vizinhos no sentido,
+não no rótulo.
+
 O que se desenha com intenção são os construtos, não a vida. A vida é orgânica: não temos como
 planejar os detalhes dos nossos filhos, nem os nossos próprios. As construções e os artefatos
 civilizatórios são inorgânicos — acordos, leis, políticas, crenças, realidades
@@ -180,7 +185,8 @@ construtos; a humanidade que vai habitá-la não se desenha.
 Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#evoluir-com-intencao`,
 `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#colaboracao-como-capacidade-humana`,
 `fontes/conversas/2026-09-29-evoluir-com-intencao-e-o-pendulo.md#a-evolucao-e-um-fato-a-intencao-e-o-foco`,
-`#o-pendulo-que-vira-linha`, `#o-organico-nao-se-desenha-o-construto-sim`.
+`#o-pendulo-que-vira-linha`, `#os-vizinhos-do-pendulo`,
+`#o-organico-nao-se-desenha-o-construto-sim`.
 
 ## Destino e intenção são camadas diferentes
 

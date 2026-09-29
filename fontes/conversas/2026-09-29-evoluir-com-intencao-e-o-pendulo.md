@@ -29,3 +29,12 @@ aprendizagem: depois da experiência num lado, vamos para o outro, depois voltam
 não estamos só andando em círculos: estamos evoluindo e nos aproximando de um eixo
 equilibrado. Experienciamos extremos e vamos moldando; no longo prazo — ou num grande zoom
 out — parece uma linha.
+
+## Os vizinhos do pêndulo
+
+O pêndulo tem nomes vizinhos conhecidos. O Princípio do Ritmo, do *Caibalion*: "a oscilação do
+pêndulo se manifesta em tudo; a medida da oscilação à direita é a medida da oscilação à
+esquerda" — e quem o compreende sobe pela corda do pêndulo, mais perto do ponto de equilíbrio,
+sentindo menos a oscilação. E a espiral da dialética de Hegel: cada síntese vira nova tese, e
+cada volta retoma o processo num patamar acima. A ideia junta as duas imagens: o pêndulo que
+oscila e a espiral que avança.

@@ -28,6 +28,7 @@ Blocos por assunto. Fronteiras entre eles em [meta/estrutura/criterios.md](meta/
   - **transcricoes/** — falas gravadas: bruto intocado, cópia limpa e áudio (não versionado).
   - **conversas/** — ideias que surgiram em conversas escritas (chat), registradas como fonte.
   - **documentos/** — documentos escritos pelo incorporador fora do repositório, guardados como bruto intocado com bloco de metadados.
+  - **cobertura.md** — o estado de encaixe de cada fonte e as seções que faltam encaixar. Gerado por script.
 - **elaborar.md** — a pauta do incorporador: tópicos que pedem reflexão nova, para gravar ou conversar.
 - **meta/** — o repositório, os processos e o agente: como trabalhamos. Estrutura e critérios de onde cada coisa mora, processos (transcrições, encerramento, sessões paralelas) e o roadmap de método. O `CLAUDE.md` fica na raiz.
 

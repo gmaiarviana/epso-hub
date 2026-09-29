@@ -109,7 +109,7 @@ sempre tem onde cair. Mecânica de branch → commit → PR: ver
 Por fim, remover os worktrees de PR já mergeado — desta e de sessões anteriores. Travas e
 comandos em [sessões paralelas](sessoes-paralelas.md#limpeza-worktree-de-pr-mergeado).
 
-**Ressalva:** trabalho grande ou independente pode abrir PR antes de encerrar,
-quando faz sentido pôr em revisão logo. Nesse caso o encerramento não reabre
-nada — só roda a retrospectiva, e um achado que edite processo vira commit
-adicional no PR já aberto (ou um PR próprio, se for de outro escopo).
+**Ressalva:** o PR da sessão pode abrir antes, no primeiro push, para pôr em
+revisão logo; o resto da sessão entra como commits adicionais nele, inclusive
+achados da retrospectiva que editem processo. Uma sessão, um PR — ver
+[CLAUDE.md § Como se trabalha](../CLAUDE.md#como-se-trabalha-planejador-e-executor).

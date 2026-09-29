@@ -172,14 +172,16 @@ Dito, a elaborar:
 
 - planejar principalmente o começo, que é mais difícil;
 - antes do calendário de postagens, um índice de temas; antes dele, a construção de pilares de
-  autoridade. Pilares de autoridade e temáticas são coisas diferentes; a diferença está por
-  elaborar;
+  autoridade. Pilar de autoridade é aquilo em que o incorporador quer se posicionar como
+  referência — temas, sentimentos, assuntos, pensamentos, comportamentos. Pilares e temáticas
+  são coisas diferentes; a diferença está por elaborar;
 - gravar áudios sobre as temáticas importantes;
 - ter constância.
 
 Fontes: `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
 `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`,
-`#eixo-mercado`; `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#tematicas-e-pilares`.
+`#eixo-mercado`; `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#tematicas-e-pilares`;
+`fontes/conversas/2026-09-29-carta-ao-ex-lider.md#pilar-de-autoridade`.
 
 **Nível:** Em aberto.
 

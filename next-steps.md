@@ -11,16 +11,12 @@ Em ordem, do que mais pesa na decisão ao que menos; a sessão pode acontecer de
 ou do 2.
 
 1. **Imagem e pilares de autoridade**
-   - **Triagem** de `blocos-de-curriculo`, `emails-avaliacao-e-pdi` e `carta-rede-de-pais`
-     (`fontes/documentos/`) em busca de ideias; o que render entra no item Corpus, em
-     Encaixar, e o documento sem ideia nova é declarado assim lá.
-   - **Diferenciais** (`## 7` de `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`) —
-     resumo em português para o briefing da sessão. Não se encaixa: fica no documento
-     externo, por decisão; é insumo da pergunta dos pilares
-     ([contexto/next-steps.md](contexto/next-steps.md#trabalho)).
-   - **O gargalo é de organização, não técnico** (`relato-tpm-programa`, `notas-comite-ia`) →
-     caso anonimizado para `filosofia/hipoteses/linguagem.md`; sustenta o pilar candidato
-     organização do pensamento.
+   - **Diferenciais e evidência** — resumo em português, para o briefing da sessão, dos
+     diferenciais (`## 7` de `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`) e da
+     evidência de cada pilar de competência (`## 5` e `## 6`), com `relato-tpm-programa` e
+     `notas-comite-ia` como casos do Pillar 3 (organização do pensamento). Não se encaixa:
+     fica no documento externo, por decisão; é o lastro dos pilares de autoridade
+     ([imagem](instituicao/comunicacao/imagem.md#insumos-em-outros-lugares)).
 2. **Lastro de saúde mental e autoconhecimento** — o primeiro tema, a primeira
    mensagem-chave candidata e dois segmentos de público da
    [linha editorial](instituicao/comunicacao/linha-editorial.md).
@@ -155,11 +151,12 @@ ou do 2.
 
 - **Corpus de escrita do incorporador** (os nove documentos de `fontes/documentos/` com o
   campo `corpus`). Servem também de amostra da voz (item Tom de voz em
-  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). A triagem de
-  `blocos-de-curriculo`, `emails-avaliacao-e-pdi` e `carta-rede-de-pais`, e as ideias Valor,
-  Não somos nosso trabalho e O gargalo é de organização estão no Foco. Encaixe por conversa,
-  uma ideia por sessão, nesta ordem (a virada de carreira, a liderança desde cedo e a carta ao
-  ex-líder já estão em `contexto/`):
+  [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)). As ideias Valor, Não
+  somos nosso trabalho estão no Foco; O gargalo é de organização entra como evidência no
+  item Diferenciais do Foco, sem encaixe. `blocos-de-curriculo` não
+  tem ideia nova: é detalhe de carreira, do documento externo. Encaixe por conversa, uma ideia
+  por sessão, nesta ordem (a virada de carreira, a liderança desde cedo e a carta ao ex-líder
+  já estão em `contexto/`):
   - **Condições para colaborar** — humildade (cada um vê a verdade de um ângulo), liberdade de
     compartilhar, comunicar sem ruído, organizar os pontos de vista em harmonia
     (`cartas-de-candidatura`, última carta) → checar fusão com `filosofia/cosmovisao/a-tese.md`.
@@ -170,6 +167,14 @@ ou do 2.
     crenças → junto da transcrição 2026-06-26 sobre crenças; mensagens semelhantes, formas
     diferentes → `filosofia/hipoteses/ancora.md`; limites da percepção →
     `filosofia/hipoteses/precisao.md`; corpo e emoções → checar contra a transcrição 2026-09-24.
+  - **A nota que desvia o objetivo** — reduzir uma avaliação qualitativa a um índice de 0 a
+    100 gera impressões que desviam o foco do que se quer avaliar (`emails-avaliacao-e-pdi`,
+    segundo e-mail) → caso em
+    [precisao.md](filosofia/hipoteses/precisao.md#a-medição-é-uma-página-do-livro).
+  - **É preciso uma aldeia para criar uma criança** — a comunidade como rede de cuidado no dia
+    a dia e de troca de aprendizados (`carta-rede-de-pais`) → destino a decidir; conversa com a
+    vida em comunidade de `filosofia/hipoteses/ecocidades.md` e com a
+    [saída de São Paulo](contexto/trajetoria.md#por-que-saí-de-são-paulo).
   - **O que acredito de uma liderança** — ambiente seguro para feedback, transparência,
     estímulo à excelência (`carta-ex-lider`) → pede a fala do incorporador; destino a decidir.
   - **Parábola da Deusa Looa** (`ensaio-nao-somos-nosso-trabalho`) → comunicação; espera os

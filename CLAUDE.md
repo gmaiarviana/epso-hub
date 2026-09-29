@@ -84,8 +84,9 @@ O trabalho acontece em dois papéis.
 - **Executor** (Claude Code): recebe o prompt e edita o arquivo direto no repositório.
 
 O incorporador decide na conversa e revisa no PR. As decisões se discutem antes de executar; o
-texto final não passa por aprovação na conversa: o executor commita, faz o push da branch e abre
-o PR, e a revisão acontece lá.
+texto final não passa por aprovação na conversa: o executor commita e faz o push, e a revisão
+acontece no PR. Uma sessão, uma branch, um PR: os commits da sessão se acumulam na mesma branch,
+e o PR, aberto no primeiro push, cresce até o encerramento — nada de um PR por mudança.
 
 ## Encerramento de sessão
 

@@ -24,9 +24,9 @@ Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tem
 
 - **Identidade** — filósofo construindo uma nova sociedade; os temas são aplicações, não a
   identidade ([direção](../../contexto/direcao.md#filósofo-construindo-uma-nova-sociedade)).
-- **Pilares de autoridade** — diferentes das temáticas
-  ([linha editorial](linha-editorial.md#calendário)). A pergunta de quais competências da
-  narrativa de carreira viram pilares está em
-  [contexto/next-steps.md](../../contexto/next-steps.md#trabalho), com os diferenciais como
-  insumo.
+- **Pilares de autoridade** — aquilo em que o incorporador quer ser referência, diferente das
+  temáticas ([linha editorial](linha-editorial.md#calendário)). As competências da narrativa
+  de carreira e os diferenciais são o lastro dos pilares, não os pilares; a pergunta de qual
+  competência sustenta qual pilar está em
+  [contexto/next-steps.md](../../contexto/next-steps.md#trabalho).
 - **Objetivos, público e temas** — na [linha editorial](linha-editorial.md).

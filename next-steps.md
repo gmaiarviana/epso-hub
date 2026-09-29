@@ -20,16 +20,6 @@ ou do 2.
 2. **Lastro de saúde mental e autoconhecimento** — o primeiro tema, a primeira
    mensagem-chave candidata e dois segmentos de público da
    [linha editorial](instituicao/comunicacao/linha-editorial.md).
-   - Transcrição 2026-09-24 (`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`)
-     → `filosofia/cosmovisao/quem-sou-eu.md`: `#sem-controle`, `#corpo-veiculo-sagrado`,
-     `#para-que-o-corpo`, `#vida-como-respiracao`, `#imaginar-e-sentir`,
-     `#equilibrio-e-flexibilidade`, `#interdependencia-das-especies`,
-     `#humanidade-transitoria`, `#sem-manual-de-instrucoes`. `#somos-nossa-atencao`: checar
-     fusão com a de 2026-06-26, já em `quem-sou-eu.md`. `#regua-coletiva` parece o eixo de
-     universalidade de `filosofia/hipoteses/precisao.md` — checar fusão.
-     `#excesso-de-racionalidade` (excesso de racionalidade, escassez de conexão com a
-     natureza, a mentalidade civilizatória que domina) — destino a decidir; checar contra a
-     desconexão nas [crenças do núcleo](instituicao/nucleo/README.md#crenças).
    - Transcrição 2023-09-02, trilha do autoconhecimento
      (`fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md`),
      arquivo inteiro — cinco fases de consciência (corpo, mente, alma, ser, realidade como

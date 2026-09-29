@@ -19,10 +19,10 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial | 9/12 |
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | parcial | 12/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | parcial | 11/15 |
-| [2026-09-24-atencao-corpo-linguagem-e-camadas](../fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md) | parcial | 16/28 |
+| [2026-09-24-atencao-corpo-linguagem-e-camadas](../fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md) | completo | 28/28 |
 | [2026-07-07-vetor-ancora-camada-de-fontes](../fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md) | parcial | 7/10 |
 | [2026-09-23-precisao-e-a-pagina-do-livro](../fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md) | completo | 9/9 |
-| [2026-09-25-a-mente-sugere-a-atencao](../fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md) | parcial | 1/2 |
+| [2026-09-25-a-mente-sugere-a-atencao](../fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md) | completo | 2/2 |
 | [2026-09-25-linguagem-e-ecocidades](../fontes/conversas/2026-09-25-linguagem-e-ecocidades.md) | completo | 5/5 |
 | [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado | 0/5 |
 | [2026-09-26-trabalho-e-novo-paradigma](../fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md) | parcial | 6/7 |
@@ -36,6 +36,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-28-trajetoria-e-direcao](../fontes/conversas/2026-09-28-trajetoria-e-direcao.md) | parcial | 2/3 |
 | [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 14/16 |
 | [2026-09-29-carta-ao-ex-lider](../fontes/conversas/2026-09-29-carta-ao-ex-lider.md) | completo | 2/2 |
+| [2026-09-29-evoluir-com-intencao-e-o-pendulo](../fontes/conversas/2026-09-29-evoluir-com-intencao-e-o-pendulo.md) | completo | 3/3 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -106,18 +107,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 - Foco: `#portal-open-source`, `#portal-economia-colaborativa`, `#sitio-restaurante-credito-de-trabalho`
 - Foco, com parte já encaixada: `#plataforma-e-autoridade`
 
-### 2026-09-24-atencao-corpo-linguagem-e-camadas
-
-- Foco: `#sem-controle`, `#somos-nossa-atencao`, `#corpo-veiculo-sagrado`, `#para-que-o-corpo`, `#vida-como-respiracao`, `#imaginar-e-sentir`, `#regua-coletiva`, `#equilibrio-e-flexibilidade`, `#interdependencia-das-especies`, `#humanidade-transitoria`, `#sem-manual-de-instrucoes`, `#excesso-de-racionalidade`
-
 ### 2026-07-07-vetor-ancora-camada-de-fontes
 
 - Encaixar: `#migracao-reaproveitar-as-ponderacoes-nao-o-resultado`, `#tres-camadas-de-fonte-audio-bruto-limpo`
 - Encaixar, com parte já encaixada: `#iniciativa-quatro-e-o-paper-agent`
-
-### 2026-09-25-a-mente-sugere-a-atencao
-
-- sem nota na fila: `#a-mente-sugere-a-atencao-escolhe`
 
 ### 2026-09-26-o-epso-e-eu
 

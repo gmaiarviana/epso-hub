@@ -28,13 +28,17 @@ vários eixos:
 - **Observabilidade** — oferece algo que outros podem observar também.
 - **Universalidade** — continua valendo quando o contexto muda. É o eixo que a
   [âncora](ancora.md) já mede: a leitura que permanece sob troca de contexto está mais
-  perto dela.
+  perto dela. O contexto que conta não pode ser o de uma cultura só, em que poucas ideias
+  monopolizam: vale a leitura que ressoa em muitas culturas — e também nos animais, nos
+  vegetais, nos seres inanimados. É o teste que confirma, no longo prazo, o que cada um
+  [sentiu](../cosmovisao/quem-sou-eu.md#imaginar-e-sentir) sozinho.
 
 A precisão se ganha por refinamento: cada clarificação acrescenta um vetor de precisão e
 afina a direção da ideia (ver [vetor](vetor.md)).
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#mais-preciso-nao-melhor`,
-`fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#refinamento-adiciona-vetores-de-precisao`.
+`fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#refinamento-adiciona-vetores-de-precisao`,
+`fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#regua-coletiva`.
 
 ## A medição é uma página do livro
 

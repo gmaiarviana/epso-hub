@@ -44,7 +44,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 
 ## Entrada no roadmap
 
-Toda transcrição registrada em que ainda falte trabalho entra no [next-steps da raiz](../next-steps.md), para não ficar esquecida em `fontes/`: sem camada limpa, no tier **1. Passar a limpo**; passada a limpo, no tier **Encaixar**. Ao passar a limpo, o item muda de tier; sai da fila quando o encaixe termina. A posição dentro do tier é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados. Os tiers concentram toda fonte em trânsito, qualquer que seja o bloco de destino.
+Transcrição registrada sem camada limpa entra no tier **1. Passar a limpo** do [next-steps da raiz](../next-steps.md), para não ficar esquecida em `fontes/`. Passada a limpo, o que falta encaixar aparece na [cobertura](#cobertura); a transcrição só entra no tier **Encaixar** se houver nota a guardar (ver [roadmap](roadmap.md#fontes-na-fila)). A posição dentro do tier é decisão do incorporador; na falta dela, o item vai para o fim, sem furar itens já ordenados.
 
 ## Rastreabilidade
 
@@ -69,7 +69,7 @@ Passos do encaixe:
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
-- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada ou entrou no tier Encaixar do [next-steps da raiz](../next-steps.md), nomeada pela âncora, como encaixe com destino. Só então o item de encaixe sai da fila.
+- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada ou continua pendente na [cobertura](#cobertura), com nota no tier Encaixar do [next-steps da raiz](../next-steps.md) quando houver destino ou ressalva a guardar. Só então o item de encaixe sai da fila.
 - Encaixe parcial de uma seção: a mesma mudança que encaixa uma ideia registra na fila as que ficaram, nomeadas. A cobertura não enxerga ideia dentro da seção — este é o único momento em que a sobra aparece.
 - Conferir ideia a ideia, não só seção a seção: uma seção citada pode ter perdido ideias na síntese. Antes de declarar o encaixe pronto, reler cada seção e procurar cada ideia no destino; o que se perdeu volta ao texto, vira provocação ou ganha destino na fila. A conferência vai para o incorporador como tabela de cobertura (seção → onde ficou).
 
@@ -92,11 +92,10 @@ Em aberto:
 [fontes/cobertura.md](../fontes/cobertura.md), gerado por `python meta/cobertura.py`, mostra, por fonte — transcrições, conversas e documentos —, o estado geral e as seções ainda não concluídas. Os estados:
 
 - **encaixada** — citada no acervo (ou em `meta/`, ou no [elaborar](../elaborar.md)); uma seção pode servir a mais de um arquivo. Não aparece nas pendências; onde mora se acha buscando a âncora;
-- **na fila** — citada em algum `next-steps.md`, com o tier; a seção encaixada em parte e com o resto na fila aparece assim;
-- **dispensada** — lida e sem destino, por decisão;
-- **sem dono** — nenhum dos anteriores: o alarme. Entra na fila ou é dispensada.
+- **pendente** — ainda não encaixada nem dispensada. Aparece com o tier quando a fila a cita (Foco, Encaixar); a seção encaixada em parte, com o resto numa nota da fila, também aparece assim;
+- **dispensada** — lida e sem destino, por decisão.
 
-A dispensa mora nos metadados da própria fonte, com o motivo: sobrevive à saída do item da fila e não toca no conteúdo.
+A dispensa mora nos metadados da própria fonte, com o motivo, sem tocar no conteúdo:
 
 ```yaml
 dispensadas:

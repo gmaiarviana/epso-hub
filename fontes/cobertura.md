@@ -1,6 +1,6 @@
 # Cobertura das fontes
 
-Gerado por [meta/cobertura.py](../meta/cobertura.py) — não editar à mão. Estado de encaixe de cada fonte e, nas pendências, as seções que faltam: na fila ou **sem dono**. Regras em [meta/roadmap.md](../meta/roadmap.md) e [meta/processo-transcricoes.md](../meta/processo-transcricoes.md).
+Gerado por [meta/cobertura.py](../meta/cobertura.py) — não editar à mão. Estado de encaixe de cada fonte e, nas pendências, as seções que faltam encaixar, com o tier da fila quando houver. Regras em [meta/roadmap.md](../meta/roadmap.md) e [meta/processo-transcricoes.md](../meta/processo-transcricoes.md).
 
 Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, não a ideia.
 
@@ -16,25 +16,25 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | parcial | 3/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | parcial | 2/4 |
 | [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | não iniciado | 0/6 |
-| [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial — 4 sem dono | 8/12 |
+| [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial | 8/12 |
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | parcial | 12/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | parcial | 11/15 |
 | [2026-09-24-atencao-corpo-linguagem-e-camadas](../fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md) | parcial | 16/28 |
 | [2026-07-07-vetor-ancora-camada-de-fontes](../fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md) | parcial | 7/10 |
 | [2026-09-23-precisao-e-a-pagina-do-livro](../fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md) | completo | 9/9 |
-| [2026-09-25-a-mente-sugere-a-atencao](../fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md) | parcial — 1 sem dono | 1/2 |
+| [2026-09-25-a-mente-sugere-a-atencao](../fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md) | parcial | 1/2 |
 | [2026-09-25-linguagem-e-ecocidades](../fontes/conversas/2026-09-25-linguagem-e-ecocidades.md) | completo | 5/5 |
-| [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado — 5 sem dono | 0/5 |
+| [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado | 0/5 |
 | [2026-09-26-trabalho-e-novo-paradigma](../fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md) | parcial | 6/7 |
-| [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial — 6 sem dono | 3/9 |
+| [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 3/9 |
 | [2026-09-27-as-duas-teses-e-a-migracao](../fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md) | parcial | 5/6 |
 | [2026-09-27-estrategia-e-frentes](../fontes/conversas/2026-09-27-estrategia-e-frentes.md) | completo | 1/1 |
 | [2026-09-27-mudar-de-emprego](../fontes/conversas/2026-09-27-mudar-de-emprego.md) | completo | 1/1 |
-| [2026-09-27-o-nucleo-do-epso](../fontes/conversas/2026-09-27-o-nucleo-do-epso.md) | parcial — 1 sem dono | 6/7 |
+| [2026-09-27-o-nucleo-do-epso](../fontes/conversas/2026-09-27-o-nucleo-do-epso.md) | parcial | 6/7 |
 | [2026-09-27-receitas-plataformas-e-notas-antigas](../fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md) | parcial | 2/6 |
 | [2026-09-28-objetivos-canal-e-idioma](../fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md) | completo | 6/6 |
-| [2026-09-28-trajetoria-e-direcao](../fontes/conversas/2026-09-28-trajetoria-e-direcao.md) | parcial — 1 sem dono | 2/3 |
-| [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial — 1 sem dono | 14/16 |
+| [2026-09-28-trajetoria-e-direcao](../fontes/conversas/2026-09-28-trajetoria-e-direcao.md) | parcial | 2/3 |
+| [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 14/16 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -94,7 +94,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-07-07-camada-filosofica-e-a-jornada-academica
 
-- **sem dono**: `#a-camada-filosofica-e-a-fonte`, `#ideias-globais-materia-local`, `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao`
+- sem nota na fila: `#a-camada-filosofica-e-a-fonte`, `#ideias-globais-materia-local`, `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao`
 
 ### 2026-09-22-regeneracao-lastro-e-eco-cidades
 
@@ -116,11 +116,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-25-a-mente-sugere-a-atencao
 
-- **sem dono**: `#a-mente-sugere-a-atencao-escolhe`
+- sem nota na fila: `#a-mente-sugere-a-atencao-escolhe`
 
 ### 2026-09-26-o-epso-e-eu
 
-- **sem dono**: `#o-epso-e-a-institucionalizacao-das-minhas-ideias`, `#somos-uma-coisa-so-por-enquanto`, `#ainda-nao-comecei`, `#a-comunicacao-nasce-ligada-ao-epso`, `#o-estado-mais-atual-sem-genealogia`
+- sem nota na fila: `#o-epso-e-a-institucionalizacao-das-minhas-ideias`, `#somos-uma-coisa-so-por-enquanto`, `#ainda-nao-comecei`, `#a-comunicacao-nasce-ligada-ao-epso`, `#o-estado-mais-atual-sem-genealogia`
 
 ### 2026-09-26-trabalho-e-novo-paradigma
 
@@ -128,7 +128,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-27-a-construtora-e-o-epso
 
-- **sem dono**: `#o-epso-vai-alem-de-ti`, `#a-construtora-tem-missao-propria`, `#sem-forma-juridica-para-a-construtora`, `#um-recorte-de-quem-sou`, `#servidor-de-inferencia`, `#tipos-de-sessao`
+- sem nota na fila: `#o-epso-vai-alem-de-ti`, `#a-construtora-tem-missao-propria`, `#sem-forma-juridica-para-a-construtora`, `#um-recorte-de-quem-sou`, `#servidor-de-inferencia`, `#tipos-de-sessao`
 
 ### 2026-09-27-as-duas-teses-e-a-migracao
 
@@ -136,7 +136,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-27-o-nucleo-do-epso
 
-- **sem dono**: `#valores-de-outra-empresa`
+- sem nota na fila: `#valores-de-outra-empresa`
 
 ### 2026-09-27-receitas-plataformas-e-notas-antigas
 
@@ -145,9 +145,9 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-28-trajetoria-e-direcao
 
-- **sem dono**: `#a-narrativa-de-carreira-adapta-nao-define`
+- sem nota na fila: `#a-narrativa-de-carreira-adapta-nao-define`
 
 ### 2026-09-28-validacao-do-nucleo
 
-- **sem dono**: `#eficiencia`
 - instituicao/next-steps.md, com parte já encaixada: `#objetivos`
+- sem nota na fila: `#eficiencia`

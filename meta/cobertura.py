@@ -4,10 +4,9 @@ Uso, da raiz do repositório:  python meta/cobertura.py
 
 Estados de uma seção (ver meta/roadmap.md e meta/processo-transcricoes.md):
   encaixada  — citada em arquivo fora de fontes/ que não é next-steps (acervo, meta/, elaborar);
-  na fila    — citada em algum next-steps.md;
   dispensada — declarada no campo `dispensadas` dos metadados da fonte (documento bruto
                inteiro: campo `dispensada`);
-  sem dono   — nenhum dos anteriores: o alarme.
+  pendente   — nenhum dos anteriores; com o tier quando algum next-steps.md a cita.
 
 Uma citação vale para a fonte mencionada no mesmo bloco (parágrafo ou item de lista, com os
 subitens): `arquivo.md#secao`, ou o nome do arquivo e, adiante no bloco, `#secao`. Um item de
@@ -219,7 +218,7 @@ def estado_secao(f, s):
         return "fila", fila
     if s in f["dispensadas"]:
         return "dispensada", ""
-    return "sem dono", "**sem dono**"
+    return "pendente", "sem nota na fila"
 
 
 def resumo(f):
@@ -228,7 +227,7 @@ def resumo(f):
             ["na fila"] if f["fila_arquivo"] else [])
         if not partes and "*" in f["dispensadas"]:
             return "dispensado", "—"
-        return "; ".join(partes) or "sem dono", "—"
+        return "; ".join(partes) or "pendente", "—"
     estados = [estado_secao(f, s)[0] for s, _ in f["secoes"]]
     total = len(estados)
     encaixadas = sum(1 for s, _ in f["secoes"]
@@ -239,8 +238,6 @@ def resumo(f):
         rotulo = "não iniciado"
     else:
         rotulo = "parcial"
-    if "sem dono" in estados:
-        rotulo += f" — {estados.count('sem dono')} sem dono"
     return rotulo, f"{encaixadas}/{total}"
 
 
@@ -251,7 +248,8 @@ def gerar():
         "# Cobertura das fontes",
         "",
         "Gerado por [meta/cobertura.py](../meta/cobertura.py) — não editar à mão. Estado de encaixe "
-        "de cada fonte e, nas pendências, as seções que faltam: na fila ou **sem dono**. Regras em "
+        "de cada fonte e, nas pendências, as seções que faltam encaixar, com o tier da fila quando "
+        "houver. Regras em "
         "[meta/roadmap.md](../meta/roadmap.md) e "
         "[meta/processo-transcricoes.md](../meta/processo-transcricoes.md).",
         "",
@@ -262,7 +260,7 @@ def gerar():
         "| Fonte | Estado | Concluídas |",
         "|---|---|---|",
     ]
-    alarmes = 0
+    pendentes = 0
     for f in lista:
         rotulo, fracao = resumo(f)
         linhas.append(f"| [{f['base']}](../{f['caminho']}) | {rotulo} | {fracao} |")
@@ -272,13 +270,13 @@ def gerar():
     for f in lista:
         if f["documento"]:
             if not (f["acervo_arquivo"] or f["fila_arquivo"] or "*" in f["dispensadas"]):
-                alarmes += 1
-                linhas += ["", f"### {f['base']}", "", "- **sem dono**"]
+                pendentes += 1
+                linhas += ["", f"### {f['base']}", "", "- pendente, sem nota na fila"]
             continue
         grupos = {}
         for s, _ in f["secoes"]:
             estado, grupo = estado_secao(f, s)
-            alarmes += estado == "sem dono"
+            pendentes += estado in ("fila", "pendente") or bool(grupo)
             if grupo:
                 grupos.setdefault(grupo, []).append(f"`#{s}`")
         if grupos:
@@ -286,8 +284,8 @@ def gerar():
             linhas += [f"- {g}: " + ", ".join(ss) for g, ss in sorted(grupos.items())]
     with open(os.path.join(RAIZ, SAIDA), "w", encoding="utf-8", newline="\n") as saida:
         saida.write("\n".join(linhas) + "\n")
-    print(f"{SAIDA} gerado. Sem dono: {alarmes}.")
-    return alarmes
+    print(f"{SAIDA} gerado. Seções pendentes: {pendentes}.")
+    return pendentes
 
 
 if __name__ == "__main__":

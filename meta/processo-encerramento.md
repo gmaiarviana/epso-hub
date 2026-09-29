@@ -81,9 +81,8 @@ mecânicas (processual separado de pontual, item concluído sai da lista) estão
 [roadmap.md](roadmap.md) — não duplicar aqui.
 
 Depois, rodar `python meta/cobertura.py` para regerar
-[fontes/cobertura.md](../fontes/cobertura.md), que entra no mesmo commit. Seção que passou a
-aparecer sem dono nesta sessão é pendência esquecida: vai para a fila, nomeada, ou o agente
-propõe a dispensa ao incorporador ([cobertura](processo-transcricoes.md#cobertura)).
+[fontes/cobertura.md](../fontes/cobertura.md), que entra no mesmo commit
+([cobertura](processo-transcricoes.md#cobertura)).
 
 ## 3. Registrar ideias da conversa, se a sessão gerou acervo
 

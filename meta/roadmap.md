@@ -24,14 +24,15 @@ Nesta ordem:
    lista, em ordem, do que o destrava. Sobe para cá o que vier de qualquer outro tier e sai do
    tier de origem; de uma fonte que sobe só em parte, o resto fica onde estava. O agente propõe
    a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
-   Ao fechar um item, o que ficou de fora volta nomeado por seção (ver
-   [Fontes na fila](#fontes-na-fila)); o que fica só na fonte, sem ser pendência, é dispensado
-   nos metadados dela.
+   Ao fechar um item, o que ficou de fora de uma fonte continua pendente na cobertura, e a nota
+   que valha guardar volta ao Encaixar (ver [Fontes na fila](#fontes-na-fila)); o que fica só
+   na fonte, sem ser pendência, é dispensado nos metadados dela.
 3. **Trabalhos em aberto** — refatoração e migração em curso. Mudança estrutural grande
    (mover pastas, renomear blocos) entra aqui antes de começar, quebrada em etapas por esforço,
    uma por PR, as de baixo custo primeiro.
-4. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
-   documentos, que já nascem legíveis.
+4. **Encaixar** — notas sobre o encaixe de fontes: destino já decidido, fusão a checar,
+   ressalva. O que falta encaixar não mora aqui, mora na cobertura (ver
+   [Fontes na fila](#fontes-na-fila)).
 5. **Backlog** — ações definidas e ainda não iniciadas, que não são melhoria do que já existe.
 6. **Melhorias** — ajustes no que já existe que mexem em mais de um bloco. Melhoria que
    mexe num bloco só fica no next-steps dele; melhoria de processo ou método, em
@@ -43,18 +44,19 @@ Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador r
 
 ## Fontes na fila
 
-O encaixe de uma fonte pode ser parcial; o registro do que falta, não. A entrada de uma fonte
-na fila nomeia cada seção pela âncora (`#secao`) — nunca por intervalo ("de `#a` a `#b`"), "o
-resto", "parte já encaixada" ou "conferir o que falta". Quando todas as seções vão juntas, o
-item diz "arquivo inteiro". Documento bruto, sem seções, entra pelas ideias, nomeadas uma a uma.
+O que falta encaixar está em [fontes/cobertura.md](../fontes/cobertura.md), gerado por
+[cobertura.py](cobertura.py): toda seção de toda fonte aparece pendente até ser encaixada ou
+dispensada, então nenhuma se perde por falta de registro na fila
+([processo](processo-transcricoes.md#cobertura)).
 
-Sintoma que a regra previne: a seção que some da fila atrás de uma forma vaga sem ter chegado
-ao acervo — ninguém a procura, porque a fila diz que está coberta.
+A fila guarda o que a cobertura não sabe: a prioridade (Foco) e as notas (Encaixar). Uma fonte
+só entra no Encaixar quando há nota que não se reconstrói em segundos. A exceção é o encaixe
+parcial de uma seção: a cobertura a vê como encaixada, então a nota do que ficou de fora é
+obrigatória.
 
-O estado de cada seção — encaixada, na fila, dispensada ou sem dono — está em
-[fontes/cobertura.md](../fontes/cobertura.md), gerado por [cobertura.py](cobertura.py). A
-fila guarda a decisão (prioridade e destino); a cobertura mostra o que falta. Seção sem dono
-é alarme: entra na fila ou é dispensada ([processo](processo-transcricoes.md#cobertura)).
+Item de fila fala de seção pela âncora (`#secao`) — nunca por intervalo ("de `#a` a `#b`"),
+"o resto" ou "conferir o que falta"; quando vão todas, diz "arquivo inteiro". Documento bruto,
+sem seções, entra pelas ideias, nomeadas uma a uma.
 
 ## Como se atualiza
 

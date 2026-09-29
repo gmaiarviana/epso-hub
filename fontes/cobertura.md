@@ -53,6 +53,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
 | [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.raw.md) | pendente | — |
+| [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
+| [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
@@ -157,6 +159,14 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 - sem nota na fila: `#eficiencia`
 
 ### 2026-09-29-a-realidade-como-ela-e
+
+- pendente, sem nota na fila
+
+### 2026-09-29-apresentacao
+
+- pendente, sem nota na fila
+
+### 2026-09-29-aula-de-artes
 
 - pendente, sem nota na fila
 

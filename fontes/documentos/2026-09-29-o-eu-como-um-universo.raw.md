@@ -10,7 +10,7 @@ escrito-em: sem data
 anonimizado: Nada anonimizado.
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em
-  2026-09-29 junto de outros quatro documentos e quebrado por documento.
+  2026-09-29 junto de outros documentos e quebrado por documento.
   Conteúdo preservado na íntegra, sem correção. O título H1 é o nome que o
   incorporador deu ao documento ao colar.
 ---

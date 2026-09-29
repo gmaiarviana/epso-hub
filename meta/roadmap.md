@@ -26,7 +26,9 @@ Nesta ordem:
    a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
    Ao fechar um item, o que ficou de fora volta nomeado por seção, nunca como "o resto"; o que
    fica só na fonte, sem ser pendência, se declara como decisão na entrada da fonte.
-3. **Trabalhos em aberto** — refatoração e migração em curso.
+3. **Trabalhos em aberto** — refatoração e migração em curso. Mudança estrutural grande
+   (mover pastas, renomear blocos) entra aqui antes de começar, quebrada em etapas por esforço,
+   uma por PR, as de baixo custo primeiro.
 4. **Encaixar** — fontes prontas para encaixe: transcrições passadas a limpo; conversas e
    documentos, que já nascem legíveis.
 5. **Backlog** — ações definidas e ainda não iniciadas, que não são melhoria do que já existe.
@@ -45,5 +47,8 @@ Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador r
 - Ao encerrar, atualiza-se o next-steps do(s) bloco(s) tocado(s); a fila da raiz muda quando
   entra, sai ou muda de tier/ordem um item; `meta/next-steps.md` muda quando a sessão deixa
   pendência de processo.
+- Antes de acrescentar um item ou regra: se se reconstrói em segundos quando for preciso, ou
+  se o caso não vai se repetir, não se registra. Na dúvida, oferece-se em uma linha em vez de
+  aplicar.
 - O `next-steps.md` lista só o que falta. Item concluído sai da lista — não é riscado nem
   arquivado; o histórico vive no git. Tier ou seção sem itens não aparece.

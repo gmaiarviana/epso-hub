@@ -13,10 +13,16 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 ### A tese
 
 - **As crenças do EPSO.** Você separou duas teses: a do EPSO, feita das crenças em que ele se
-  baseia, e a do doutorado, que ainda depende de estudo. Da primeira, "quem sou eu" é o
-  centro — mas você disse que vê várias. Por exemplo: "a realidade excede a verdade" é uma
-  delas? *Quais são as outras crenças do EPSO, e qual delas sustenta as demais?* →
-  [a tese](filosofia/cosmovisao/a-tese.md)
+  baseia, e a do doutorado, que ainda depende de estudo. Crenças são as bases que justificam
+  as decisões e as direções — então se encontram pegando uma decisão e perguntando por quê.
+  Perguntado por que transparência, você disse: "gostamos de entender; somos materiais, mas
+  também informacionais; gostamos de coerência, de lastro, de concordar". E trouxe outra: "não
+  somos a nossa mente, temos uma mente" — aceitar que ela pode enganar e questionar sem
+  paralisar. Ainda não é certo que essas entram no rol; a lista do núcleo tem sua concordância,
+  mas a formulação não é sua. *Que decisões do EPSO você explicaria com um "porque
+  acreditamos que…"? O que se repete nas respostas, e qual crença sustenta as demais?* Fonte:
+  `fontes/conversas/2026-09-28-validacao-do-nucleo.md#crenças` →
+  [núcleo](instituicao/nucleo/README.md#crenças), [a tese](filosofia/cosmovisao/a-tese.md)
 - **Reunir sem apagar.** Quem trabalha com saberes indígenas e tradicionais costuma desconfiar
   de projetos que querem "reunir cosmovisões": o medo é que a reunião apague diferenças, ou que
   um saber alheio só passe a valer quando traduzido para a linguagem de quem reúne — a

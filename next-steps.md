@@ -8,12 +8,31 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 **Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco.
 
 1. **Validar o núcleo** — a primeira versão está em
-   [instituicao/nucleo/README.md](instituicao/nucleo/README.md). Falta o incorporador validar o
-   que está Estimado: os desdobramentos do propósito, as crenças, os traços de postura das
-   notas antigas (transformar em vez de combater, contribuir e aprender, ser aquilo que se faz,
-   replicável e não bolha) e os objetivos. Ajuda opcional, não obrigatória: princípios
-   inegociáveis, o que o EPSO não é, e respostas curtas a "como decidimos?", "como lidamos com
-   dinheiro?", "o que fazemos quando alguém não contribui?".
+   [instituicao/nucleo/README.md](instituicao/nucleo/README.md). Falta validar o que está
+   Estimado: os desdobramentos do propósito, as crenças, os traços de postura (transformar em
+   vez de combater, contribuir e aprender, ser aquilo que se faz, replicável e não bolha) e os
+   objetivos. Ajuda opcional, não obrigatória: princípios inegociáveis, o que o EPSO não é, e
+   respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos quando
+   alguém não contribui?".
+   - **Por diálogo, não por lista** — ver
+     [curadoria](meta/estrutura/curadoria.md#antes-de-curar-qual-argumento).
+   - **Pistas da primeira tentativa** (falas em
+     `fontes/conversas/2026-09-28-validacao-do-nucleo.md`): crenças são as bases que
+     justificam decisões e direções — acham-se pela decisão, perguntando por quê (ver
+     [elaborar](elaborar.md#a-tese)); eficiência é maior resultado com mínimo de esforço, para
+     sobrar tempo e cabeça para criar; o bem-estar é de todos os seres — a colaboração é
+     sobretudo com humanos, mas alcança noosfera, biosfera e geosfera. Atritos a resolver:
+     "combater a desigualdade" contra o traço "transformar em vez de combater"; objetivo
+     "escalável" contra o traço "replicável" (a nota antiga dizia *lifestyle business*); "novo
+     modelo de instituição" repetido no Como do propósito, nos desdobramentos e nos objetivos;
+     "criar ambiente para elaborar ideias" descreve o que se faz, não para que serve. Os
+     quatro traços não têm fonte no repositório — o incorporador achou-os bons, mas não os
+     disse com as próprias palavras.
+   - **Pendência na linha editorial:** confirmados, os traços de postura são praticamente o
+     tom — sem falar *contra*, nem turista nem salvador, postar o que se vive, mostrar o que
+     alguém de renda comum consegue copiar. A derivação para
+     `instituicao/comunicacao/linha-editorial.md` fica para depois da validação.
+
 2. **Encaixar o que já foi falado sobre comunicação** — as falas estão reunidas em
    [linha-editorial.md](instituicao/comunicacao/linha-editorial.md) e
    [imagem.md](instituicao/comunicacao/imagem.md). Pendente:

@@ -16,7 +16,6 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
   (aba Identidade), validado em `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`
 - **[narrativa]** `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`
 - **[22/9]** `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`
-- **[7/7]** `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md`
 
 ## Propósito
 
@@ -47,7 +46,7 @@ linguagens e formatos.
 
 **Nível:** Decidido.
 
-Fonte: [núcleo]`#propósito`; [7/7]`#novo-paradigma-e-transformacao`; [validação]`#clareza`, `#para-que-vem-o-epso`,
+Fonte: [núcleo]`#propósito`; [validação]`#clareza`, `#para-que-vem-o-epso`,
 `#por-que-o-epso`, `#resolver-os-próprios-problemas`; [narrativa] `## 1. Purpose`;
 [construtora] (Propósito); [propósito] (Propósito).
 
@@ -91,7 +90,7 @@ critérios técnicos de materiais e sistemas.
 
 **Nível:** Decidido. A tradução em critérios fora da construção: Em aberto.
 
-Fonte: [validação]`#eficiência`, `#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
+Fonte: [validação]`#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
 [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`.
 
 ## Crenças
@@ -116,7 +115,7 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
 
 **Nível:** Decidido.
 
-Fonte: [7/7]`#a-solucao-mudar-o-paradigma-realidade-nao-dual`; [validação]`#a-camada-sem-forma`, `#a-desconexão`, `#entropia-e-o-tamanho-do-impacto`,
+Fonte: [validação]`#a-camada-sem-forma`, `#a-desconexão`, `#entropia-e-o-tamanho-do-impacto`,
 `#conforto-e-medo`, `#soltar-o-apego`, `#crenças`.
 
 ### A confirmar no rol
@@ -250,6 +249,6 @@ O que o EPSO quer ver no mundo, no médio e longo prazo.
 
 **Nível:** Estimado (alta).
 
-Fonte: [7/7]`#ideias-globais-materia-local`; [validação]`#objetivos`, `#desdobramentos`, `#quem-decide-o-que-faz-sentido`;
+Fonte: [validação]`#objetivos`, `#desdobramentos`, `#quem-decide-o-que-faz-sentido`;
 [propósito] (Objetivos, resposta sobre consciência coletiva, nota sobre ferramentas
 descentralizadas).

@@ -16,7 +16,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | parcial | 3/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | parcial | 2/4 |
 | [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | não iniciado | 0/6 |
-| [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial — 1 sem dono | 10/12 |
+| [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial — 4 sem dono | 8/12 |
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | parcial | 12/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | parcial | 11/15 |
 | [2026-09-24-atencao-corpo-linguagem-e-camadas](../fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md) | parcial | 16/28 |
@@ -34,7 +34,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-receitas-plataformas-e-notas-antigas](../fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md) | parcial | 2/6 |
 | [2026-09-28-objetivos-canal-e-idioma](../fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md) | completo | 6/6 |
 | [2026-09-28-trajetoria-e-direcao](../fontes/conversas/2026-09-28-trajetoria-e-direcao.md) | parcial — 1 sem dono | 2/3 |
-| [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 15/16 |
+| [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial — 1 sem dono | 14/16 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -175,14 +175,14 @@ Quatro iniciativas — não iniciado (0/6)
 
 ### 2026-07-07-camada-filosofica-e-a-jornada-academica
 
-Camada filosófica e a jornada acadêmica — parcial — 1 sem dono (10/12)
+Camada filosófica e a jornada acadêmica — parcial — 4 sem dono (8/12)
 
 - `#a-camada-filosofica-e-a-fonte` — **sem dono**
 - `#nivel-de-abstracao-do-doutorado` — encaixada em estudo/academia/jornada.md
 - `#tecnologia-da-informacao-como-paradigma` — encaixada em filosofia/cosmovisao/a-tese.md
-- `#ideias-globais-materia-local` — encaixada em elaborar.md, instituicao/nucleo/README.md; e na fila: instituicao/next-steps.md › Comunicação
-- `#a-solucao-mudar-o-paradigma-realidade-nao-dual` — encaixada em instituicao/nucleo/README.md
-- `#novo-paradigma-e-transformacao` — encaixada em instituicao/nucleo/README.md
+- `#ideias-globais-materia-local` — **sem dono**
+- `#a-solucao-mudar-o-paradigma-realidade-nao-dual` — **sem dono**
+- `#novo-paradigma-e-transformacao` — **sem dono**
 - `#resposta-o-centro-e-quem-sou-eu` — encaixada em filosofia/cosmovisao/a-tese.md
 - `#mestrado-pratico-doutorado-profundo` — encaixada em estudo/academia/jornada.md
 - `#sementes-ferramental-e-artigos` — encaixada em estudo/academia/jornada.md
@@ -410,10 +410,10 @@ Conversa — trajetória e direção — parcial — 1 sem dono (2/3)
 
 ### 2026-09-28-validacao-do-nucleo
 
-Conversa — validação do núcleo do EPSO — parcial (15/16)
+Conversa — validação do núcleo do EPSO — parcial — 1 sem dono (14/16)
 
 - `#desdobramentos` — encaixada em instituicao/nucleo/README.md
-- `#eficiencia` — encaixada em instituicao/nucleo/README.md
+- `#eficiencia` — **sem dono**
 - `#crencas` — encaixada em instituicao/nucleo/README.md
 - `#postura` — encaixada em instituicao/nucleo/README.md
 - `#para-que-vem-o-epso` — encaixada em instituicao/nucleo/README.md

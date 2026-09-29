@@ -96,12 +96,13 @@ e não somos o corpo; temos um corpo e não temos, porque não temos nada. O equ
 no meio do paradoxo — o que o núcleo já diz: paradoxos são
 [realidades sobrepostas](../../instituicao/nucleo/README.md#a-confirmar-no-rol).
 
-A quarta camada volta com outro nome: consciência. Alma, ser e consciência podem ser coisas
-diferentes; a consciência está ligada à [atenção](#sou-minha-atenção) — a capacidade de fazer
-diferente, sem comportamento repetitivo, a mesma de [fluir](#fluir).
+Espírito e consciência não são a mesma coisa. Espírito é a parte de mim que não tem forma, e
+espiritual é tudo o que é energético e astral. A consciência está ligada à
+[atenção](#sou-minha-atenção) — a capacidade de fazer diferente, sem comportamento repetitivo,
+a mesma de [fluir](#fluir).
 
 Fonte: `fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#espirito-e-tudo-que-nao-e-material`,
-`#o-meio-do-paradoxo`, `#consciencia-e-atencao`.
+`#o-meio-do-paradoxo`, `#consciencia-e-atencao`, `#espirito-nao-e-consciencia`.
 
 ### A depressão na porta da mente
 
@@ -300,8 +301,9 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#destino-e-in
 - **O pulsar e o vetor.** A conexão de tudo com tudo conversa com a
   [família de vetores](../hipoteses/vetor.md#a-família) — forças que unem e movem a matéria sem
   se reduzirem a ela. A relação entre as duas imagens está por assentar.
-- **Os nomes das camadas.** Alma, espírito, ser e consciência — se são a mesma camada com
-  nomes diferentes ou camadas diferentes, e onde a atenção entra na trilha.
+- **Os nomes das camadas.** Espírito e consciência são coisas diferentes. Falta assentar se
+  alma e espírito nomeiam a mesma camada, como o ser se relaciona com a consciência e onde a
+  atenção entra na trilha.
 - **As camadas e o pulsar.** A trilha de 2023 e a síntese de agora (pulsar, observador,
   atenção) contam a mesma resposta por caminhos diferentes; a forma de juntá-las está por
   encontrar, e passa pelo [meio do paradoxo](#o-meio-do-paradoxo).

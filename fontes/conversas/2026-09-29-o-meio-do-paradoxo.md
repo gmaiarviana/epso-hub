@@ -27,3 +27,8 @@ Alma, ser, espírito e consciência podem ser coisas diferentes. Mas a consciên
 
 Não preciso escrever num post que a depressão vem para todo mundo. Posso atualizar em outro
 momento como vejo a depressão.
+
+## Espírito não é consciência
+
+Espírito não é o mesmo que consciência. Espírito é a parte de mim que não tem forma. E chamo
+de espiritual tudo o que é energético e astral.

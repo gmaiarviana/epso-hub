@@ -7,8 +7,9 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 Matéria bruta para a sessão de objetivos: o que já foi dito, organizado por eixo, sem
 refinamento nem métrica. Os eixos vão determinar os objetivos.
 
-- **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho. Foco
-  importante.
+- **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho, na
+  própria empresa mas principalmente em outras: que o mercado, inclusive a própria empresa,
+  veja o incorporador além do que vê hoje. Foco importante.
 - **Rede de pessoas** — recrutar e inspirar pessoas: convidar a dialogar, colaborar, provocar,
   se voluntariar, servir, trabalhar com o que acreditam. A rede de voluntários talvez seja
   de uma etapa posterior, com o projeto mais maduro e mais disponibilidade, mas não precisa
@@ -51,6 +52,11 @@ Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tema
 ## Tom base
 
 Deriva do [núcleo](../nucleo/).
+
+Dito, a elaborar: falar a própria verdade, com posicionamento. Essa verdade pode fechar portas
+e abrir portas, e as duas estão bem, desde que seja a verdade.
+
+Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-mercado`.
 
 **Nível:** Em aberto.
 
@@ -168,11 +174,12 @@ Dito, a elaborar:
 - antes do calendário de postagens, um índice de temas; antes dele, a construção de pilares de
   autoridade. Pilares de autoridade e temáticas são coisas diferentes; a diferença está por
   elaborar;
-- gravar áudios sobre as temáticas importantes.
+- gravar áudios sobre as temáticas importantes;
+- ter constância.
 
 Fontes: `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#lastro-conteudo-e-academia`;
-`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`;
-`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#tematicas-e-pilares`.
+`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#linha-editorial-e-numero-de-tematicas`,
+`#eixo-mercado`; `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#tematicas-e-pilares`.
 
 **Nível:** Em aberto.
 

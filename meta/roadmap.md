@@ -24,8 +24,9 @@ Nesta ordem:
    lista, em ordem, do que o destrava. Sobe para cá o que vier de qualquer outro tier e sai do
    tier de origem; de uma fonte que sobe só em parte, o resto fica onde estava. O agente propõe
    a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
-   Ao fechar um item, o que ficou de fora volta nomeado por seção, nunca como "o resto"; o que
-   fica só na fonte, sem ser pendência, se declara como decisão na entrada da fonte.
+   Ao fechar um item, o que ficou de fora volta nomeado por seção (ver
+   [Fontes na fila](#fontes-na-fila)); o que fica só na fonte, sem ser pendência, é dispensado
+   nos metadados dela.
 3. **Trabalhos em aberto** — refatoração e migração em curso. Mudança estrutural grande
    (mover pastas, renomear blocos) entra aqui antes de começar, quebrada em etapas por esforço,
    uma por PR, as de baixo custo primeiro.
@@ -39,6 +40,21 @@ Nesta ordem:
 Cada item de Foco diz a ação: o que se faz, com qual fonte e em qual arquivo de destino.
 
 Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador retomá-las.
+
+## Fontes na fila
+
+O encaixe de uma fonte pode ser parcial; o registro do que falta, não. A entrada de uma fonte
+na fila nomeia cada seção pela âncora (`#secao`) — nunca por intervalo ("de `#a` a `#b`"), "o
+resto", "parte já encaixada" ou "conferir o que falta". Quando todas as seções vão juntas, o
+item diz "arquivo inteiro". Documento bruto, sem seções, entra pelas ideias, nomeadas uma a uma.
+
+Sintoma que a regra previne: a seção que some da fila atrás de uma forma vaga sem ter chegado
+ao acervo — ninguém a procura, porque a fila diz que está coberta.
+
+O estado de cada seção — encaixada, na fila, dispensada ou sem dono — está em
+[fontes/cobertura.md](../fontes/cobertura.md), gerado por [cobertura.py](cobertura.py). A
+fila guarda a decisão (prioridade e destino); a cobertura mostra o que falta. Seção sem dono
+é alarme: entra na fila ou é dispensada ([processo](processo-transcricoes.md#cobertura)).
 
 ## Como se atualiza
 

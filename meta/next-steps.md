@@ -25,10 +25,3 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   mínimo em aberto; as provocações ao incorporador vivem em `elaborar.md`. Já vale para
   `linguagem`, `ecocidades` e `inteligencia-potencializada`; falta aplicar em `precisao`,
   `quem-sou-eu`, `ancora` e `vetor`.
-- **Auditoria de cobertura das fontes** — cruzar cada seção de cada arquivo de `fontes/` com
-  as referências fora de `fontes/` (encaixe ou item de fila) e listar a seção sem dono. Sintoma
-  que a motiva: um "já está encaixado" na fila que não era verdade passou despercebido
-  (2026-09-24 `#excesso-de-racionalidade`). Cuidados medidos na primeira rodada: comparar
-  âncoras sem acento (há citações com e sem) e reconhecer documento citado pelo nome curto,
-  sem data; o cruzamento pega a seção sem dono, não a nuance perdida. A decidir: script em
-  `meta/` e se vira passo do [encerramento](processo-encerramento.md) ou rotina periódica.

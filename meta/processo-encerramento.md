@@ -80,6 +80,11 @@ item entre frentes mudou, e `meta/next-steps.md` se ficou pendência de processo
 mecânicas (processual separado de pontual, item concluído sai da lista) estão no
 [roadmap.md](roadmap.md) — não duplicar aqui.
 
+Depois, rodar `python meta/cobertura.py` para regerar
+[fontes/cobertura.md](../fontes/cobertura.md), que entra no mesmo commit. Seção que passou a
+aparecer sem dono nesta sessão é pendência esquecida: vai para a fila, nomeada, ou o agente
+propõe a dispensa ao incorporador ([cobertura](processo-transcricoes.md#cobertura)).
+
 ## 3. Registrar ideias da conversa, se a sessão gerou acervo
 
 Se a conversa produziu ideias que são material de acervo (pensamento do

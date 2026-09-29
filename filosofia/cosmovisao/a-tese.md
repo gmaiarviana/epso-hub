@@ -48,8 +48,8 @@ Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
 
 ## O que parte das teses
 
-- **A tese de doutorado** — outra peça: objetiva, em termos acadêmicos, uma fatia destas teses.
-  Ainda não definida; vive em [[foco]] (`estudo/academia/foco.md`).
+- **A tese de doutorado** — outra peça: a junção destas teses, em termos acadêmicos. Ainda não
+  definida; vive em [[foco]] (`estudo/academia/foco.md`).
 - **O manifesto** — as crenças organizadas numa narrativa para quem vai colaborar; deriva do
   núcleo e vive na instituição.
 

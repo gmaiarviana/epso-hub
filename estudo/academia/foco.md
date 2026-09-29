@@ -5,10 +5,13 @@ ficam referências e candidatos, não cravos.*
 
 A tese de doutorado não é a [tese do EPSO](../../filosofia/cosmovisao/a-tese.md). A do
 EPSO são as crenças argumentadas em que ele se baseia; a do doutorado é objetiva, em
-termos científicos e acadêmicos, e toma aquelas teses como base. Ela ainda não está
-definida, e não vai estar enquanto não houver um trabalho de estudo e definição. Aqui
-fica o recorte — que fatia estudar e por quê. A logística de entrada (fases, mestrado
-× doutorado) vive em [jornada](jornada.md).
+termos científicos e acadêmicos, e idealmente reúne aquelas teses. Ela ainda não está
+definida, e não vai estar enquanto não houver um trabalho de estudo e definição.
+
+As teses podem ser contadas de muitas maneiras. Aqui se coleta o que vale a pena estudar e
+tem espaço para ser estudado na academia — a narrativa que faz sentido e tem espaço para ser
+elaborada. O recorte é a porta de entrada, não o limite da tese. A logística de entrada
+(fases, mestrado × doutorado) vive em [jornada](jornada.md).
 
 Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
 
@@ -44,8 +47,8 @@ Fonte: `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vid
 
 ## A escada da tese
 
-A tese do EPSO não tem um ângulo só nem um título só. Dela descem degraus, e o
-doutorado é um deles:
+A tese não tem um ângulo só nem um título só. O doutorado é a junção: reúne as teses
+do EPSO em termos acadêmicos. Dele descem degraus:
 
 - **Doutorado** — as perguntas e as ressignificações de crenças, que pedem embasamento.
 - **Mestrado** — camadas mais práticas, boas dissertações.

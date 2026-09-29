@@ -19,7 +19,7 @@ os blocos separam assuntos.
 - **Núcleo × filosofia** — a filosofia é o pensamento do EPSO; o núcleo é a régua que decide
   o que pertence a ele (propósito, valores, postura). Uma crença mora no núcleo em uma frase;
   a tese — a crença argumentada — mora na filosofia. O manifesto deriva do núcleo e mora na
-  instituição; a tese de doutorado, recorte acadêmico das teses, mora em estudo.
+  instituição; a tese de doutorado, que reúne as teses em termos acadêmicos, mora em estudo.
 - **Comunicação** — as vozes do incorporador e do EPSO são uma só por enquanto.
 - **Contexto** — onde o incorporador está (carreira, empresa atual, lastro, momento). O que é
   logística de estudo fica em estudo; o contexto dá o porquê.

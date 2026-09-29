@@ -9,6 +9,7 @@ argumento de cada crença mora na filosofia; aqui fica a régua.
 Fontes, referenciadas abaixo por rótulo e `#secao`:
 
 - **[núcleo]** `fontes/conversas/2026-09-27-o-nucleo-do-epso.md`
+- **[validação]** `fontes/conversas/2026-09-28-validacao-do-nucleo.md`
 - **[propósito]** `fontes/documentos/2026-09-27-proposito-epso.raw.md`
 - **[quem somos]** `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`
 - **[construtora]** `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md`
@@ -21,27 +22,33 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 Contribuir com a sociedade na construção de uma nova civilização, com novos paradigmas. Faço
 isso trazendo clareza.
 
+Clareza é organizar o pensamento: tirar a ambiguidade e a confusão, pôr cada camada, cada
+argumento, cada ideia no seu lugar, respeitando a sua existência — um olhar mais próximo da
+realidade, sem inflar nem reduzir. Ela vem da observação sem julgamento, e a observação vem
+do silêncio da mente, em flow ou em introspecção; os caminhos são muitos.
+
 Por que clareza: a clareza de pensamento vem antes da mudança de comportamento. Crenças geram
 comportamentos, comportamentos geram rotinas, rotinas geram resultados (ver
 [a tese](../../filosofia/cosmovisao/a-tese.md#o-centro-a-pergunta-quem-sou-eu)).
 
 Como: experimentar e provar na prática que é possível fazer diferente. Cada projeto é um
 experimento vivo — é a balança do [README](../../README.md#a-balança-pensamento-e-prática).
+Só filosofar não dá exemplo nem arrasta, e ninguém é obrigado a seguir uma filosofia. Então
+escolho problemas que eu mesmo vivo, resolvo-os com a minha filosofia e deixo a solução
+disponível para quem quiser aproveitar. O problema é o veículo; a mudança de paradigma é o
+fim. Começo pela minha casa, comunidade e estilo de vida, e a rede cresce por convite — sem
+esperar ficar pronto.
 
-Desdobramentos:
+O EPSO dá exemplos, conecta pessoas e ideias, faz tecnologia e a deixa acessível, e busca que
+falemos a mesma língua, mesmo com idiomas diferentes. Não vem para concorrer, vem para
+complementar: precisa de quem trabalha em camadas complementares — pesquisa de campo, outras
+linguagens e formatos.
 
-- Impulsionar o despertar da consciência coletiva — ter consciência é agir com intenção (ver
-  [evoluir com intenção](../../filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção)).
-- Promover o bem-estar de todos os seres.
-- Permitir o desenvolvimento do potencial criativo.
-- Criar ambiente para elaborar ideias, aprofundar discussões e transformar conceitos
-  abstratos em realizações concretas.
-- Mostrar que é possível um novo modelo de instituição, que equilibre bem-estar e trabalho.
+**Nível:** Decidido.
 
-**Nível:** propósito Decidido; desdobramentos Estimado (média).
-
-Fonte: [núcleo]`#propósito`; [narrativa] `## 1. Purpose`; [construtora] (Propósito);
-[propósito] (Propósito e resposta sobre consciência coletiva).
+Fonte: [núcleo]`#propósito`; [validação]`#clareza`, `#para-que-vem-o-epso`,
+`#por-que-o-epso`, `#resolver-os-próprios-problemas`; [narrativa] `## 1. Purpose`;
+[construtora] (Propósito); [propósito] (Propósito).
 
 ## Valores
 
@@ -64,22 +71,57 @@ principais", "colaboração é uma palavra-chave", No que acreditamos); [constru
 `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#o-que-do-documento-institucional-é-do-epso`;
 [narrativa] `## 2. Values`.
 
-## Régua: o regenerativo
+## Régua: fluir sem dissipar
 
-Andar na linha do que é regenerativo. Diante de uma escolha, a pergunta é se ela regenera. Cada
-iniciativa traduz a régua em critérios próprios — a construtora, por exemplo, em critérios
-técnicos de materiais e sistemas.
+O fluxo não deve resistir, travar, dissipar energia. Viver causa impacto — morar numa casa já
+mexe no entorno —; a pergunta é o tamanho dele:
 
-**Nível:** Decidido. O que conta como regenerativo fora da construção: Em aberto.
+- É reversível?
+- Quanto custa de energia?
+- O tempo vai para o que importa, ou para resolver o que importa pouco?
 
-Fonte: [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`.
+Eficiência é o menor custo de energia para o maior benefício, satisfação, conforto e qualidade
+de vida. Exemplo, num espectro cada vez mais ineficiente: limpar a casa o dia todo; trabalhar
+o dia todo para pagar quem limpe; explorar alguém para que passe o tempo dele limpando a sua
+casa.
+
+Cada iniciativa traduz a régua em critérios próprios. Na construção, ela é o regenerativo:
+critérios técnicos de materiais e sistemas.
+
+**Nível:** Decidido. A tradução em critérios fora da construção: Em aberto.
+
+Fonte: [validação]`#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
+[núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`.
 
 ## Crenças
 
 Cada crença em uma frase; o argumento vive onde o link aponta.
 
-- **Coletividade no lugar da individualidade.** Nos enxergar como indivíduos isolados é a raiz
-  do resto ([a tese](../../filosofia/cosmovisao/a-tese.md#o-centro-a-pergunta-quem-sou-eu)).
+- **Somos mais que a forma.** Somos vórtices de energia; a matéria é um estado possível entre
+  muitos, como a posição de um elétron. Não somos o nosso corpo nem a nossa mente — temos um
+  corpo e uma mente.
+- **O que precisa de muita energia para ficar onde está não se sustenta** — a entropia.
+- **A raiz é a desconexão com nós mesmos** — nos enxergar como indivíduos isolados
+  ([a tese](../../filosofia/cosmovisao/a-tese.md#o-centro-a-pergunta-quem-sou-eu)). A
+  desigualdade é sintoma: apego ao conforto, medo de morrer, querer ser servido, que só
+  funciona quando outros precisam se submeter. Subjugar a natureza e manter uma civilização
+  que gasta energia demais em logística, poluição e lixo também são sintomas.
+- **Conforto é saudável; o medo de perdê-lo é a prisão.** Querer prazer o tempo todo é sinal
+  de que o prazer deixou de equilibrar e passou a viciar.
+- **Soltar o apego não vem por convencimento.** Vem de condições: silêncio, sensibilidade,
+  reconexão com a natureza, sair do estado de luta ou fuga, sentir-se amado, ter tempo livre.
+- **Gostamos de entender.** Somos materiais, mas também informacionais: gostamos de
+  coerência, de lastro, de concordar. É o porquê da transparência.
+
+**Nível:** Decidido.
+
+Fonte: [validação]`#a-camada-sem-forma`, `#a-desconexão`, `#entropia-e-o-tamanho-do-impacto`,
+`#conforto-e-medo`, `#soltar-o-apego`, `#crenças`.
+
+### A confirmar no rol
+
+O conteúdo tem a concordância do incorporador; a formulação ainda não é dele.
+
 - **Juntos vamos mais longe.**
 - **Somos seres integrais:** equilibramos eficiência com pessoalidade
   ([trabalho](../../filosofia/hipoteses/trabalho.md#corpo-mente-e-alma)).
@@ -98,7 +140,7 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
   trabalhos repetitivos; tecnologia são ferramentas que melhoram a vida das pessoas
   ([potencializar, não substituir](../../filosofia/hipoteses/inteligencia-potencializada.md#potencializar-não-substituir)).
 
-**Nível:** Estimado (média) — primeira versão.
+**Nível:** Estimado (média).
 
 Fonte: [núcleo]`#as-crenças-do-epso`; [propósito] (Crenças); [quem somos] (Quem somos, No que
 acreditamos).
@@ -110,7 +152,7 @@ acreditamos).
 1. **Estabelecer bases** — antes de discutir, garantir que todos entendam a mesma coisa.
 2. **Aceitar a realidade** — como ela é, não como gostaríamos.
 3. **Imaginar o futuro** — sonhar grande, sem medo.
-4. **Começar pequeno** — fazer algo hoje mesmo.
+4. **Começar pequeno** — fazer algo hoje mesmo, sem esperar ficar pronto.
 
 **Nível:** Decidido.
 
@@ -125,8 +167,14 @@ construtiva. Quando outra servir melhor, troca-se.
 
 **Nível:** Estimado (alta).
 
-**Transformar em vez de combater.** A mudança vem por agregação, convencimento e
-demonstração.
+**Complementar, não concorrer.** Todas as pessoas são importantes e necessárias.
+
+**Nível:** Decidido.
+
+**Transformar em vez de combater.** A mudança vem por agregação e demonstração — a
+mentalidade não muda por convencimento.
+
+**Nível:** Estimado (alta).
 
 **Chegar para contribuir e aprender** — nem turista curioso, nem salvador.
 
@@ -137,10 +185,28 @@ demonstração.
 espiritualidade que só se sustenta com retiros e mensalidades altas pagas pelo fluxo financeiro
 urbano.
 
-**Nível:** Estimado (média) — traços de notas antigas, a validar.
+**Nível:** Estimado (média) — traços de notas antigas.
 
-Fonte: [núcleo]`#o-método-é-o-framework-base`, `#tudo-é-tecnologia`; [quem somos] (Base de pensamento, Plataforma
-EPSO); [construtora] (Postura epistemológica); [narrativa] `## 1. Purpose`.
+Fonte: [núcleo]`#o-método-é-o-framework-base`, `#tudo-é-tecnologia`; [validação]`#postura`,
+`#por-que-o-epso`, `#resolver-os-próprios-problemas`, `#soltar-o-apego`; [quem somos] (Base de
+pensamento, Plataforma EPSO); [construtora] (Postura epistemológica); [narrativa] `## 1. Purpose`.
+
+## Parcerias
+
+O critério é a disposição de se transformar: mudar hábitos, aceitar os custos, abrir mão. Quem
+está em transição é bem-vindo — o EPSO entra para que a transição se conclua, de 40% a 100%.
+Todos fazem parte do sistema em algum grau; a linha passa entre os incomodados com ele e os
+satisfeitos.
+
+Sem negócio com quem lucra roubando a atenção das pessoas, com métodos destrutivos,
+maliciosos, viciosos ou injustos, ou satisfeito com um sistema insustentável.
+
+O envolvimento tem camadas: quem não é sócio idealizador pode ser cliente. O que o atraiu,
+mesmo que seja só o custo, já é potencial.
+
+**Nível:** critério Decidido; os níveis de colaboração Em aberto.
+
+Fonte: [validação]`#parcerias`.
 
 ## Como agimos hoje
 
@@ -162,19 +228,27 @@ Fonte: [núcleo]`#cedo-para-dizer-se-é-régua`; [quem somos] (O que fazemos); [
 
 ## Objetivos
 
-O que buscamos alcançar na jornada.
+O que o EPSO quer ver no mundo, no médio e longo prazo.
 
-- **Combater a desigualdade** — reforma agrária, comida na mesa das pessoas, qualidade de vida.
-- **Um novo modelo econômico sustentável**, local e orgânico, fora do paradigma cartesiano
-  mecanicista: sem estoque demais, sem marketing que estimula o consumismo, sem roubo de
-  atenção.
-- **Descentralizar** — democratizar o acesso a ferramentas e diminuir a dependência das grandes
-  instituições.
-- **Experimentar e disponibilizar um modelo de negócio** sustentável e escalável.
-- **Transmitir o novo paradigma**, uma nova maneira de ver o mundo.
-- **Ajudar pessoas que estão sofrendo.**
+- **Autossustentabilidade** — pegada de carbono adequada; sem depender de uma rede logística
+  global elaborada; sem resíduos que durem muito mais que a nossa vida.
+- **Ninguém sofrendo por causas sociais e culturais** — fome, falta de teto, falta de agasalho.
+- **Ar, água e comida de qualidade**, com energia vital.
+- **O bem-estar de todos os seres** — a colaboração é sobretudo entre humanos, mas alcança,
+  direta ou indiretamente, a noosfera, a biosfera e a geosfera.
+- **Todos se expressando** — falando suas ideias, vivendo seus potenciais.
+- **Menos efeitos climáticos causados pela ação humana.**
 
-**Nível:** combater a desigualdade Decidido; os demais Estimado (média).
+**Nível:** Decidido.
 
-Fonte: [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`; [propósito]
-(Objetivos, nota sobre ferramentas descentralizadas).
+- **Descentralizar** — democratizar o acesso a ferramentas e ao conhecimento, e diminuir a
+  dependência das grandes instituições: a ciência não pode ser financiada por interesses de
+  poucos nem ser privilégio de quem tem dinheiro.
+- **O despertar da consciência coletiva** — ter consciência é agir com intenção (ver
+  [evoluir com intenção](../../filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção)).
+
+**Nível:** Estimado (alta).
+
+Fonte: [validação]`#objetivos`, `#desdobramentos`, `#quem-decide-o-que-faz-sentido`;
+[propósito] (Objetivos, resposta sobre consciência coletiva, nota sobre ferramentas
+descentralizadas).

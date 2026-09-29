@@ -24,7 +24,10 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    - como você quer ser visto — o personagem, com a identidade de filósofo como insumo;
    - quais são os pilares de autoridade e como se diferenciam das temáticas;
    - quais três a nove temáticas, a partir do universo em Temas.
-5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens esperam o [núcleo](nucleo/).
+5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens derivam do [núcleo](nucleo/README.md). Os traços de postura são praticamente o tom: complementar em vez de concorrer, sem falar *contra*, nem turista nem salvador, postar o que se vive, mostrar o que alguém de renda comum consegue copiar.
+6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:
+   matéria local, informação global — a comida vem de perto, as ideias circulam pelo mundo.
+   Fonte: `fontes/conversas/2026-09-28-validacao-do-nucleo.md#objetivos`.
 
 ### Adiados
 

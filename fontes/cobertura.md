@@ -54,6 +54,28 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
+| [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.raw.md) | pendente | — |
+| [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
+| [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
+| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.raw.md) | pendente | — |
+| [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
+| [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
+| [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | pendente | — |
+| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md) | pendente | — |
+| [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | pendente | — |
+| [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.raw.md) | pendente | — |
+| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.raw.md) | pendente | — |
+| [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | pendente | — |
+| [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
+| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.raw.md) | pendente | — |
+| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.raw.md) | pendente | — |
+| [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
+| [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
+| [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md) | na fila | — |
+| [2025-03-06-sobre-filosofia](../fontes/transcricoes/raw/2025-03-06-sobre-filosofia.raw.md) | na fila | — |
+| [2025-03-06-sobre-o-metodo](../fontes/transcricoes/raw/2025-03-06-sobre-o-metodo.raw.md) | na fila | — |
+| [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/raw/2025-04-17-sobre-a-plataforma-epso.raw.md) | na fila | — |
+| [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md) | na fila | — |
 
 ## Pendências
 
@@ -147,3 +169,63 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - contexto/next-steps.md: `#filosofo-fora-da-cara-publica`
 - sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#posicionamento`, `#desejo-ressignificado`
+
+### 2026-09-29-a-realidade-como-ela-e
+
+- pendente, sem nota na fila
+
+### 2026-09-29-apresentacao
+
+- pendente, sem nota na fila
+
+### 2026-09-29-aula-de-artes
+
+- pendente, sem nota na fila
+
+### 2026-09-29-e-assim-mudamos-o-mundo
+
+- pendente, sem nota na fila
+
+### 2026-09-29-explicado-homo-activus
+
+- pendente, sem nota na fila
+
+### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
+
+- pendente, sem nota na fila
+
+### 2026-09-29-glossario
+
+- pendente, sem nota na fila
+
+### 2026-09-29-manifesto-eamom
+
+- pendente, sem nota na fila
+
+### 2026-09-29-manifesto-homo-activus
+
+- pendente, sem nota na fila
+
+### 2026-09-29-manifesto-organizacao
+
+- pendente, sem nota na fila
+
+### 2026-09-29-o-eu-como-um-universo
+
+- pendente, sem nota na fila
+
+### 2026-09-29-o-obvio-precisa-ser-dito
+
+- pendente, sem nota na fila
+
+### 2026-09-29-organizacao
+
+- pendente, sem nota na fila
+
+### 2026-09-29-personalidades
+
+- pendente, sem nota na fila
+
+### 2026-09-29-readme-do-livro
+
+- pendente, sem nota na fila

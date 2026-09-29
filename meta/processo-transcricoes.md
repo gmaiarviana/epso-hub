@@ -70,7 +70,6 @@ Passos do encaixe:
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
 - Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada ou entrou no tier Encaixar do [next-steps da raiz](../next-steps.md), nomeada pela âncora, como encaixe com destino. Só então o item de encaixe sai da fila.
-- Seção com mais de uma ideia (seções antigas não se revisam em lote): divide-se antes de encaixar, sob validação do incorporador, e as citações que a [cobertura](#cobertura) aponta para ela se atualizam na mesma mudança.
 - Encaixe parcial de uma seção: a mesma mudança que encaixa uma ideia registra na fila as que ficaram, nomeadas. A cobertura não enxerga ideia dentro da seção — este é o único momento em que a sobra aparece.
 - Conferir ideia a ideia, não só seção a seção: uma seção citada pode ter perdido ideias na síntese. Antes de declarar o encaixe pronto, reler cada seção e procurar cada ideia no destino; o que se perdeu volta ao texto, vira provocação ou ganha destino na fila. A conferência vai para o incorporador como tabela de cobertura (seção → onde ficou).
 

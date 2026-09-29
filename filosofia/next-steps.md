@@ -1,7 +1,7 @@
 # Próximos passos — Filosofia
 
-Cosmovisão (o assentado) e hipóteses (em lapidação). A escolha do centro da
-tese vive em `cosmovisao/a-tese.md` e é rastreada no next-steps da raiz; aqui ficam os
+Cosmovisão (o assentado) e hipóteses (em lapidação). O mapa das teses vive em
+`cosmovisao/a-tese.md`; a pergunta sobre o centro, em `elaborar.md`. Aqui ficam os
 passos internos da frente.
 
 - **Âncora — refino** (`hipoteses/ancora.md`): fechar as "Consequências (em aberto)" à

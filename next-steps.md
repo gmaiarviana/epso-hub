@@ -75,13 +75,6 @@ ou do 2.
 
 ## 4. Encaixar
 
-- **Conversa 2026-09-27 — duas teses**
-  (`fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`) — separar a tese do
-  EPSO (as crenças em que ele se baseia; "quem sou eu" no centro, com outras ao lado) da tese
-  do doutorado (objetiva, em termos acadêmicos; ainda não definida, depende de estudo). Hoje
-  `filosofia/cosmovisao/a-tese.md` mistura as duas: a discussão identidade × paradigma da
-  informação e o recorte acadêmico são do doutorado (`estudo/academia/foco.md`). As crenças do
-  EPSO já estão no [núcleo](instituicao/nucleo/README.md#crenças).
 - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
   — de `#equilibrio-materia-e-ideias`, o paradoxo prático × abstrato como lugar do
   entendimento da realidade (a borda do estudo já está em `estudo/academia/foco.md`);

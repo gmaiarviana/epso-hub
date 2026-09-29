@@ -1,13 +1,16 @@
 # Foco — o que estudar
 
-*Em aberto. Registra as possibilidades e a direção do interesse, não decisões. O
-recorte fino decorre da discussão identidade × paradigma da informação
-(`filosofia/cosmovisao/a-tese.md`) — enquanto ela não assenta, aqui ficam
-referências e candidatos, não cravos.*
+*Em aberto. Registra as possibilidades e a direção do interesse, não decisões — aqui
+ficam referências e candidatos, não cravos.*
 
-A substância da tese vive em `filosofia/`; aqui fica só o recorte — que fatia
-estudar e por quê. A logística de entrada (fases, mestrado × doutorado) vive em
-[jornada](jornada.md).
+A tese de doutorado não é a [tese do EPSO](../../filosofia/cosmovisao/a-tese.md). A do
+EPSO são as crenças argumentadas em que ele se baseia; a do doutorado é objetiva, em
+termos científicos e acadêmicos, e toma aquelas teses como base. Ela ainda não está
+definida, e não vai estar enquanto não houver um trabalho de estudo e definição. Aqui
+fica o recorte — que fatia estudar e por quê. A logística de entrada (fases, mestrado
+× doutorado) vive em [jornada](jornada.md).
+
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
 
 ## A camada que move
 
@@ -41,7 +44,8 @@ Fonte: `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vid
 
 ## A escada da tese
 
-A tese não tem um ângulo só nem um título só. Dela descem degraus:
+A tese do EPSO não tem um ângulo só nem um título só. Dela descem degraus, e o
+doutorado é um deles:
 
 - **Doutorado** — as perguntas e as ressignificações de crenças, que pedem embasamento.
 - **Mestrado** — camadas mais práticas, boas dissertações.
@@ -67,7 +71,16 @@ Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-socie
   e ao formalismo em aberto do [vetor](../../filosofia/hipoteses/vetor.md): a similaridade
   de cosseno é um produto escalar normalizado. Fonte:
   `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#medir-se-duas-palavras-apontam-para-a-mesma-ideia`.
-- **A discussão que decide o recorte** — se o doutorado é *sobre a identidade* (com a
-  tecnologia da informação como consequência) ou *sobre impulsionar o paradigma da
-  informação* (com a identidade como premissa-raiz). Muda departamento e leituras.
-  Aberta em `filosofia/cosmovisao/a-tese.md`.
+- **Identidade × paradigma da informação** — o centro da tese do EPSO é a identidade, mas
+  o doutorado descrito gravita fortemente sobre a tecnologia da informação e o novo
+  paradigma. Falta clareza sobre se o doutorado é *sobre a identidade* (com a tecnologia
+  como consequência) ou *sobre como impulsionar o paradigma da informação para ser
+  benéfico*, tendo a identidade como premissa-raiz. A resposta muda o recorte e o
+  departamento (filosofia × ciência da informação × interdisciplinar). Um dado a favor do
+  lado da informação: um novo paradigma de tecnologia da informação dá as bases
+  colaborativas globais de que os sistemas de cidades sustentáveis precisam — *é assim que
+  talvez eu conecto tudo*. Mas ainda sem saber por onde começar, nem em que área se
+  encaixa. O argumento da informação vive em
+  [linguagem](../../filosofia/hipoteses/linguagem.md). Fonte:
+  `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#tecnologia-da-informacao-como-paradigma`,
+  `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#como-tudo-se-conecta`.

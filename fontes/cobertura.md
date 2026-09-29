@@ -27,7 +27,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado | 0/5 |
 | [2026-09-26-trabalho-e-novo-paradigma](../fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md) | parcial | 6/7 |
 | [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 3/9 |
-| [2026-09-27-as-duas-teses-e-a-migracao](../fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md) | parcial | 5/6 |
+| [2026-09-27-as-duas-teses-e-a-migracao](../fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md) | completo | 6/6 |
 | [2026-09-27-estrategia-e-frentes](../fontes/conversas/2026-09-27-estrategia-e-frentes.md) | completo | 1/1 |
 | [2026-09-27-mudar-de-emprego](../fontes/conversas/2026-09-27-mudar-de-emprego.md) | completo | 1/1 |
 | [2026-09-27-o-nucleo-do-epso](../fontes/conversas/2026-09-27-o-nucleo-do-epso.md) | parcial | 6/7 |
@@ -123,10 +123,6 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-09-27-a-construtora-e-o-epso
 
 - sem nota na fila: `#o-epso-vai-alem-de-ti`, `#a-construtora-tem-missao-propria`, `#sem-forma-juridica-para-a-construtora`, `#um-recorte-de-quem-sou`, `#servidor-de-inferencia`, `#tipos-de-sessao`
-
-### 2026-09-27-as-duas-teses-e-a-migracao
-
-- Encaixar: `#duas-teses`
 
 ### 2026-09-27-o-nucleo-do-epso
 

@@ -15,7 +15,16 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    Todos os textos do corpus foram validados pelo incorporador; os critérios de extração
    (peso do campo `ia`, do `genero`) se decidem nessa sessão. Resultado → Tom base em
    [linha-editorial.md](comunicacao/linha-editorial.md).
-4. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md). Público, chamados, temas, canal e objetivos (brutos) já têm primeira versão. Faltam refinar os objetivos (cenário e métrica), elaborar a [imagem](comunicacao/imagem.md) e, dela, escolher as temáticas; referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens esperam o [núcleo](nucleo/).
+4. **Objetivos e imagem** — a sessão de decisão. O que já foi dito está em
+   [linha-editorial.md](comunicacao/linha-editorial.md#objetivos) e
+   [imagem.md](comunicacao/imagem.md). Perguntas a responder:
+   - dos objetivos brutos, qual é o principal; que cenário mostra cada um alcançado, e como
+     medir;
+   - aprender (conversa 2026-09-26) é objetivo ou jeito de fazer?
+   - como você quer ser visto — o personagem, com a identidade de filósofo como insumo;
+   - quais são os pilares de autoridade e como se diferenciam das temáticas;
+   - quais três a nove temáticas, a partir do universo em Temas.
+5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens esperam o [núcleo](nucleo/).
 
 ### Adiados
 

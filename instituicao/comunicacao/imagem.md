@@ -1,7 +1,9 @@
 # Imagem
 
-A imagem que a comunicação quer construir. Ainda não foi elaborada; aqui está o que já foi dito
-sobre ela.
+A imagem do personagem que a comunicação vai construir. Quem o incorporador é vive em
+[contexto](../../contexto/); aqui, como ele quer ser visto. Ainda não foi elaborada.
+
+## O que já foi dito
 
 - Trazer clareza sobre qual imagem se quer construir ajuda a definir os temas, as temáticas que
   se quer reforçar e em que se vai tornar autoridade.
@@ -15,3 +17,14 @@ Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tem
 `#imagem-linguagem-e-publico`.
 
 **Nível:** Em aberto.
+
+## Insumos em outros lugares
+
+- **Identidade** — filósofo construindo uma nova sociedade; os temas são aplicações, não a
+  identidade ([direção](../../contexto/direcao.md#filósofo-construindo-uma-nova-sociedade)).
+- **Pilares de autoridade** — diferentes das temáticas
+  ([linha editorial](linha-editorial.md#calendário)). A pergunta de quais competências da
+  narrativa de carreira viram pilares está em
+  [contexto/next-steps.md](../../contexto/next-steps.md#trabalho), com os diferenciais como
+  insumo.
+- **Objetivos, público e temas** — na [linha editorial](linha-editorial.md).

@@ -25,6 +25,9 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    - quais são os pilares de autoridade e como se diferenciam das temáticas;
    - quais três a nove temáticas, a partir do universo em Temas.
 5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens esperam o [núcleo](nucleo/).
+6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:
+   matéria local, informação global — a comida vem de perto, as ideias circulam pelo mundo.
+   Fonte: `fontes/conversas/2026-09-28-validacao-do-nucleo.md#objetivos`.
 
 ### Adiados
 

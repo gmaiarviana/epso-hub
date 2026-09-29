@@ -17,7 +17,7 @@ Blocos por assunto. Fronteiras entre eles em [meta/estrutura/criterios.md](meta/
   - **hipoteses/** — hipóteses em aberto, recortes que podem virar pesquisa.
 - **estudo/** — o processo de aprender: cuida da logística (o que ler, onde estudar, que experimento roda); o que se aprende é encaixado em filosofia ou na instituição.
   - **academia/** — alavanca pessoal a serviço do EPSO: vocabulário, respaldo, relacionamentos e força para engajar. É meio, não fim.
-- **contexto/** — onde o incorporador está: trajetória, carreira, a empresa atual, lastro e o momento.
+- **contexto/** — onde o incorporador está e para onde caminha: trajetória, direção, a empresa atual, trabalho, lastro e o momento.
   - **trabalho/** — o que o emprego precisa ser para servir o EPSO: a régua do novo paradigma e os radares de casos e de emprego.
 - **instituicao/** — a organização do EPSO: o núcleo, as iniciativas e o que as serve.
   - **nucleo/** — o que é o EPSO: propósito, valores, crenças e postura. A régua que decide o que pertence ao EPSO. Herdada pelas iniciativas.

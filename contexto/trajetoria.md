@@ -1,7 +1,7 @@
 # Trajetória
 
-*Em construção. Registra onde o incorporador está e para onde caminha — carreira, a empresa atual,
-lastro, o momento. Alimentado aos poucos; divide-se em arquivos quando crescer.*
+*Em construção. De onde o incorporador vem e onde está — formação, arco, traços, a empresa
+atual. Para onde caminha vive em [direção](direcao.md).*
 
 ## Formação e disposição
 
@@ -11,29 +11,65 @@ pôr a mão na massa: projetar, gerir e construir. É um recorte do perfil, não
 Fonte: `fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md` (aba
 Identidade, "Quem sou"); `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#um-recorte-de-quem-sou`.
 
-## A estratégia
+## O arco
 
-O foco é o filosófico: estabelecer novas bases. E estabelecer base não é só registrar e falar —
-é fazer. Para fazer é preciso engajar; para engajar, ferramentas, argumentos e peso no
-discurso; para negociar, ter construído. Daí a decisão de investir no mestrado
-([por que a academia](../estudo/academia/jornada.md#por-que-a-academia)) — uma das
-ferramentas, não todas. As outras se constroem na vida espiritual, na parentalidade e em
-frentes que andam juntas, cada uma com seu foco:
+Desde jovem, equilibro o gosto por me aprofundar num assunto com o pragmatismo — por isso a
+engenharia civil: raciocínio lógico aplicado direto na sociedade. A gestão é o ofício desde o
+primeiro estágio, em 2013. A construção civil foi o primeiro canal
+para exercê-la: de estagiário a engenheiro responsável por uma obra de quinze andares, com cerca
+de trinta pessoas, em um ano e meio. Depois veio a tecnologia — automação, análise de dados num
+sistema de crédito com IA, e então produto, programa e projetos. Cada troca teve um motivo
+articulado; nunca repeti uma posição. O detalhe de cada fase vive na narrativa de carreira,
+documento externo.
 
-- **trabalho em tecnologia**, aprendendo cada vez mais e crescendo na carreira como gestor e
-  empreendedor — o que se aprende ali (tecnologia, governança) serve às iniciativas do EPSO;
-- **as [iniciativas](../instituicao/iniciativas/README.md)** — várias frentes de trabalho em
-  que se envolver no longo prazo, em paralelo. A construtora é uma delas: meio, não fim — dar
-  opções, aprender, obter dados e estimular discussões;
-- **conexão com comunidades e ecovilas** no tempo livre, entendendo onde morar e com o que
-  contribuir. Não é estratégia estritamente profissional; aproximar essas buscas do trabalho,
-  até fundi-las, é uma possibilidade.
+Fonte: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 4. Narrative Arc`);
+`fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, abertura e
+Motivo 1).
 
-Todas compõem uma jornada só — a jornada espiritual —, com focos diferentes em cada momento.
+### Por que saí da construção
 
-Fontes: `fontes/transcricoes/2026-07-04-estrategia-profissional.md#sequenciamento-iniciativas`,
-`#decisao-mestrado`; `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#construir-ferramentas`,
-`#jornada-com-intencao`.
+O futuro do trabalho precisa de gente que entenda de dados. A construção no Brasil usa
+metodologias construtivas de mais de cinquenta anos: se viesse uma inovação, eu fatalmente
+seria substituído. Somavam-se a instabilidade — o fim da obra é o fim do emprego —, a
+dependência da política e da economia, a insalubridade, o risco de assalto, a baixa qualidade
+de vida, muito estresse e pouco dinheiro. E, principalmente, eu colaborava com o
+desenvolvimento insustentável das cidades.
+
+Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#por-que-saí-da-construção-civil`.
+
+### Do valor indireto ao direto
+
+Na tecnologia, trabalhei em setores de valor indireto para a sociedade — fintech,
+eletroeletrônicos, telecomunicações — e percebi que só uma fração pequena da minha energia ia
+para o que acredito. Desde então, busco atuar onde o benefício para a sociedade é direto.
+
+Fonte: `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, Motivo 1).
+
+## Traços
+
+Padrões que aparecem ao longo de toda a trajetória:
+
+- **Iniciativa** — identificar a oportunidade e agir antes do mandato: guilda de POs, pipeline
+  de inovação, provas de conceito com IA generativa, projetos internos voluntários, pesquisa.
+- **Aprendizado contínuo** — cada fase traz uma tecnologia ou um domínio novo; a migração de
+  carreira é o maior exemplo.
+- **Intencionalidade** — as decisões de carreira são deliberadas: escolher a direção e criar as
+  condições para segui-la. Nunca repetir uma posição mostra isso — em constante mudança,
+  disposto a se adaptar, se movendo para estar onde quer estar.
+- **Orientado a propósito** — as pessoas se engajam de verdade quando acreditam no que fazem;
+  isso se alcança estabelecendo bases, definindo objetivos claros, mantendo transparência nas
+  decisões e agindo com coerência.
+- **Da intenção à estrutura** — transformar intenções, desejos, ideias e mensagens sutis em
+  ações, planos, estruturas e resultados, sem esperar o ambiente perfeito para testar.
+- **Otimista com os pés na realidade** — em toda dificuldade há uma oportunidade: uma lista de
+  ideias de produtos, negócios e soluções espera energia para ser estudada e testada.
+- **Liderança desde cedo** — representante de classe, líder na comunidade religiosa, na banda,
+  na comissão de formatura. Pensar junto com o grupo em como chegar ao objetivo é natural, e
+  com engajamento vem ser referência.
+
+Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 2. Values`, Traits);
+`fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup: abertura,
+Motivos 2 e 3).
 
 ## A empresa atual
 

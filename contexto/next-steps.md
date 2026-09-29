@@ -7,16 +7,24 @@ destino estão no [next-steps da raiz](../next-steps.md) (tiers Foco e Encaixar)
   apontadas: PoCs de GenAI confusos (quantos, qual solo, qual gerou contrato); título na Campos
   Gouveia (lead engineer × PM); tag `[published]` no artigo da SEMISH; Area 51 duplicada no Act 3;
   cargo na Nubank ausente no Act 2; data da certificação Automation Anywhere; ": :" e espaços
-  duplos; frases em contraste negativo. Depois do encaixe do excerto, as seções 1–3 derivam do
-  repositório.
+  duplos; frases em contraste negativo; em `## 3`, as áreas de interesse viram a identidade — filósofo,
+  com os temas como aplicações ([direção](direcao.md#filósofo-construindo-uma-nova-sociedade));
+  em `## 4`, o motivo da saída da construção
+  ([trajetória](trajetoria.md#por-que-saí-da-construção)). As seções 1–3 derivam do repositório:
+  [núcleo](../instituicao/nucleo/README.md), [trajetória](trajetoria.md) e [direção](direcao.md).
 
 ## Trabalho
 
 A frente de [trabalho](trabalho/README.md), nesta ordem:
 
 1. **Imagem e posicionamento** — currículo, LinkedIn e narrativa, antes de qualquer
-   aproximação. Parte da narrativa de carreira (item acima) e da conversa
+   aproximação. Parte da [direção](direcao.md) — a identidade de filósofo, com os temas como
+   aplicações —, da narrativa de carreira (item acima) e da conversa
    `fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`.
+   Insumos ainda na fonte: os diferenciais (`## 7` da narrativa v8,
+   `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`). Pergunta a responder: quais
+   competências da narrativa (`## 5`) viram pilares de autoridade — a organização do
+   pensamento e a análise baseada em evidência são candidatas naturais.
 2. **Aprofundar o radar de casos** — os casos já estão em
    [radar-casos.md](trabalho/radar-casos.md); o incorporador estuda cada um. Pendências
    marcadas nos casos: fontes acadêmicas citadas e ainda não lidas; atividade atual não

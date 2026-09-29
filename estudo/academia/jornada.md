@@ -23,7 +23,7 @@ força e respaldo quando segue ritos que se provaram eficientes — os das insti
 acadêmicas comprometidas em renovar ideias e evidências.
 
 A academia dá algumas ferramentas, não todas; as outras estão na
-[estratégia](../../contexto/trajetoria.md#a-estratégia).
+[estratégia](../../contexto/direcao.md#a-estratégia).
 
 Fontes: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#mestrado-como-caminho`;
 `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#registrar-e-os-ritos-da-academia`,

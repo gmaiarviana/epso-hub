@@ -145,4 +145,5 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-objetivos-imagem-e-tematicas
 
-- sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#filosofo-fora-da-cara-publica`, `#posicionamento`, `#desejo-ressignificado`
+- contexto/next-steps.md: `#filosofo-fora-da-cara-publica`
+- sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#posicionamento`, `#desejo-ressignificado`

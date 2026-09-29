@@ -5,6 +5,9 @@ tipo: transcricao-limpa
 titulo: Sistema filosófico — a trilha do autoconhecimento
 fonte-bruta: raw/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.raw.md
 fonte-audio: pendente
+dispensadas:
+  primeira-tentativa: abertura da gravação, sem ideia a encaixar
+  minhas-palavras: postura pessoal de 2023 (as próprias palavras, sem título); ecoa o "sem caixinha de título" da conversa 2026-09-29 sobre a imagem
 ---
 
 <!-- Camada limpa: ambiguidades e erros de transcrição de áudio resolvidos sob validação, preservando a ideia original. O bruto intocado vive em `fonte-bruta`, com duas transcrições automáticas do mesmo áudio: a do voice2text serviu de base; a do Claude, com marcadores de tempo, desempatou os trechos divergentes e localiza cada seção no áudio. Marcadores: [inaudível] = trecho que não se recupera nem do texto nem da escuta pontual; [...] = fragmento de fala abandonado/cortado. -->

@@ -8,9 +8,9 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 
 | Fonte | Estado | Concluídas |
 |---|---|---|
-| [2023-09-02-sistema-filosofico-trilha-do-autoconhecimento](../fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md) | não iniciado | 0/26 |
+| [2023-09-02-sistema-filosofico-trilha-do-autoconhecimento](../fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md) | completo | 26/26 |
 | [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 1/13 |
-| [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 4/6 |
+| [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
 | [2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida](../fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md) | parcial | 7/10 |
 | [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 5/10 |
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | parcial | 3/5 |
@@ -37,6 +37,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 14/16 |
 | [2026-09-29-carta-ao-ex-lider](../fontes/conversas/2026-09-29-carta-ao-ex-lider.md) | completo | 2/2 |
 | [2026-09-29-evoluir-com-intencao-e-o-pendulo](../fontes/conversas/2026-09-29-evoluir-com-intencao-e-o-pendulo.md) | completo | 4/4 |
+| [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 4/4 |
+| [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -57,10 +59,6 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 
 Só o que não está concluído. Onde uma seção encaixada mora: buscar a âncora no repositório.
 
-### 2023-09-02-sistema-filosofico-trilha-do-autoconhecimento
-
-- Foco: `#primeira-tentativa`, `#quem-somos-nos`, `#minhas-palavras`, `#consciencia-do-corpo`, `#habitos-inconscientes`, `#ciencia-da-materia`, `#consciencia-da-mente`, `#linguagem-viva`, `#razao-e-devastacao`, `#perceber-por-necessidade`, `#como-e-porque`, `#razao-dos-outros-seres`, `#depressao`, `#consciencia-da-alma`, `#crencas`, `#atravessar-o-portao`, `#alma-nao-sustenta`, `#ninguem-feliz-sozinho`, `#algo-coordena-tudo`, `#energia`, `#consciencia-do-ser`, `#ciclos-e-opostos`, `#espirito-e-materia`, `#aceitar-a-realidade`, `#eu-sou-voce`, `#um-mundo-que-nao-vemos`
-
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 
 - Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`, `#o-novo-processamento`, `#ressignificar-quem-somos`
@@ -69,7 +67,6 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu
 
 - Encaixar: `#tecnologia-da-informacao`
-- Foco: `#camadas-de-quem-sou-eu`
 
 ### 2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida
 
@@ -145,3 +142,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - instituicao/next-steps.md, com parte já encaixada: `#objetivos`
 - sem nota na fila: `#eficiencia`
+
+### 2026-09-29-objetivos-imagem-e-tematicas
+
+- sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#filosofo-fora-da-cara-publica`, `#posicionamento`, `#desejo-ressignificado`

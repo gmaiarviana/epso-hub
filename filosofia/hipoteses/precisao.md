@@ -69,6 +69,27 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#medir-e-ler-
 `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#o-modelo-científico-e-os-saberes-de-fora-dele`,
 `#os-sentidos-não-as-palavras`.
 
+## O que ainda não vemos
+
+Existe um mundo que não vemos, e isso é um fato. Nossos olhos alcançam um espectro limitado
+de luz; a aranha que parece andar em câmera lenta anda mais rápido do que conseguimos captar;
+os morcegos fazem sons que não escutamos; outros animais têm sensores de que não fazemos
+ideia. A pergunta é como viver com isso: incomodados por não saber tudo, ou aceitando a
+realidade.
+
+O limite também vale no tempo. Quando se descobriram os elementos radioativos, houve quem os
+usasse como remédio, sem saber que faziam mal; com a ciência, o mesmo hábito passou a ser
+evitado. Quantos hábitos ruins temos hoje sem saber, por falta de conhecimento, de ciência, de
+ferramenta? Daí a importância da colaboração, da ciência e dos questionamentos.
+
+E a explicação costuma parar no como. O carro bateu porque estava sem freio; estava sem freio
+porque não foi à manutenção — isso explica como bateu, não por quê. Por que ele estava ali, por
+que dirigia aquele carro, por que não o levou à manutenção? Muitas explicações lógicas se
+contentam com o como.
+
+Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#um-mundo-que-nao-vemos`,
+`#habitos-inconscientes`, `#como-e-porque`.
+
 ## Comunicar na camada que o outro alcança
 
 Uma leitura que alguns não captam não fica, por isso, imune à crítica: a responsabilidade

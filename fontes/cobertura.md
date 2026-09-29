@@ -52,6 +52,11 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
+| [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md) | na fila | — |
+| [2025-03-06-sobre-filosofia](../fontes/transcricoes/raw/2025-03-06-sobre-filosofia.raw.md) | na fila | — |
+| [2025-03-06-sobre-o-metodo](../fontes/transcricoes/raw/2025-03-06-sobre-o-metodo.raw.md) | na fila | — |
+| [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/raw/2025-04-17-sobre-a-plataforma-epso.raw.md) | na fila | — |
+| [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md) | na fila | — |
 
 ## Pendências
 

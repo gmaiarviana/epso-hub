@@ -2937,3 +2937,686 @@ Mensagens que só nomeiam um tema, autor ou referência.
 - *18/09/2023* — Criar novos valores.
 - *07/12/2023* — Tattva.
 - *07/12/2023* — Prakriti + Purusha.
+
+<!-- lote 2024–2026 -->
+
+## meditacao-mostra-o-que-muda-e-o-que-nao-muda
+
+*04/01/2024*
+
+Meditação nos mostra o que muda e também o que não muda.
+
+## alinhar-corpo-mente-e-espirito-na-relacao
+
+*07/01/2024*
+
+Equilíbrio entre espírito e matéria numa relação envolve o alinhamento entre corpo, mente e espírito.
+
+A cosmovisão/sistema de crenças determina os comportamentos.
+
+## nos-sentimos-acolhidos-quando-nos-acolhemos
+
+*14/01/2024*
+
+O paradoxo da vida é que nos sentimos acolhidos quando nos acolhemos primeiro.
+
+Quando rejeitamos alguma parte nossa, sentimos rejeição pelos outros e fatalmente os outros vão rejeitar.
+
+## pertencimento-precede-a-colaboracao
+
+*17/01/2024*
+
+A nossa maior habilidade como ser humano não está na nossa capacidade de se comunicar ou na nossa capacidade de raciocinar. Essas habilidades, por si só, não refletem em benefícios para a espécie. Mas através da colaboração conseguimos nos reproduzir e chegar no topo da cadeia alimentar.
+
+Sendo a capacidade de colaborar com diversas pessoas nossa maior habilidade, por que ainda discordamos tanto em assuntos tão importantes para nossa própria existência? Minha estratégia para resolução de conflitos pode ser resumida no estabelecimento de bases: concordar onde estamos e onde queremos chegar.
+
+Mas a minha hipótese é que nossa geração necessita de um predecessor muito importante que sem o qual não conseguimos estabelecer as bases: senso de pertencimento. Achamos que os problemas devem ser resolvidos pelos outros. Nos sentimos impotentes para agir porque não sabemos como colaborar com eficiência.
+
+Além disso, entendo que o pertencimento é um sentimento essencial para conseguirmos explorar nossas capacidades sociais. E vejo como algo fundamental, pois não nos sentimos autorrealizados quando não usamos por completo nossas habilidades e potenciais. A maneira que fazemos isso organicamente é através de comunidades (podendo ter outros nomes).
+
+Meu entendimento sobre como uma comunidade traz pertencimento, se tornando, então, um elemento essencial em nossas vidas:
+
+- *Identificação* — No processo de autoconsciência, precisamos nos identificar como indivíduos. Estamos constantemente nos sentir identificados. Uma pessoa pertencente a uma comunidade se sente identificada de alguma maneira, seja pelo sobrenome, cor de pele, idioma, clube de futebol, hábitos.
+- *Acolhimento* — É importante conhecer pessoas que já passaram pelo que a gente está passando, que possam nos encorajar ou dar conselhos. Isso é um processo ancestral.
+- *Serviço* — Nosso instinto precisa que cuidemos sempre de nós primeiro. Mas uma vez estamos bem cuidados, é natural querer cuidar os nossos pares e em seguida os pares que não conhecemos ainda. A ação de servir parece aumentar nossa energia, nutrir nosso espírito.
+- *Criação* — Quando temos um ambiente para criar coisas juntos e participar ativamente, conseguimos explorar nossas habilidades criativas e sociais. Nos sentimos pertencentes e nossa autoestima é contemplada. No sentido que é gratificante fazer coisas incríveis com pessoas para compartilhar, vibrar e comemorar com a gente. O oposto é verdadeiro: é frustrante realizar sonhos sozinho...
+
+Então, parto do princípio que gerar senso de pertencimento é necessário para resolver problemas reais e também para alcançar realização individual.
+
+## plataforma-de-comunidades-pelos-quatro-pilares
+
+*17/01/2024*
+
+Com o objetivo de gerar senso de pertencimento na sociedade, acredito que precisamos aprender a fazer comunidades orgânicas, sustentáveis e relevantes. Para isso, podemos impulsionar que a sociedade crie comunidades que causem impacto nos seus ambientes através de uma plataforma que:
+
+- una pessoas com interesses em comum
+- ajude as comunidades a serem autogeridas
+- dê suporte para que as comunidades alcancem seus objetivos
+- promova soluções para os problemas mais comuns das comunidades
+
+*17/01/2024*
+
+Acho que a plataforma poderia começar pensando nesses 4 pilares: identificação, acolhimento, serviço e criação.
+
+Poderíamos estabelecer iniciativas para promover e fortalecer essas 4 áreas.
+
+De repente seja necessário dividir em subgrupos. Tem muitas possibilidades aqui, mas acho que consegui passar minha visão geral.
+
+## a-nova-economia-no-meio-do-paradoxo-pessoalidade-e-profissionalismo
+
+*19/01/2024*
+
+A chave da nova economia é estar no meio do paradoxo entre pessoalidade e profissionalismo.
+
+## vida-e-energia-em-movimento
+
+*22/01/2024*
+
+Vida é movimento orgânico.
+
+Energia vital é a energia orgânica que move espontaneamente.
+
+*16/12/2024*
+
+Vida é energia em movimento.
+
+## o-ciclo-do-desenvolvimento-termina-na-pratica
+
+*22/01/2024*
+
+O ciclo de nosso desenvolvimento começa com o despertar da atenção para um detalhe, passa pela investigação, criação de hipóteses, experimentação, observação, constatação. O ciclo se encerra quando o despertar chega na consciência, que é a capacidade de agir com intenção. O ciclo se encerra quando incorporamos o aprendizado nas nossas práticas.
+
+## ciclos-interrompidos-ficam-abertos
+
+*22/01/2024*
+
+Todo ciclo interrompido gera fragmento de realidade. Só superamos quando retomamos e fechamos as portas abertas.
+
+*25/01/2024*
+
+Todas as gestalts abertas vão ser revividas até que fechemos. Não temos como fugir. Só aceitar e encarar.
+
+*25/03/2024*
+
+A informação/emoção passa por um ciclo:
+
+- Precisa ser vivida e sentida
+- Precisa ser processada
+- Precisa ser expressada
+
+Enquanto não passa pelo ciclo, continua aberta, estagnada.
+
+## a-consciencia-desperta-como-uma-onda
+
+*22/01/2024*
+
+A consciência está despertando, assim como uma onda está se formando.
+
+Considerando Gaia como um único organismo, todas as nossas partes estão fazendo sua parte nesse processo.
+
+Todo ser vivo está passando por ciclos. Quando há interrupção, o desenvolvimento fica estagnado. Nossos contextos podem facilitar ou dificultar a retomada das interrupções.
+
+Mas o despertar completo virá quando cada porta aberta seja fechada e todas as partes da consciência estejam apontando para a mesma direção.
+
+## incluir-o-sutil-nas-percepcoes
+
+*22/01/2024*
+
+Quanto mais eu incluir o sutil nas minhas percepções físicas, mais experimentarei o sutil e mais manifestarei o sutil.
+
+## no-meio-do-paradoxo-nao-desistir-e-nao-resistir
+
+*25/01/2024*
+
+No meio do paradoxo — não desistir e não resistir. Não querer mudar e não se conformar.
+
+## as-coisas-acontecem-conforme-reagimos
+
+*25/01/2024*
+
+É tudo manifestação da energia. As coisas acontecem de acordo a como reagimos.
+
+## se-estamos-conscientes-nao-morremos
+
+*25/01/2024*
+
+Se estamos conscientes, é porque não morremos. Se estivéssemos mortos, não estaríamos conscientes. Quando morrermos, não estaremos conscientes. Então podemos já ter morrido, mas não temos consciência disso.
+
+## convite-simplificar-desacelerar-aceitar-colaborar
+
+*16/02/2024*
+
+Convite a:
+
+1. Simplificar
+2. Desacelerar
+3. Aceitar
+4. Colaborar
+
+## coerencia-viver-com-o-que-produz-e-fazer-o-que-fala
+
+*16/02/2024*
+
+Coerência:
+
+- viver com o que ganha/produz
+- fazer o que fala / viver aquilo que acredita
+- aceitar o ambiente em que está inserido
+
+## o-padrao-e-a-cama-o-novo-e-a-flecha
+
+*16/02/2024*
+
+Nossa estratégia de vida se nutre através da diversidade. Nos dividimos e cocriamos.
+
+A previsibilidade é necessária, mas a expansão vem com a surpresa, a descoberta ou mistério.
+
+O padrão é a base, a cama. O novo é a flecha.
+
+## descolar-do-presente-e-voltar-simplificando
+
+*17/02/2024*
+
+Nós desenvolvemos a capacidade de descolar do tempo presente e isso nos permite explorar a complexidade do abstrato.
+
+O retorno ao presente passa por simplificar as complexidades.
+
+## contra-a-especulacao-reforma-agraria-taxacao-e-renda
+
+*20/02/2024*
+
+A especulação é o grande problema, e que nos afasta do aqui e agora. Faz as pessoas acumularem.
+
+- Reforma agrária — uma pessoa não pode ser dono de algo que não consegue manter.
+- Taxação de fortunas — uma pessoa não deve possuir coisas. É justo a pessoa ser guardiã enquanto estiver vivo. É justo que quem movimenta mais toque em mais.
+- Distribuição de renda — todas as pessoas devem ter direito a receber o mínimo digno de energia para que não tenham que trabalhar com o que não acreditam.
+- Governança — famílias, comunidades.
+- Economia — comércio local que atenda os interesses da comunidade.
+
+## apontar-empresas-destrutivas-e-criar-indices
+
+*24/02/2024*
+
+Apontar empresas que:
+
+- possuem grande percentual da receita com a utilização de fluxo tecnológico destrutivo
+- possuem lucros "desleais"
+- são ativamente os maiores destruidores do meio ambiente
+
+Objetivo é:
+
+- promover maior circulação de dinheiro
+- estimular o desenvolvimento de tecnologias sustentáveis
+- frear empresas que crescem em detrimento do equilíbrio ecológico
+
+Criar:
+
+- índice de dignidade (o quanto as pessoas precisam pra ter dignidade)
+- índice do abstrato (ou seja, a partir de quanto o dinheiro para de fazer diferença material — aqui pode entrar as comparações entre custo e valor)
+
+## tudo-e-storytelling
+
+*06/03/2024*
+
+Tudo é storytelling.
+
+Tudo muda a partir da história que contamos para nós mesmos.
+
+## motivos-para-escola
+
+*08/03/2024*
+
+Motivos para escola:
+
+- eu não sei de tudo
+- eu não estou sempre disponível
+- eu não posso limitar as referências de pensamentos
+
+## educacao-como-empoderamento-foco-no-basico
+
+*09/03/2024*
+
+Acredito na educação como empoderamento para melhorar a vida das pessoas.
+
+Me preocupa o foco na tecnologia, pois as ferramentas estão sempre evoluindo.
+
+Entendo que o foco são nos conhecimentos básicos, comunicação, lógica, organização…
+
+## sou-uma-pessoa-de-visao
+
+*09/03/2024*
+
+Sou uma pessoa de visão, consigo dar direcionamento. Tenho boa comunicação, sou resiliente, sou transparente… sonho grande.
+
+## a-verdadeira-riqueza-e-viver-com-o-que-se-consegue-manter
+
+*18/03/2024*
+
+Se o dinheiro acabar, tudo for queimado, as pessoas conseguiriam viver do jeito que vivem?
+
+Essa é a verdadeira riqueza, viver com o que se consegue manter.
+
+Não tem problemas morar em uma grande casa, desde que as pessoas consigam cuidar delas sem precisar pagar para outras.
+
+Tudo bem ter pessoas ajudando, mas que isso seja feito porque elas querem e não porque são indiretamente extorquidas ou indiretamente obrigadas.
+
+## meu-compromisso-e-passar-repertorio-e-caminhos-vividos
+
+*18/03/2024*
+
+- meu compromisso é de fornecer repertório para que ela descubra sua verdade e que tenha condições de viver
+- é assim que contribuo com o universo: passando pra frente meus genes e minhas ideias. Os meus aprendizados, transformando os ciclos que eu passo
+- só posso conduzir por caminhos que eu conheço, por jornadas que vivi, por histórias que são coerentes com minha verdade
+- e o impacto virá através de viver minha verdade nos ambientes que habito. Impactar sendo eu mesmo nos espaços que eu estiver presente.
+
+## sempre-em-constante-evolucao
+
+*18/03/2024*
+
+Não espero que minha vida mude completamente ou que não mude nada… mas estou sempre em constante evolução.
+
+## a-conscientizacao-tem-que-ser-espontanea
+
+*29/03/2024*
+
+O processo de conscientização tem que ser espontâneo.
+
+Quando é estimulado, pode causar traumas.
+
+Alguns estímulos podem ser feitos, mas com calma, gentileza, empatia e muito amor. Mas nunca indo até o fim.
+
+O ciclo só se fecha quando há consentimento. Aceitação. Participação.
+
+## aceitar-a-realidade-e-equanimidade
+
+*01/05/2024*
+
+Precisamos aceitar a realidade como ela é, e não como gostaríamos que ela fosse.
+
+Quando aceitamos, paramos de sofrer. Quando sofremos, causamos sofrimento também aos outros. Quando paramos de sofrer, passamos a sentir amor e consequentemente transmitir para os outros.
+
+O processo de aceitação passa por consciência e equanimidade.
+
+Equanimidade acontece quando os fenômenos exteriores não alteram nossa percepção sobre realidade.
+
+## roteiro-do-primeiro-filme
+
+*05/05/2024*
+
+1\. Pessoas generalistas. Sempre tive dificuldade em me encaixar. Não gosto de fazer, mas gosto de ter as coisas prontas.
+
+2\. É o primeiro de uma série. Ele é bem generalista, introdutório, com foco em valores. Prometo que os próximos terão um pouco mais de profundidade.
+
+3\. Espero que esse seja o último que eu faça sozinho. Na verdade esse filme é um convite, um recrutamento ou convocação a todas as pessoas que acreditam no mesmo que eu. Quero dar espaço para que todas as pessoas contribuam com o que gostam.
+
+3\. Terminologia, estabelecer bases.
+
+4\. Temos uma dívida com nossa geração. Somos as referências dos nossos filhos. Devemos produzir conteúdo.
+
+5\. O que acredito? Colaboração, transparência, simplicidade.
+
+## o-que-entendi-e-sou-convidado-a-contribuir
+
+*18/05/2024*
+
+O que entendi e sou convidado a contribuir:
+
+1. Existem várias camadas sobrepostas. Existem diversos ângulos observando a mesma realidade. Devemos respeitar e organizar para colaborarmos.
+2. A realidade não tem moral. Evolução é um fato. Entropia é uma flecha.
+3. Quem somos nós? Espírito, mente, corpo.
+4. Nosso corpo define a maneira que experimentamos o mundo. A nossa percepção depende da nossa consciência corporal.
+5. Estamos despertando. Aumentando nossa consciência coletiva.
+6. Não resistir. Aceitar a realidade. Equanimidade. Viver o que temos que viver. Pensar global, agir local.
+
+## atitudes-inerentes-buscar-a-verdade-e-aumentar-conatus
+
+*19/05/2024*
+
+Atitudes inerentes — ações fundamentais e comuns a todos humanos, independente de contexto:
+
+- buscar a verdade/organizar os pensamentos/eficiência nos processos
+- aumentar conatus
+
+## falar-de-ansiedade-em-vez-de-espiritualidade
+
+*31/05/2024*
+
+Falar sobre o espiritual traz muita carga e distrações.
+
+Falar sobre ansiedade toca diretamente todas as pessoas do mundo atual.
+
+## atividade-intencional-e-ver-o-futuro-e-concretiza-lo
+
+*31/05/2024*
+
+Atividade voluntária ou intencional — ação completa entre o imaginado e o realizado. Ver o futuro e concretizá-lo.
+
+## orientado-a-dados-com-poucos-dados
+
+*08/06/2024*
+
+Como ser orientado a dados com poucos dados?
+
+O foco não está nos dados. Mas na metodologia científica. Observação, hipótese, testes, conclusão.
+
+Buscar provar que a hipótese está errada.
+
+## a-mensagem-precisa-tem-o-minimo-de-ruido
+
+*09/06/2024*
+
+A mensagem é precisa quando acompanha o mínimo de ruído.
+
+O ambiente e clima podem ser conduzidos ou direcionados.
+
+O silêncio precede a fala.
+
+## ideia-e-criacao-conceito-e-observacao
+
+*14/06/2024*
+
+Ideia é criação.
+
+Conceito é observação.
+
+## intencao-traz-conexao-e-clareza
+
+*19/06/2024*
+
+A intenção traz conexão.
+
+Falta de intenção traz falta de conexão.
+
+*23/06/2024*
+
+Tomamos consciência → estamos presentes → definimos nossa intenção → estamos presentes → agimos com o que temos disponíveis.
+
+Agir é natural quando existe uma intenção clara.
+
+Temos clareza de nossa intenção quando reduzimos os ruídos, cortamos os excessos, separamos o que importa…
+
+Quando não estamos presentes, não conseguimos ter clareza de nossa intenção.
+
+Quando não temos plena clareza de nossa intenção, nossas palavras e atitudes carregam confusão, incoerência e ruído.
+
+*22/03/2026*
+
+Consciente e intencional ao invés de inconsciente e condicionado.
+
+*21/06/2026*
+
+Intenção é a palavra de ouro.
+
+## guia-pratico-corpo-meio-e-os-que-estao-por-vir
+
+*19/06/2024*
+
+Guia prático:
+
+1. Cuidar do corpo
+2. Cuidar do seu meio (mente)
+3. Cuidar dos que estão por vir (abstrato)
+
+Estar presente para perceber:
+
+- Alimentação
+- Saúde mental
+- Saúde corporal
+
+Estar presente pra se conectar:
+
+- Aumentar a própria energia
+- Impactar positivamente o seu círculo
+
+Estar presente para inspirar:
+
+- Harmonizar
+- Colaborar
+- Dar condições para que os potenciais sejam explorados (criação)
+- Contribuir ao invés de se retirar
+
+## a-colaboracao-transforma-ciclos-viciosos-em-virtuosos
+
+*19/06/2024*
+
+A colaboração transforma ciclos viciosos em virtuosos.
+
+## estrutura-do-livro-manual-manifesto-conceitos
+
+*23/06/2024*
+
+1. Manual
+2. Manifesto
+3. Conceitos
+4. Apêndice
+
+Conceitos:
+
+1. Conceito de camadas. Dualismo.
+2. Quem somos nós? Ilusão da separação.
+3. Matéria e ideia.
+4. Estamos evoluindo. Toda interação é um exame de máxima eficiência.
+5. Precisamos nos unir para caminhar no sentido que aumente nossa energia — e aumente o grau de consciência.
+
+*01/07/2024*
+
+2 livros:
+
+1. Manifesto
+2. Comentários, explicações e perguntas
+
+## na-camada-profunda-nao-existe-gostar
+
+*29/06/2024*
+
+Na camada profunda, não existe gostar…
+
+Toda interação aumenta ou diminui energia. E tem algum motivo para algo sair ou não como esperado.
+
+Cada parte tem uma natureza que faz "gostar" ou não.
+
+## toda-lideranca-tem-carater-espiritual
+
+*30/07/2024*
+
+Toda liderança tem caráter espiritual.
+
+A influência, a conexão…
+
+## a-vida-linear-parece-finita
+
+*11/08/2024*
+
+Acreditar que a vida é linear nos faz olhar a vida como finita.
+
+## a-falha-de-comunicacao-e-consequencia
+
+*24/08/2024*
+
+A falha na comunicação nunca é causa, mas sempre consequência. Apenas é a manifestação de um desalinhamento de expectativas.
+
+## a-comunicacao-eficiente-depende-do-ambiente
+
+*19/11/2024*
+
+A comunicação é eficiente quando existe todo um ambiente preparado e harmonioso.
+
+Quando o canal tá bem estabelecido, qualquer símbolo ou signo carrega informação.
+
+Uma linguagem eficiente não depende de nada específico.
+
+## problema-solucao-implementacao-operacao
+
+*19/11/2024*
+
+Problema → solução → implementação → operação.
+
+## a-brincadeira-exercita-a-imaginacao
+
+*19/12/2024*
+
+A brincadeira é espaço pra exercitar a imaginação.
+
+Imaginação é acessar a camada abstrata durante a vigília.
+
+## discussoes-de-concordar-ou-discordar-sao-ineficientes
+
+*19/12/2024*
+
+As discussões são ineficientes quando giram em torno de "concordar/discordar" e "ser a favor/contra" dado argumento.
+
+A consciência evolui em torno da empatia, entendimento da realidade, acompanhar o raciocínio, quais conceitos, suposições/premissas e crenças que compõem tal argumento.
+
+## nao-saber-gastar-a-energia-acumulada
+
+*20/12/2024*
+
+Muita ineficiência é gerada quando não se sabe gastar a energia acumulada… seja dinheiro, seja criatividade, seja corporal.
+
+## avaliar-governo-e-medir-pelos-proprios-valores
+
+*06/03/2025*
+
+Uma avaliação se um governo foi bom ou ruim na verdade é resumida na percepção se o governo está se aproximando dos valores do avaliador ou não.
+
+Todo índice e métrica é uma redução da realidade e são insuficientes para compreender todos os aspectos da vida.
+
+Todo analista escolhe sua narrativa e seus índices favoritos para fazer sua análise.
+
+## sou-o-guardiao-do-equilibrio
+
+*30/07/2025*
+
+Eu sou o guardião do equilíbrio.
+
+Do paradoxo.
+
+Da coerência.
+
+Transparência.
+
+Clareza.
+
+## amor-e-conexao-incondicional
+
+*02/08/2025*
+
+Amor é conexão incondicional.
+
+## detalhar-o-custo-do-problema-impacta-mais
+
+*29/10/2025*
+
+Detalhar tamanho/custos do problema impacta mais do que trazer soluções bonitas.
+
+## a-energia-se-redireciona-quando-o-caminho-perde-eficiencia
+
+*29/10/2025*
+
+A energia é redirecionada quando o caminho original já não é mais eficiente.
+
+## colaboracao-para-testar-hipoteses-do-dia-a-dia
+
+*26/12/2025*
+
+É um tipo de colaboração em que é necessário uma disrupção da maneira que queremos encontrar um resultado em comum.
+
+Então sairemos de um lugar em que temos opiniões, "acho que", onde cada um precisa experimentar, cada região tem sua especificidade, mas não conseguimos obter eficiência no compartilhamento de informações.
+
+O objetivo é testar hipóteses sobre questões do dia a dia de forma que encontramos eficiência na economia. Mudanças econômicas significam mudanças políticas.
+
+## cerimonias-e-rituais-servem-para-relembrar
+
+*25/01/2026*
+
+Cerimônias e rituais são preciosos quando possuem uma intenção e um foco específico.
+
+Para mim, vejo a importância na função de relembrar. Para trazer ao foco. Para redirecionar. Atualizar algumas formas ao iterar com as novas informações.
+
+## o-que-preciso-relembrar
+
+*25/01/2026*
+
+Preciso me relembrar que a vida é um paradoxo, um absurdo… que vivemos muitas camadas sobrepostas. Somos muitos, mas também somos unos.
+
+Que a única coisa que posso controlar é a minha atenção.
+
+Que eu experiencio unicamente a existência desse indivíduo, então esse indivíduo é tudo aquilo que posso sentir, viver, transformar. Que quando eu morrer, eu não vou nem saber. Significa que, se eu experiencio, eu ainda não morri.
+
+Significa que tem alta probabilidade de que nessa vida eu experiencie a consciência, o despertar.
+
+Mas esse é o paradoxo, porque não posso ficar com essa expectativa ou desejo, me apegando a possibilidades e limitando o que a vida vai oferecer.
+
+A vida tem essa característica, de expandir tudo o que focamos.
+
+## herdamos-dos-pais-defeitos-e-qualidades
+
+*20/03/2026*
+
+Herdamos dos nossos pais defeitos e qualidades.
+
+Seja pela biologia ou pela cultura.
+
+## educacao-e-informacao-mais-experiencia
+
+*22/03/2026*
+
+Educação = informação + experiência.
+
+## o-chamado-e-criar-um-novo-sistema
+
+*22/03/2026*
+
+O chamado é para criar um novo sistema.
+
+## o-perdao-acontece-em-quem-foi-ferido
+
+*21/06/2026*
+
+Perdão acontece quando morre a parte que fica ressentido, apegado, sofrido, identificado.
+
+"Eu te perdoo" é mais sobre "aquilo que me feria já não me dói mais".
+
+A transformação acontece em quem foi ferido.
+
+Pedir perdão sobre algo é ser transparente sobre a consciência que existia naquele momento e demonstrar responsabilidade para fazer diferente. Demanda auto-observação e mudança de comportamento.
+
+## o-ceu-e-onde-habitam-as-ideias
+
+*21/06/2026*
+
+O céu é aquilo que está além das nossas cabeças. Além da nossa mente. Onde habitam as ideias.
+
+## dois-eixos-material-ideal-e-simples-complexo
+
+*21/07/2026*
+
+2 eixos:
+
+- Material → ideal
+- Simples → complexo
+
+## os-sonhos-e-que-unem
+
+*03/08/2026*
+
+Os sonhos é que unem.
+
+Ao separar o ego do que vem do Ser.
+
+## primeira-rodada-sonhos-quem-sou-eu-estamos-juntos
+
+*26/09/2026*
+
+Primeira rodada:
+
+- Sonhos → convite à realidade que queremos construir
+- Quem sou eu? → apresentação, introdução ao novo paradigma
+- Estamos juntos → convite a começar agora
+
+## topicos-soltos-2024-2026
+
+Mensagens que só nomeiam um tema, autor ou referência.
+
+- *05/11/2025* — Focar em nicho.
+- *20/07/2026* — Construção de eco-cidades.

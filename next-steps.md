@@ -18,9 +18,6 @@ Vídeos de 2025 do canal Era pra ser Óbvio, registrados só como bruto:
 - `fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md` — vida como energia
   em movimento, o conatus, determinismo em camadas; a ordem dos áudios 1 e 2 é estimada.
 
-- **Grupo EPSO no WhatsApp** (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.raw.md`) —
-  em lotes por período; falta 2024–2026.
-
 ## 2. Foco
 
 **Estar pronto para decidir a imagem e a linha editorial.** A decisão em si não é deste foco:

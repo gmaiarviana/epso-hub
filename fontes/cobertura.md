@@ -12,6 +12,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md) | não iniciado | 0/20 |
 | [2025-03-06-sobre-filosofia](../fontes/transcricoes/2025-03-06-sobre-filosofia.md) | não iniciado | 0/9 |
 | [2025-03-06-sobre-o-metodo](../fontes/transcricoes/2025-03-06-sobre-o-metodo.md) | não iniciado | 0/46 |
+| [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md) | não iniciado | 0/8 |
 | [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 1/13 |
 | [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
 | [2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida](../fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md) | parcial | 7/10 |
@@ -79,7 +80,6 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
-| [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/raw/2025-04-17-sobre-a-plataforma-epso.raw.md) | na fila | — |
 | [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md) | na fila | — |
 
 ## Pendências
@@ -97,6 +97,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2025-03-06-sobre-o-metodo
 
 - sem nota na fila: `#simples-sem-ser-simplorio`, `#base-para-unir-colaborar-e-agir`, `#aplicavel-do-micro-ao-macro`, `#tudo-e-sobre-intencao`, `#estabelecer-bases-e-falar-a-mesma-lingua`, `#camadas-da-percepcao-da-realidade`, `#o-que-se-diz-sem-palavras`, `#a-intencao-por-tras-da-fala`, `#falar-para-nao-ficar-em-silencio`, `#quem-escuta-pergunta-em-vez-de-assumir`, `#na-relacao-chegar-a-um-acordo`, `#bases-tambem-nos-problemas-complexos`, `#aceitar-exige-dar-nome-ao-que-se-sente`, `#elaborar-e-depois-reduzir`, `#expandir-e-voltar-como-as-ondas`, `#nao-somos-nossa-mente`, `#reflexao-e-ouvir-o-corpo`, `#aceitar-a-historia-como-ela-e`, `#entender-o-outro-sem-apontar-o-dedo`, `#a-realidade-independe-de-como-eu-me-sinto`, `#meditacao-e-buscar-o-menos`, `#metodo-aberto-a-mudanca`, `#sou-o-somatorio-do-que-consumi`, `#a-mesma-palavra-para-coisas-diferentes`, `#a-escolha-dos-fatos-ja-e-um-vies`, `#a-aranha-e-os-limites-da-percepcao`, `#perdas-entre-sentir-e-dizer`, `#aceitar-que-nao-sabemos`, `#imaginar-com-intencao-sem-utilitarismo`, `#o-futuro-ideal-da-direcao`, `#escolher-a-crenca-que-faz-mais-sentido`, `#a-flecha-da-evolucao`, `#fluxo-ou-resistencia`, `#maya-a-grande-ilusao`, `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#sonhar-grande-tambem-no-pratico`, `#sem-destino-comum-a-politica-anda-em-circulos`, `#serie-longa-pede-rotina`, `#comece-agora-sem-desculpas`, `#dar-um-passo-em-direcao-ao-sonho`, `#materia-fala-com-materia`, `#o-que-nos-define-e-o-que-fazemos`, `#a-energia-diz-se-e-o-caminho`, `#desejo-do-que-sou-e-desejo-idealizado`, `#nao-reprimir-nem-se-apegar-ao-sonho`
+
+### 2025-04-17-sobre-a-plataforma-epso
+
+- sem nota na fila: `#a-plataforma-do-portfolio`, `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`, `#pago-por-quem-nao-e-materia-organica`, `#pilar-2-discussao-e-comunidade`, `#aprender-junto-e-se-sustentar`, `#tirar-a-forma-da-mensagem`
 
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 

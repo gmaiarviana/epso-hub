@@ -54,3 +54,10 @@ horária, alternar atividades de concentração com atividades de movimento.
 
 Tem coisa que é prazerosa de ser feita. Mas perde o prazer quando o processo, o contexto,
 perde sentido.
+
+## Abaixo e acima da linha do conforto
+
+Quem está abaixo do nível da dignidade, ou abaixo da linha de conforto, trabalha para ter
+dinheiro. Quem está acima da linha de conforto trabalha também, mesmo já tendo conforto,
+porque quer autoestima, realização, identificação, aprovação social, contribuir. Esses
+conceitos são interessantes de ser elaborados mais profundamente depois.

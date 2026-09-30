@@ -19,7 +19,11 @@ sociedades a fazem sem necessariamente ser remuneradas.
 Aprendemos que trabalhar é ir ao lugar onde se faz uma atividade esperada por outros, em
 troca de um salário. Essa troca é uma forma do trabalho, não o seu fim. O que se busca nele é
 [valor](valor.md): suprir necessidades — físicas, pessoais, sociais. Trabalhamos por condições
-básicas e por satisfação pessoal, e o ponto mais alto dessa satisfação é criar.
+básicas e por satisfação pessoal. Quem está abaixo da linha da dignidade, ou da linha do
+conforto, trabalha para ter dinheiro. Quem está acima dela trabalha também, mesmo já tendo
+conforto: por autoestima, realização, identificação, aprovação social, para contribuir. O ponto
+mais alto dessa satisfação é criar. A escada lembra a hierarquia de necessidades de Maslow; as
+linhas e os motivos acima delas ainda estão por elaborar.
 
 Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pelo trecho):
 
@@ -35,7 +39,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pe
 - **[guia PDI]** `fontes/documentos/2026-09-30-guia-pdi.raw.md`
 - **[tpm]** `fontes/documentos/2026-09-27-relato-tpm-programa.raw.md`
 
-Fonte da abertura: [30/9]`#labor-e-movimento`; [ensaio] (Nós não somos nosso trabalho; Fazer
+Fonte da abertura: [30/9]`#labor-e-movimento`, `#abaixo-e-acima-da-linha-do-conforto`; [ensaio] (Nós não somos nosso trabalho; Fazer
 é trabalhar); [comitê] (Pressupostos).
 
 ## Corpo, mente e alma

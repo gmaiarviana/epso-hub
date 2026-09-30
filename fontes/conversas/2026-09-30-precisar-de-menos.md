@@ -119,3 +119,36 @@ Trabalho não significa ruim; compromisso de longo prazo com coisas parece ruim.
 Os limites que reprovam sozinhos — o resíduo que atravessa gerações e o irreplicável — fazem
 sentido: tem coisa que claramente é insustentável. O teste do irreplicável levado ao rigor
 (se todos fizessem, o planeta aguentaria?) acho interessante.
+
+## Compromisso com pessoas, não com coisas
+
+Compromisso com pessoas, sim; com coisas, não — síntese do agente, juntando a comunidade e a
+piscina. Sim, mas é bom pensar melhor antes de criar novas regras.
+
+## Global destrutivo e global regenerativo
+
+Global se refere à troca de ideias, troca de intenções, de informações, validações,
+colaboração. Destrutivo é quando isso gera mais destruição, mais exploração, mais guerra, mais
+instituições tomando conta de tudo. Regenerativo é quando estamos no novo paradigma:
+colaborando para que as pessoas vivam melhor, mais tempo, com mais qualidade, com mais força,
+intenção, criatividade, em harmonia com a natureza.
+
+## Tornar-se global não tem moral; o como foi destrutivo
+
+Naturalmente começamos a nos expandir e a trocar com outros grupos: trocar informações,
+materiais, conhecimento. Isso foi expandindo nosso conceito de local para culturas; a história
+da humanidade cobre bem isso. Quando interagimos com pessoas de outros países, outros
+continentes, outros ecossistemas, estamos nos tornando globais. Isso não tem moral, bom ou
+ruim — na verdade, parece bom. Mas as consequências de como fizemos isso foram destrutivas:
+com a espada e a pólvora, com opressão, com colonialismo, escravidão e, principalmente, com
+desmatamento. O paradigma atual ainda roda na mesma mentalidade.
+
+## Nos salvar salva quem convive conosco
+
+A epidemia é a mentalidade, não a humanidade — leitura do agente; sim. Nós estamos ligados
+aos seres e às condições do nosso tempo; então nos salvar acaba salvando as espécies que
+convivem conosco. Nossa morte leva com a gente a morte de biodiversidade. Não podemos ser
+empáticos com eles do mesmo jeito que devemos ser com nós mesmos: eles vivem outras
+realidades. Mas dependemos deles, e eles da gente, mesmo que indireta ou inconscientemente.
+Todo ser está na sua jornada de evolução e de contribuição para a vida. Então não devemos nos
+meter ou entrar na mente deles, mas fazer a nossa parte.

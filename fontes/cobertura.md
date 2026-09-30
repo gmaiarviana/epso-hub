@@ -43,7 +43,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
-| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | completo | 8/8 |
+| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | completo | 12/12 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -110,7 +110,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
 
-- Foco: `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`
+- Foco: `#construcao-sustentavel-e-cadeia-produtiva`
+- Foco, com parte já encaixada: `#novo-capitalismo-e-transformacao`
 
 ### 2026-07-04-estrategia-profissional
 

@@ -57,3 +57,32 @@ mentalidade individualista, identificada com o ego — "eu quero isso, eu quero 
 que queremos passa a ser o que faz sentido para a gente. Claro que, se estiver doente ou com
 outra prioridade, a gente pode buscar equilibrar e trocar. Mas, de maneira geral, se perde
 essa questão do meu gosto pessoal de que não abro mão.
+
+## Economia colaborativa por confiança
+
+Envolve também a mentalidade de economia colaborativa por confiança: eu tenho demandas,
+necessidades, e também posso oferecer coisas — seja dinheiro, seja tempo, seja força, seja
+ideias, seja capacidade de comunicação. E eu vou trocando: cada um oferece o que tem
+disponível em troca de obter o que precisa.
+
+Idealmente, a comunidade poderia até decidir: se a hora de uma pessoa for muito rentável,
+talvez ela se dedique a ganhar dinheiro de fora, para ajudar as pessoas com dinheiro — trocas
+com outras comunidades. Mas, idealmente, todos podem obter tudo o que precisam trabalhando
+internamente. E a comunidade pode trocar com outras comunidades, seja com dinheiro, seja por
+trocas.
+
+## Uma hora é uma hora
+
+Não é momento de definir a moeda agora, mas sim: uma hora é uma hora. Tem coisa que demanda
+muitas horas de preparação, e elas devem ser contabilizadas.
+
+## Planejar é compor custos
+
+Uma crença que eu tenho é que um bom planejamento demanda um bom valuation, ou uma boa
+composição de custos: previsibilidade de tudo que é custo direto e indireto, para antecipar
+manutenção, antecipar depreciação, antecipar todos os custos e necessidades.
+
+## Valor pelo custo
+
+O valor pelo custo, não pelo que o mercado paga — formulação do agente juntando as duas ideias
+acima. Acho que está no caminho certo.

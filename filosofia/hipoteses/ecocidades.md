@@ -77,7 +77,7 @@ Liderar a transição para as ecocidades pede estudar:
   descentralizar com participação coletiva efetiva.
 - **Economia** — biorregional, sustentável, de baixa pegada de carbono, com livre acesso à
   informação; sem o paradigma consumista, que projeta consumo, faz estoque e está sempre
-  gerando vontade de consumir mais.
+  gerando vontade de consumir mais. Onde a reflexão chegou: [economia](economia.md).
 
 Fonte: [22/9]`#transicao-para-ecocidades`.
 

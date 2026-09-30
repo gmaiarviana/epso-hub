@@ -65,6 +65,7 @@ quer — mas o compromisso se estabelece sobre empatia, confiança, lealdade e e
 paradigma perde a mentalidade individualista, identificada com o ego, do "eu quero isso, eu
 quero aquilo", e o que queremos passa a ser o que faz sentido para nós. Doença ou outra
 prioridade se equilibram com trocas; o que se perde é o gosto pessoal de que não se abre mão.
+Como se troca sem contrato: [economia](economia.md#troca-por-confiança).
 
 Fonte: [conversa]`#comunidade-o-melhor-dos-dois-mundos`, `#o-querer-que-faz-sentido-para-nós`.
 

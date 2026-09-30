@@ -51,7 +51,7 @@ Um documento bruto de `fontes/documentos/` também ganha camada limpa quando re�
 
 - O limpo fica ao lado do bruto, com o mesmo nome sem o `.raw` e metadados `tipo: documento-limpo` e `fonte-bruta`, sem `fonte-audio`.
 - Não há escada de escuta: as correções são de digitação, acentuação, abreviação de chat (por extenso, mantido o registro falado, como "pra") e grafia de nome próprio, validadas em lote como as de transcrição.
-- O que o bruto repete — rascunho reescrito — fica no limpo só na última versão; trecho de uma versão anterior que a última perdeu fica também. Linha de sistema e marca de formatação (separadores de post) saem.
+- O que o bruto repete — rascunho reescrito — fica no limpo só na última versão; trecho de uma versão anterior que a última perdeu fica também. Quando a versão anterior é um bruto separado, o limpo leva o nome do bruto da última versão, `fonte-bruta` lista os dois, e o bruto anterior recebe `dispensada:` apontando para o limpo — assim a [cobertura](#cobertura), que casa limpo e bruto pelo nome, não muda. Caso: `fontes/documentos/2026-09-29-manifesto-homo-activus.md`. Linha de sistema e marca de formatação (separadores de post) saem.
 - Documento datado por trecho (notas, chat) leva a data de origem em itálico logo abaixo do título da seção. Mensagens de uma mesma ideia se juntam numa seção, cada trecho com sua data; mensagem que só nomeia um tema, autor ou referência, sem afirmar nada, vai para uma seção de tópicos soltos do período.
 - Documento grande passa a limpo em lotes, cada um validado antes do próximo.
 

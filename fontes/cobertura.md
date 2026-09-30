@@ -58,7 +58,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
-| [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.raw.md) | pendente | — |
+| [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.md) | não iniciado | 0/7 |
 | [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
 | [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md) | não iniciado | 0/11 |
@@ -177,7 +177,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-a-realidade-como-ela-e
 
-- pendente, sem nota na fila
+- sem nota na fila: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`, `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`
 
 ### 2026-09-29-apresentacao
 

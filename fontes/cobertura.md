@@ -68,7 +68,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md) | pendente | — |
 | [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | pendente | — |
 | [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | não iniciado | 0/341 |
-| [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.raw.md) | pendente | — |
+| [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.md) | não iniciado | 0/10 |
 | [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | não iniciado | 0/15 |
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | pendente | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
@@ -206,7 +206,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-manifesto-eamom
 
-- pendente, sem nota na fila
+- sem nota na fila: `#queremos-mudanca-mas-nao-concordamos-no-que`, `#a-saude-e-uma-medida-que-conseguimos-concordar`, `#saude-como-modelo-de-representacao-da-vida`, `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`, `#nao-lidar-com-a-morte-nos-faz-divergir`, `#queremos-a-vida-viver-o-agora`, `#aprender-com-a-historia-e-os-outros-seres-vivos`, `#a-evolucao-e-inevitavel-ajudamos-ou-atrapalhamos`, `#o-sentido-da-vida-e-a-evolucao`
 
 ### 2026-09-29-manifesto-homo-activus
 

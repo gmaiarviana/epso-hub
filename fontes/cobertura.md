@@ -86,7 +86,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 
-- Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`, `#o-novo-processamento`, `#ressignificar-quem-somos`
+- Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#crencas-e-palavras`, `#o-novo-processamento`, `#ressignificar-quem-somos`
+- Encaixar, com parte já encaixada: `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`
 - Foco: `#de-global-destrutivo-a-global-regenerativo`, `#boas-praticas-factiveis`
 
 ### 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu

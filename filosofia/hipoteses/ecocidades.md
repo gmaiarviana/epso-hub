@@ -30,6 +30,8 @@ eletrodomésticos e equipamentos que se trocam ao longo de anos são o ciclo lon
 planejamento maior, sem repetir o modelo de hoje — muito estoque, muita prontidão, muita
 logística e energia gastas para antecipar a venda e estimular o consumo.
 
+Antes do território, isso começa por dentro: [precisar de menos](precisar-de-menos.md).
+
 Fonte: [22/9]`#raios-de-producao-e-nucleos`; [26/6]`#economia-local-e-ciclos-de-consumo`.
 
 ## A informação viaja, a matéria fica perto

@@ -61,3 +61,11 @@ Quem está abaixo do nível da dignidade, ou abaixo da linha de conforto, trabal
 dinheiro. Quem está acima da linha de conforto trabalha também, mesmo já tendo conforto,
 porque quer autoestima, realização, identificação, aprovação social, contribuir. Esses
 conceitos são interessantes de ser elaborados mais profundamente depois.
+
+## Dignidade, conforto e desperdício
+
+Eu remeto a Maslow também. Mas preciso elaborar esses conceitos depois, com mais calma.
+
+Linha de dignidade, conforto, desperdício: isso cria quatro grandes faixas. Ninguém deve estar
+abaixo da dignidade ou acima do desperdício. Todos deveriam estar acima do conforto, ou pelo
+menos próximos dele.

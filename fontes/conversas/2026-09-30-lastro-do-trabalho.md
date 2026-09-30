@@ -69,3 +69,7 @@ Eu remeto a Maslow também. Mas preciso elaborar esses conceitos depois, com mai
 Linha de dignidade, conforto, desperdício: isso cria quatro grandes faixas. Ninguém deve estar
 abaixo da dignidade ou acima do desperdício. Todos deveriam estar acima do conforto, ou pelo
 menos próximos dele.
+
+A linha do desperdício vale para o que se acumula e para o que se gasta. Ninguém deveria
+desperdiçar, nem guardar dinheiro que deveria estar se movimentando e colaborando com outros.
+Isso gera menos escassez e ressignifica o papel do dinheiro. Vamos elaborar com calma depois.

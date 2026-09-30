@@ -179,3 +179,10 @@ soluções causam menos impacto. Não quero dizer que o trabalho de biólogos e 
 não é importante: é sim importante quantificar algumas coisas relacionadas ao meio ambiente e
 à natureza. Mas não devemos fazer ciência de foguete para tentar intervir em coisas sobre as
 quais não temos controle ou clareza.
+
+## Fazer o que precisa ser feito
+
+Na verdade, o EPSO quer fazer o que precisa ser feito; não precisaria racionalizar. Escrevo
+isso para me comunicar com os outros. Nós fazemos porque os outros seres contam com a nossa
+contribuição; eles nos ajudam. Fazemos para que a gente tenha condições de fazer o que devemos
+fazer. Se nos destruirmos, não poderemos fazer o que devemos fazer.

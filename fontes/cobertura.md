@@ -43,7 +43,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
-| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 18/22 |
+| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -106,7 +106,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade
 
 - Encaixar: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
-- Foco: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
+- Foco: `#contribuicao-e-divisao-do-trabalho`
+- Foco, com parte já encaixada: `#regeneracao-por-nos`
 
 ### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
 
@@ -179,7 +180,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-30-precisar-de-menos
 
-- sem nota na fila: `#compromisso-com-pessoas-nao-com-coisas`, `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`, `#nos-salvar-salva-quem-convive-conosco`
+- sem nota na fila: `#compromisso-com-pessoas-nao-com-coisas`, `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`
 
 ### 2026-09-29-a-realidade-como-ela-e
 

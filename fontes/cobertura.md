@@ -47,7 +47,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
-| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | completo | 2/2 |
+| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | parcial | 2/3 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
@@ -64,7 +64,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado | — |
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | citado; na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
-| [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
+| [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | citado; na fila | — |
 | [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.md) | não iniciado | 0/7 |
 | [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
@@ -127,8 +127,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade
 
 - Encaixar: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
-- Foco: `#contribuicao-e-divisao-do-trabalho`
-- Foco, com parte já encaixada: `#regeneracao-por-nos`
+- Foco, com parte já encaixada: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
 
 ### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
 
@@ -194,6 +193,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - contexto/next-steps.md: `#filosofo-fora-da-cara-publica`
 - sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#posicionamento`, `#desejo-ressignificado`
+
+### 2026-09-30-lastro-do-trabalho
+
+- sem nota na fila: `#o-acervo-nao-e-o-texto-publicado`
 
 ### 2026-09-30-linguagem-intencao-e-hipotese
 

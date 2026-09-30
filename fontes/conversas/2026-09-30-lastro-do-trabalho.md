@@ -18,3 +18,8 @@ partir do meu labor.
 Dizer "pessoas não querem trabalho" é muito perigoso. Muita gente está totalmente apegada ao
 paradigma em que se identifica com o trabalho, com o que faz, com seu cargo — e isso ajuda a
 definir sua identidade.
+
+## O acervo não é o texto publicado
+
+O texto do acervo não está disponibilizado aos leitores. Na publicação, vou ter o cuidado de
+saber a que público me refiro. E tem o oposto: tem gente que já vai entender de cara.

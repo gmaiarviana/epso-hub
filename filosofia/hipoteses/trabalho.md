@@ -18,6 +18,7 @@ básicas e por satisfação pessoal, e o ponto mais alto dessa satisfação é c
 
 Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pelo trecho):
 
+- **[26/6]** `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md`
 - **[23/9]** `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`
 - **[30/9]** `fontes/conversas/2026-09-30-lastro-do-trabalho.md`
 - **[propósito]** `fontes/documentos/2026-09-27-proposito-epso.raw.md`
@@ -25,6 +26,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pe
 - **[cartas]** `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md`
 - **[proposta]** `fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md`
 - **[comitê]** `fontes/documentos/2026-09-27-notas-comite-ia.raw.md`
+- **[tpm]** `fontes/documentos/2026-09-27-relato-tpm-programa.raw.md`
 
 Fonte da abertura: [30/9]`#labor-e-movimento`; [ensaio] (Nós não somos nosso trabalho; Fazer
 é trabalhar); [comitê] (Pressupostos).
@@ -53,6 +55,38 @@ consegue explorar seus potenciais, é respeitada, tem conversas transparentes e 
 objetivos.
 
 Fonte: [propósito] (crenças: "a criação é o ápice do prazer").
+
+## A contribuição ficou indireta
+
+Para os primeiros humanos, sem trabalho não havia comida. A partir da revolução industrial, as
+máquinas assumiram o trabalho pesado, e poucas pessoas passaram a produzir o alimento de
+todos; a maioria contribui de forma indireta — o motorista de caminhão, o operador de
+máquinas. Numa sociedade cada vez mais complexa e populosa, a divisão do trabalho se
+estabeleceu em empresas, instituições públicas e privadas, organizações não governamentais,
+setores. A contribuição de muitas profissões ficou bem fina, quase invisível: não se trabalha
+para comer, trabalha-se para comprar comida. Foi então que o trabalho ganhou outra função —
+dar sentido e propósito. (Quem está na pobreza ainda trabalha para sobreviver; não é a
+realidade de toda a humanidade.)
+
+A divisão tem dois lados. Todo trabalho cumpre uma função que permite a harmonia da
+sociedade, e dependemos uns dos outros: precisamos contribuir uns com os outros. Mas quanto
+mais o trabalho se divide, mais longe quem trabalha fica do [valor](valor.md) que produz.
+
+A mesma distância aparece dentro das organizações. Times divididos por componente deixam as
+pessoas alienadas do produto final, fazendo só uma etapa da esteira de produção: represam
+conhecimento em silos, olham só o aspecto técnico e descobrem os defeitos tarde. Times
+organizados por produto aproximam quem constrói de quem usa e conseguem avaliar se o produto
+está entregando valor.
+
+E aparece na carreira. Trabalhar em indústrias que geram valor indireto faz com que só uma
+fração pequena da energia vá para o que se acredita. A resposta é buscar segmentos de
+benefício direto para a sociedade — e [trabalhar com o que
+acreditamos](#trabalhar-com-o-que-acreditamos).
+
+A ideia é parente da alienação de Marx: o trabalhador separado do produto do seu trabalho.
+
+Fonte: [ensaio] (Nós não somos nosso trabalho); [26/6]`#contribuicao-e-divisao-do-trabalho`;
+[tpm] (Sugestão de solução para esse tipo de problema); [cartas] (Motivo 1).
 
 ## Não somos nosso trabalho
 

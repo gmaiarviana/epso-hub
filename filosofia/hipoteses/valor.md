@@ -36,4 +36,7 @@ entregas, querem missão cumprida. Uma empresa entrega valor pela maneira como s
 para saber se entrega, precisa de objetivos claros e metas que mostrem como melhora a vida das
 pessoas.
 
+Quanto mais o trabalho se divide, mais longe quem trabalha fica do valor que produz — ver
+[a contribuição ficou indireta](trabalho.md#a-contribuição-ficou-indireta).
+
 Fonte: [comitê] (Pressupostos); [proposta] (notas de apoio: contratos com objetivos claros).

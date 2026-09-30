@@ -120,26 +120,12 @@ o agente o refaz no briefing da sessão de decisão.
      provocação: `#o-que-e-instintivo-e-inconsciente-no-humano`, `#como-as-pessoas-mudam-pelo-que-voce-faz`, `#as-pessoas-escutam-menos-os-mais-velhos`.
 4. **Linguagem, precisão e âncora** — dono de `filosofia/hipoteses/linguagem.md`,
    `filosofia/hipoteses/precisao.md` e `filosofia/hipoteses/ancora.md`.
-   - Transcrição 2026-06-26 (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`),
-     linguagem e escrita → checar fusão com `filosofia/hipoteses/linguagem.md`:
-     `#a-cola-imaterial`, `#crencas-e-palavras`, `#da-oralidade-a-escrita`,
-     `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`.
-   - `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao` → checar
-     fusão com `filosofia/hipoteses/linguagem.md`, só a parte filosófica.
-   - O fio da comunicação humana de `## 1` da narrativa v8 — as camadas entre a intenção de quem
-     fala e a interpretação de quem ouve; reduzir o ruído em todo papel → checar fusão com
-     `filosofia/hipoteses/linguagem.md`.
-   - Sobras do epso_paradigm (`fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md`): a
-     medição que volta disfarçada de prova (`#no-da-medicao`) e o critério de falsidade como
-     "coração do doutorado" (`#criterio-de-falsidade`) → `filosofia/hipoteses/precisao.md`.
-   - **A nota que desvia o objetivo** — reduzir uma avaliação qualitativa a um índice de 0 a
-     100 gera impressões que desviam o foco do que se quer avaliar (`emails-avaliacao-e-pdi`,
-     segundo e-mail) → caso em
-     [precisao.md](filosofia/hipoteses/precisao.md#a-medição-é-uma-página-do-livro).
-   - Do ensaio (`ensaio-nao-somos-nosso-trabalho`): a mente como máquina de sentido →
-     `filosofia/hipoteses/linguagem.md`; limites da percepção →
-     `filosofia/hipoteses/precisao.md`; mensagens semelhantes, formas diferentes →
-     `filosofia/hipoteses/ancora.md`.
+   - Conversa 2026-09-30 (`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md`):
+     abraçar ciências fora do paradigma mecanicista e organizar novas regras
+     (`#abracar-outras-ciencias`) → destino a decidir; conversa com "Um novo paradigma sobre a
+     ciência" de `filosofia/hipoteses/precisao.md` e com "Mudar as regras do jogo" do
+     [elaborar](elaborar.md). `#a-ideia-tem-uma-mensagem` espera o refino da âncora
+     ([filosofia/next-steps.md](filosofia/next-steps.md)).
    - `fontes/documentos/2026-09-29-personalidades.raw.md` — a cadeia de dúvidas sobre a
      fidelidade da mensagem de Jesus e Buda: a ideia excede a expressão → `filosofia/hipoteses/ancora.md`;
      encaixe direto, ou provocação no elaborar.
@@ -174,8 +160,14 @@ o agente o refaz no briefing da sessão de decisão.
      `filosofia/cosmovisao/a-tese.md`; **todo problema é uma expectativa não atendida**
      (`cartas-de-candidatura`, carta à startup) → hipótese pequena ou
      `filosofia/cosmovisao/quem-sou-eu.md`; do ensaio (`ensaio-nao-somos-nosso-trabalho`): você
-     não é sua mente → `quem-sou-eu.md`; o sistema operacional das crenças → onde o item 4
-     encaixar `#crencas-e-palavras`; corpo e emoções → checar contra a transcrição 2026-09-24.
+     não é sua mente → `quem-sou-eu.md`; o sistema operacional das crenças → junto de
+     `#crencas-e-palavras`, já em `filosofia/hipoteses/linguagem.md`; corpo e emoções → checar contra a transcrição 2026-09-24.
+   - Transcrição 2026-06-26 (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`):
+     `#a-cola-imaterial` — não é linguagem; destino em `filosofia/cosmovisao/`.
+   - Conversa 2026-09-30 (`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md`): a
+     descrição de evoluir com intenção (`#intencao-e-o-que-queremos-alcancar`, já encaixada em
+     linguagem na definição de intenção) → também em
+     [quem-sou-eu.md](filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção).
    - Transcrição 2026-07-07 (`fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md`):
      `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao` →
      `filosofia/cosmovisao/a-tese.md`; `#a-camada-filosofica-e-a-fonte` → `quem-sou-eu.md` ou
@@ -223,6 +215,8 @@ o agente o refaz no briefing da sessão de decisão.
      itens 3 e 4 e, abaixo, os três campos da pesquisa em IA de `## 3` (processamento de
      linguagem natural, representação de conhecimento, eficiência computacional) → checar
      fusão com os candidatos de recorte em `estudo/academia/foco.md`.
+   - "Reduzir o ruído em todo papel", do fio da comunicação de `## 1` da narrativa v8 → prática
+     profissional, em `contexto/` (a hipótese já está em linguagem).
    - **O que acredito de uma liderança** — ambiente seguro para feedback, transparência,
      estímulo à excelência (`carta-ex-lider`) → pede a fala do incorporador; destino a decidir.
    - **Quatro tipos de benchmarking** (`notas-comite-ia`) → pede explicação do incorporador;

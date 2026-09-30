@@ -59,6 +59,11 @@ Item de fila fala de seção pela âncora (`#secao`) — nunca por intervalo ("d
 "o resto" ou "conferir o que falta"; quando vão todas, diz "arquivo inteiro". Documento bruto,
 sem seções, entra pelas ideias, nomeadas uma a uma.
 
+Fonte de origem mista — a fala do incorporador junto de texto de terceiros, como a crítica
+de uma IA — tem a voz marcada no item: a ideia que não é do incorporador leva
+`(voz do guia)` ou o nome de quem fala. O encaixe dela vira provocação no
+[elaborar](../elaborar.md), não texto na voz do incorporador.
+
 ## Como se atualiza
 
 - Cada sessão de planejamento termina com um prompt de edição pronto para o Claude Code e a

@@ -14,7 +14,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2025-03-06-sobre-o-metodo](../fontes/transcricoes/2025-03-06-sobre-o-metodo.md) | não iniciado | 0/46 |
 | [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md) | não iniciado | 0/8 |
 | [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md) | não iniciado | 0/22 |
-| [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 1/13 |
+| [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 5/13 |
 | [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
 | [2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida](../fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md) | parcial | 7/10 |
 | [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 5/10 |
@@ -48,7 +48,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
 | [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | parcial | 6/8 |
-| [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
+| [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 6/9 |
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
@@ -58,7 +58,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-cartas-de-candidatura](../fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-documento-institucional](../fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-operacional](../fontes/documentos/2026-09-27-construtora-operacional.raw.md) | na fila | — |
-| [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | citado; na fila | — |
+| [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | citado | — |
 | [2026-09-27-ensaio-nao-somos-nosso-trabalho](../fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md) | citado; na fila | — |
 | [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | citado; na fila | — |
 | [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado | — |
@@ -113,7 +113,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 
 - Foco: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#o-novo-processamento`, `#de-global-destrutivo-a-global-regenerativo`, `#ressignificar-quem-somos`
-- Foco, com parte já encaixada: `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`, `#boas-praticas-factiveis`
+- Foco, com parte já encaixada: `#boas-praticas-factiveis`
 
 ### 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu
 
@@ -201,7 +201,9 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-30-linguagem-intencao-e-hipotese
 
-- sem nota na fila: `#abracar-outras-ciencias`, `#a-ideia-tem-uma-mensagem`
+- Foco: `#abracar-outras-ciencias`
+- Foco, com parte já encaixada: `#intencao-e-o-que-queremos-alcancar`
+- Foco, filosofia/next-steps.md: `#a-ideia-tem-uma-mensagem`
 
 ### 2026-09-30-precisar-de-menos
 

@@ -64,12 +64,12 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.raw.md) | pendente | — |
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
-| [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | pendente | — |
+| [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | dispensado | — |
 | [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md) | pendente | — |
 | [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | pendente | — |
 | [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | não iniciado | 0/341 |
 | [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.raw.md) | pendente | — |
-| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.raw.md) | pendente | — |
+| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | não iniciado | 0/15 |
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | pendente | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
 | [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.raw.md) | pendente | — |
@@ -191,10 +191,6 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - pendente, sem nota na fila
 
-### 2026-09-29-explicado-homo-activus
-
-- pendente, sem nota na fila
-
 ### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 
 - pendente, sem nota na fila
@@ -214,7 +210,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-manifesto-homo-activus
 
-- pendente, sem nota na fila
+- sem nota na fila: `#sou-um-individuo-com-um-corpo-que-sente`, `#nos-comunicamos-e-estabelecemos-bases-em-comum`, `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#nao-eliminar-as-experiencias-ruins-classifica-las`, `#capacidade-implica-possibilidade-e-sustentabilidade`, `#agir-pelo-que-nao-queremos-nos-torna-passivos`, `#sobreviver-deixou-de-dar-sentido`, `#talvez-nao-precisemos-de-um-objetivo`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`, `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`, `#reinventar-a-organizacao-capitalismo-sustentavel`, `#o-homo-activus-convence-em-vez-de-guerrear`, `#sapiens-praesenti-e-civili-coexistem`
 
 ### 2026-09-29-manifesto-organizacao
 

@@ -47,6 +47,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
+| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | completo | 1/1 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
@@ -59,9 +60,9 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-construtora-operacional](../fontes/documentos/2026-09-27-construtora-operacional.raw.md) | na fila | — |
 | [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | citado; na fila | — |
 | [2026-09-27-ensaio-nao-somos-nosso-trabalho](../fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md) | citado; na fila | — |
-| [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | na fila | — |
+| [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | citado; na fila | — |
 | [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado | — |
-| [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
+| [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | citado; na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
 | [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.md) | não iniciado | 0/7 |

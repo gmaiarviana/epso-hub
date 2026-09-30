@@ -26,6 +26,8 @@ Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pe
 - **[cartas]** `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md`
 - **[proposta]** `fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md`
 - **[comitê]** `fontes/documentos/2026-09-27-notas-comite-ia.raw.md`
+- **[palestra PDI]** `fontes/documentos/2026-09-30-palestra-pdi.raw.md`
+- **[guia PDI]** `fontes/documentos/2026-09-30-guia-pdi.raw.md`
 - **[tpm]** `fontes/documentos/2026-09-27-relato-tpm-programa.raw.md`
 
 Fonte da abertura: [30/9]`#labor-e-movimento`; [ensaio] (Nós não somos nosso trabalho; Fazer
@@ -123,11 +125,19 @@ trabalho tem partes boas e ruins — o suco de laranja pede espremer, cuidar de 
 pede arrumar a bagunça. A resiliência vem de acreditar no valor do resultado. Feito de
 maneira presente, aprende-se a gostar da jornada, e a dificuldade vira aliada, não inimiga.
 
+Gosto e crença são coisas diferentes. O gosto ajuda nos dias bons, quando o trabalho flui e a
+tarefa é agradável; nos dias difíceis, o gosto sozinho não segura — a crença, sim. Quando se
+trabalha com o que se gosta, evitam-se as partes de que não se gosta; quando se trabalha com o
+que se acredita, consegue-se encará-las. Bom salário ou reputação não se sustentam quando não
+se acredita no que se faz.
+
 Daí o guia: trabalhar com o que acreditamos, não com o que gostamos — unir-se a pessoas e
 projetos que buscam objetivos em que se acredita. É também o jeito mais eficiente de engajar
 pessoas numa jornada: quando elas acreditam no que fazem.
 
-Fonte: [ensaio] (Faça o que acredita); [30/9]`#o-prazer-de-fazer`; [cartas] (Motivo 2; "completamente orientado a
+Fonte: [ensaio] (Faça o que acredita); [30/9]`#o-prazer-de-fazer`; [guia PDI] (1.2, O que
+sustenta o caminho); [palestra PDI] (Aprendi que devemos fazer aquilo em que acreditamos);
+[cartas] (Motivo 2; "completamente orientado a
 propósito").
 
 ## Ressignificar o trabalho

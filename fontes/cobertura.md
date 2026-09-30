@@ -83,6 +83,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
+| [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado | — |
+| [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado | — |
 
 ## Pendências
 

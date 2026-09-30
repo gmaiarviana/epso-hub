@@ -12,6 +12,9 @@ nota: >-
   Cada seção é um arquivo de origem, com o caminho em itálico, e os títulos
   internos descem um nível; os `[[ ]]` apontam para arquivos do repositório
   de origem.
+dispensadas:
+  no-da-medicao: crítica do guia acadêmico; a ideia já está em precisão na voz do incorporador ("a medição acompanha, não fundamenta")
+  criterio-de-falsidade: crítica do guia acadêmico; a ideia já está em precisão na voz do incorporador (a intenção separa a leitura parcial da distorção; avaliar a intenção a partir de fora)
 ---
 
 # Sobras do epso_paradigm

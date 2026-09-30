@@ -59,6 +59,17 @@ O peso disso cai sobretudo no subjetivo, no abstrato, nas ciências sociais, ond
 metodologias já são narrativas. Mesmo no material que influi na saúde, somos tão
 holísticos que definir um grupo de controle é um exercício quase impossível de verificar.
 
+Um caso do trabalho mostra as duas coisas: o viés de escolher um índice e o que é, na prática,
+uma nova maneira de medir. Numa avaliação de desempenho, cada tópico traz insumos valiosos,
+discutidos ponto a ponto entre gestor e liderado. Reduzir tudo a uma nota final de 0 a 100 é
+transformar parâmetros subjetivos em objetivos, e a nota pode gerar impressões que desviam o
+foco e o objetivo da avaliação: o índice passa a falar mais alto do que aquilo que mede. A
+saída proposta ali não foi abolir a nota, e sim amarrá-la a uma premissa clara ("o
+colaborador ___ vive a cultura da empresa"), medida em frequência, de nunca a sempre — uma
+maneira de medir que não esquece o que está medindo.
+
+Fonte: `fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md` (segundo e-mail).
+
 O modelo científico atual vai além de medir: joga os saberes que ficam fora dele para o lado
 da superstição. Boaventura de Sousa Santos chama essa fronteira de "linha abissal"; e a
 crítica que só aceita o que se mede tem, na academia, o nome de positivismo. São os nomes
@@ -77,6 +88,12 @@ os morcegos fazem sons que não escutamos; outros animais têm sensores de que n
 ideia. A pergunta é como viver com isso: incomodados por não saber tudo, ou aceitando a
 realidade.
 
+E não sentimos falta do que não sabemos que existe. Quem fecha um olho não vê metade do mundo:
+vê completo, com o que tem. Quem nasceu sem enxergar não vive diante de uma imagem preta:
+percebe o mundo de outras maneiras. Construímos a realidade com as percepções de que temos
+consciência, e por isso não conseguimos nem imaginar o que não sabemos. Não conseguir provar
+não significa que não existe.
+
 O limite também vale no tempo. Quando se descobriram os elementos radioativos, houve quem os
 usasse como remédio, sem saber que faziam mal; com a ciência, o mesmo hábito passou a ser
 evitado. Quantos hábitos ruins temos hoje sem saber, por falta de conhecimento, de ciência, de
@@ -88,7 +105,20 @@ que dirigia aquele carro, por que não o levou à manutenção? Muitas explicaç
 contentam com o como.
 
 Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#um-mundo-que-nao-vemos`,
-`#habitos-inconscientes`, `#como-e-porque`.
+`#habitos-inconscientes`, `#como-e-porque`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`.
+
+## Toda hipótese nasce do absurdo
+
+Uma hipótese é imaginação de alguém: um sonho, uma abstração que faz sentido para quem a teve,
+mesmo que só na teoria. Depois ela se testa. Toda hipótese nasce do absurdo, e não se deve ter
+medo dele: o absurdo é o ponto de partida; o teste é o que decide.
+
+Na filosofia da ciência, os nomes vizinhos são contexto da descoberta (de onde vem a ideia,
+livre) e contexto da justificação (como ela se testa, com regras). O próprio Popper chamava as
+hipóteses de conjecturas, e preferia as ousadas.
+
+Fonte: `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#toda-hipótese-nasce-do-absurdo`.
 
 ## Comunicar na camada que o outro alcança
 
@@ -115,7 +145,10 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#a-intencao-s
 - **A física quântica como paradigma a elaborar.** Cedo para cravar; pede estudo. Cuidado
   já registrado: na física quântica, "observador" é qualquer interação de medição (um
   detector, um fóton), não um sujeito consciente — homônimo do observador desta tese. A
-  ponte, se existir, não se faz pelo nome.
+  ponte, se existir, não se faz pelo nome. O consenso vale para o que já foi registrado e não
+  encerra a pesquisa: se o fenômeno se estende a outros objetos (somos feitos de elétrons) é
+  hipótese a testar.
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#novos-paradigmas-sobre-a-ciencia`,
-`fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#fisica-quantica-um-paradigma-a-elaborar`.
+`fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#fisica-quantica-um-paradigma-a-elaborar`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-consenso-não-encerra-a-pesquisa`.

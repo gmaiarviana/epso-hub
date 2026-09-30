@@ -15,7 +15,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 5/10 |
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | parcial | 3/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | parcial | 2/4 |
-| [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | não iniciado | 0/6 |
+| [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | parcial | 0/6 |
 | [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial | 9/12 |
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | parcial | 12/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | parcial | 11/15 |
@@ -41,6 +41,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-evoluir-com-intencao-e-o-pendulo](../fontes/conversas/2026-09-29-evoluir-com-intencao-e-o-pendulo.md) | completo | 4/4 |
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
+| [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -49,8 +50,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-cartas-de-candidatura](../fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-documento-institucional](../fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-operacional](../fontes/documentos/2026-09-27-construtora-operacional.raw.md) | na fila | — |
-| [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | na fila | — |
-| [2026-09-27-ensaio-nao-somos-nosso-trabalho](../fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md) | na fila | — |
+| [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | citado; na fila | — |
+| [2026-09-27-ensaio-nao-somos-nosso-trabalho](../fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md) | citado; na fila | — |
 | [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | na fila | — |
 | [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado | — |
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
@@ -86,7 +87,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 
-- Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`, `#o-novo-processamento`, `#ressignificar-quem-somos`
+- Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#o-novo-processamento`, `#ressignificar-quem-somos`
+- Encaixar, com parte já encaixada: `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`
 - Foco: `#de-global-destrutivo-a-global-regenerativo`, `#boas-praticas-factiveis`
 
 ### 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu
@@ -114,7 +116,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-07-04-quatro-iniciativas
 
-- Foco: `#visao-portfolio`, `#iniciativa-1-construtora`, `#iniciativa-2-ferramentas`, `#iniciativa-3-conhecimento`, `#iniciativa-4-abstracao`, `#objetivo-de-carreira`
+- Foco: `#visao-portfolio`, `#iniciativa-1-construtora`, `#iniciativa-2-ferramentas`, `#iniciativa-3-conhecimento`, `#objetivo-de-carreira`
+- Foco, com parte já encaixada: `#iniciativa-4-abstracao`
 
 ### 2026-07-07-camada-filosofica-e-a-jornada-academica
 
@@ -168,6 +171,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - contexto/next-steps.md: `#filosofo-fora-da-cara-publica`
 - sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#posicionamento`, `#desejo-ressignificado`
+
+### 2026-09-30-linguagem-intencao-e-hipotese
+
+- sem nota na fila: `#abracar-outras-ciencias`, `#a-ideia-tem-uma-mensagem`
 
 ### 2026-09-29-a-realidade-como-ela-e
 

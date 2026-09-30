@@ -4,8 +4,10 @@
 
 A linguagem é a tecnologia que tornou coletiva a nossa relação com a camada das ideias. Cada
 salto — a fala, a escrita, a matemática, a tecnologia da informação — ampliou a colaboração.
-O limite de agora é falarmos em camadas diferentes sem perceber: uma limitação de transição,
-que se supera com uma linguagem mais precisa sem perder a cor.
+Entre as mudanças de comportamento que a [tese](../cosmovisao/a-tese.md) pede está a maneira
+como nos comunicamos: nada drástico, só mais intenção e mais precisão. O limite de agora é
+falarmos em camadas diferentes sem perceber: uma limitação de transição, que se supera com uma
+linguagem mais precisa sem perder a cor.
 
 Fontes, referenciadas abaixo por rótulo e `#secao`:
 
@@ -13,6 +15,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[23/9]** `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`
 - **[24/9]** `fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`
 - **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
+- **[26/6 tese]** `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`
 
 ## A linguagem é representação
 
@@ -54,13 +57,25 @@ Fonte: [24/9]`#linguagem-e-noosfera`; [22/9]`#linguagem-e-noosfera`.
 
 ## Os saltos: tecnologias da informação
 
+Na fala, manipulamos o ar para fazer sons. Quem escuta sente o som antes de entendê-lo: o som
+causa uma emoção, e a mente interpreta essa emoção e lhe dá sentido — o mesmo caminho do
+sentir ao nomear de [onde a comunicação falha](#onde-a-comunicação-falha). A mente não
+interpreta sozinha: aprende com as outras mentes, nas histórias que contamos juntos, o que
+cada som quer dizer; e o sentido aprendido passa, ele também, a causar emoção. Mas o som já
+carrega parte do sentido antes de qualquer aprendizado: algumas palavras de sentido doce soam
+doces, as de sentido duro soam duras. Somado à entonação e às expressões do rosto, isso
+transmite uma ideia mesmo a quem não conhece a língua — é por isso que os bebês e os bichos às
+vezes nos entendem. A escrita deu a esses sons um símbolo visual, mas ainda é preciso ler. E a
+linguagem nunca foi só palavra: é também expressão facial, tom de voz, energia.
+
 A história da linguagem se conta junto com a história da informação e da tecnologia da
 informação. A oralidade chegou ao limite do que as mentes guardavam; a escrita veio para
 armazenar fora da mente, em maior quantidade. Os números e o cálculo são a mesma coisa para o
 processamento: métodos que se aplicam como uma pipeline, com resultado previsível, para não
-gastar a energia de fazer tudo de cabeça. Escrita e matemática são marcos na evolução da
-linguagem — são tecnologias da informação, criadas por nós, para nós, e tão naturais quanto
-ela.
+gastar a energia de fazer tudo de cabeça. A energia poupada fica disponível para aprofundar:
+mais contas, mais complexidade, mais abstração, mais assuntos. Escrita e matemática são marcos
+na evolução da linguagem — são tecnologias da informação, criadas por nós, para nós, e tão
+naturais quanto ela.
 
 Isso dá margem para elaborar o próximo passo: ferramentas com previsibilidade de resultado
 que processem o volume de informação que demandaria energia demais do nosso cérebro — ou do
@@ -70,7 +85,9 @@ nosso cérebro coletivo. A proposta desse próximo passo vive em
 É este o salto de que fala a [tese](../cosmovisao/a-tese.md): assim como a escrita foi um
 salto antes, a tecnologia da informação é o de agora.
 
-Fonte: [24/9]`#tecnologias-da-informacao`.
+Fonte: [24/9]`#tecnologias-da-informacao`; [26/6 tese]`#da-oralidade-a-escrita`,
+`#a-escrita-expandiu-o-processamento`; `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-som-que-vira-sentido`,
+`#a-energia-poupada-é-para-aprofundar`.
 
 ## O limite de agora: falamos em camadas
 
@@ -125,6 +142,11 @@ mente tenta racionalizar e pôr nome — e chega a um resultado, verdadeiro ou n
 comunicamos do jeito que achamos que o outro vai entender, e o outro experiencia, interpreta e
 sente.
 
+A mente é uma máquina de encontrar sentido e criar narrativas, e não gosta de vazio. Vê dois
+olhos em dois ovos na frigideira; procura um rosto conhecido na multidão. Reúne fatos para
+montar explicações lógicas, mas só com as evidências disponíveis, ou com as que fortalecem o
+argumento. Pode nos fazer acreditar no que faz sentido sem ter fortes evidências.
+
 Cada passagem é um lugar de falha: falo de um jeito difícil para o outro; falo diferente do
 que processei; processo diferente do que senti; ou sinto algo real e defino uma resposta que
 não condiz com a realidade — me iludo. São sempre fragmentos, construções, interpretação. Dá
@@ -135,7 +157,9 @@ Nomear é também o caminho de volta: pela linguagem se racionaliza o que se sen
 gente se acessa mais fluidamente. Muitas terapias já dizem isso; o papel aqui é organizar, não
 inventar a roda.
 
-Fonte: [24/9]`#do-sentir-ao-comunicar`, `#falhas-na-comunicacao`, `#nomear-para-acessar`.
+Fonte: [24/9]`#do-sentir-ao-comunicar`, `#falhas-na-comunicacao`, `#nomear-para-acessar`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
+`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`.
 
 ## A direção: precisa sem perder a cor
 
@@ -158,7 +182,8 @@ para certos assuntos. E a palavra precisa mais do que existir: precisa estar na 
 língua. A que a pessoa não sabe é ruim; a que ela não usa é péssima. Língua usada por todo
 mundo é língua viva.
 
-Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#linguagem-viva`.
+Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#linguagem-viva`;
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`.
 
 A intuição da direção: estabelecer símbolos para uma escala — como dó-ré-mi, as cores do
 arco-íris —, de um lado mais material, do outro mais abstrato, e ao dialogar acertar o contexto
@@ -168,6 +193,12 @@ observações e repertório acompanham o que se diz.
 
 Fonte: [24/9]`#precisao-e-brincadeira`, `#espectro-de-camadas`; [22/9]`#linguagem-em-camadas`;
 `fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md#o-custo-da-precisão-não-é-uma-escolha`.
+
+Muita gente já estuda como falar com mais intenção: a programação neurolinguística (PNL), a
+neurociência.
+
+Fonte: [26/6 tese]`#linguagem-com-intencao`, `#crencas-e-palavras`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#comunicar-com-mais-intenção`.
 
 ## Comunicar na camada que o outro alcança
 
@@ -189,6 +220,10 @@ roupas da ideia). A direção é tirar a linguagem da dependência das palavras 
 mensagem: o que se quer dizer, em qual camada, independente das palavras — que são só a
 maneira de transmitir. Fazer uma derivada das palavras.
 
+As palavras têm muito poder, mas remetem a emoções, a histórias, a contextos que, a depender
+da pessoa, trazem resistência, repulsa no lugar de atração, ou uma atração enviesada onde
+caberia análise crítica. Abstrair é olhar para o conceito sem essa carga.
+
 Assim se colabora com mais facilidade entre ideias que se assemelham mas usam palavras
 diferentes — religiões, crenças políticas —, e se argumenta com mais clareza quando as
 palavras deixam de ser barreira. Um sonho de plataforma dá corpo a isso: montar os grafos das
@@ -196,12 +231,32 @@ nossas crenças, distinguir as mensagens diferentes que a palavra "paz" carrega 
 quem diz "paz" com quem diz "felicidade" querendo dizer o mesmo; e fazer o caminho contrário,
 transmitir a mesma mensagem com as palavras que cada um prefere.
 
-"Intenção", aqui, é a mensagem por baixo das palavras. Não confundir com a intenção de quem
-fala, que separa a leitura parcial da distorção ([precisão](precisao.md)), nem com a direção
-escolhida de [evoluir com intenção](../cosmovisao/quem-sou-eu.md#evoluir-com-intenção).
+Entre culturas vale o mesmo, sem afirmar que todas sejam iguais. Muitas falam de valores
+semelhantes — às vezes em camadas tão sutis e abstratas que é difícil afirmar à primeira
+vista —, sinal de que há coisas que fazem bem aos humanos e aos outros seres vivos
+independente de cultura ou religião. Cada cultura relata o que percebe com as palavras e os
+contextos que tem; olhar além dessas formas é procurar a mensagem que compartilham.
+
+Juntar o que se assemelha é metade do trabalho; a outra metade é achar a crença exata que
+separa. O que aproxima a direita e a esquerda, e qual crença as separa — e, dentro de cada
+uma, o que separa as correntes; o que é comum ao cristianismo, o que separa o protestantismo,
+e dentro dele as doutrinas. Com as divergências nítidas, decide-se caso a caso: aprofundar o
+entendimento do que diverge, ou deixar a divergência de lado quando ela não influi naquela
+discussão, naquela situação.
+
+**Intenção** é o que se quer alcançar, e a definição vale em todos os usos. Por baixo das
+palavras há uma mensagem, e quem fala tem a intenção de transmiti-la — o terreno da
+semiótica. Falar com mais intenção é saber o que se quer alcançar ao falar. O que quem fala
+quer alcançar, colaborar ou distorcer, separa a leitura parcial da distorção
+([precisão](precisao.md)). E [evoluir com intenção](../cosmovisao/quem-sou-eu.md#evoluir-com-intenção)
+é dar espaço, condições e energia ao que se quer alcançar.
 
 Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-linguagem`,
-`#abstrair-as-palavras`; [23/9]`#portal-linguagem`.
+`#abstrair-as-palavras`; [23/9]`#portal-linguagem`;
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#intenção-é-o-que-queremos-alcançar`,
+`#culturas-podem-falar-e-podem-não-falar`.
 
 ## Em aberto
 

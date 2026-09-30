@@ -72,7 +72,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | não iniciado | 0/15 |
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | pendente | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
-| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.raw.md) | pendente | — |
+| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md) | não iniciado | 0/12 |
 | [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.raw.md) | pendente | — |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
@@ -222,7 +222,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-o-obvio-precisa-ser-dito
 
-- pendente, sem nota na fila
+- sem nota na fila: `#preciso-estabelecer-bases-para-investigar`, `#qual-a-regua-para-escolher-as-bases`, `#sou-humano-ou-assim-fui-ensinado`, `#valores-e-o-julgamento-entre-bem-e-mal`, `#o-subentendido-simplifica-mas-limita`, `#uma-frase-simples-abre-inumeras-questoes`, `#priorizar-a-pergunta-que-define-a-base`, `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#reduzir-a-diversidade-para-evitar-conflito`, `#comunicar-melhor-resolve-de-forma-sustentavel`, `#quem-escreve-e-quem-le-sao-humanos`, `#maquinas-que-leem-o-que-e-um-ser-vivo`
 
 ### 2026-09-29-organizacao
 

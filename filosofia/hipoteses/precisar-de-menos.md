@@ -51,6 +51,17 @@ Fonte: [conversa]`#a-cadeia-que-prende-à-cidade`, `#saúde-perto-não-hospital-
 `#a-informação-não-depende-mais-da-cidade`;
 [23/9]`#precisar-de-menos`.
 
+## A comunidade no lugar do contrato
+
+Trocar o contrato pela comunidade tem custo, e o custo se aceita: abrir mão do individualismo,
+sem perder a individualidade. É buscar o equilíbrio, o melhor dos dois mundos. Envolve
+compromisso, envolve viver junto — mas estar ali porque gosta e quer, não porque é obrigado ou
+tem que cumprir algo. É o marcador de identidade que reconhece uma comunidade viva: gente
+movida por pertencimento, não por remuneração
+([ecocidades](ecocidades.md#reconhecer-o-que-funciona)).
+
+Fonte: [conversa]`#comunidade-o-melhor-dos-dois-mundos`.
+
 ## A escola pela intenção
 
 Escolas são boas, mas não precisam ser em cidades. O que pesa é a intenção. Pôr alguém para

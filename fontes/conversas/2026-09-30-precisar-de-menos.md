@@ -41,3 +41,10 @@ a distância até o hospital — por riscos normalizados. Precisar de menos do h
 capacidade em vez de comprar proximidade. O ponto é ter uma clínica perto, uma boa saúde, uma
 boa qualidade de vida, mais imunidade. Ter algum médico de confiança perto. Curadores, mestres,
 pajés: pessoas que conseguem ajudar no dia a dia nas questões pequenas.
+
+## Comunidade: o melhor dos dois mundos
+
+A gente tem que buscar o equilíbrio e o melhor dos dois mundos. Sim, envolve abrir mão do
+individualismo, com certeza, mas sem perder completamente a individualidade. Envolve
+compromisso, envolve viver: estar ali porque gosta e quer, não porque é obrigado ou tem que
+cumprir algo.

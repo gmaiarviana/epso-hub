@@ -47,6 +47,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
+| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | parcial | 6/8 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
@@ -59,11 +60,11 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-construtora-operacional](../fontes/documentos/2026-09-27-construtora-operacional.raw.md) | na fila | — |
 | [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | citado; na fila | — |
 | [2026-09-27-ensaio-nao-somos-nosso-trabalho](../fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md) | citado; na fila | — |
-| [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | na fila | — |
+| [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | citado; na fila | — |
 | [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado | — |
-| [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
+| [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | citado; na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
-| [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
+| [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | citado; na fila | — |
 | [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.md) | não iniciado | 0/7 |
 | [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
@@ -82,6 +83,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
+| [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado | — |
+| [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado | — |
 
 ## Pendências
 
@@ -126,8 +129,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade
 
 - Encaixar: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
-- Foco: `#contribuicao-e-divisao-do-trabalho`
-- Foco, com parte já encaixada: `#regeneracao-por-nos`
+- Foco, com parte já encaixada: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
 
 ### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
 
@@ -193,6 +195,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - contexto/next-steps.md: `#filosofo-fora-da-cara-publica`
 - sem nota na fila: `#sonho-alto-comeco-pequeno`, `#medir-com-um-teste`, `#aprender-nao-e-o-objetivo`, `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`, `#tematica-e-o-pano-de-fundo`, `#pilar-de-autoridade-e-associacao`, `#quatro-tipos-de-conteudo`, `#recrutamento-sem-pressa`, `#uma-semana-de-desafio`, `#posicionamento`, `#desejo-ressignificado`
+
+### 2026-09-30-lastro-do-trabalho
+
+- sem nota na fila: `#o-acervo-nao-e-o-texto-publicado`, `#dignidade-conforto-e-desperdicio`
 
 ### 2026-09-30-linguagem-intencao-e-hipotese
 

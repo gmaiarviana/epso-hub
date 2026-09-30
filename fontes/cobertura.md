@@ -65,7 +65,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
 | [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | dispensado | — |
-| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md) | pendente | — |
+| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md) | não iniciado | 14/42 |
 | [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | pendente | — |
 | [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | não iniciado | 0/341 |
 | [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.md) | não iniciado | 0/10 |
@@ -193,7 +193,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 
-- pendente, sem nota na fila
+- sem nota na fila: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`, `#qualquer-um-pode-tocar-uma-obra`, `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#a-eficiencia-tem-varias-dimensoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#como-se-ganha-dinheiro-com-obra`, `#orcamento-bom-e-o-que-se-aproxima-da-realidade`, `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#estimular-a-reflexao-nao-dar-a-resposta-certa`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`, `#o-que-e-realmente-lei-e-realmente-necessario`, `#projeto-final-orcamento-com-checkpoints`, `#avaliar-pelas-habilidades-do-gestor`, `#automacao-e-uberizacao-na-construcao`
 
 ### 2026-09-29-glossario
 

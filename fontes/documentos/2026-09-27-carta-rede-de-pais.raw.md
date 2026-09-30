@@ -7,6 +7,9 @@ genero: carta pessoal
 corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
 escrito-em: sem data
+dispensada: >-
+  Convite simples à colaboração entre pais; o ditado da aldeia é imagem, sem
+  ideia nova a encaixar. Vale como amostra da voz, no corpus.
 anonimizado: >-
   Nomes dos amigos, dos filhos deles e da filha do incorporador trocados por
   rótulos; profissão, origem, cidade e igreja de cada amigo trocados por

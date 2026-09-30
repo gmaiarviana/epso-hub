@@ -26,8 +26,9 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   metadados, então os campos `dispensadas` e `latentes`
   ([cobertura](processo-transcricoes.md#cobertura)) não se aplicam, e a seção decidida para
   ficar só na fonte segue pendente. Casos:
-  `2026-09-27-a-construtora-e-o-epso.md#servidor-de-inferencia` e as seções já aplicadas no
-  acervo que o Foco manda "citar no destino". Decidir a forma e ajustar `cobertura.py`.
+  `2026-09-27-a-construtora-e-o-epso.md#servidor-de-inferencia`,
+  `2026-09-30-lastro-do-trabalho.md#o-acervo-nao-e-o-texto-publicado` (já no `CLAUDE.md`, que
+  não cita fonte) e as seções já aplicadas no acervo que o Foco manda "citar no destino". Decidir a forma e ajustar `cobertura.py`.
 - **Mapa do documento institucional × tipos de sessão** — o
   [mapa](estrutura/mapa-documento-institucional.md) sobe o processo de sessão para o nível EPSO;
   `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#tipos-de-sessao` diz que os tipos de

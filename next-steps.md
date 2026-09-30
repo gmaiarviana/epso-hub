@@ -11,28 +11,23 @@ escrito; a decisão (item Objetivos e imagem de
 Alcançado quando a [cobertura](fontes/cobertura.md) não tiver pendência: toda seção encaixada,
 dispensada ou latente (tem ideia, sem casa hoje). Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
-destino vira nota ao item dono. Os itens 1 a 4 são a onda 1; a segunda rodada deles (seções do
-grupo no WhatsApp) espera a sessão em curso fechar. Os itens 5 a 10 são a onda 2. O destino de
+destino vira nota ao item dono. Os itens 1 a 4 já tiveram a primeira rodada; o que resta neles é a
+segunda (grupo no WhatsApp e textos passados a limpo). Os itens 5 a 10 são a onda 2. O destino de
 cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas seções se fundem
 com o que o destino já tem. As seções de `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md`
 são respostas à sessão de decisão e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa
 v8, `relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização do corpus) não se guarda:
 o agente o refaz no briefing da sessão de decisão.
 
-1. **Trabalho e valor** — dono de `filosofia/hipoteses/trabalho.md`, de uma eventual hipótese
-   Valor e do índice `filosofia/hipoteses/README.md`.
-   - **Não somos nosso trabalho; trabalhar com o que acreditamos** (`ensaio-nao-somos-nosso-trabalho`,
-     `cartas-de-candidatura`, `proposta-a-diretoria`) → checar fusão com
-     `filosofia/hipoteses/trabalho.md`; "pessoas não querem trabalho, querem valor"
-     (`notas-comite-ia`) é a mesma âncora de "as pessoas não querem trabalhar" de lá.
-   - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
-     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir, depois
-     de ler `filosofia/hipoteses/economia.md`, que já tem "valor pelo custo, não pelo que o
-     mercado paga" — pode ser a casa. Os
-     times por componente que alienam do produto final (`relato-tpm-programa`) entram como
-     faceta.
-   - Transcrição 2026-06-26 (`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md`):
-     `#contribuicao-e-divisao-do-trabalho` → checar fusão com `filosofia/hipoteses/trabalho.md`.
+1. **Trabalho e valor** — dono de `filosofia/hipoteses/trabalho.md` e `valor.md`.
+   - [valor.md](filosofia/hipoteses/valor.md) × [economia.md](filosofia/hipoteses/economia.md):
+     nasceram em sessões paralelas. "Nada tem valor por si" e "valor pelo custo, não pelo que o
+     mercado paga" podem ser partes de um argumento ou se tensionar → checar fusão.
+   - Conversa 2026-09-30 (`fontes/conversas/2026-09-30-lastro-do-trabalho.md`): as linhas de
+     dignidade, conforto e desperdício — quatro faixas; ninguém abaixo da dignidade nem acima do
+     desperdício; o dinheiro parado também é desperdício (`#dignidade-conforto-e-desperdicio`) →
+     `valor.md` ou `economia.md`; o incorporador quer elaborar com calma: talvez provocação no
+     elaborar.
    - Segunda rodada, grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): trabalho — `#trabalho-empoderamento-ou-dependencia`, `#ambicao-nao-e-proposito-de-vida`, `#profissionalismo-e-pessoalidade`, `#o-trabalho-remoto-exige-confianca-e-clareza`, `#processos-seletivos-por-cartas`, `#nao-existe-vacuo-as-pessoas-ocupam-espacos`, `#indice-de-forca-de-trabalho-disponivel`, `#atividade-intencional-e-ver-o-futuro-e-concretiza-lo`; valor e
      economia — `#empreender-e-gerar-valor-com-organizacao-e-sabedorias`, `#inovacao-e-aplicacao-na-vida-das-pessoas`, `#transformar-o-capitalismo-e-ressignificar-objetivos-de-vida`, `#a-nova-economia-no-meio-do-paradoxo-pessoalidade-e-profissionalismo`, `#contra-a-especulacao-reforma-agraria-taxacao-e-renda`, `#nao-saber-gastar-a-energia-acumulada`, `#abundancia-e-escassez-em-equilibrio`.
    - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`):
@@ -65,6 +60,8 @@ o agente o refaz no briefing da sessão de decisão.
    - O portal de economia colaborativa e o crédito de trabalho do sítio-restaurante são a prática
      de [economia.md](filosofia/hipoteses/economia.md#troca-por-confiança): apontar para lá. A
      construtora já pratica "planejar é compor custos".
+   - `fontes/documentos/2026-09-30-guia-pdi.raw.md`: o guia de PDI como candidato a ferramenta
+     gratuita (pilar 1 da plataforma).
    - Provocações a levar ao [elaborar](elaborar.md), da conversa 2026-09-30
      (`fontes/conversas/2026-09-30-precisar-de-menos.md`): compromisso com pessoas, sim; com
      coisas, não (`#compromisso-com-pessoas-nao-com-coisas` — síntese do agente; o incorporador
@@ -158,6 +155,17 @@ o agente o refaz no briefing da sessão de decisão.
      `fontes/conversas/2026-09-26-o-epso-e-eu.md#o-epso-e-a-institucionalizacao-das-minhas-ideias`
      (núcleo ou README); `fontes/conversas/2026-09-27-o-nucleo-do-epso.md#valores-de-outra-empresa`,
      já aplicada no núcleo: citar lá.
+   - Pilares de organização, do corpus → núcleo, checar fusão: um ambiente de presença — saúde
+     mental, propósito claro, tempo de qualidade (`fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md`);
+     foco em valor, aprendizado constante, organização e comunicação, e os valores ética, cuidado
+     de pessoas, inovação, colaboração e transparência (`fontes/documentos/2026-09-27-notas-comite-ia.raw.md`)
+     — ética e cuidado de pessoas já foram julgados valores da empresa, não do EPSO
+     (`fontes/conversas/2026-09-27-o-nucleo-do-epso.md#valores-de-outra-empresa`).
+   - `fontes/documentos/2026-09-30-guia-pdi.raw.md` → `quem-sou-eu.md` ou
+     `filosofia/hipoteses/trabalho.md#ressignificar-o-trabalho`: tendemos a resistir ao que ainda
+     não dominamos; a dor aponta onde desenvolver e a força, por onde começar; estímulos
+     diferentes ajudam a descansar. Checar fusão com "o que incomoda não está necessariamente
+     errado".
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) → `filosofia/cosmovisao/quem-sou-eu.md`, por
      tema. Despertar, ciclo e evolução: `#lembrar-que-estamos-vivos`, `#a-bifurcacao-do-labirinto-sair-ou-continuar-no-nivel`, `#despertar-libera-energia`, `#o-ciclo-problema-conflito-curiosidade-descoberta-tedio`, `#horizontalizar-o-tempo-qualidade-e-maldicao`, `#chorar-quebra-a-tensao`, `#sobreviver-e-facil-viver-e-dificil`, `#ninguem-passa-a-fase-pelo-outro`, `#a-evolucao-sera-mental-e-cultural-nao-fisica`, `#a-evolucao-vai-por-bem-ou-por-mal`, `#evoluir-sem-sentir-o-destino-dos-computadores`, `#uma-cultura-pode-ser-mais-evoluida-que-outra`, `#homo-evolutis-a-proxima-evolucao`, `#a-diferenca-entre-especies-humanas-e-distincao-nossa`, `#sobrevivencia-evolucao-e-satisfacao`, `#o-super-humano`, `#os-seres-mais-evoluidos-estao-em-outra-frequencia`, `#humanos-como-criancas-distraidas`, `#o-humano-extinguiu-quem-ocupava-papeis-semelhantes`, `#o-ciclo-da-descoberta-ao-novo-paradigma`, `#a-visao-de-mundo-como-gatilho-da-evolucao`, `#evolucao-e-um-fato-indiferente`, `#competicao-e-cooperacao-andam-juntas`, `#despertos-encontram-despertos`, `#o-corpo-resiste-a-despertar`, `#o-ciclo-do-desenvolvimento-termina-na-pratica`, `#ciclos-interrompidos-ficam-abertos`, `#a-consciencia-desperta-como-uma-onda`, `#herdamos-dos-pais-defeitos-e-qualidades`, `#a-vida-linear-parece-finita`, `#seres-perdidos-com-instinto-predador`, `#nosso-papel-na-natureza`, `#mente-ocupada-e-defesa-contra-a-civilizacao`, `#falta-tesao-energia-e-intencao`, `#intencao-traz-conexao-e-clareza`, `#seu-passado-nao-define-seu-futuro`, `#quem-procura-acha`, `#topicos-soltos-2021-2022`. Corpo, mente e saúde mental: `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`, `#a-mente-busca-sentido-no-passado-e-especula-o-futuro`, `#o-corpo-ja-tem-o-que-precisamos-falta-liberar`, `#separar-dor-e-sofrimento`, `#eu-nao-sou-minha-mente-o-corpo-decide`, `#observar-sem-explicacoes-da-mente`, `#a-mente-cria-sentido-que-nao-e-real-e-nos-leva-aos-buracos`, `#tratar-pensamentos-como-hipoteses`, `#mentes-interagem-como-corpos`, `#organizar-a-mente-humana`, `#felicidade-e-um-estado-ligado-a-esperanca`, `#o-corpo-nao-quer-estar-infeliz`, `#a-depressao-deve-ser-vivida-por-todos`, `#diminuir-a-carga-mental-para-evoluir`, `#saude-mental-e-equilibrio-entre-energia-das-ideias-e-do-corpo`, `#o-corpo-esta-onde-deve-estar`, `#input-processamento-output`, `#drogas-alteram-a-percepcao-pela-materia`, `#sexualidade-e-processo-espiritual`, `#carne-racionalidade-veganismo-sensibilidade`, `#o-amor-comeca-pelo-proprio-corpo`, `#liberar-os-pontos-de-energia`, `#alinhar-corpo-mente-e-espirito-na-relacao`, `#autoconhecimento-e-reconhecer-os-proprios-sinais`, `#autoconhecimento-e-cura-liberam-os-canais`, `#unir-os-fragmentos-da-individualidade`, `#o-somatorio-de-fundamentos-nos-torna-unicos`, `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`, `#somos-produto-do-que-consumimos`, `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`, `#a-brincadeira-exercita-a-imaginacao`, `#perguntas-absurdas-demandam-respostas-absurdas`. Atenção,
      consciência e presença: `#a-consciencia-nos-livra-dos-mesmos-truques`, `#consciencia-e-percepcao-da-existencia-e-aceitacao-da-realidade`, `#empatia-e-sentir-e-estar-presente`, `#meditacao-e-cultivar-qualidades-humanas-basicas`, `#presenca-a-habilidade-do-seculo-21`, `#conectar-com-a-camada-profunda-e-o-fim-em-si`, `#a-vida-se-mostra-conforme-o-que-focamos`, `#so-podemos-direcionar-a-atencao`, `#consciencia-e-quem-somos`, `#consciencia-individual-e-coletiva-se-retroalimentam`, `#a-consciencia-so-se-expande`, `#o-desconforto-expande-a-consciencia`, `#a-pergunta-acontece-na-camada-interior`, `#meditacao-mostra-o-que-muda-e-o-que-nao-muda`, `#incluir-o-sutil-nas-percepcoes`, `#se-estamos-conscientes-nao-morremos`, `#o-que-preciso-relembrar`, `#cerimonias-e-rituais-servem-para-relembrar`, `#so-existe-o-presente-considerar-o-futuro`, `#estar-em-equilibrio-aqui-e-agora`, `#as-outras-vidas-tem-percepcoes-proprias`. Energia, fluxo, equilíbrio e paradoxo: `#nao-da-pra-ter-prazer-sem-se-entregar`, `#sentir-deixar-a-vida-dominar-os-sentimentos`, `#a-vida-e-um-grande-fractal`, `#energia-ruim-se-transforma-por-ressignificacao`, `#o-sentido-da-vida-e-aumentar-a-propria-energia`, `#a-materia-e-manifestacao-e-distracao`, `#materialistas-e-idealistas`, `#a-materia-precisa-chegar-la`, `#nao-quero-nada-apenas-ser`, `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`, `#polaridades-yin-yang`, `#espirito-como-entender-as-energias`, `#olhar-o-fluxo-e-nao-a-fotografia`, `#energia-demais-desequilibra`, `#nao-querer-assumir-forma-para-nao-se-limitar`, `#entrar-no-ritmo-da-natureza-e-das-ideias`, `#viver-e-ir-do-desequilibrio-ao-equilibrio`, `#o-centro-nao-existe-sem-a-circunferencia`, `#dia-energia-material-noite-energia-espiritual`, `#pulsos-de-desafio-e-conforto`, `#abrir-espaco-para-a-vida-se-auto-organizar`, `#viver-no-meio-do-paradoxo`, `#no-meio-do-paradoxo-nao-desistir-e-nao-resistir`, `#as-coisas-acontecem-conforme-reagimos`, `#o-padrao-e-a-cama-o-novo-e-a-flecha`, `#vida-e-energia-em-movimento`, `#a-energia-se-redireciona-quando-o-caminho-perde-eficiencia`, `#na-camada-profunda-nao-existe-gostar`, `#caminho-do-meio-curtir-a-jornada`, `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`, `#atitudes-inerentes-buscar-a-verdade-e-aumentar-conatus`, `#nao-consigo-te-escutar-energia-no-lugar-errado`, `#gostar-e-ser-se-parecem`. Espiritualidade,
@@ -215,6 +223,9 @@ o agente o refaz no briefing da sessão de decisão.
      `#a-narrativa-de-carreira-adapta-nao-define` já é a regra da v8, acima: citar onde ela for
      morar.
    - Vídeos de 2025 → `contexto/trajetoria.md`: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`; da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#filosofo-reflete-por-refletir`, `#refletir-ou-viver`, `#filosofo-nao-por-escolha`, `#aprendiz-mais-que-sabio`, `#filosofo-e-tambem-artista`.
+   - `fontes/documentos/2026-09-30-palestra-pdi.raw.md` → narrativa de carreira em `contexto/`: o
+     arco (ir para onde as oportunidades apareciam → dizer sim para tudo → olhar para dentro →
+     escolher sair) e o ciclo vicioso que vira virtuoso.
    - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`):
      `#avaliar-pelas-habilidades-do-gestor`, junto de "o que acredito de uma liderança".
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): traços e autoimagem → `contexto/trajetoria.md` —

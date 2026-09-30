@@ -17,7 +17,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 5/13 |
 | [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
 | [2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida](../fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md) | parcial | 7/10 |
-| [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 5/10 |
+| [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 6/10 |
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | completo | 5/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | completo | 4/4 |
 | [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | parcial | 5/6 |
@@ -83,8 +83,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | na fila | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | na fila | — |
-| [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado | — |
-| [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado | — |
+| [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado; na fila | — |
+| [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado; na fila | — |
 
 ## Pendências
 
@@ -127,7 +127,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade
 
 - Foco: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
-- Foco, com parte já encaixada: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
+- Foco, com parte já encaixada: `#regeneracao-por-nos`
 
 ### 2026-07-04-quatro-iniciativas
 
@@ -179,7 +179,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-30-lastro-do-trabalho
 
-- sem nota na fila: `#o-acervo-nao-e-o-texto-publicado`, `#dignidade-conforto-e-desperdicio`
+- Foco: `#dignidade-conforto-e-desperdicio`
+- meta/next-steps.md: `#o-acervo-nao-e-o-texto-publicado`
 
 ### 2026-09-30-linguagem-intencao-e-hipotese
 

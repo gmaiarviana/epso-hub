@@ -77,6 +77,12 @@ os morcegos fazem sons que não escutamos; outros animais têm sensores de que n
 ideia. A pergunta é como viver com isso: incomodados por não saber tudo, ou aceitando a
 realidade.
 
+E não sentimos falta do que não sabemos que existe. Quem fecha um olho não vê metade do mundo:
+vê completo, com o que tem. Quem nasceu sem enxergar não vive diante de uma imagem preta:
+percebe o mundo de outras maneiras. Construímos a realidade com as percepções de que temos
+consciência, e por isso não conseguimos nem imaginar o que não sabemos. Não conseguir provar
+não significa que não existe.
+
 O limite também vale no tempo. Quando se descobriram os elementos radioativos, houve quem os
 usasse como remédio, sem saber que faziam mal; com a ciência, o mesmo hábito passou a ser
 evitado. Quantos hábitos ruins temos hoje sem saber, por falta de conhecimento, de ciência, de
@@ -88,7 +94,8 @@ que dirigia aquele carro, por que não o levou à manutenção? Muitas explicaç
 contentam com o como.
 
 Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#um-mundo-que-nao-vemos`,
-`#habitos-inconscientes`, `#como-e-porque`.
+`#habitos-inconscientes`, `#como-e-porque`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`.
 
 ## Toda hipótese nasce do absurdo
 

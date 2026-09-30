@@ -140,6 +140,11 @@ mente tenta racionalizar e pôr nome — e chega a um resultado, verdadeiro ou n
 comunicamos do jeito que achamos que o outro vai entender, e o outro experiencia, interpreta e
 sente.
 
+A mente é uma máquina de encontrar sentido e criar narrativas, e não gosta de vazio. Vê dois
+olhos em dois ovos na frigideira; procura um rosto conhecido na multidão. Reúne fatos para
+montar explicações lógicas, mas só com as evidências disponíveis, ou com as que fortalecem o
+argumento. Pode nos fazer acreditar no que faz sentido sem ter fortes evidências.
+
 Cada passagem é um lugar de falha: falo de um jeito difícil para o outro; falo diferente do
 que processei; processo diferente do que senti; ou sinto algo real e defino uma resposta que
 não condiz com a realidade — me iludo. São sempre fragmentos, construções, interpretação. Dá
@@ -150,7 +155,9 @@ Nomear é também o caminho de volta: pela linguagem se racionaliza o que se sen
 gente se acessa mais fluidamente. Muitas terapias já dizem isso; o papel aqui é organizar, não
 inventar a roda.
 
-Fonte: [24/9]`#do-sentir-ao-comunicar`, `#falhas-na-comunicacao`, `#nomear-para-acessar`.
+Fonte: [24/9]`#do-sentir-ao-comunicar`, `#falhas-na-comunicacao`, `#nomear-para-acessar`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
+`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`.
 
 ## A direção: precisa sem perder a cor
 

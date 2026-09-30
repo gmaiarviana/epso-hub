@@ -15,7 +15,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 5/10 |
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | parcial | 3/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | parcial | 2/4 |
-| [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | parcial | 0/6 |
+| [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | parcial | 4/6 |
 | [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial | 9/12 |
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | parcial | 12/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | parcial | 11/15 |
@@ -26,7 +26,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-25-linguagem-e-ecocidades](../fontes/conversas/2026-09-25-linguagem-e-ecocidades.md) | completo | 5/5 |
 | [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado | 0/5 |
 | [2026-09-26-trabalho-e-novo-paradigma](../fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md) | parcial | 6/7 |
-| [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 3/9 |
+| [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 8/9 |
 | [2026-09-27-as-duas-teses-e-a-migracao](../fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md) | completo | 6/6 |
 | [2026-09-27-estrategia-e-frentes](../fontes/conversas/2026-09-27-estrategia-e-frentes.md) | completo | 1/1 |
 | [2026-09-27-mudar-de-emprego](../fontes/conversas/2026-09-27-mudar-de-emprego.md) | completo | 1/1 |
@@ -111,12 +111,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-07-04-estrategia-profissional
 
-- Foco: `#viabilidade-construtora`
-- Foco, com parte já encaixada: `#sequenciamento-iniciativas`
+- Foco, com parte já encaixada: `#viabilidade-construtora`, `#sequenciamento-iniciativas`
 
 ### 2026-07-04-quatro-iniciativas
 
-- Foco: `#visao-portfolio`, `#iniciativa-1-construtora`, `#iniciativa-2-ferramentas`, `#iniciativa-3-conhecimento`, `#objetivo-de-carreira`
+- Foco: `#objetivo-de-carreira`
 - Foco, com parte já encaixada: `#iniciativa-4-abstracao`
 
 ### 2026-07-07-camada-filosofica-e-a-jornada-academica
@@ -125,12 +124,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-22-regeneracao-lastro-e-eco-cidades
 
-- Foco: `#empreender-em-construcao-sustentavel`
+- Foco, com parte já encaixada: `#empreender-em-construcao-sustentavel`
 
 ### 2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas
 
-- Foco: `#portal-open-source`, `#portal-economia-colaborativa`, `#sitio-restaurante-credito-de-trabalho`
-- Foco, com parte já encaixada: `#plataforma-e-autoridade`
+- Foco, com parte já encaixada: `#portal-open-source`, `#portal-economia-colaborativa`, `#sitio-restaurante-credito-de-trabalho`, `#plataforma-e-autoridade`
 
 ### 2026-07-07-vetor-ancora-camada-de-fontes
 
@@ -147,7 +145,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-27-a-construtora-e-o-epso
 
-- sem nota na fila: `#o-epso-vai-alem-de-ti`, `#a-construtora-tem-missao-propria`, `#sem-forma-juridica-para-a-construtora`, `#um-recorte-de-quem-sou`, `#servidor-de-inferencia`, `#tipos-de-sessao`
+- sem nota na fila: `#servidor-de-inferencia`
 
 ### 2026-09-27-o-nucleo-do-epso
 

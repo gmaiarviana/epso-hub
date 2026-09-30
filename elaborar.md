@@ -173,3 +173,24 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 - **Perguntas curtas.** Ajuda opcional para o núcleo: princípios inegociáveis, o que o EPSO não
   é, e respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos
   quando alguém não contribui?". → [núcleo](instituicao/nucleo/README.md)
+
+### Iniciativas
+
+- **Ferramentas e conhecimento, uma ou duas.** Em julho você disse que as ferramentas livres e o
+  hub de conhecimento talvez tenham "uma grande correlação" e possam se unir; na narrativa de
+  carreira já aparecem num braço só: ferramentas open source e catálogo das soluções livres que
+  existem. Exemplo: uma receita de reaproveitamento de comida é ferramenta ou conhecimento? *O
+  que separa as duas — uma ser software e a outra não? Se a diferença não muda nenhuma decisão,
+  viram uma iniciativa só?* → [iniciativas](instituicao/iniciativas/README.md)
+- **Dois braços ou várias frentes.** Na narrativa de carreira, o EPSO é um portal de dois braços:
+  ferramentas e catálogo; e clareza para ideias que mudam de nome entre culturas e épocas. Ficam
+  de fora a construtora, o sítio com restaurante e a economia colaborativa — o que constrói,
+  planta e troca. *Os dois braços são o centro do fazer e o resto é aplicação deles, ou a
+  narrativa, escrita para recrutadores, recortou só a parte de tecnologia?* →
+  [iniciativas](instituicao/iniciativas/README.md)
+- **Linguagem sem IA.** Você disse que superar a linguagem é tecnologia da informação, mas talvez
+  não passe por inteligência artificial, e que o modelo talvez precise ser repensado. Um chatbot
+  aprende estatística sobre bilhões de textos; um dicionário ou um glossário curado por pessoas
+  não aprende nada, mas é exato. *Se não for IA, o que seria: um glossário de conceitos, uma
+  notação, outra arquitetura de modelo, uma combinação?* →
+  [linguagem](instituicao/iniciativas/linguagem/README.md)

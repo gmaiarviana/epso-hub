@@ -35,6 +35,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-28-objetivos-canal-e-idioma](../fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md) | completo | 6/6 |
 | [2026-09-28-trajetoria-e-direcao](../fontes/conversas/2026-09-28-trajetoria-e-direcao.md) | parcial | 2/3 |
 | [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 14/16 |
+| [2026-09-29-a-critica-a-ia-atual](../fontes/conversas/2026-09-29-a-critica-a-ia-atual.md) | completo | 1/1 |
 | [2026-09-29-carta-ao-ex-lider](../fontes/conversas/2026-09-29-carta-ao-ex-lider.md) | completo | 2/2 |
 | [2026-09-29-evoluir-com-intencao-e-o-pendulo](../fontes/conversas/2026-09-29-evoluir-com-intencao-e-o-pendulo.md) | completo | 4/4 |
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |

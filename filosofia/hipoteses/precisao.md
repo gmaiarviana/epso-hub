@@ -59,6 +59,17 @@ O peso disso cai sobretudo no subjetivo, no abstrato, nas ciências sociais, ond
 metodologias já são narrativas. Mesmo no material que influi na saúde, somos tão
 holísticos que definir um grupo de controle é um exercício quase impossível de verificar.
 
+Um caso do trabalho mostra as duas coisas: o viés de escolher um índice e o que é, na prática,
+uma nova maneira de medir. Numa avaliação de desempenho, cada tópico traz insumos valiosos,
+discutidos ponto a ponto entre gestor e liderado. Reduzir tudo a uma nota final de 0 a 100 é
+transformar parâmetros subjetivos em objetivos, e a nota pode gerar impressões que desviam o
+foco e o objetivo da avaliação: o índice passa a falar mais alto do que aquilo que mede. A
+saída proposta ali não foi abolir a nota, e sim amarrá-la a uma premissa clara ("o
+colaborador ___ vive a cultura da empresa"), medida em frequência, de nunca a sempre — uma
+maneira de medir que não esquece o que está medindo.
+
+Fonte: `fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md` (segundo e-mail).
+
 O modelo científico atual vai além de medir: joga os saberes que ficam fora dele para o lado
 da superstição. Boaventura de Sousa Santos chama essa fronteira de "linha abissal"; e a
 crítica que só aceita o que se mede tem, na academia, o nome de positivismo. São os nomes

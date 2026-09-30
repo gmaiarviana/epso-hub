@@ -8,8 +8,13 @@ da obra; é do labor que as obras nascem. Trabalho, no sentido amplo, é o conju
 atividades para um fim: cozinhar, varrer, um hobby, a formiga carregando sua folha. Não dá
 para separar a vida do trabalho: falar sobre vida é falar sobre trabalho.
 
-Se não houvesse a necessidade econômica, o labor continuaria — para deixar as coisas bonitas
-e para a conexão espiritual.
+Se não houvesse a necessidade econômica, o labor continuaria: para suprir as necessidades
+básicas, relacionais, culturais e de informação; para ter mais conforto, prazer, satisfação e
+previsibilidade; para deixar as coisas bonitas e para a conexão espiritual. Basta olhar o que
+as pessoas fazem com o tempo livre, e não só o que parece inútil: melhoram a própria casa e o
+entorno, fazem trabalho voluntário, movimentos culturais e religiosos, festas, lazer,
+esportes. Toda atividade cultural, religiosa, esportiva ou artística demanda trabalho, e as
+sociedades a fazem sem necessariamente ser remuneradas.
 
 Aprendemos que trabalhar é ir ao lugar onde se faz uma atividade esperada por outros, em
 troca de um salário. Essa troca é uma forma do trabalho, não o seu fim. O que se busca nele é

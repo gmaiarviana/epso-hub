@@ -13,6 +13,12 @@ trabalho para deixar as coisas bonitas e para a conexão espiritual.
 Entendo labor como trabalho, ação, tarefa — inclusive doméstica, pessoal. Posso fazer obras a
 partir do meu labor.
 
+Sem a necessidade econômica, o labor seguiria para suprir nossas necessidades básicas,
+relacionais, culturais, informacionais; para trazer mais conforto, ter mais prazer,
+satisfação, previsibilidade. Pense em todos os hobbies das pessoas — não só os inúteis, mas
+aqueles em que as pessoas dedicam tempo para melhorar sua própria casa, seu entorno; trabalho
+voluntário, movimentos culturais e religiosos, festas, lazer, esportes.
+
 ## Identidade no trabalho
 
 Dizer "pessoas não querem trabalho" é muito perigoso. Muita gente está totalmente apegada ao

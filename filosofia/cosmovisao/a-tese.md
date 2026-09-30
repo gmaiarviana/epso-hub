@@ -24,7 +24,8 @@ primeira leitura enquanto a pergunta não assenta.
 
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`,
 `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`,
-`fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
+`fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#mais-de-uma-tese`.
 
 ## O que decorre do centro
 
@@ -53,4 +54,5 @@ Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
 - **O manifesto** — as crenças organizadas numa narrativa para quem vai colaborar; deriva do
   núcleo e vive na instituição.
 
-Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`.
+Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#crença-e-tese`, `#o-manifesto`, `#o-doutorado-como-junção`.

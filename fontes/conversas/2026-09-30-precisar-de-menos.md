@@ -33,3 +33,11 @@ aprenda coisas que eu não saberia ensinar sozinho.
 ## O conforto de ter mais
 
 É conveniente o conforto de ter mais.
+
+## Saúde perto, não hospital perto
+
+O medo não mede o risco: escolhe quais riscos ficam visíveis. A cidade troca riscos visíveis —
+a distância até o hospital — por riscos normalizados. Precisar de menos do hospital é ganhar
+capacidade em vez de comprar proximidade. O ponto é ter uma clínica perto, uma boa saúde, uma
+boa qualidade de vida, mais imunidade. Ter algum médico de confiança perto. Curadores, mestres,
+pajés: pessoas que conseguem ajudar no dia a dia nas questões pequenas.

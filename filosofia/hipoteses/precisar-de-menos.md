@@ -36,12 +36,19 @@ A dependência tem elos:
 - Para ter dinheiro, precisamos de trabalho, e se consegue mais trabalho nos centros urbanos.
 - Para ter trabalho, precisamos mandar as crianças para a escola.
 
+O medo não mede o risco: escolhe quais riscos ficam visíveis. A cidade troca riscos visíveis
+— a distância até o hospital — por riscos normalizados, que não entram na conta. Precisar de
+menos do hospital é ganhar capacidade em vez de comprar proximidade: uma clínica perto, boa
+saúde, qualidade de vida, mais imunidade, um médico de confiança, curadores, mestres, pajés —
+gente que ajuda no dia a dia nas questões pequenas.
+
 A cadeia termina dentro do olho do sistema destrutivo, que precisa de logísticas complexas e
 insustentáveis. Talvez ela tenha sido necessária no passado. Hoje, com a informação chegando
 pela internet, não dependemos mais dos centros urbanos para trocar informação — ela viaja, e a
 matéria pode ficar perto ([ecocidades](ecocidades.md#a-informação-viaja-a-matéria-fica-perto)).
 
-Fonte: [conversa]`#a-cadeia-que-prende-à-cidade`, `#a-informação-não-depende-mais-da-cidade`;
+Fonte: [conversa]`#a-cadeia-que-prende-à-cidade`, `#saúde-perto-não-hospital-perto`,
+`#a-informação-não-depende-mais-da-cidade`;
 [23/9]`#precisar-de-menos`.
 
 ## A escola pela intenção

@@ -90,6 +90,16 @@ contentam com o como.
 Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#um-mundo-que-nao-vemos`,
 `#habitos-inconscientes`, `#como-e-porque`.
 
+## Toda hipótese nasce do absurdo
+
+Uma hipótese é imaginação de alguém: um sonho, uma abstração que faz sentido para quem a teve,
+mesmo que só na teoria. Depois ela se testa. Toda hipótese nasce do absurdo, e não se deve ter
+medo dele: o absurdo é o ponto de partida; o teste é o que decide.
+
+Na filosofia da ciência, os nomes vizinhos são contexto da descoberta (de onde vem a ideia,
+livre) e contexto da justificação (como ela se testa, com regras). O próprio Popper chamava as
+hipóteses de conjecturas, e preferia as ousadas.
+
 ## Comunicar na camada que o outro alcança
 
 Uma leitura que alguns não captam não fica, por isso, imune à crítica: a responsabilidade
@@ -115,7 +125,9 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#a-intencao-s
 - **A física quântica como paradigma a elaborar.** Cedo para cravar; pede estudo. Cuidado
   já registrado: na física quântica, "observador" é qualquer interação de medição (um
   detector, um fóton), não um sujeito consciente — homônimo do observador desta tese. A
-  ponte, se existir, não se faz pelo nome.
+  ponte, se existir, não se faz pelo nome. O consenso vale para o que já foi registrado e não
+  encerra a pesquisa: se o fenômeno se estende a outros objetos (somos feitos de elétrons) é
+  hipótese a testar.
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#novos-paradigmas-sobre-a-ciencia`,
 `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#fisica-quantica-um-paradigma-a-elaborar`.

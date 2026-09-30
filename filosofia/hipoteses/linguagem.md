@@ -173,7 +173,8 @@ para certos assuntos. E a palavra precisa mais do que existir: precisa estar na 
 língua. A que a pessoa não sabe é ruim; a que ela não usa é péssima. Língua usada por todo
 mundo é língua viva.
 
-Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#linguagem-viva`.
+Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#linguagem-viva`;
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`.
 
 A intuição da direção: estabelecer símbolos para uma escala — como dó-ré-mi, as cores do
 arco-íris —, de um lado mais material, do outro mais abstrato, e ao dialogar acertar o contexto
@@ -209,12 +210,23 @@ roupas da ideia). A direção é tirar a linguagem da dependência das palavras 
 mensagem: o que se quer dizer, em qual camada, independente das palavras — que são só a
 maneira de transmitir. Fazer uma derivada das palavras.
 
+As palavras têm muito poder, mas remetem a emoções, a histórias, a contextos que, a depender
+da pessoa, trazem resistência, repulsa no lugar de atração, ou uma atração enviesada onde
+caberia análise crítica. Abstrair é olhar para o conceito sem essa carga.
+
 Assim se colabora com mais facilidade entre ideias que se assemelham mas usam palavras
 diferentes — religiões, crenças políticas —, e se argumenta com mais clareza quando as
 palavras deixam de ser barreira. Um sonho de plataforma dá corpo a isso: montar os grafos das
 nossas crenças, distinguir as mensagens diferentes que a palavra "paz" carrega e agrupar
 quem diz "paz" com quem diz "felicidade" querendo dizer o mesmo; e fazer o caminho contrário,
 transmitir a mesma mensagem com as palavras que cada um prefere.
+
+Juntar o que se assemelha é metade do trabalho; a outra metade é achar a crença exata que
+separa. O que aproxima a direita e a esquerda, e qual crença as separa — e, dentro de cada
+uma, o que separa as correntes; o que é comum ao cristianismo, o que separa o protestantismo,
+e dentro dele as doutrinas. Com as divergências nítidas, decide-se caso a caso: aprofundar o
+entendimento do que diverge, ou deixar a divergência de lado quando ela não influi naquela
+discussão, naquela situação.
 
 **Intenção** é o que se quer alcançar, e a definição vale em todos os usos. Por baixo das
 palavras há uma mensagem, e quem fala tem a intenção de transmiti-la — o terreno da
@@ -224,7 +236,8 @@ quer alcançar, colaborar ou distorcer, separa a leitura parcial da distorção
 é dar espaço, condições e energia ao que se quer alcançar.
 
 Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-linguagem`,
-`#abstrair-as-palavras`; [23/9]`#portal-linguagem`.
+`#abstrair-as-palavras`; [23/9]`#portal-linguagem`;
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`.
 
 ## Em aberto
 

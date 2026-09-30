@@ -8,11 +8,15 @@ corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
 escrito-em: até 2022-12-26 (última modificação no Google Drive, pasta Arquivo > Livro)
 anonimizado: Nada anonimizado.
+dispensada: >-
+  rascunho anterior do manifesto; o que a última versão perdeu está em
+  fontes/documentos/2026-09-29-manifesto-homo-activus.md
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em
   2026-09-29 junto de outros documentos e quebrado por documento. Um dos
-  arquivos da pasta Livro, ao lado de um "Manifesto Homo Activus" ainda não
-  registrado. Conteúdo preservado na íntegra, sem correção: frases
+  arquivos da pasta Livro; rascunho anterior do "Manifesto Homo Activus"
+  (fontes/documentos/2026-09-29-manifesto-homo-activus.raw.md), que tem
+  camada limpa junto com este. Conteúdo preservado na íntegra, sem correção: frases
   interrompidas ("Mas classificá-las") e a linha "e focar apenas nas que
   temos capacidade de agir." fora da sequência são do original, de
   rascunho. O título H1 é o nome do documento no Drive.

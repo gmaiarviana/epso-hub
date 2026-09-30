@@ -58,22 +58,22 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | na fila | — |
-| [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.raw.md) | pendente | — |
+| [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.md) | não iniciado | 0/7 |
 | [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
-| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.raw.md) | pendente | — |
+| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md) | não iniciado | 0/11 |
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
-| [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | pendente | — |
-| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md) | pendente | — |
+| [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | dispensado | — |
+| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md) | não iniciado | 14/42 |
 | [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | pendente | — |
 | [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | não iniciado | 0/341 |
-| [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.raw.md) | pendente | — |
-| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.raw.md) | pendente | — |
+| [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.md) | não iniciado | 0/10 |
+| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | não iniciado | 0/15 |
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | pendente | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
-| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.raw.md) | pendente | — |
-| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.raw.md) | pendente | — |
+| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md) | não iniciado | 0/12 |
+| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
 | [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md) | na fila | — |
@@ -177,7 +177,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-a-realidade-como-ela-e
 
-- pendente, sem nota na fila
+- sem nota na fila: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`, `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`
 
 ### 2026-09-29-apresentacao
 
@@ -189,15 +189,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-e-assim-mudamos-o-mundo
 
-- pendente, sem nota na fila
-
-### 2026-09-29-explicado-homo-activus
-
-- pendente, sem nota na fila
+- sem nota na fila: `#o-titulo-pode-iludir-com-um-passo-a-passo`, `#o-paradoxo-de-querer-economizar-energia`, `#lidamos-mal-com-tempo-e-linguagem`, `#a-mudanca-interna-ja-muda-o-mundo`, `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, `#quem-dificulta-acoes-se-conformou-com-a-morte`, `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`, `#toda-acao-ajuda-ou-atrapalha`
 
 ### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 
-- pendente, sem nota na fila
+- sem nota na fila: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`, `#qualquer-um-pode-tocar-uma-obra`, `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#a-eficiencia-tem-varias-dimensoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#como-se-ganha-dinheiro-com-obra`, `#orcamento-bom-e-o-que-se-aproxima-da-realidade`, `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#estimular-a-reflexao-nao-dar-a-resposta-certa`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`, `#o-que-e-realmente-lei-e-realmente-necessario`, `#projeto-final-orcamento-com-checkpoints`, `#avaliar-pelas-habilidades-do-gestor`, `#automacao-e-uberizacao-na-construcao`
 
 ### 2026-09-29-glossario
 
@@ -210,11 +206,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-manifesto-eamom
 
-- pendente, sem nota na fila
+- sem nota na fila: `#queremos-mudanca-mas-nao-concordamos-no-que`, `#a-saude-e-uma-medida-que-conseguimos-concordar`, `#saude-como-modelo-de-representacao-da-vida`, `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`, `#nao-lidar-com-a-morte-nos-faz-divergir`, `#queremos-a-vida-viver-o-agora`, `#aprender-com-a-historia-e-os-outros-seres-vivos`, `#a-evolucao-e-inevitavel-ajudamos-ou-atrapalhamos`, `#o-sentido-da-vida-e-a-evolucao`
 
 ### 2026-09-29-manifesto-homo-activus
 
-- pendente, sem nota na fila
+- sem nota na fila: `#sou-um-individuo-com-um-corpo-que-sente`, `#nos-comunicamos-e-estabelecemos-bases-em-comum`, `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#nao-eliminar-as-experiencias-ruins-classifica-las`, `#capacidade-implica-possibilidade-e-sustentabilidade`, `#agir-pelo-que-nao-queremos-nos-torna-passivos`, `#sobreviver-deixou-de-dar-sentido`, `#talvez-nao-precisemos-de-um-objetivo`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`, `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`, `#reinventar-a-organizacao-capitalismo-sustentavel`, `#o-homo-activus-convence-em-vez-de-guerrear`, `#sapiens-praesenti-e-civili-coexistem`
 
 ### 2026-09-29-manifesto-organizacao
 
@@ -226,11 +222,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-o-obvio-precisa-ser-dito
 
-- pendente, sem nota na fila
+- sem nota na fila: `#preciso-estabelecer-bases-para-investigar`, `#qual-a-regua-para-escolher-as-bases`, `#sou-humano-ou-assim-fui-ensinado`, `#valores-e-o-julgamento-entre-bem-e-mal`, `#o-subentendido-simplifica-mas-limita`, `#uma-frase-simples-abre-inumeras-questoes`, `#priorizar-a-pergunta-que-define-a-base`, `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#reduzir-a-diversidade-para-evitar-conflito`, `#comunicar-melhor-resolve-de-forma-sustentavel`, `#quem-escreve-e-quem-le-sao-humanos`, `#maquinas-que-leem-o-que-e-um-ser-vivo`
 
 ### 2026-09-29-organizacao
 
-- pendente, sem nota na fila
+- sem nota na fila: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`, `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
 
 ### 2026-09-29-personalidades
 

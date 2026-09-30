@@ -86,3 +86,36 @@ manutenção, antecipar depreciação, antecipar todos os custos e necessidades.
 
 O valor pelo custo, não pelo que o mercado paga — formulação do agente juntando as duas ideias
 acima. Acho que está no caminho certo.
+
+## Os parâmetros da sustentabilidade
+
+Acho que são vários parâmetros para se definir sustentabilidade: custo, durabilidade,
+manutenção, energia desprendida (entropia — quanto preciso manter), impacto, sujeira, tempo,
+qualidade, conforto, satisfação. Claro que eu misturei aqui muita coisa, mas o ponto é que
+todos eles devem ser avaliados, e o somatório vai dizer se é sustentável — se sustenta, se é
+algo que faz sentido manter ou não.
+
+Pense numa casa que você consegue limpar sozinho e outra em que você precisa de ajuda. Uma
+piscina individual aumenta a ordem de grandeza: talvez precise pagar alguém para limpar. Mas
+uma piscina comunitária talvez consiga fazer rotina. Se a manutenção precisa ser todo dia,
+talvez não faça sentido; se for uma vez por ano, talvez faça muito sentido. E por aí vai.
+
+## Impacto do nosso tamanho
+
+Não tem como viver e não causar impacto, mas dá para causar o mínimo de impacto: um impacto
+condizente com o nosso tamanho, com o nosso tempo de vida. Deixar resíduos que impactam
+gerações para a frente é insustentável. O que gasta muita energia, a ponto de ser
+irreplicável — ou seja, de ser impossível que todos assumam a mesma postura —, é
+insustentável.
+
+## Trabalho não é ruim; o peso é o compromisso com coisas
+
+Uma piscina que dá trabalho pode valer a pena se trouxer satisfação para muita gente, desde
+que não cause um compromisso eterno delas, não vire um peso para elas — porque senão a
+satisfação se perde. Então algo trabalhoso, que a gente consiga montar, curtir e desmontar, me
+parece perfeito. Não estou afirmando que toda piscina é ruim: estou dizendo a mentalidade.
+Trabalho não significa ruim; compromisso de longo prazo com coisas parece ruim.
+
+Os limites que reprovam sozinhos — o resíduo que atravessa gerações e o irreplicável — fazem
+sentido: tem coisa que claramente é insustentável. O teste do irreplicável levado ao rigor
+(se todos fizessem, o planeta aguentaria?) acho interessante.

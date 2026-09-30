@@ -60,7 +60,13 @@ tem que cumprir algo. É o marcador de identidade que reconhece uma comunidade v
 movida por pertencimento, não por remuneração
 ([ecocidades](ecocidades.md#reconhecer-o-que-funciona)).
 
-Fonte: [conversa]`#comunidade-o-melhor-dos-dois-mundos`.
+O compromisso não contradiz o querer; o que muda é o querer. Nunca se deve fazer o que não se
+quer — mas o compromisso se estabelece sobre empatia, confiança, lealdade e entrega. O novo
+paradigma perde a mentalidade individualista, identificada com o ego, do "eu quero isso, eu
+quero aquilo", e o que queremos passa a ser o que faz sentido para nós. Doença ou outra
+prioridade se equilibram com trocas; o que se perde é o gosto pessoal de que não se abre mão.
+
+Fonte: [conversa]`#comunidade-o-melhor-dos-dois-mundos`, `#o-querer-que-faz-sentido-para-nós`.
 
 ## A escola pela intenção
 

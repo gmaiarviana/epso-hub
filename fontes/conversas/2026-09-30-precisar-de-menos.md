@@ -48,3 +48,12 @@ A gente tem que buscar o equilíbrio e o melhor dos dois mundos. Sim, envolve ab
 individualismo, com certeza, mas sem perder completamente a individualidade. Envolve
 compromisso, envolve viver: estar ali porque gosta e quer, não porque é obrigado ou tem que
 cumprir algo.
+
+## O querer que faz sentido para nós
+
+Sou meio anárquico: a gente nunca deve fazer o que não quer. Mas devemos estabelecer nossos
+compromissos sobre empatia, confiança, lealdade, entrega. O novo paradigma vai perdendo a
+mentalidade individualista, identificada com o ego — "eu quero isso, eu quero aquilo" —, e o
+que queremos passa a ser o que faz sentido para a gente. Claro que, se estiver doente ou com
+outra prioridade, a gente pode buscar equilibrar e trocar. Mas, de maneira geral, se perde
+essa questão do meu gosto pessoal de que não abro mão.

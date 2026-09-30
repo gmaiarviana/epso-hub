@@ -148,16 +148,11 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
   reconexão com a natureza, sair do estado de luta ou fuga, sentir-se amado, ter tempo livre.
 - **Gostamos de entender.** Somos materiais, mas também informacionais: gostamos de
   coerência, de lastro, de concordar. É o porquê da transparência.
-- **Fazemos o que precisa ser feito.** Os outros seres contam com a nossa contribuição, e nos
-  ajudam. Regenerar é manter as condições de fazer a nossa parte: se nos destruirmos, não
-  poderemos fazê-la.
 
 **Nível:** Decidido.
 
 Fonte: [validação]`#a-camada-sem-forma`, `#a-desconexão`, `#entropia-e-o-tamanho-do-impacto`,
-`#conforto-e-medo`, `#soltar-o-apego`, `#crenças`; [conversa]`#fazer-o-que-precisa-ser-feito`,
-`#nos-salvar-salva-quem-convive-conosco`;
-`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`.
+`#conforto-e-medo`, `#soltar-o-apego`, `#crenças`.
 
 ### A confirmar no rol
 
@@ -180,11 +175,15 @@ O conteúdo tem a concordância do incorporador; a formulação ainda não é de
 - **A evolução busca o caminho de maior eficiência.** A tecnologia vem para otimizar os
   trabalhos repetitivos; tecnologia são ferramentas que melhoram a vida das pessoas
   ([potencializar, não substituir](../../filosofia/hipoteses/inteligencia-potencializada.md#potencializar-não-substituir)).
+- **Fazemos o que precisa ser feito.** Os outros seres contam com a nossa contribuição, e nos
+  ajudam. Regenerar é manter as condições de fazer a nossa parte: se nos destruirmos, não
+  poderemos fazê-la.
 
 **Nível:** Estimado (média).
 
 Fonte: [núcleo]`#as-crenças-do-epso`; [propósito] (Crenças); [quem somos] (Quem somos, No que
-acreditamos).
+acreditamos); [conversa]`#fazer-o-que-precisa-ser-feito`, `#nos-salvar-salva-quem-convive-conosco`;
+`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`.
 
 ## Postura
 

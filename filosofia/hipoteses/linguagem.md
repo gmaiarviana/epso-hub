@@ -4,7 +4,8 @@
 
 A linguagem é a tecnologia que tornou coletiva a nossa relação com a camada das ideias. Cada
 salto — a fala, a escrita, a matemática, a tecnologia da informação — ampliou a colaboração.
-O limite de agora é falarmos em camadas diferentes sem perceber: uma limitação de transição,
+Entre as mudanças de comportamento que a [tese](../cosmovisao/a-tese.md) pede está a maneira
+como nos comunicamos: nada drástico, só mais intenção e mais precisão. O limite de agora é falarmos em camadas diferentes sem perceber: uma limitação de transição,
 que se supera com uma linguagem mais precisa sem perder a cor.
 
 Fontes, referenciadas abaixo por rótulo e `#secao`:
@@ -13,6 +14,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[23/9]** `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`
 - **[24/9]** `fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md`
 - **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
+- **[26/6 tese]** `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`
 
 ## A linguagem é representação
 
@@ -54,11 +56,23 @@ Fonte: [24/9]`#linguagem-e-noosfera`; [22/9]`#linguagem-e-noosfera`.
 
 ## Os saltos: tecnologias da informação
 
+Na fala, manipulamos o ar para fazer sons. Quem escuta sente o som antes de entendê-lo: o som
+causa uma emoção, e a mente interpreta essa emoção e lhe dá sentido — o mesmo caminho do
+sentir ao nomear de [onde a comunicação falha](#onde-a-comunicação-falha). A mente não
+interpreta sozinha: aprende com as outras mentes, nas histórias que contamos juntos, o que
+cada som quer dizer; e o sentido aprendido passa, ele também, a causar emoção. Mas o som já
+carrega parte do sentido antes de qualquer aprendizado: algumas palavras de sentido doce soam
+doces, as de sentido duro soam duras. Somado à entonação e às expressões do rosto, isso
+transmite uma ideia mesmo a quem não conhece a língua — é por isso que os bebês e os bichos às
+vezes nos entendem. A escrita deu a esses sons um símbolo visual, mas ainda é preciso ler. E a
+linguagem nunca foi só palavra: é também expressão facial, tom de voz, energia.
+
 A história da linguagem se conta junto com a história da informação e da tecnologia da
 informação. A oralidade chegou ao limite do que as mentes guardavam; a escrita veio para
 armazenar fora da mente, em maior quantidade. Os números e o cálculo são a mesma coisa para o
 processamento: métodos que se aplicam como uma pipeline, com resultado previsível, para não
-gastar a energia de fazer tudo de cabeça. Escrita e matemática são marcos na evolução da
+gastar a energia de fazer tudo de cabeça. A energia poupada fica disponível para aprofundar:
+mais contas, mais complexidade, mais abstração, mais assuntos. Escrita e matemática são marcos na evolução da
 linguagem — são tecnologias da informação, criadas por nós, para nós, e tão naturais quanto
 ela.
 
@@ -70,7 +84,8 @@ nosso cérebro coletivo. A proposta desse próximo passo vive em
 É este o salto de que fala a [tese](../cosmovisao/a-tese.md): assim como a escrita foi um
 salto antes, a tecnologia da informação é o de agora.
 
-Fonte: [24/9]`#tecnologias-da-informacao`.
+Fonte: [24/9]`#tecnologias-da-informacao`; [26/6 tese]`#da-oralidade-a-escrita`,
+`#a-escrita-expandiu-o-processamento`.
 
 ## O limite de agora: falamos em camadas
 
@@ -169,6 +184,11 @@ observações e repertório acompanham o que se diz.
 Fonte: [24/9]`#precisao-e-brincadeira`, `#espectro-de-camadas`; [22/9]`#linguagem-em-camadas`;
 `fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md#o-custo-da-precisão-não-é-uma-escolha`.
 
+Muita gente já estuda como falar com mais intenção: a programação neurolinguística (PNL), a
+neurociência.
+
+Fonte: [26/6 tese]`#linguagem-com-intencao`.
+
 ## Comunicar na camada que o outro alcança
 
 Faz sentido que algumas pessoas não captem uma leitura: podem não ter os receptores
@@ -196,9 +216,12 @@ nossas crenças, distinguir as mensagens diferentes que a palavra "paz" carrega 
 quem diz "paz" com quem diz "felicidade" querendo dizer o mesmo; e fazer o caminho contrário,
 transmitir a mesma mensagem com as palavras que cada um prefere.
 
-"Intenção", aqui, é a mensagem por baixo das palavras. Não confundir com a intenção de quem
-fala, que separa a leitura parcial da distorção ([precisão](precisao.md)), nem com a direção
-escolhida de [evoluir com intenção](../cosmovisao/quem-sou-eu.md#evoluir-com-intenção).
+**Intenção** é o que se quer alcançar, e a definição vale em todos os usos. Por baixo das
+palavras há uma mensagem, e quem fala tem a intenção de transmiti-la — o terreno da
+semiótica. Falar com mais intenção é saber o que se quer alcançar ao falar. O que quem fala
+quer alcançar, colaborar ou distorcer, separa a leitura parcial da distorção
+([precisão](precisao.md)). E [evoluir com intenção](../cosmovisao/quem-sou-eu.md#evoluir-com-intenção)
+é dar espaço, condições e energia ao que se quer alcançar.
 
 Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-linguagem`,
 `#abstrair-as-palavras`; [23/9]`#portal-linguagem`.

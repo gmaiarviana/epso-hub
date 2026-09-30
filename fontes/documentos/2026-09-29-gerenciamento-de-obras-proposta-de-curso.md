@@ -17,6 +17,12 @@ dispensadas:
   o-que-e-obra-e-por-que-se-preparar: enquadramento do curso
   etapas-da-obra: lista técnica
   mapa-de-stakeholders-e-documentos-da-obra: lista técnica
+  ferramentas-de-gestao-pdca-agil-e-lean: lista de ferramentas
+  ferramentas-de-orcamento: lista técnica
+  definir-o-escopo: didática de PMBOK
+  contratar-ou-terceirizar: perguntas de conteúdo de aula
+  logistica-da-obra: lista técnica
+  prazo-e-caminho-critico: perguntas técnicas de aula
 ---
 
 # Gerenciamento de obras — proposta de curso
@@ -122,3 +128,93 @@ De repente pode montar um mapa de stakeholders: arquiteto, mão de obra, cliente
 De repente, tendo isso mapeado, arranjar uma cópia de alguns documentos que são necessários…
 
 (A fiscalização já foi na minha obra e eu tive que descobrir quais são os documentos obrigatórios para se ter dentro da obra… alvará, bombeiro, meio ambiente, Ministério do Trabalho, CREA… fui correr atrás de todos eles.)
+
+<!-- lote 2 -->
+
+## ferramentas-de-gestao-pdca-agil-e-lean
+
+Beleza, como garantir que a galera tenha menos problema? Qual a solução que as empresas usam?
+
+Aqui entra gestão de projetos. PDCA, vale a pena falar do manifesto ágil (conhece? Filosoficamente é muito importante mesmo que seja de difícil aplicação) e o lean construction. Padronização, controle de qualidade.
+
+## certificacao-ajuda-mas-nao-garante
+
+Aqui entra falar de certificações, que ajudam a entender quais empresas estão se esforçando para manter um bom controle de qualidade. Também falar que nem toda certificação vale a pena, às vezes dá pra maquiar os dados. Existe a auditoria, empresa ruim fica correndo pra tentar botar tudo debaixo do tapete. Às vezes possuir essas certificações são requisitos para contratação ou aporte de investimentos.
+
+Mas também falar que quem não tem certificação não significa que é ruim. E às vezes manter esse tipo de visibilidade demanda uma estrutura que nem todos conseguem pagar porque isso é convertido para o consumidor final. Então uma certificação não é mandatório. Ajuda e muito. Mas o importante é saber como funciona, aplicar as boas práticas. Tentar entender o motivo e contexto de cada norma/recomendação… e checar a viabilidade e verdadeiro ganho em aplicar.
+
+## grau-e-qualidade-sao-coisas-diferentes
+
+Um conceito muito interessante que tem no PMBOK (do PMI) é a diferença entre grau e qualidade. Você pode ter um produto ruim mas de boa qualidade, ou seja, que mantém um padrão e você sabe que ele vai entregar o que tá prometendo.
+
+## como-se-ganha-dinheiro-com-obra
+
+Talvez aqui a gente comece a falar de custo.
+
+Talvez falar aqui como a galera ganha dinheiro com obra. Qual a relação de custo e venda na construção civil. Falar do fator risco e incerteza e por que é tão lucrativo. Que empresas maiores conseguem comprar material mais barato mas precisa de custos indiretos, empresas menores conseguem ter uma equipe mais enxuta mas não consegue fazer investimentos importantes.
+
+## orcamento-bom-e-o-que-se-aproxima-da-realidade
+
+Então o importante é tentar entender a estratégia de seu projeto, controlar os custos que estão sob sua responsabilidade, ser organizado. Entender de onde vêm as previsões de custos para conseguir comparar com os gastos reais… eficiência no planejamento significa previsibilidade… orçamento bom não é o barato… mas o que se aproxima da realidade…
+
+## ferramentas-de-orcamento
+
+Falar que a galera vai usar tabela de composição pra estimar e tudo bem… quando tem projeto, dá pra estimar o custo fazendo conta.
+
+Falar de BIM e ferramentas que auxiliam na composição de orçamentos…
+
+Falar de custos diretos e custos indiretos… imposto, lucro, taxa de juros, fluxo de caixa…
+
+## aprender-sem-levar-30-anos-estabelecendo-bases
+
+Existem perguntas que todo construtor se faz constantemente. E obviamente não existem respostas prontas para esses tipos de pergunta. E claro que a experiência vai nos ajudar a ter confiança nessas respostas. Provavelmente iremos errar bastante, o que é normal. Uma coisa que aprendi é que um mestre sabe tudo de obra, mas passou 30 anos lá dentro. O aprendizado não precisa levar tanto tempo. Podemos aprender de maneira muito mais eficiente, porque estamos estabelecendo bases. Alguns estudos básicos e chatos que temos na nossa vida na verdade estão nos dando base para que consigamos aprender coisas mais profundas e complexas.
+
+## va-ao-lugar
+
+Mas tem uma coisa que vai fazer diferença na carreira de vocês: pensar antes a respeito. Não achem que precisa prever todas as respostas, mas antecipar alguns problemas é viável. Uma grande dica pra quem tá começando é: vá no lugar. Veja o caminho que as pessoas fazem pra chegar até lá, veja quais as dificuldades que o trabalhador vai encontrar e quais as soluções que eles encontram. Muitas vezes é aí que encontramos oportunidades de melhorias e eficiência.
+
+Ser engenheiro e ficar no sofá é a fórmula perfeita pra fazer incompatibilidade, ter visão limitada ou esquecer alguma coisa importante…
+
+## definir-o-escopo
+
+Como tirar do papel todas as etapas de uma obra? Como definir o escopo? Como transformar o projeto aprovado em etapas de trabalho?
+
+Definição de escopo talvez seja a parte mais importante e difícil do planejamento de um projeto, pois a partir daí irá construir um orçamento, identificar riscos, definição de prazos, dimensionamento de equipe, dependências predecessoras e sucessoras…
+
+Tô seguindo aqui a diretriz do PMBOK. (Pelo menos a edição antiga, que foi a que eu estudei kkkk) Mas planejar projeto passa por definir o escopo e colocar no papel… nem que esteja contendo algumas incertezas ou indefinições… mas não ter domínio de todas as etapas necessárias para conclusão da obra é também a fórmula perfeita para atrasar, aumentar o custo ou ter erro técnico…
+
+## cada-um-puxa-para-o-seu-lado
+
+Tem que ter em mente que todas as pessoas envolvidas na obra (cliente, empreendedor, terceirizado, funcionário, vizinho, órgão público, absolutamente todos) querem o melhor para eles. O mais fácil, barato, menos trabalhoso… eles não têm interesse, responsabilidade ou necessidade de entender o contexto e visão panorâmica da obra… então tem que estar com muito domínio do que você pode fazer e não pode fazer, de quais são as expectativas pra entrega da obra, se não cada um vai puxando o seu e a obra vai tendo seus problemas…
+
+## contratar-ou-terceirizar
+
+É melhor contratar ou terceirizar funcionário? Mas eu como gestor, qual modelo de contrato eu devo tentar fazer? De repente aqui é uma aula sobre contratos, impostos, lei. Contexto histórico e geográfico ajuda a pensar fora da caixa.
+
+É apenas uma questão financeira? Como garantir que o profissional não vá embora e deixe a obra pela metade? Ou garantir que o funcionário se sinta satisfeito e tenha senso de pertencimento?
+
+Se for uma obra longe, tem condições de contratar trabalhadores locais ou vale a pena levar funcionários?
+
+## estimular-a-reflexao-nao-dar-a-resposta-certa
+
+A intenção não é ter a resposta certa ou determinar o que é melhor ou pior…. Mas estimular a reflexão e discussão, isolando alguns componentes para viabilizar a análise…
+
+É muito importante deixar bem claro que são questões realmente difíceis e a galera erra bastante… então é muito mais sobre não ter medo de tentar, fazer um processo para tentar prever alguns problemas e ir aprendendo durante o processo, sempre corrigindo e entendendo o que pode ser melhorado…
+
+## equilibrar-estrutura-e-burocracia
+
+Qual custo indireto é importante manter? Falar sobre as vantagens e desvantagens de manter uma estrutura. Como uma negociação boa pode pagar o custo anual do comprador. Como não controlar o estoque pode levar a ter muito roubo que nunca será percebido. Fazer corpo de prova te dá respaldo sobre problemas futuros no concreto. Importância de processos, documentação, equipe, treinamento, bater ponto. Tudo isso é custo, tudo isso tem um valor que adiciona à gestão. Tudo isso gera burocracia, equipe inchada. Talvez a conversa seja sobre como equilibrar de maneira sustentável.
+
+## vantagem-financeira-nao-e-vantagem-economica
+
+Melhor rodar o concreto na mão ou chamar um carro de concreto? Alugar ou comprar uma betoneira? Qual deve ser o lugar do meu canteiro de obras? Devo alugar um container?
+
+Talvez um conceito interessante é que vantagem financeira não significa vantagem econômica. Às vezes na ponta do lápis tu economiza 10 reais mas tem o dobro de estresse e risco de dar merda.
+
+## logistica-da-obra
+
+Dá pra aprofundar no papel da logística. Momento de deslocamento (peso x distância), custo de oportunidade (fluxo de caixa), fases da obra, fluxo de materiais (first in first out). Risco de roubo.
+
+## prazo-e-caminho-critico
+
+Melhor garantir o estoque ou comprar de fábrica? Qual o risco de um atraso nessa fase em particular? Existem atrasos mais arriscados e menos arriscados? O cliente pode colocar atraso como cláusula no contrato? Quanto de dinheiro o Walmart perde para cada dia de atraso em sua loja? Como fazer um planejamento adequado? O que é caminho crítico na construção civil (te mandei um livro muito bom sobre isso)? Vale a pena usar Gantt? Como medir tempo?

@@ -104,6 +104,13 @@ Dois limites reprovam sozinhos, sem somatório:
 - **O irreplicável** — o que gasta tanta energia que seria impossível todos assumirem a mesma
   postura (ver *Replicável, não bolha*, em [Postura](#postura)).
 
+A conta tem limite. Conta-se o próprio impacto — quanta energia e quanta água se gasta por
+dia, que solução impacta menos — e quantificar o ambiente, o trabalho de biólogos e
+ambientalistas, importa. Mas sem ciência de foguete para intervir no que não se controla nem
+se entende: o desenho é nosso, a vida é da natureza. Numa agrofloresta, o humano controla o
+projeto; o que vinga, inclusive as espontâneas, a natureza decide. Não existe impacto zero —
+andar já mexe em seres microscópicos —; a busca é o impacto positivo.
+
 **Nível:** Estimado (alta). O teste do irreplicável levado ao rigor — oito bilhões de piscinas
 individuais? —: Estimado (média).
 
@@ -117,7 +124,8 @@ geram a demanda pelos equipamentos de um empreendimento.
 Fonte: [validação]`#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
 [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`;
 [conversa]`#os-parâmetros-da-sustentabilidade`, `#impacto-do-nosso-tamanho`,
-`#trabalho-não-é-ruim-o-peso-é-o-compromisso-com-coisas`;
+`#trabalho-não-é-ruim-o-peso-é-o-compromisso-com-coisas`,
+`#o-desenho-é-nosso-a-vida-é-da-natureza`, `#contar-o-nosso-impacto-sem-ciência-de-foguete`;
 [26/6]`#construcao-sustentavel-e-cadeia-produtiva`.
 
 ## Crenças

@@ -152,3 +152,30 @@ empáticos com eles do mesmo jeito que devemos ser com nós mesmos: eles vivem o
 realidades. Mas dependemos deles, e eles da gente, mesmo que indireta ou inconscientemente.
 Todo ser está na sua jornada de evolução e de contribuição para a vida. Então não devemos nos
 meter ou entrar na mente deles, mas fazer a nossa parte.
+
+## O desenho é nosso, a vida é da natureza
+
+Numa agrofloresta, o humano só tem controle sobre o desenho, o projeto; na vida real, é a
+natureza que decide — inclusive na chegada das espontâneas. Não existe zero impacto, zero
+intervenção: estou andando, estou mexendo em seres microscópicos. Mas impacto positivo. Não é
+o outro extremo, tentar antecipar e fazer contas para todos os impactos.
+
+## Voto todo dia
+
+Com certeza nossas decisões de consumo são importantes e devem ser consideradas: de onde eu
+compro os materiais, o que eu como, com o que eu gasto meu dinheiro, onde boto atenção, onde
+eu cuido, de onde vem a matéria-prima de tudo que eu uso. Tudo isso favorece ou desfavorece
+impacto. Eu não voto a cada quatro anos. Eu voto todo dia: quando gasto meu dinheiro, estou
+dizendo para quem recebe "continue a fazer".
+
+Por isso temos tanta injustiça hoje em dia: poucos votam muito mais que muitos. E o novo
+paradigma vem para fazer com que o dinheiro valha menos, quando conseguimos resolver tudo o
+que precisamos sem a necessidade de dinheiro.
+
+## Contar o nosso impacto, sem ciência de foguete
+
+Devemos contar o nosso impacto: quanto de energia eu gasto por dia, quanto de água, quais
+soluções causam menos impacto. Não quero dizer que o trabalho de biólogos e ambientalistas
+não é importante: é sim importante quantificar algumas coisas relacionadas ao meio ambiente e
+à natureza. Mas não devemos fazer ciência de foguete para tentar intervir em coisas sobre as
+quais não temos controle ou clareza.

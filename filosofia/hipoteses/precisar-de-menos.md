@@ -84,4 +84,11 @@ Na prática, precisar de menos é reunir as boas práticas de viver a natureza c
 de impacto, de relacionamento, de vida — e torná-las factíveis e fáceis. Envolve logística,
 mas sobretudo costumes: hábitos de consumo, de alimentação e, principalmente, de lazer.
 
-Fonte: [26/6]`#boas-praticas-factiveis`.
+Cada decisão de consumo favorece ou desfavorece um impacto: de onde vêm os materiais e a
+matéria-prima do que se usa, o que se come, com o que se gasta dinheiro, onde se põe a
+atenção e o cuidado. Não se vota a cada quatro anos; vota-se todo dia — gastar o dinheiro é
+dizer a quem recebe: "continue a fazer". Por isso há tanta injustiça: poucos votam muito mais
+que muitos. O novo paradigma faz o dinheiro valer menos, quando se resolve o que se precisa
+sem ele ([economia](economia.md#troca-por-confiança)).
+
+Fonte: [26/6]`#boas-praticas-factiveis`; [conversa]`#voto-todo-dia`.

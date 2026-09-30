@@ -67,7 +67,9 @@ Não há lista fixa: são ideias, em três estados conforme a atenção que rece
 Cada iniciativa pensa a própria receita. Receitas do EPSO como um todo e o financiamento de fora
 ficam em [instituicao/next-steps.md](../next-steps.md).
 
-Fontes: `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#visao-portfolio`,
+Fontes: `fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md#não-há-lista-fixa-de-iniciativas`,
+`#agrupar-por-tema`, `#gaveta-mesa-e-andamento`;
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#visao-portfolio`,
 `#iniciativa-1-construtora`; `fontes/transcricoes/2026-07-04-estrategia-profissional.md#viabilidade-construtora`;
 `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#empreender-em-construcao-sustentavel`;
 `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#portal-economia-colaborativa`,

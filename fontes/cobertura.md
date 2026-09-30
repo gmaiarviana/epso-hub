@@ -18,7 +18,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
 | [2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida](../fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md) | parcial | 7/10 |
 | [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 5/10 |
-| [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | parcial | 3/5 |
+| [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | completo | 5/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | completo | 4/4 |
 | [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | parcial | 5/6 |
 | [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial | 9/12 |
@@ -54,7 +54,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
 | [2026-09-27-carta-ex-lider](../fontes/documentos/2026-09-27-carta-ex-lider.raw.md) | citado; na fila | — |
-| [2026-09-27-carta-rede-de-pais](../fontes/documentos/2026-09-27-carta-rede-de-pais.raw.md) | na fila | — |
+| [2026-09-27-carta-rede-de-pais](../fontes/documentos/2026-09-27-carta-rede-de-pais.raw.md) | dispensado | — |
 | [2026-09-27-cartas-de-candidatura](../fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-documento-institucional](../fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-operacional](../fontes/documentos/2026-09-27-construtora-operacional.raw.md) | na fila | — |
@@ -92,23 +92,23 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2025-03-05-sobre-o-era-pra-ser-obvio
 
-- sem nota na fila: `#o-canal-nasceu-do-excesso-de-informacao`, `#o-obvio-precisa-ser-dito`, `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`, `#todo-conteudo-e-um-convite`, `#ideias-se-aprofundam-conforme-o-envolvimento`, `#nada-se-cria-tudo-se-transforma`, `#metodo-1-estabelecer-bases`, `#metodo-2-aceitar-a-realidade`, `#metodo-3-criar-imaginar`, `#metodo-4-comecar-pequeno`, `#tres-temas-e-o-que-nao-sao`, `#espiritualidade-e-o-misterio`, `#o-que-nos-faz-unir`, `#praticante-nao-mestre`, `#politica-sao-os-acordos`, `#tudo-e-filosofia`, `#retornar-e-se-expor`, `#comecar-livre-para-nao-procrastinar`, `#expor-as-fragilidades-para-aprender`
+- Foco: `#o-canal-nasceu-do-excesso-de-informacao`, `#o-obvio-precisa-ser-dito`, `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`, `#todo-conteudo-e-um-convite`, `#ideias-se-aprofundam-conforme-o-envolvimento`, `#nada-se-cria-tudo-se-transforma`, `#metodo-1-estabelecer-bases`, `#metodo-2-aceitar-a-realidade`, `#metodo-3-criar-imaginar`, `#metodo-4-comecar-pequeno`, `#tres-temas-e-o-que-nao-sao`, `#espiritualidade-e-o-misterio`, `#o-que-nos-faz-unir`, `#praticante-nao-mestre`, `#politica-sao-os-acordos`, `#tudo-e-filosofia`, `#retornar-e-se-expor`, `#comecar-livre-para-nao-procrastinar`, `#expor-as-fragilidades-para-aprender`
 
 ### 2025-03-06-sobre-filosofia
 
-- sem nota na fila: `#filosofo-reflete-por-refletir`, `#refletir-ou-viver`, `#filosofo-nao-por-escolha`, `#cada-filosofo-tem-uma-percepcao-unica`, `#nada-novo-palavras-proprias`, `#aprender-com-os-erros-de-quem-veio-antes`, `#aprendiz-mais-que-sabio`, `#no-meio-do-paradoxo-da-expectativa`, `#filosofo-e-tambem-artista`
+- Foco: `#filosofo-reflete-por-refletir`, `#refletir-ou-viver`, `#filosofo-nao-por-escolha`, `#cada-filosofo-tem-uma-percepcao-unica`, `#nada-novo-palavras-proprias`, `#aprender-com-os-erros-de-quem-veio-antes`, `#aprendiz-mais-que-sabio`, `#no-meio-do-paradoxo-da-expectativa`, `#filosofo-e-tambem-artista`
 
 ### 2025-03-06-sobre-o-metodo
 
-- sem nota na fila: `#simples-sem-ser-simplorio`, `#base-para-unir-colaborar-e-agir`, `#aplicavel-do-micro-ao-macro`, `#tudo-e-sobre-intencao`, `#estabelecer-bases-e-falar-a-mesma-lingua`, `#camadas-da-percepcao-da-realidade`, `#o-que-se-diz-sem-palavras`, `#a-intencao-por-tras-da-fala`, `#falar-para-nao-ficar-em-silencio`, `#quem-escuta-pergunta-em-vez-de-assumir`, `#na-relacao-chegar-a-um-acordo`, `#bases-tambem-nos-problemas-complexos`, `#aceitar-exige-dar-nome-ao-que-se-sente`, `#elaborar-e-depois-reduzir`, `#expandir-e-voltar-como-as-ondas`, `#nao-somos-nossa-mente`, `#reflexao-e-ouvir-o-corpo`, `#aceitar-a-historia-como-ela-e`, `#entender-o-outro-sem-apontar-o-dedo`, `#a-realidade-independe-de-como-eu-me-sinto`, `#meditacao-e-buscar-o-menos`, `#metodo-aberto-a-mudanca`, `#sou-o-somatorio-do-que-consumi`, `#a-mesma-palavra-para-coisas-diferentes`, `#a-escolha-dos-fatos-ja-e-um-vies`, `#a-aranha-e-os-limites-da-percepcao`, `#perdas-entre-sentir-e-dizer`, `#aceitar-que-nao-sabemos`, `#imaginar-com-intencao-sem-utilitarismo`, `#o-futuro-ideal-da-direcao`, `#escolher-a-crenca-que-faz-mais-sentido`, `#a-flecha-da-evolucao`, `#fluxo-ou-resistencia`, `#maya-a-grande-ilusao`, `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#sonhar-grande-tambem-no-pratico`, `#sem-destino-comum-a-politica-anda-em-circulos`, `#serie-longa-pede-rotina`, `#comece-agora-sem-desculpas`, `#dar-um-passo-em-direcao-ao-sonho`, `#materia-fala-com-materia`, `#o-que-nos-define-e-o-que-fazemos`, `#a-energia-diz-se-e-o-caminho`, `#desejo-do-que-sou-e-desejo-idealizado`, `#nao-reprimir-nem-se-apegar-ao-sonho`
+- Foco: `#simples-sem-ser-simplorio`, `#base-para-unir-colaborar-e-agir`, `#aplicavel-do-micro-ao-macro`, `#tudo-e-sobre-intencao`, `#estabelecer-bases-e-falar-a-mesma-lingua`, `#camadas-da-percepcao-da-realidade`, `#o-que-se-diz-sem-palavras`, `#a-intencao-por-tras-da-fala`, `#falar-para-nao-ficar-em-silencio`, `#quem-escuta-pergunta-em-vez-de-assumir`, `#na-relacao-chegar-a-um-acordo`, `#bases-tambem-nos-problemas-complexos`, `#aceitar-exige-dar-nome-ao-que-se-sente`, `#elaborar-e-depois-reduzir`, `#expandir-e-voltar-como-as-ondas`, `#nao-somos-nossa-mente`, `#reflexao-e-ouvir-o-corpo`, `#aceitar-a-historia-como-ela-e`, `#entender-o-outro-sem-apontar-o-dedo`, `#a-realidade-independe-de-como-eu-me-sinto`, `#meditacao-e-buscar-o-menos`, `#metodo-aberto-a-mudanca`, `#sou-o-somatorio-do-que-consumi`, `#a-mesma-palavra-para-coisas-diferentes`, `#a-escolha-dos-fatos-ja-e-um-vies`, `#a-aranha-e-os-limites-da-percepcao`, `#perdas-entre-sentir-e-dizer`, `#aceitar-que-nao-sabemos`, `#imaginar-com-intencao-sem-utilitarismo`, `#o-futuro-ideal-da-direcao`, `#escolher-a-crenca-que-faz-mais-sentido`, `#a-flecha-da-evolucao`, `#fluxo-ou-resistencia`, `#maya-a-grande-ilusao`, `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#sonhar-grande-tambem-no-pratico`, `#sem-destino-comum-a-politica-anda-em-circulos`, `#serie-longa-pede-rotina`, `#comece-agora-sem-desculpas`, `#dar-um-passo-em-direcao-ao-sonho`, `#materia-fala-com-materia`, `#o-que-nos-define-e-o-que-fazemos`, `#a-energia-diz-se-e-o-caminho`, `#desejo-do-que-sou-e-desejo-idealizado`, `#nao-reprimir-nem-se-apegar-ao-sonho`
 
 ### 2025-04-17-sobre-a-plataforma-epso
 
-- sem nota na fila: `#a-plataforma-do-portfolio`, `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`, `#pago-por-quem-nao-e-materia-organica`, `#pilar-2-discussao-e-comunidade`, `#aprender-junto-e-se-sustentar`, `#tirar-a-forma-da-mensagem`
+- Foco: `#a-plataforma-do-portfolio`, `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`, `#pago-por-quem-nao-e-materia-organica`, `#pilar-2-discussao-e-comunidade`, `#aprender-junto-e-se-sustentar`, `#tirar-a-forma-da-mensagem`
 
 ### 2025-04-30-a-vida-e-o-determinismo
 
-- sem nota na fila: `#nada-e-facil-facil-e-nao-viver`, `#sem-linguagem-nao-ha-mente-mas-ha-vida`, `#tudo-que-fazemos-e-sobre-a-vida`, `#so-posso-falar-do-que-experiencio`, `#a-energia-aumenta-na-conexao`, `#aceitar-as-regras-do-jogo`, `#nenhuma-especie-e-a-mais-elevada`, `#vida-e-energia-em-movimento`, `#nascer-crescer-reproduzir-morrer`, `#por-que-eu-falo`, `#perguntas-absurdas-respostas-absurdas`, `#padroes-tudo-surge-tudo-desaparece`, `#determinismo-e-paradoxo-em-camadas`, `#a-morte-e-o-determinismo-do-macro`, `#teorias-das-infinitas-vidas`, `#o-conatus-como-bussola`, `#o-que-bate-em-mim-bate-em-voces`, `#vivemos-o-que-temos-que-viver`, `#a-dor-da-magoa-diminui`, `#tudo-converge-para-a-evolucao`, `#nao-se-identificar-evoluir-e-dificil`, `#estamos-no-lugar-certo-na-hora-certa`
+- Foco: `#nada-e-facil-facil-e-nao-viver`, `#sem-linguagem-nao-ha-mente-mas-ha-vida`, `#tudo-que-fazemos-e-sobre-a-vida`, `#so-posso-falar-do-que-experiencio`, `#a-energia-aumenta-na-conexao`, `#aceitar-as-regras-do-jogo`, `#nenhuma-especie-e-a-mais-elevada`, `#vida-e-energia-em-movimento`, `#nascer-crescer-reproduzir-morrer`, `#por-que-eu-falo`, `#perguntas-absurdas-respostas-absurdas`, `#padroes-tudo-surge-tudo-desaparece`, `#determinismo-e-paradoxo-em-camadas`, `#a-morte-e-o-determinismo-do-macro`, `#teorias-das-infinitas-vidas`, `#o-conatus-como-bussola`, `#o-que-bate-em-mim-bate-em-voces`, `#vivemos-o-que-temos-que-viver`, `#a-dor-da-magoa-diminui`, `#tudo-converge-para-a-evolucao`, `#nao-se-identificar-evoluir-e-dificil`, `#estamos-no-lugar-certo-na-hora-certa`
 
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 
@@ -128,10 +128,6 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - Foco: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
 - Foco, com parte já encaixada: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
-
-### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
-
-- Foco, com parte já encaixada: `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`
 
 ### 2026-07-04-quatro-iniciativas
 
@@ -193,19 +189,20 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-30-precisar-de-menos
 
-- sem nota na fila: `#compromisso-com-pessoas-nao-com-coisas`, `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`
+- Foco: `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`
+- Foco, meta/next-steps.md: `#compromisso-com-pessoas-nao-com-coisas`
 
 ### 2026-09-29-a-realidade-como-ela-e
 
-- sem nota na fila: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`, `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`
+- Foco: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`, `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`
 
 ### 2026-09-29-e-assim-mudamos-o-mundo
 
-- sem nota na fila: `#o-titulo-pode-iludir-com-um-passo-a-passo`, `#o-paradoxo-de-querer-economizar-energia`, `#lidamos-mal-com-tempo-e-linguagem`, `#a-mudanca-interna-ja-muda-o-mundo`, `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, `#quem-dificulta-acoes-se-conformou-com-a-morte`, `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`, `#toda-acao-ajuda-ou-atrapalha`
+- Foco: `#o-titulo-pode-iludir-com-um-passo-a-passo`, `#o-paradoxo-de-querer-economizar-energia`, `#lidamos-mal-com-tempo-e-linguagem`, `#a-mudanca-interna-ja-muda-o-mundo`, `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, `#quem-dificulta-acoes-se-conformou-com-a-morte`, `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`, `#toda-acao-ajuda-ou-atrapalha`
 
 ### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 
-- sem nota na fila: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`, `#qualquer-um-pode-tocar-uma-obra`, `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#a-eficiencia-tem-varias-dimensoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#como-se-ganha-dinheiro-com-obra`, `#orcamento-bom-e-o-que-se-aproxima-da-realidade`, `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#estimular-a-reflexao-nao-dar-a-resposta-certa`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`, `#o-que-e-realmente-lei-e-realmente-necessario`, `#projeto-final-orcamento-com-checkpoints`, `#avaliar-pelas-habilidades-do-gestor`, `#automacao-e-uberizacao-na-construcao`
+- Foco: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`, `#qualquer-um-pode-tocar-uma-obra`, `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#a-eficiencia-tem-varias-dimensoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#como-se-ganha-dinheiro-com-obra`, `#orcamento-bom-e-o-que-se-aproxima-da-realidade`, `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#estimular-a-reflexao-nao-dar-a-resposta-certa`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`, `#o-que-e-realmente-lei-e-realmente-necessario`, `#projeto-final-orcamento-com-checkpoints`, `#avaliar-pelas-habilidades-do-gestor`, `#automacao-e-uberizacao-na-construcao`
 
 ### 2026-09-29-grupo-epso-whatsapp
 
@@ -213,19 +210,19 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-manifesto-eamom
 
-- sem nota na fila: `#queremos-mudanca-mas-nao-concordamos-no-que`, `#a-saude-e-uma-medida-que-conseguimos-concordar`, `#saude-como-modelo-de-representacao-da-vida`, `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`, `#nao-lidar-com-a-morte-nos-faz-divergir`, `#queremos-a-vida-viver-o-agora`, `#aprender-com-a-historia-e-os-outros-seres-vivos`, `#a-evolucao-e-inevitavel-ajudamos-ou-atrapalhamos`, `#o-sentido-da-vida-e-a-evolucao`
+- Foco: `#queremos-mudanca-mas-nao-concordamos-no-que`, `#a-saude-e-uma-medida-que-conseguimos-concordar`, `#saude-como-modelo-de-representacao-da-vida`, `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`, `#nao-lidar-com-a-morte-nos-faz-divergir`, `#queremos-a-vida-viver-o-agora`, `#aprender-com-a-historia-e-os-outros-seres-vivos`, `#a-evolucao-e-inevitavel-ajudamos-ou-atrapalhamos`, `#o-sentido-da-vida-e-a-evolucao`
 
 ### 2026-09-29-manifesto-homo-activus
 
-- sem nota na fila: `#sou-um-individuo-com-um-corpo-que-sente`, `#nos-comunicamos-e-estabelecemos-bases-em-comum`, `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#nao-eliminar-as-experiencias-ruins-classifica-las`, `#capacidade-implica-possibilidade-e-sustentabilidade`, `#agir-pelo-que-nao-queremos-nos-torna-passivos`, `#sobreviver-deixou-de-dar-sentido`, `#talvez-nao-precisemos-de-um-objetivo`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`, `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`, `#reinventar-a-organizacao-capitalismo-sustentavel`, `#o-homo-activus-convence-em-vez-de-guerrear`, `#sapiens-praesenti-e-civili-coexistem`
+- Foco: `#sou-um-individuo-com-um-corpo-que-sente`, `#nos-comunicamos-e-estabelecemos-bases-em-comum`, `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#nao-eliminar-as-experiencias-ruins-classifica-las`, `#capacidade-implica-possibilidade-e-sustentabilidade`, `#agir-pelo-que-nao-queremos-nos-torna-passivos`, `#sobreviver-deixou-de-dar-sentido`, `#talvez-nao-precisemos-de-um-objetivo`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`, `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`, `#reinventar-a-organizacao-capitalismo-sustentavel`, `#o-homo-activus-convence-em-vez-de-guerrear`, `#sapiens-praesenti-e-civili-coexistem`
 
 ### 2026-09-29-o-obvio-precisa-ser-dito
 
-- sem nota na fila: `#preciso-estabelecer-bases-para-investigar`, `#qual-a-regua-para-escolher-as-bases`, `#sou-humano-ou-assim-fui-ensinado`, `#valores-e-o-julgamento-entre-bem-e-mal`, `#o-subentendido-simplifica-mas-limita`, `#uma-frase-simples-abre-inumeras-questoes`, `#priorizar-a-pergunta-que-define-a-base`, `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#reduzir-a-diversidade-para-evitar-conflito`, `#comunicar-melhor-resolve-de-forma-sustentavel`, `#quem-escreve-e-quem-le-sao-humanos`, `#maquinas-que-leem-o-que-e-um-ser-vivo`
+- Foco: `#preciso-estabelecer-bases-para-investigar`, `#qual-a-regua-para-escolher-as-bases`, `#sou-humano-ou-assim-fui-ensinado`, `#valores-e-o-julgamento-entre-bem-e-mal`, `#o-subentendido-simplifica-mas-limita`, `#uma-frase-simples-abre-inumeras-questoes`, `#priorizar-a-pergunta-que-define-a-base`, `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#reduzir-a-diversidade-para-evitar-conflito`, `#comunicar-melhor-resolve-de-forma-sustentavel`, `#quem-escreve-e-quem-le-sao-humanos`, `#maquinas-que-leem-o-que-e-um-ser-vivo`
 
 ### 2026-09-29-organizacao
 
-- sem nota na fila: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`, `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
+- Foco: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`, `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
 
 ## Latentes
 

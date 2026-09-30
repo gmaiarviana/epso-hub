@@ -3,35 +3,6 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
-## 1. Passar a limpo
-
-Vídeos de 2025 do canal Era pra ser Óbvio, registrados só como bruto:
-
-- `fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md` — por que o canal
-  nasceu e volta; o método em quatro etapas; filosofia, política e espiritualidade.
-- `fontes/transcricoes/raw/2025-03-06-sobre-filosofia.raw.md` — ser filósofo; percepção
-  única, palavras próprias.
-- `fontes/transcricoes/raw/2025-03-06-sobre-o-metodo.raw.md` — as quatro etapas do método,
-  uma por vídeo.
-- `fontes/transcricoes/raw/2025-04-17-sobre-a-plataforma-epso.raw.md` — os dois pilares da
-  plataforma: ferramentas gratuitas para pessoas e discussão.
-- `fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md` — vida como energia
-  em movimento, o conatus, determinismo em camadas; a ordem dos áudios 1 e 2 é estimada.
-
-Textos escritos com ideias demais para contar por arquivo, em `fontes/documentos/` — camada
-limpa antes do encaixe ([documento escrito](meta/processo-transcricoes.md#documento-escrito)):
-
-- `2026-09-29-a-realidade-como-ela-e.raw.md` — verdade relativa, os limites do entendimento,
-  mente e corpo; vai aos itens 4 e 5 do Foco.
-- `2026-09-29-gerenciamento-de-obras-proposta-de-curso.raw.md` — curso de gestão de obras;
-  muito conteúdo técnico, candidato a dispensa por seção. As ideias (dimensões da eficiência,
-  vantagem financeira × econômica, o cimento, a uberização) vão aos itens 1, 2 e 3.
-- Da pasta Livro (item 8 do Foco): `2026-09-29-e-assim-mudamos-o-mundo.raw.md`,
-  `2026-09-29-manifesto-eamom.raw.md`, `2026-09-29-o-obvio-precisa-ser-dito.raw.md`,
-  `2026-09-29-organizacao.raw.md`, e `2026-09-29-manifesto-homo-activus.raw.md` com
-  `2026-09-29-explicado-homo-activus.raw.md` num limpo só — o explicado é o rascunho anterior
-  do manifesto, não a explicação palavra por palavra.
-
 ## 2. Foco
 
 **Todo o contexto encaixado antes de decidir objetivos, imagem e linha editorial.** Muito já foi
@@ -41,7 +12,7 @@ Alcançado quando a [cobertura](fontes/cobertura.md) não tiver pendência: toda
 dispensada ou latente (tem ideia, sem casa hoje). Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
 destino vira nota ao item dono. Os itens 1 a 4 são a onda 1; a segunda rodada deles (seções do
-grupo no WhatsApp) espera a sessão em curso fechar. Os itens 5 a 9 são a onda 2. O destino de
+grupo no WhatsApp) espera a sessão em curso fechar. Os itens 5 a 10 são a onda 2. O destino de
 cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas seções se fundem
 com o que o destino já tem. As seções de `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md`
 são respostas à sessão de decisão e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa
@@ -55,31 +26,24 @@ o agente o refaz no briefing da sessão de decisão.
      `filosofia/hipoteses/trabalho.md`; "pessoas não querem trabalho, querem valor"
      (`notas-comite-ia`) é a mesma âncora de "as pessoas não querem trabalhar" de lá.
    - **Valor** — transformar recursos em melhoria da vida das pessoas; o conatus; a parede no
-     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir. Os
+     lugar errado (`proposta-a-diretoria`, `notas-comite-ia`) → hipótese nova, a decidir, depois
+     de ler `filosofia/hipoteses/economia.md`, que já tem "valor pelo custo, não pelo que o
+     mercado paga" — pode ser a casa. Os
      times por componente que alienam do produto final (`relato-tpm-programa`) entram como
      faceta.
    - Transcrição 2026-06-26 (`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md`):
      `#contribuicao-e-divisao-do-trabalho` → checar fusão com `filosofia/hipoteses/trabalho.md`.
    - Segunda rodada, grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): trabalho — `#trabalho-empoderamento-ou-dependencia`, `#ambicao-nao-e-proposito-de-vida`, `#profissionalismo-e-pessoalidade`, `#o-trabalho-remoto-exige-confianca-e-clareza`, `#processos-seletivos-por-cartas`, `#nao-existe-vacuo-as-pessoas-ocupam-espacos`, `#indice-de-forca-de-trabalho-disponivel`, `#atividade-intencional-e-ver-o-futuro-e-concretiza-lo`; valor e
      economia — `#empreender-e-gerar-valor-com-organizacao-e-sabedorias`, `#inovacao-e-aplicacao-na-vida-das-pessoas`, `#transformar-o-capitalismo-e-ressignificar-objetivos-de-vida`, `#a-nova-economia-no-meio-do-paradoxo-pessoalidade-e-profissionalismo`, `#contra-a-especulacao-reforma-agraria-taxacao-e-renda`, `#nao-saber-gastar-a-energia-acumulada`, `#abundancia-e-escassez-em-equilibrio`.
-2. **Precisar de menos, economia e construção** — dono de `filosofia/hipoteses/ecocidades.md` e,
-   se for o destino, de `instituicao/nucleo/`.
-   - Transcrições 2026-06-26 (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
-     `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`,
-     `…-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`): boas práticas
-     factíveis e fáceis (consumo, alimentação, lazer) — `#boas-praticas-factiveis`; da escala
-     global destrutiva à regenerativa — `#de-global-destrutivo-a-global-regenerativo`; a
-     regeneração é por nós, "o planeta acredita na gente" — `#regeneracao-por-nos`;
-     construção sustentável de verdade e o novo capitalismo —
-     `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`.
-     Destinos: `filosofia/hipoteses/ecocidades.md`, núcleo ou iniciativas, a decidir.
-   - **É preciso uma aldeia para criar uma criança** — a comunidade como rede de cuidado no dia
-     a dia e de troca de aprendizados (`carta-rede-de-pais`) → destino a decidir; conversa com a
-     vida em comunidade de `filosofia/hipoteses/ecocidades.md` e com a
-     [saída de São Paulo](contexto/trajetoria.md#por-que-saí-de-são-paulo).
+   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`):
+     `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#automacao-e-uberizacao-na-construcao`.
+2. **Precisar de menos, economia e construção** — dono de `filosofia/hipoteses/ecocidades.md`,
+   `precisar-de-menos.md` e `economia.md`, e de `instituicao/nucleo/` até o item 5 abrir.
    - Segunda rodada, grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): precisar de menos e a
      civilização — `#a-verdadeira-riqueza-e-viver-com-o-que-se-consegue-manter`, `#a-complexidade-da-civilizacao-e-organizacao-insustentavel`, `#a-cidade-concentra-pessoas-e-microideias`, `#preservar-as-sabedorias`, `#topicos-soltos-2024-2026`; comunidade — `#pertencimento-precede-a-colaboracao`, `#comunidade-autossustentavel-e-modelo-escalavel`, `#filhos-impulsionam-quem-sabe-viver`, `#topicos-soltos-2023`. Pertencimento, colaboração e a plataforma de
      comunidades (item 3) formam um argumento só.
+   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
+     eficiência e impacto: `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#a-eficiencia-tem-varias-dimensoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`.
 3. **Chamados e a prática que o conteúdo mostra** — para onde vai quem se aproxima; o que se
    faz, para postar o que se vive. Dono de `instituicao/iniciativas/` e de [elaborar](elaborar.md).
    - Conversa 2026-09-27 (`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`): o servidor de
@@ -93,6 +57,20 @@ o agente o refaz no briefing da sessão de decisão.
    - Segunda rodada, grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): o movimento e quem se aproxima — `#conectar-quem-luta-para-que-saibam-que-nao-estao-sos`, `#simbolos-selos-e-partido-para-os-conectados`, `#inspirar-duas-pessoas-um-pouco-de-cada-vez`, `#ideias-sem-acao-nao-mudam-a-vida-das-pessoas`;
      práticas e ferramentas — `#apontar-empresas-destrutivas-e-criar-indices`, `#colaboracao-para-testar-hipoteses-do-dia-a-dia`, `#oficina-de-filosofia`, `#problema-solucao-implementacao-operacao`. Só perguntas, a levar ao [elaborar](elaborar.md) como
      provocação: `#o-que-e-instintivo-e-inconsciente-no-humano`, `#como-as-pessoas-mudam-pelo-que-voce-faz`, `#as-pessoas-escutam-menos-os-mais-velhos`.
+   - Vídeo 2025-04-17 (`fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md`): `#a-plataforma-do-portfolio`, `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`, `#pago-por-quem-nao-e-materia-organica`, `#pilar-2-discussao-e-comunidade`, `#aprender-junto-e-se-sustentar` → a plataforma e
+     `instituicao/iniciativas/ferramentas-livres/`; `#aberta-a-voluntarios-e-a-financiamento`
+     toca também `instituicao/financiamento/`.
+   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`) →
+     a construtora, na gaveta: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`, `#qualquer-um-pode-tocar-uma-obra`, `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#como-se-ganha-dinheiro-com-obra`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#o-que-e-realmente-lei-e-realmente-necessario`.
+   - O portal de economia colaborativa e o crédito de trabalho do sítio-restaurante são a prática
+     de [economia.md](filosofia/hipoteses/economia.md#troca-por-confiança): apontar para lá. A
+     construtora já pratica "planejar é compor custos".
+   - Provocações a levar ao [elaborar](elaborar.md), da conversa 2026-09-30
+     (`fontes/conversas/2026-09-30-precisar-de-menos.md`): compromisso com pessoas, sim; com
+     coisas, não (`#compromisso-com-pessoas-nao-com-coisas` — síntese do agente; o incorporador
+     quer pensar antes de virar regra); como se mede a troca — banco de tempo × moeda social. E
+     de `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#boas-praticas-factiveis`:
+     por que o lazer vem "principalmente" entre os hábitos.
 4. **Linguagem, precisão e âncora** — dono de `filosofia/hipoteses/linguagem.md`,
    `filosofia/hipoteses/precisao.md` e `filosofia/hipoteses/ancora.md`.
    - Conversa 2026-09-30 (`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md`):
@@ -106,6 +84,11 @@ o agente o refaz no briefing da sessão de decisão.
      encaixe direto, ou provocação no elaborar.
    - Segunda rodada, grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): linguagem — `#semelhanca-gera-seguranca-e-cooperacao`, `#acessorios-como-cartao-de-visita`, `#como-nos-expressamos-reflete-a-personalidade`, `#arte-e-entretenimento-os-dois-extremos`, `#o-martelo-de-maslow-misturar-assuntos-empobrece`, `#encontrar-denominadores-comuns`, `#explicar-em-niveis-superficial-medio-e-profundo`, `#tolos-sagazes-e-sabios`, `#a-rede-de-comunicacao-permite-cooperar-como-nunca`, `#razao-e-pensamento-em-linha-a-sociedade-e-rede`, `#so-vemos-a-profundidade-do-outro-na-medida-da-nossa`, `#a-palavra-tem-poder-porque-da-significado`, `#ciencia-arte-e-linguagem-cada-uma-no-seu-papel`, `#comunicacao-eficiente-vem-da-conexao-presente`, `#a-natureza-nao-precisa-de-filosofia`, `#a-linguagem-que-conecta-e-a-pessoal`, `#simplicidade-deve-ser-o-foco-das-filosofias`, `#falamos-ao-outro-o-que-queremos-reforcar`, `#toda-analogia-e-um-mito`, `#mapear-mundo-material-e-mundo-das-ideias`, `#quando-a-expressao-vira-arte`, `#comunicacao-e-transformar-sentimento-em-mensagem`, `#linguagem-contem-racionalizacao`, `#descolar-do-presente-e-voltar-simplificando`, `#a-mensagem-precisa-tem-o-minimo-de-ruido`, `#ideia-e-criacao-conceito-e-observacao`, `#a-falha-de-comunicacao-e-consequencia`, `#a-comunicacao-eficiente-depende-do-ambiente`, `#discussoes-de-concordar-ou-discordar-sao-ineficientes`, `#dois-eixos-material-ideal-e-simples-complexo`; precisão — `#invencao-cria-descoberta-tropeca`, `#o-que-e-ciencia-humildade-colaboracao-e-evolucao`, `#dicotomias-sao-etapa-do-aprendizado`, `#teorias-da-conspiracao-a-mentira-confortavel`, `#a-realidade-e-o-que-experienciamos`, `#todos-somos-ignorantes-em-algum-topico`, `#filosofia-precede-a-ciencia`, `#verdade-e-a-linha-de-raciocinio-que-faz-mais-sentido`, `#todas-as-visoes-honestas-estao-certas-em-parte`, `#heisenberg-posicao-ou-movimento`, `#tudo-parece-aleatorio-sem-a-contagem`, `#quem-ve-em-duas-dimensoes-nao-nota-profundidade`, `#interpretacoes-complementares-da-inteligencia-suprema`, `#orientado-a-dados-com-poucos-dados`, `#avaliar-governo-e-medir-pelos-proprios-valores`;
      âncora — `#para-convergir-precisamos-de-bases-semelhantes`.
+   - Vídeos de 2025: do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) — `#camadas-da-percepcao-da-realidade`, `#o-que-se-diz-sem-palavras`, `#perdas-entre-sentir-e-dizer`, `#a-aranha-e-os-limites-da-percepcao`, `#a-mesma-palavra-para-coisas-diferentes`, esta candidata a dispensa (recapitula a parte 1);
+     da plataforma (`fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md`) — `#tirar-a-forma-da-mensagem`; do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#sem-linguagem-nao-ha-mente-mas-ha-vida`, `#perguntas-absurdas-respostas-absurdas`.
+   - `fontes/documentos/2026-09-29-a-realidade-como-ela-e.md`: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`.
+   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
+     medição e precisão: `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#orcamento-bom-e-o-que-se-aproxima-da-realidade`.
 5. **Cosmovisão** — dono de `filosofia/cosmovisao/`, de `filosofia/hipoteses/vetor.md` e, depois
    do item 2, de `instituicao/nucleo/`.
    - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
@@ -143,6 +126,22 @@ o agente o refaz no briefing da sessão de decisão.
      descrição de evoluir com intenção (`#intencao-e-o-que-queremos-alcancar`, já encaixada em
      linguagem na definição de intenção) → também em
      [quem-sou-eu.md](filosofia/cosmovisao/quem-sou-eu.md#evoluir-com-intenção).
+   - Global destrutivo → global regenerativo
+     (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#de-global-destrutivo-a-global-regenerativo`),
+     esclarecida em `fontes/conversas/2026-09-30-precisar-de-menos.md`
+     (`#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`):
+     tornar-se global não tem moral; o destrutivo foi o como. Candidatos:
+     [a-tese.md](filosofia/cosmovisao/a-tese.md#o-que-decorre-do-centro) (a tecnologia da
+     informação como salto) ou [quem-sou-eu.md](filosofia/cosmovisao/quem-sou-eu.md#o-desequilíbrio-de-agora).
+   - Vídeos de 2025 → `quem-sou-eu.md`: da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#no-meio-do-paradoxo-da-expectativa`;
+     do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) — `#nao-somos-nossa-mente`, `#reflexao-e-ouvir-o-corpo`, `#materia-fala-com-materia`, `#expandir-e-voltar-como-as-ondas`, `#maya-a-grande-ilusao`; do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#nada-e-facil-facil-e-nao-viver`, `#por-que-eu-falo`, `#so-posso-falar-do-que-experiencio`, `#aceitar-as-regras-do-jogo`, `#padroes-tudo-surge-tudo-desaparece`, `#vivemos-o-que-temos-que-viver`, `#a-dor-da-magoa-diminui`, `#nao-se-identificar-evoluir-e-dificil`, `#estamos-no-lugar-certo-na-hora-certa`. Termos da voz a preservar: "sou fluxo ou
+     sou resistência"; "matéria fala com matéria, mente fala com mente, espírito fala com
+     espírito"; "vida é energia em movimento"; "menos é mais".
+   - Vídeos de 2025 → `a-tese.md` ou `vetor.md`: do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) — `#a-flecha-da-evolucao`, `#escolher-a-crenca-que-faz-mais-sentido` ("flecha de evolução"); do
+     determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#vida-e-energia-em-movimento`, `#nascer-crescer-reproduzir-morrer`, `#tudo-que-fazemos-e-sobre-a-vida`, `#nenhuma-especie-e-a-mais-elevada`, `#tudo-converge-para-a-evolucao`.
+   - Vídeos de 2025 → núcleo: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#nada-se-cria-tudo-se-transforma`, `#praticante-nao-mestre`; da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) —
+     `#aprender-com-os-erros-de-quem-veio-antes`; do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) — `#sou-o-somatorio-do-que-consumi`, `#fluxo-ou-resistencia`, `#a-energia-diz-se-e-o-caminho`; do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#a-energia-aumenta-na-conexao`, `#o-conatus-como-bussola`.
+   - `fontes/documentos/2026-09-29-a-realidade-como-ela-e.md` → `quem-sou-eu.md`: `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`.
    - Transcrição 2026-07-07 (`fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md`):
      `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao` →
      `filosofia/cosmovisao/a-tese.md`; `#a-camada-filosofica-e-a-fonte` → `quem-sou-eu.md` ou
@@ -173,6 +172,11 @@ o agente o refaz no briefing da sessão de decisão.
      espera os temas da linha editorial.
    - Segunda rodada, grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): como a mensagem chega — `#nao-convencer-fazer-as-pessoas-se-identificarem`, `#consumir-conteudo-e-entrar-na-mente-de-alguem`, `#a-opiniao-se-forma-pelo-pico-e-pelo-fim`, `#inspiracao-atravessa-a-logica-e-chega-na-emocao`, `#individual-coletivo-razao-emocao`, `#o-argumento-irresistivel`, `#chamar-atencao-e-se-diferenciar-da-harmonia`, `#tudo-e-storytelling`, `#a-conscientizacao-tem-que-ser-espontanea`, `#detalhar-o-custo-do-problema-impacta-mais`, `#quanto-mais-simples-a-arte-melhor`, `#o-que-faz-a-geracao-25-35-diferente`;
      formatos e pautas — `#o-que-e-x-por-que-x-nao-e-tudo`, `#intencao-objetivo-tema-e-proposta`, `#tres-atos-reunir-mudar-paradigma-agir`, `#a-ciencia-precisa-ser-propagada`; chamados — `#convite-simplificar-desacelerar-aceitar-colaborar`, `#o-chamado-e-criar-um-novo-sistema`, `#os-sonhos-e-que-unem`.
+   - Vídeos de 2025 → `linha-editorial.md`: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#o-canal-nasceu-do-excesso-de-informacao`, `#o-obvio-precisa-ser-dito`, `#todo-conteudo-e-um-convite`, `#ideias-se-aprofundam-conforme-o-envolvimento`, `#tres-temas-e-o-que-nao-sao`, `#espiritualidade-e-o-misterio`, `#politica-sao-os-acordos`, `#tudo-e-filosofia`, `#o-que-nos-faz-unir`, `#comecar-livre-para-nao-procrastinar`, `#expor-as-fragilidades-para-aprender`, `#retornar-e-se-expor`, esta candidata a dispensa
+     (repete `#todo-conteudo-e-um-convite`); da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#cada-filosofo-tem-uma-percepcao-unica`, `#nada-novo-palavras-proprias` (tom base); do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) —
+     `#sem-destino-comum-a-politica-anda-em-circulos` (temas).
+   - "O planeta acredita na gente" (`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`)
+     ficou fora do núcleo: é imagem, candidata à linha editorial.
    - Conversa 2026-09-26 (`fontes/conversas/2026-09-26-o-epso-e-eu.md`), a voz:
      `#somos-uma-coisa-so-por-enquanto`, `#a-comunicacao-nasce-ligada-ao-epso`.
 7. **Contexto e estudo** — dono de `contexto/` e `estudo/`.
@@ -210,6 +214,9 @@ o agente o refaz no briefing da sessão de decisão.
      lá. Conversa 2026-09-28 (`fontes/conversas/2026-09-28-trajetoria-e-direcao.md`):
      `#a-narrativa-de-carreira-adapta-nao-define` já é a regra da v8, acima: citar onde ela for
      morar.
+   - Vídeos de 2025 → `contexto/trajetoria.md`: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`; da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#filosofo-reflete-por-refletir`, `#refletir-ou-viver`, `#filosofo-nao-por-escolha`, `#aprendiz-mais-que-sabio`, `#filosofo-e-tambem-artista`.
+   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`):
+     `#avaliar-pelas-habilidades-do-gestor`, junto de "o que acredito de uma liderança".
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): traços e autoimagem → `contexto/trajetoria.md` —
      `#me-inspira-ajudar-as-pessoas-a-se-organizarem`, `#sou-o-equilibrio-entre-simplicidade-e-profundidade`, `#sou-uma-pessoa-de-visao`, `#sou-o-guardiao-do-equilibrio`, `#meus-maiores-estudos-vieram-do-silencio`; direção → `contexto/direcao.md` — `#musica-e-corpo-como-caminhos-de-energia`, `#meu-compromisso-e-passar-repertorio-e-caminhos-vividos`, `#sempre-em-constante-evolucao`; liderança e estudo — `#cultura-filosofia-e-processo-para-mudar-empresas`, `#toda-lideranca-tem-carater-espiritual`, `#topicos-soltos-2020`.
 8. **Livro — reavaliar** — o incorporador reavalia tudo o que se refere a livro antes de
@@ -217,16 +224,32 @@ o agente o refaz no briefing da sessão de decisão.
    (Organização; E assim mudamos o mundo; Moeda), e o de 2024, Manual/Manifesto/Conceitos. As
    ideias de dentro dos textos vão, depois, aos itens 4 e 5. "O planeta não precisa de nós"
    (`e-assim-mudamos-o-mundo`) tensiona "o planeta acredita na gente" (item 2).
-   - Documentos em `fontes/documentos/`: `2026-09-29-readme-do-livro.raw.md`,
-     `2026-09-29-glossario.raw.md` e os cinco da pasta Livro no Passar a limpo.
+   - Documentos em `fontes/documentos/`: `2026-09-29-readme-do-livro.raw.md` e
+     `2026-09-29-glossario.raw.md`; já com camada limpa, arquivo inteiro:
+     `2026-09-29-manifesto-homo-activus.md` (com o rascunho `explicado-homo-activus`),
+     `2026-09-29-manifesto-eamom.md`, `2026-09-29-e-assim-mudamos-o-mundo.md`,
+     `2026-09-29-o-obvio-precisa-ser-dito.md` e `2026-09-29-organizacao.md`. A sugestão de
+     destino por seção, para depois da reavaliação, está na descrição do PR #80.
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): `#introducao-do-livro-quem-sou-eu`, `#prefacio-do-livro`, `#estrutura-do-livro-manual-manifesto-conceitos`, `#e-assim-mudaremos-o-mundo`.
 9. **Sem casa** — educação, sociedade e arte ainda não têm lugar no acervo; a casa se decide no
    encaixe (hipótese nova, iniciativa ou arquivo existente).
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): educação e escola — `#educacao-infantil-e-determinante`, `#melhorar-a-educacao-sem-esperar-o-governo`, `#educacao-deixa-as-pessoas-conscientes`, `#educacao-nao-e-so-escola-inteligencias-multiplas`, `#arte-pode-ser-ensinada`, `#ninguem-se-liberta-sozinho`, `#aprender-a-escolher-taxonomia-de-bloom`, `#escola-e-lugar-de-amor`, `#escola-solta-ideias-como-arvore-solta-sementes`, `#motivos-para-escola`, `#educacao-como-empoderamento-foco-no-basico`, `#educacao-e-informacao-mais-experiencia`, `#plano-da-universidade-indigena`; sociedade, política e
      Estado — `#racismo-direto-e-indireto`, `#racismo-e-quando-se-normaliza`, `#hobbes-x-rousseau-quem-corrompe-a-sociedade`, `#a-propriedade-nasceu-do-uso-viver-e-possuir`, `#as-instituicoes-nasceram-da-uniao-das-familias`, `#justica-x-liberdade-por-que-divergimos`, `#progresso-economico-exige-democracia`, `#a-historia-nao-tolera-o-vazio`, `#ciencia-tambem-e-politica`, `#a-politica-e-como-a-sociedade-se-organiza`, `#estado-e-familia`, `#estado-paga-as-familias-e-estima-custos-de-manutencao`, `#escalas-de-familia-a-nacao-e-de-individuo-a-pais`, `#abstracao-fala-com-abstracao-estado-com-familia`, `#incentivos-para-nao-depender-de-sistemas-ruins`.
+   - Determinismo em camadas, do vídeo 2025-04-30 (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`): `#determinismo-e-paradoxo-em-camadas`, `#a-morte-e-o-determinismo-do-macro`, `#teorias-das-infinitas-vidas`, `#o-que-bate-em-mim-bate-em-voces` → hipótese nova ou
+     provocação no elaborar.
+   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
+     educação: `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#estimular-a-reflexao-nao-dar-a-resposta-certa`, `#projeto-final-orcamento-com-checkpoints`.
    - Arte: `fontes/documentos/2026-09-29-aula-de-artes.raw.md` (notas de aula: confirmar se as
      ideias são próprias ou do professor) e `fontes/documentos/2026-09-29-apresentacao.raw.md`
      (roteiro de show; candidato a dispensa).
+10. **Método — casa a decidir** — o método em quatro etapas (estabelecer bases → aceitar a
+   realidade → imaginar → começar pequeno) não tem arquivo. Candidatos: `instituicao/nucleo/`
+   ("como agimos") ou `filosofia/`. Decidir ao abrir: ler as seções e ver se é um argumento só,
+   ou se já está espalhado pela postura do núcleo ("Estabelecer bases", "Aceitar a realidade").
+   - De 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`): `#metodo-1-estabelecer-bases`, `#metodo-2-aceitar-a-realidade`, `#metodo-3-criar-imaginar`, `#metodo-4-comecar-pequeno`.
+   - Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`): `#simples-sem-ser-simplorio`, `#base-para-unir-colaborar-e-agir`, `#aplicavel-do-micro-ao-macro`, `#tudo-e-sobre-intencao`, `#estabelecer-bases-e-falar-a-mesma-lingua`, `#a-intencao-por-tras-da-fala`, `#falar-para-nao-ficar-em-silencio`, `#quem-escuta-pergunta-em-vez-de-assumir`, `#na-relacao-chegar-a-um-acordo`, `#bases-tambem-nos-problemas-complexos`, `#aceitar-exige-dar-nome-ao-que-se-sente`, `#elaborar-e-depois-reduzir`, `#aceitar-a-historia-como-ela-e`, `#entender-o-outro-sem-apontar-o-dedo`, `#a-realidade-independe-de-como-eu-me-sinto`, `#meditacao-e-buscar-o-menos`, `#metodo-aberto-a-mudanca`, `#a-escolha-dos-fatos-ja-e-um-vies`, `#aceitar-que-nao-sabemos`, `#imaginar-com-intencao-sem-utilitarismo`, `#o-futuro-ideal-da-direcao`, `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#sonhar-grande-tambem-no-pratico`, `#serie-longa-pede-rotina`, `#comece-agora-sem-desculpas`, `#dar-um-passo-em-direcao-ao-sonho`, `#o-que-nos-define-e-o-que-fazemos`, `#desejo-do-que-sou-e-desejo-idealizado`, `#nao-reprimir-nem-se-apegar-ao-sonho`. Ao encaixar `#imaginar-com-intencao-sem-utilitarismo`, explicitar que
+     "positivismo" ali é a crítica a que tudo deva ter um propósito bom, não o de Comte; "intenção
+     é a palavra de ouro". `#na-relacao-chegar-a-um-acordo` cita a CNV de passagem.
 
 ## 5. Backlog
 

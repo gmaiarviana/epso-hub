@@ -19,7 +19,9 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   nova, com a data do dia; a antiga só muda se tiver informação errada, retirando a parte
   errada e referenciando a conversa nova. Até o processo nascer, as seções de conversa seguem a
   diretriz de seção das transcrições: uma seção, uma ideia, nome que diz a ideia
-  ([processo](processo-transcricoes.md#passar-a-limpo-a-camada-limpa)).
+  ([processo](processo-transcricoes.md#passar-a-limpo-a-camada-limpa)). Insumo sem regra ainda: síntese
+  do agente endossada pelo incorporador entrou marcada como "síntese do agente"
+  (`fontes/conversas/2026-09-30-precisar-de-menos.md#compromisso-com-pessoas-nao-com-coisas`).
 - **Dispensar seção de conversa** — conversas em `fontes/conversas/` não têm bloco de
   metadados, então os campos `dispensadas` e `latentes`
   ([cobertura](processo-transcricoes.md#cobertura)) não se aplicam, e a seção decidida para

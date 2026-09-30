@@ -13,6 +13,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2025-03-06-sobre-filosofia](../fontes/transcricoes/2025-03-06-sobre-filosofia.md) | não iniciado | 0/9 |
 | [2025-03-06-sobre-o-metodo](../fontes/transcricoes/2025-03-06-sobre-o-metodo.md) | não iniciado | 0/46 |
 | [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md) | não iniciado | 0/8 |
+| [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md) | não iniciado | 0/22 |
 | [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 1/13 |
 | [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
 | [2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida](../fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md) | parcial | 7/10 |
@@ -80,7 +81,6 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
-| [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/raw/2025-04-30-a-vida-e-o-determinismo.raw.md) | na fila | — |
 
 ## Pendências
 
@@ -101,6 +101,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2025-04-17-sobre-a-plataforma-epso
 
 - sem nota na fila: `#a-plataforma-do-portfolio`, `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`, `#pago-por-quem-nao-e-materia-organica`, `#pilar-2-discussao-e-comunidade`, `#aprender-junto-e-se-sustentar`, `#tirar-a-forma-da-mensagem`
+
+### 2025-04-30-a-vida-e-o-determinismo
+
+- sem nota na fila: `#nada-e-facil-facil-e-nao-viver`, `#sem-linguagem-nao-ha-mente-mas-ha-vida`, `#tudo-que-fazemos-e-sobre-a-vida`, `#so-posso-falar-do-que-experiencio`, `#a-energia-aumenta-na-conexao`, `#aceitar-as-regras-do-jogo`, `#nenhuma-especie-e-a-mais-elevada`, `#vida-e-energia-em-movimento`, `#nascer-crescer-reproduzir-morrer`, `#por-que-eu-falo`, `#perguntas-absurdas-respostas-absurdas`, `#padroes-tudo-surge-tudo-desaparece`, `#determinismo-e-paradoxo-em-camadas`, `#a-morte-e-o-determinismo-do-macro`, `#teorias-das-infinitas-vidas`, `#o-conatus-como-bussola`, `#o-que-bate-em-mim-bate-em-voces`, `#vivemos-o-que-temos-que-viver`, `#a-dor-da-magoa-diminui`, `#tudo-converge-para-a-evolucao`, `#nao-se-identificar-evoluir-e-dificil`, `#estamos-no-lugar-certo-na-hora-certa`
 
 ### 2026-06-26-a-tese-mudanca-de-paradigma
 

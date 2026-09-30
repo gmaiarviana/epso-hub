@@ -11,11 +11,10 @@ para separar a vida do trabalho: falar sobre vida é falar sobre trabalho.
 Se não houvesse a necessidade econômica, o labor continuaria — para deixar as coisas bonitas
 e para a conexão espiritual.
 
-O que as pessoas não querem é o trabalho como troca. Aprendemos que trabalhar é ir ao lugar
-onde se faz uma atividade esperada por outros, em troca de um salário. Mas as pessoas não
-querem trabalho, querem valor: suprir suas necessidades — físicas, pessoais, sociais.
-Trabalhamos por condições básicas e por satisfação pessoal, e o ponto mais alto dessa
-satisfação é criar.
+Aprendemos que trabalhar é ir ao lugar onde se faz uma atividade esperada por outros, em
+troca de um salário. Essa troca é uma forma do trabalho, não o seu fim. O que se busca nele é
+[valor](valor.md): suprir necessidades — físicas, pessoais, sociais. Trabalhamos por condições
+básicas e por satisfação pessoal, e o ponto mais alto dessa satisfação é criar.
 
 Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pelo trecho):
 
@@ -28,7 +27,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pe
 - **[comitê]** `fontes/documentos/2026-09-27-notas-comite-ia.raw.md`
 
 Fonte da abertura: [30/9]`#labor-e-movimento`; [ensaio] (Nós não somos nosso trabalho; Fazer
-é trabalhar); [comitê] (Pressupostos: "pessoas não querem trabalho, querem valor").
+é trabalhar); [comitê] (Pressupostos).
 
 ## Corpo, mente e alma
 
@@ -58,10 +57,11 @@ Fonte: [propósito] (crenças: "a criação é o ápice do prazer").
 ## Não somos nosso trabalho
 
 Muita gente se identifica com o trabalho: a profissão vira sobrenome, e a cidade onde se mora
-e o convívio social seguem o emprego. Mas não somos nossa profissão, nosso curso, nosso
-título — não somos nossos cargos. Somos pessoas com capacidade de aprender, com habilidades,
-interesses, sonhos e uma história única. Assumimos papéis por um tempo, e devemos nos sentir
-livres e leves para trocar de papel quando ele deixa de fazer sentido.
+e o convívio social seguem o emprego. Essa identificação é real — ajuda a definir quem se é.
+Mas não somos nossa profissão, nosso curso, nosso título — não somos nossos cargos. Somos
+pessoas com capacidade de aprender, com habilidades, interesses, sonhos e uma história única.
+Assumimos papéis por um tempo, e devemos nos sentir livres e leves para trocar de papel
+quando ele deixa de fazer sentido.
 
 Trocar de papel não joga fora o que se aprendeu. A ferramenta fica para trás; a prática vai
 junto — como se relacionar com a equipe, lidar com pressão, apresentar um pensamento
@@ -70,8 +70,8 @@ humildade, multidisciplinaridade, adaptação.
 
 O lado da organização está em [Além dos cargos](#além-dos-cargos).
 
-Fonte: [ensaio] (O trabalho no século 21 está mudando); [proposta] ("Não somos nossos
-cargos").
+Fonte: [ensaio] (Nós não somos nosso trabalho; O trabalho no século 21 está mudando);
+[proposta] ("Não somos nossos cargos"); [30/9]`#identidade-no-trabalho`.
 
 ## Trabalhar com o que acreditamos
 

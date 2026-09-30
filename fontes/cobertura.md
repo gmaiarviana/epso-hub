@@ -47,7 +47,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
-| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | completo | 1/1 |
+| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | completo | 2/2 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |

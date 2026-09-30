@@ -12,3 +12,9 @@ trabalho para deixar as coisas bonitas e para a conexão espiritual.
 
 Entendo labor como trabalho, ação, tarefa — inclusive doméstica, pessoal. Posso fazer obras a
 partir do meu labor.
+
+## Identidade no trabalho
+
+Dizer "pessoas não querem trabalho" é muito perigoso. Muita gente está totalmente apegada ao
+paradigma em que se identifica com o trabalho, com o que faz, com seu cargo — e isso ajuda a
+definir sua identidade.

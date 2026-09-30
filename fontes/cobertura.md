@@ -61,7 +61,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.raw.md) | pendente | — |
 | [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | pendente | — |
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | pendente | — |
-| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.raw.md) | pendente | — |
+| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md) | não iniciado | 0/11 |
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
 | [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | dispensado | — |
@@ -189,7 +189,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-e-assim-mudamos-o-mundo
 
-- pendente, sem nota na fila
+- sem nota na fila: `#o-titulo-pode-iludir-com-um-passo-a-passo`, `#o-paradoxo-de-querer-economizar-energia`, `#lidamos-mal-com-tempo-e-linguagem`, `#a-mudanca-interna-ja-muda-o-mundo`, `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, `#quem-dificulta-acoes-se-conformou-com-a-morte`, `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`, `#toda-acao-ajuda-ou-atrapalha`
 
 ### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 

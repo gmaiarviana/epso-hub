@@ -72,6 +72,13 @@ A divisão tem dois lados. Todo trabalho cumpre uma função que permite a harmo
 sociedade, e dependemos uns dos outros: precisamos contribuir uns com os outros. Mas quanto
 mais o trabalho se divide, mais longe quem trabalha fica do [valor](valor.md) que produz.
 
+E a satisfação acompanha essa distância: quanto mais perto o resultado está do aumento do
+conatus de alguém, mais satisfação o trabalho traz. Vender para os vizinhos impacta mais do
+que vender para alguém do outro lado do mundo; um software que entrega um componente
+específico de um mercado específico interessa bem menos do que algo cujo resultado se vê
+direto. A distância existe em qualquer indústria: há profissões em camadas longe do usuário
+final — e há a linha de frente, como o comercial, que fica perto e é exaustiva.
+
 A mesma distância aparece dentro das organizações. Times divididos por componente deixam as
 pessoas alienadas do produto final, fazendo só uma etapa da esteira de produção: represam
 conhecimento em silos, olham só o aspecto técnico e descobrem os defeitos tarde. Times
@@ -86,7 +93,7 @@ acreditamos](#trabalhar-com-o-que-acreditamos).
 A ideia é parente da alienação de Marx: o trabalhador separado do produto do seu trabalho.
 
 Fonte: [ensaio] (Nós não somos nosso trabalho); [26/6]`#contribuicao-e-divisao-do-trabalho`;
-[tpm] (Sugestão de solução para esse tipo de problema); [cartas] (Motivo 1).
+[30/9]`#perto-do-conatus`; [tpm] (Sugestão de solução para esse tipo de problema); [cartas] (Motivo 1).
 
 ## Não somos nosso trabalho
 
@@ -109,8 +116,9 @@ Fonte: [ensaio] (Nós não somos nosso trabalho; O trabalho no século 21 está 
 
 ## Trabalhar com o que acreditamos
 
-Para contribuir com a sociedade, não precisamos fazer o que gostamos. Na verdade, não
-gostamos de fazer as coisas: gostamos das coisas feitas, ou do que vamos fazer com elas. Todo
+Para contribuir com a sociedade, não precisamos fazer o que gostamos. Muitas vezes não é do
+fazer que gostamos, mas das coisas feitas, ou do que vamos fazer com elas. Há coisas
+prazerosas de fazer — mas o prazer se perde quando o processo, o contexto, perde sentido. Todo
 trabalho tem partes boas e ruins — o suco de laranja pede espremer, cuidar de uma criança
 pede arrumar a bagunça. A resiliência vem de acreditar no valor do resultado. Feito de
 maneira presente, aprende-se a gostar da jornada, e a dificuldade vira aliada, não inimiga.
@@ -119,7 +127,7 @@ Daí o guia: trabalhar com o que acreditamos, não com o que gostamos — unir-s
 projetos que buscam objetivos em que se acredita. É também o jeito mais eficiente de engajar
 pessoas numa jornada: quando elas acreditam no que fazem.
 
-Fonte: [ensaio] (Faça o que acredita); [cartas] (Motivo 2; "completamente orientado a
+Fonte: [ensaio] (Faça o que acredita); [30/9]`#o-prazer-de-fazer`; [cartas] (Motivo 2; "completamente orientado a
 propósito").
 
 ## Ressignificar o trabalho
@@ -129,7 +137,22 @@ Perguntar por que gastamos nossa energia leva a transformar o capitalismo e a no
 o consumismo. É possível uma instituição que equilibre bem-estar e labor — o EPSO se propõe a
 mostrar isso.
 
-Fonte: [23/9]`#saude-mental-e-trabalho`; [propósito] (propósito).
+Ressignificar não é acabar com a divisão do trabalho: dividir tarefas por capacidade,
+preferência, aptidão e característica continua fazendo sentido. É estar aberto a mudar o que
+não faz sentido: automatizar de verdade o que é chato, repetitivo e cansativo; mudar fluxos
+que dependem de premissas sem sentido; amenizar expectativas para que o labor não seja
+exaustivo — diminuir a carga horária, alternar atividades de concentração com atividades de
+movimento.
+
+A jornada de 40 horas semanais surgiu de fatores de um momento da história e pode ser
+repensada. Trabalhar menos horas pede clareza de cima para baixo — do objetivo, do que fazer
+para alcançá-lo, de como se dividir — e corta reuniões, relatórios e interações
+desnecessárias. Sobra tempo para as pessoas viverem e cuidarem de si, e o momento de trabalho
+vira presença no que realmente importa.
+
+Fonte: [23/9]`#saude-mental-e-trabalho`; [propósito] (propósito);
+[30/9]`#ressignificar-sem-acabar-com-a-divisão`; [proposta] (notas de apoio: "40 horas
+semanais é coisa do passado").
 
 ## Além dos cargos
 

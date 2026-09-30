@@ -23,3 +23,28 @@ definir sua identidade.
 
 O texto do acervo não está disponibilizado aos leitores. Na publicação, vou ter o cuidado de
 saber a que público me refiro. E tem o oposto: tem gente que já vai entender de cara.
+
+## Perto do conatus
+
+Quanto mais perto o resultado final estiver do aumento de conatus de alguém, mais satisfação
+traz o trabalho. Se eu vendo produtos para alguém do outro lado do mundo, isso impacta menos
+do que se eu vendo para meus vizinhos. Dá para elaborar bem mais isso. Se eu faço um software
+que entrega um componente específico de um mercado específico, me interessa bem menos que
+algo em que eu vejo o resultado direto.
+
+Claro que acabamos criando profissões que ficam em camadas distantes do usuário final,
+independente da indústria. E outras que ficam numa linha de frente que é exaustiva (por
+exemplo, o comercial).
+
+## Ressignificar sem acabar com a divisão
+
+A ideia não é acabar com a divisão de tarefa por capacidade, preferência, aptidão,
+característica. Mas estar abertos a ressignificar algumas coisas: realmente automatizar o que
+é chato, repetitivo e cansativo; mudar fluxos que dependem de premissas que não fazem sentido;
+amenizar expectativas para que o labor não seja exaustivo. Por exemplo, diminuir carga
+horária, alternar atividades de concentração com atividades de movimento.
+
+## O prazer de fazer
+
+Tem coisa que é prazerosa de ser feita. Mas perde o prazer quando o processo, o contexto,
+perde sentido.

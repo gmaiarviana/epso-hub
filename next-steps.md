@@ -120,10 +120,9 @@ refaz no briefing da sessão.
   - Parágrafo do EPSO em `## 3. Career Vision` ("dois braços": ferramentas e catálogo; ideias
     entre culturas) → `instituicao/iniciativas/`. Diverge do README (construtora, ferramentas,
     plataforma): vira provocação em [elaborar](elaborar.md).
-  - Pesquisa em IA eficiente (`## 3`) → checar fusão com
-    `filosofia/hipoteses/inteligencia-potencializada.md` e `estudo/academia/foco.md`.
-  - Princípios (1)–(4) do Pillar 5 (método de trabalho com IA) → destino a decidir: `meta/` ou
-    hipótese.
+  - Os três campos da pesquisa em IA de `## 3` (processamento de linguagem natural,
+    representação de conhecimento, eficiência computacional) → checar fusão com os candidatos
+    de recorte em `estudo/academia/foco.md`.
   - O fio da comunicação humana de `## 1` — as camadas entre a intenção de quem fala e a
     interpretação de quem ouve; reduzir o ruído em todo papel → checar fusão com
     `filosofia/hipoteses/linguagem.md`.

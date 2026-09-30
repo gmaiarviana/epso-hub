@@ -83,6 +83,12 @@ fala dele e ele o reconhece. A cada rodada, o agente diz o que ainda falta para 
 e provoca primeiro nas pontas soltas; quando só resta refinamento, fecha — as sobras vão,
 nomeadas, para o [elaborar](../../elaborar.md).
 
+Caixa escrita para outro público — currículo, candidatura, carta — traz o pensamento adaptado
+ao leitor dela. Encaixa-se o conteúdo, não a moldura: a organização e o enquadramento do
+documento não se herdam, e a ideia se confirma com o incorporador antes do rascunho ("qual é a
+sua crítica aqui?"). Rascunho mostrado para validar diz onde entra: a frase do arquivo que o
+antecede e o texto novo logo depois, em linguagem simples.
+
 Casos: seis problemas epistemológicos soltos viraram um argumento só em
 [precisão](../../filosofia/hipoteses/precisao.md); cinco conceitos, outro em
 [quem sou eu](../../filosofia/cosmovisao/quem-sou-eu.md).

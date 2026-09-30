@@ -5,8 +5,9 @@
 A linguagem é a tecnologia que tornou coletiva a nossa relação com a camada das ideias. Cada
 salto — a fala, a escrita, a matemática, a tecnologia da informação — ampliou a colaboração.
 Entre as mudanças de comportamento que a [tese](../cosmovisao/a-tese.md) pede está a maneira
-como nos comunicamos: nada drástico, só mais intenção e mais precisão. O limite de agora é falarmos em camadas diferentes sem perceber: uma limitação de transição,
-que se supera com uma linguagem mais precisa sem perder a cor.
+como nos comunicamos: nada drástico, só mais intenção e mais precisão. O limite de agora é
+falarmos em camadas diferentes sem perceber: uma limitação de transição, que se supera com uma
+linguagem mais precisa sem perder a cor.
 
 Fontes, referenciadas abaixo por rótulo e `#secao`:
 
@@ -72,9 +73,9 @@ informação. A oralidade chegou ao limite do que as mentes guardavam; a escrita
 armazenar fora da mente, em maior quantidade. Os números e o cálculo são a mesma coisa para o
 processamento: métodos que se aplicam como uma pipeline, com resultado previsível, para não
 gastar a energia de fazer tudo de cabeça. A energia poupada fica disponível para aprofundar:
-mais contas, mais complexidade, mais abstração, mais assuntos. Escrita e matemática são marcos na evolução da
-linguagem — são tecnologias da informação, criadas por nós, para nós, e tão naturais quanto
-ela.
+mais contas, mais complexidade, mais abstração, mais assuntos. Escrita e matemática são marcos
+na evolução da linguagem — são tecnologias da informação, criadas por nós, para nós, e tão
+naturais quanto ela.
 
 Isso dá margem para elaborar o próximo passo: ferramentas com previsibilidade de resultado
 que processem o volume de informação que demandaria energia demais do nosso cérebro — ou do
@@ -85,7 +86,8 @@ nosso cérebro coletivo. A proposta desse próximo passo vive em
 salto antes, a tecnologia da informação é o de agora.
 
 Fonte: [24/9]`#tecnologias-da-informacao`; [26/6 tese]`#da-oralidade-a-escrita`,
-`#a-escrita-expandiu-o-processamento`.
+`#a-escrita-expandiu-o-processamento`; `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-som-que-vira-sentido`,
+`#a-energia-poupada-é-para-aprofundar`.
 
 ## O limite de agora: falamos em camadas
 
@@ -195,7 +197,8 @@ Fonte: [24/9]`#precisao-e-brincadeira`, `#espectro-de-camadas`; [22/9]`#linguage
 Muita gente já estuda como falar com mais intenção: a programação neurolinguística (PNL), a
 neurociência.
 
-Fonte: [26/6 tese]`#linguagem-com-intencao`.
+Fonte: [26/6 tese]`#linguagem-com-intencao`, `#crencas-e-palavras`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#comunicar-com-mais-intenção`.
 
 ## Comunicar na camada que o outro alcança
 
@@ -228,6 +231,12 @@ nossas crenças, distinguir as mensagens diferentes que a palavra "paz" carrega 
 quem diz "paz" com quem diz "felicidade" querendo dizer o mesmo; e fazer o caminho contrário,
 transmitir a mesma mensagem com as palavras que cada um prefere.
 
+Entre culturas vale o mesmo, sem afirmar que todas sejam iguais. Muitas falam de valores
+semelhantes — às vezes em camadas tão sutis e abstratas que é difícil afirmar à primeira
+vista —, sinal de que há coisas que fazem bem aos humanos e aos outros seres vivos
+independente de cultura ou religião. Cada cultura relata o que percebe com as palavras e os
+contextos que tem; olhar além dessas formas é procurar a mensagem que compartilham.
+
 Juntar o que se assemelha é metade do trabalho; a outra metade é achar a crença exata que
 separa. O que aproxima a direita e a esquerda, e qual crença as separa — e, dentro de cada
 uma, o que separa as correntes; o que é comum ao cristianismo, o que separa o protestantismo,
@@ -244,7 +253,10 @@ quer alcançar, colaborar ou distorcer, separa a leitura parcial da distorção
 
 Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-linguagem`,
 `#abstrair-as-palavras`; [23/9]`#portal-linguagem`;
-`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`.
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#intenção-é-o-que-queremos-alcançar`,
+`#culturas-podem-falar-e-podem-não-falar`.
 
 ## Em aberto
 

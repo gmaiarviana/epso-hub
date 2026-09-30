@@ -118,6 +118,8 @@ Na filosofia da ciência, os nomes vizinhos são contexto da descoberta (de onde
 livre) e contexto da justificação (como ela se testa, com regras). O próprio Popper chamava as
 hipóteses de conjecturas, e preferia as ousadas.
 
+Fonte: `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#toda-hipótese-nasce-do-absurdo`.
+
 ## Comunicar na camada que o outro alcança
 
 Uma leitura que alguns não captam não fica, por isso, imune à crítica: a responsabilidade
@@ -148,4 +150,5 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#a-intencao-s
   hipótese a testar.
 
 Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#novos-paradigmas-sobre-a-ciencia`,
-`fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#fisica-quantica-um-paradigma-a-elaborar`.
+`fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#fisica-quantica-um-paradigma-a-elaborar`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-consenso-não-encerra-a-pesquisa`.

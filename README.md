@@ -21,7 +21,7 @@ Blocos por assunto. Fronteiras entre eles em [meta/estrutura/criterios.md](meta/
   - **trabalho/** — o que o emprego precisa ser para servir o EPSO: a régua do novo paradigma e os radares de casos e de emprego.
 - **instituicao/** — a organização do EPSO: o núcleo, as iniciativas e o que as serve.
   - **nucleo/** — o que é o EPSO: propósito, valores, crenças e postura. A régua que decide o que pertence ao EPSO. Herdada pelas iniciativas.
-  - **iniciativas/** — o lado do fazer. Abriga a construtora, as ferramentas livres, a plataforma e a visão dos produtos de software.
+  - **iniciativas/** — o lado do fazer: ideias em andamento, na mesa ou na gaveta.
   - **comunicacao/** — como o pensamento e a prática chegam ao público: método de construção da linha editorial e de produção de conteúdo a partir do acervo. Por enquanto, a voz do incorporador e a do EPSO são uma só.
   - **financiamento/** — alavanca de financiamento a serviço do EPSO: editais de inovação, startups, aceleradoras, bolsas de execução de projeto. Serve as iniciativas; meio, não fim.
 - **fontes/** — o material-fonte que se encaixa no acervo e nas frentes, na voz do incorporador; preservado e datado.

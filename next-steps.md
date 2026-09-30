@@ -82,34 +82,9 @@ o agente o refaz no briefing da sessão de decisão.
      comunidades (item 3) formam um argumento só.
 3. **Chamados e a prática que o conteúdo mostra** — para onde vai quem se aproxima; o que se
    faz, para postar o que se vive. Dono de `instituicao/iniciativas/` e de [elaborar](elaborar.md).
-   - Transcrição 2026-09-23 (`fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`)
-     → portais da plataforma em `instituicao/iniciativas/`: `#portal-open-source`,
-     `#portal-economia-colaborativa`, `#sitio-restaurante-credito-de-trabalho`; de
-     `#plataforma-e-autoridade`, falta só a dúvida sobre o modelo: talvez superar a linguagem
-     não passe por IA, e seja preciso repensá-lo.
-   - Transcrição 2026-07-04 — quatro iniciativas
-     (`fontes/transcricoes/2026-07-04-quatro-iniciativas.md`), arquivo inteiro →
-     `instituicao/iniciativas/`; continua a fala da estratégia profissional. A fusão de
-     `#iniciativa-4-abstracao` com a linguagem é do item 4.
-   - Junto, duas seções da estratégia profissional
-     (`fontes/transcricoes/2026-07-04-estrategia-profissional.md`): `#viabilidade-construtora`
-     (bagagem, demanda, remuneração; não investir agora) e, de `#sequenciamento-iniciativas`,
-     a ordem (a iniciativa quatro espera; a três, talvez unida à dois, pode despontar
-     primeiro).
-   - Transcrição 2026-09-22 (`fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`):
-     `#empreender-em-construcao-sustentavel` → junto com a construtora.
-   - Conversa 2026-07-07 (`fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md`):
-     a iniciativa quatro como camada filosófica, o paper-agent como um produto dentro dela
-     (`#iniciativa-quatro-e-o-paper-agent`).
-   - Conversa 2026-09-27 (`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`):
-     `#o-epso-vai-alem-de-ti`, `#a-construtora-tem-missao-propria`,
-     `#sem-forma-juridica-para-a-construtora`, `#um-recorte-de-quem-sou`, `#tipos-de-sessao`. O
-     servidor de inferência (`#servidor-de-inferencia`) fica só na fonte: especulação e desejo,
-     não decisão.
-   - Parágrafo do EPSO em `## 3. Career Vision` da narrativa v8 ("dois braços": ferramentas e
-     catálogo; ideias entre culturas) → `instituicao/iniciativas/`, pela regra do encaixe da v8
-     (item 7). Diverge do README (construtora, ferramentas, plataforma): vira provocação em
-     [elaborar](elaborar.md).
+   - Conversa 2026-09-27 (`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`): o servidor de
+     inferência (`#servidor-de-inferencia`) fica só na fonte, por decisão — espera a forma de
+     dispensar seção de conversa ([meta/next-steps.md](meta/next-steps.md)).
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), segunda
      rodada: `#plataforma-colaborativa-de-teorias-de-mundo`,
      `#plataforma-de-comunidades-pelos-quatro-pilares`, `#encontros-de-debate-de-conciliacao`,
@@ -215,6 +190,8 @@ o agente o refaz no briefing da sessão de decisão.
      itens 3 e 4 e, abaixo, os três campos da pesquisa em IA de `## 3` (processamento de
      linguagem natural, representação de conhecimento, eficiência computacional) → checar
      fusão com os candidatos de recorte em `estudo/academia/foco.md`.
+   - Transcrição 2026-07-04 (`fontes/transcricoes/2026-07-04-quatro-iniciativas.md`):
+     `#objetivo-de-carreira` → `contexto/direcao.md`.
    - "Reduzir o ruído em todo papel", do fio da comunicação de `## 1` da narrativa v8 → prática
      profissional, em `contexto/` (a hipótese já está em linguagem).
    - **O que acredito de uma liderança** — ambiente seguro para feedback, transparência,

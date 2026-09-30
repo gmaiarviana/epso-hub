@@ -20,6 +20,16 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   errada e referenciando a conversa nova. Até o processo nascer, as seções de conversa seguem a
   diretriz de seção das transcrições: uma seção, uma ideia, nome que diz a ideia
   ([processo](processo-transcricoes.md#passar-a-limpo-a-camada-limpa)).
+- **Dispensar seção de conversa** — conversas em `fontes/conversas/` não têm bloco de
+  metadados, então o campo `dispensadas` ([cobertura](processo-transcricoes.md#cobertura)) não
+  se aplica, e a seção decidida para ficar só na fonte segue pendente. Casos:
+  `2026-09-27-a-construtora-e-o-epso.md#servidor-de-inferencia` e as seções já aplicadas no
+  acervo que o Foco manda "citar no destino". Decidir a forma e ajustar `cobertura.py`.
+- **Mapa do documento institucional × tipos de sessão** — o
+  [mapa](estrutura/mapa-documento-institucional.md) sobe o processo de sessão para o nível EPSO;
+  `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#tipos-de-sessao` diz que os tipos de
+  sessão eram o modo de trabalhar da construtora (hoje na entrada dela, em
+  `instituicao/iniciativas/`). Conferir se o mapa pede ajuste.
 - **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
   documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
   mãe.

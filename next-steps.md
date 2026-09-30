@@ -37,8 +37,8 @@ limpa antes do encaixe ([documento escrito](meta/processo-transcricoes.md#docume
 **Todo o contexto encaixado antes de decidir objetivos, imagem e linha editorial.** Muito já foi
 escrito; a decisão (item Objetivos e imagem de
 [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)) espera o acervo no lugar.
-Alcançado quando a [cobertura](fontes/cobertura.md) não tiver pendência: toda seção encaixada
-ou dispensada. Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
+Alcançado quando a [cobertura](fontes/cobertura.md) não tiver pendência: toda seção encaixada,
+dispensada ou latente (tem ideia, sem casa hoje). Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
 destino vira nota ao item dono. Os itens 1 a 4 são a onda 1; a segunda rodada deles (seções do
 grupo no WhatsApp) espera a sessão em curso fechar. Os itens 5 a 9 são a onda 2. O destino de

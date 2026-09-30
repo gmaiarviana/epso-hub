@@ -226,3 +226,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-09-29-organizacao
 
 - sem nota na fila: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`, `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
+
+## Latentes
+
+Ideias sem casa hoje, por decisão do incorporador. Não contam como pendência; revisitar quando nascer uma casa ou o contexto mudar.

@@ -73,7 +73,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | pendente | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | pendente | — |
 | [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md) | não iniciado | 0/12 |
-| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.raw.md) | pendente | — |
+| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | pendente | — |
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | pendente | — |
 | [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/raw/2025-03-05-sobre-o-era-pra-ser-obvio.raw.md) | na fila | — |
@@ -226,7 +226,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-organizacao
 
-- pendente, sem nota na fila
+- sem nota na fila: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`, `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
 
 ### 2026-09-29-personalidades
 

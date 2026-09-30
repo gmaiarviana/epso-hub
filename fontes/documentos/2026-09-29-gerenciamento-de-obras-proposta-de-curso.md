@@ -23,6 +23,10 @@ dispensadas:
   contratar-ou-terceirizar: perguntas de conteúdo de aula
   logistica-da-obra: lista técnica
   prazo-e-caminho-critico: perguntas técnicas de aula
+  orgaos-publicos-e-embargo: perguntas de aula; o embargo já está em o-cliente-quer-o-problema-resolvido
+  fluxo-de-caixa-e-credito: perguntas técnicas
+  tecnologias-bim-iot-e-gemeos-digitais: lista de tópicos
+  topicos-soltos-juridico-contas-e-demissao: só perguntas soltas
 ---
 
 # Gerenciamento de obras — proposta de curso
@@ -218,3 +222,68 @@ Dá pra aprofundar no papel da logística. Momento de deslocamento (peso x dist�
 ## prazo-e-caminho-critico
 
 Melhor garantir o estoque ou comprar de fábrica? Qual o risco de um atraso nessa fase em particular? Existem atrasos mais arriscados e menos arriscados? O cliente pode colocar atraso como cláusula no contrato? Quanto de dinheiro o Walmart perde para cada dia de atraso em sua loja? Como fazer um planejamento adequado? O que é caminho crítico na construção civil (te mandei um livro muito bom sobre isso)? Vale a pena usar Gantt? Como medir tempo?
+
+<!-- lote 3 -->
+
+## residuo-impacto-ambiental-e-etica
+
+Para onde vai o resíduo da obra? Por que tenho que me preocupar com isso?
+
+Cimento, impacto ambiental, energia.
+
+Certificação ambiental.
+
+Responsabilidade e ética.
+
+## orgaos-publicos-e-embargo
+
+Órgãos públicos. Como lidar com eles? Quais documentos eu devo ter em obra? Qual o prazo para regularizar o início? Quais os processos envolvidos desde a compra do terreno, aprovação do projeto e entrega ao cliente?
+
+Tipo, mesmo que não seja papel do gestor resolver todos esses pontos, se houver negligência, a obra pode ser embargada e todo o planejamento do gestor foi por água abaixo.
+
+## o-que-e-realmente-lei-e-realmente-necessario
+
+É melhor usar material de qualidade A ou qualidade B? Aqui é meio subjetivo porque envolve requisitos técnicos e de negócios. Mas é uma discussão interessante sobre o que é realmente lei, o que é realmente necessário, como garantir que não estamos sendo enganados, como sugerir alterações no projeto que causem economia.
+
+## fluxo-de-caixa-e-credito
+
+Meu fluxo de caixa vai ser suficiente? Vale a pena pegar empréstimo no banco? Qual taxa de juros vale a pena? Quais modalidades de crédito existentes? E meu cliente, ele está financiando também? Significa que um aumento de juros deixa ele com maior risco de ser inadimplente? Como me preparar pra isso?
+
+## projeto-final-orcamento-com-checkpoints
+
+Acho que uma sugestão de projeto final seria: um cliente quer fazer uma obra Y e te pediu um orçamento. Entregue o seu orçamento e prazo demonstrando de onde veio cada decisão. Aí tu pode dar os requisitos, tu pode dar alguns valores, tu pode deixar algumas informações pra ver se eles se ligam (como um pezinho aparecendo por debaixo da cortina). Claro que faria sentido essa avaliação ser incremental. De repente marcar uns 5 checkpoints e para cada um deles tu ia avaliando o progresso e dando feedbacks.
+
+## avaliar-pelas-habilidades-do-gestor
+
+Eu acho importante o cara estabelecer quais são os critérios de avaliação. O perfeito seria conectar com as habilidades que são importantes ser desenvolvidas por um gestor de obra. Por ex:
+
+- Comunicação e clareza - colocar o nível adequado de detalhe para cada etapa, explicando bem. Não adianta falar tecniquês com o cliente ou falar linguagem de peão diante de um consultor. Inciso, conciso e preciso.
+- Atenção, organização, diligência - valorizar quem não deixa passar uma merda do tamanho do Everest.
+- Proatividade - valorizar o cara que antecipou problemas, fez perguntas. (De repente nos checkpoints deixar claro que tu não vai dar todas as informações de bandeja, mesmo que internamente tu saiba o limite em que cada informação tenha que ser dada para que ele tenha tempo para trabalhar.)
+- Resposta aos feedbacks - valorizar o cara que entendeu onde estava errando e conseguiu expandir esse aprendizado para situações diferentes. É ruim quando tu fala pro cara limpar o prato mas ele não limpa o copo porque tu não falou.
+
+Tipo, essas avaliações subjetivas são difíceis e demanda uma quantidade maior de insumo… por isso acho que planejar para fazer ela de maneira espaçada permite ir vendo a evolução. Pensando aqui, esses checkpoints poderiam ser até por email. "Nos dias xyz responderei os emails de checkpoint e irei avaliar o avanço de vocês."
+
+## automacao-e-uberizacao-na-construcao
+
+Acho que uma discussão que ainda não é forte no Brasil mas pode ser explorado no contexto dos EUA é a substituição do trabalho humano pela máquina na construção civil… construção modular, impressão 3D. Minha intenção seria formar opinião, provocar discussão. Talvez isso puxe para uma uberização do trabalho, precarização das condições. Imagino que é tema muito difícil porque a cultura americana é meio fudida em relação a isso ao mesmo tempo que colhe frutos. Sei que envolve política e não sei quão redneck é essa galera, tendo tu como brasileiro. Enfim, é um tópico que eu acho que é importante ser levantado mas sei da dificuldade.
+
+## tecnologias-bim-iot-e-gemeos-digitais
+
+BIM - como o software interpreta informação e esses dados podem ser traduzidos em eficiência.
+
+Internet das coisas - qual a aplicação na obra?
+
+Digital twins
+
+Realidade virtual
+
+## topicos-soltos-juridico-contas-e-demissao
+
+Como se blindar de processos jurídicos?
+
+Como prestar conta do que fez, como fez?
+
+Como justificar a solicitação de recursos?
+
+Como demitir funcionários?

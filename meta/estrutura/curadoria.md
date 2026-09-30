@@ -86,7 +86,9 @@ nomeadas, para o [elaborar](../../elaborar.md).
 Caixa escrita para outro público — currículo, candidatura, carta — traz o pensamento adaptado
 ao leitor dela. Encaixa-se o conteúdo, não a moldura: a organização e o enquadramento do
 documento não se herdam, e a ideia se confirma com o incorporador antes do rascunho ("qual é a
-sua crítica aqui?"). Rascunho mostrado para validar diz onde entra: a frase do arquivo que o
+sua crítica aqui?"). Não se tira da caixa mais do que ela diz: um ditado ou uma imagem não é
+tese, e a ligação que o agente enxerga além do texto é dele — dita como tal, nunca atribuída à
+fonte. Rascunho mostrado para validar diz onde entra: a frase do arquivo que o
 antecede e o texto novo logo depois, em linguagem simples.
 
 Casos: seis problemas epistemológicos soltos viraram um argumento só em

@@ -30,6 +30,8 @@ eletrodomésticos e equipamentos que se trocam ao longo de anos são o ciclo lon
 planejamento maior, sem repetir o modelo de hoje — muito estoque, muita prontidão, muita
 logística e energia gastas para antecipar a venda e estimular o consumo.
 
+Antes do território, isso começa por dentro: [precisar de menos](precisar-de-menos.md).
+
 Fonte: [22/9]`#raios-de-producao-e-nucleos`; [26/6]`#economia-local-e-ciclos-de-consumo`.
 
 ## A informação viaja, a matéria fica perto
@@ -75,7 +77,7 @@ Liderar a transição para as ecocidades pede estudar:
   descentralizar com participação coletiva efetiva.
 - **Economia** — biorregional, sustentável, de baixa pegada de carbono, com livre acesso à
   informação; sem o paradigma consumista, que projeta consumo, faz estoque e está sempre
-  gerando vontade de consumir mais.
+  gerando vontade de consumir mais. Onde a reflexão chegou: [economia](economia.md).
 
 Fonte: [22/9]`#transicao-para-ecocidades`.
 

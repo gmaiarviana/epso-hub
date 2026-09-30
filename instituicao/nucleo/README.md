@@ -16,6 +16,8 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
   (aba Identidade), validado em `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`
 - **[narrativa]** `fontes/documentos/2026-09-26-career-narrative-v8.raw.md`
 - **[22/9]** `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`
+- **[conversa]** `fontes/conversas/2026-09-30-precisar-de-menos.md`
+- **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
 
 ## Propósito
 
@@ -85,13 +87,46 @@ de vida. Exemplo, num espectro cada vez mais ineficiente: limpar a casa o dia to
 o dia todo para pagar quem limpe; explorar alguém para que passe o tempo dele limpando a sua
 casa.
 
-Cada iniciativa traduz a régua em critérios próprios. Na construção, ela é o regenerativo:
-critérios técnicos de materiais e sistemas.
+**Nível:** Decidido.
 
-**Nível:** Decidido. A tradução em critérios fora da construção: Em aberto.
+Sustentável é o que se sustenta: o que faz sentido manter. Os parâmetros são muitos — custo,
+durabilidade, manutenção, energia gasta, o quanto é preciso manter, impacto, sujeira, tempo,
+qualidade, conforto, satisfação —, todos se avaliam, e o somatório diz se faz sentido. Trabalho
+não é ruim; ruim é o compromisso de longo prazo com coisas, que vira peso e leva a satisfação.
+Uma piscina individual aumenta a ordem de grandeza e talvez peça alguém pago para limpá-la; a
+comunitária talvez caiba numa rotina. Manutenção todo dia talvez não faça sentido; uma vez por
+ano, talvez faça muito. O que se monta, se curte e se desmonta é o ideal.
+
+Dois limites reprovam sozinhos, sem somatório:
+
+- **O resíduo que atravessa gerações.** O impacto deve ser condizente com o nosso tamanho e o
+  nosso tempo de vida.
+- **O irreplicável** — o que gasta tanta energia que seria impossível todos assumirem a mesma
+  postura (ver *Replicável, não bolha*, em [Postura](#postura)).
+
+A conta tem limite. Conta-se o próprio impacto — quanta energia e quanta água se gasta por
+dia, que solução impacta menos — e quantificar o ambiente, o trabalho de biólogos e
+ambientalistas, importa. Mas sem ciência de foguete para intervir no que não se controla nem
+se entende: o desenho é nosso, a vida é da natureza. Numa agrofloresta, o humano controla o
+projeto; o que vinga, inclusive as espontâneas, a natureza decide. Não existe impacto zero —
+andar já mexe em seres microscópicos —; a busca é o impacto positivo.
+
+**Nível:** Estimado (alta). O teste do irreplicável levado ao rigor — oito bilhões de piscinas
+individuais? —: Estimado (média).
+
+Cada iniciativa traduz a régua em critérios próprios. Na construção, ela é o regenerativo:
+critérios técnicos de materiais e sistemas. Saber se uma construção é sustentável de verdade
+pede estudar a cadeia produtiva e a cadeia de necessidades — os comportamentos e as crenças que
+geram a demanda pelos equipamentos de um empreendimento.
+
+**Nível:** Decidido.
 
 Fonte: [validação]`#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
-[núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`.
+[núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`;
+[conversa]`#os-parâmetros-da-sustentabilidade`, `#impacto-do-nosso-tamanho`,
+`#trabalho-não-é-ruim-o-peso-é-o-compromisso-com-coisas`,
+`#o-desenho-é-nosso-a-vida-é-da-natureza`, `#contar-o-nosso-impacto-sem-ciência-de-foguete`;
+[26/6]`#construcao-sustentavel-e-cadeia-produtiva`.
 
 ## Crenças
 
@@ -140,11 +175,15 @@ O conteúdo tem a concordância do incorporador; a formulação ainda não é de
 - **A evolução busca o caminho de maior eficiência.** A tecnologia vem para otimizar os
   trabalhos repetitivos; tecnologia são ferramentas que melhoram a vida das pessoas
   ([potencializar, não substituir](../../filosofia/hipoteses/inteligencia-potencializada.md#potencializar-não-substituir)).
+- **Fazemos o que precisa ser feito.** Os outros seres contam com a nossa contribuição, e nos
+  ajudam. Regenerar é manter as condições de fazer a nossa parte: se nos destruirmos, não
+  poderemos fazê-la.
 
 **Nível:** Estimado (média).
 
 Fonte: [núcleo]`#as-crenças-do-epso`; [propósito] (Crenças); [quem somos] (Quem somos, No que
-acreditamos).
+acreditamos); [conversa]`#fazer-o-que-precisa-ser-feito`, `#nos-salvar-salva-quem-convive-conosco`;
+`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`.
 
 ## Postura
 

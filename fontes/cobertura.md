@@ -43,6 +43,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
+| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -90,7 +91,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - Encaixar: `#parte-do-pratico`, `#camadas-de-reconhecimento`, `#mudar-paradigmas-para-colaborar`, `#a-cola-imaterial`, `#o-novo-processamento`, `#ressignificar-quem-somos`
 - Encaixar, com parte já encaixada: `#crencas-e-palavras`, `#da-oralidade-a-escrita`, `#linguagem-com-intencao`, `#a-escrita-expandiu-o-processamento`
-- Foco: `#de-global-destrutivo-a-global-regenerativo`, `#boas-praticas-factiveis`
+- Foco: `#de-global-destrutivo-a-global-regenerativo`
+- Foco, com parte já encaixada: `#boas-praticas-factiveis`
 
 ### 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu
 
@@ -104,11 +106,12 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade
 
 - Encaixar: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`, `#quem-somos-nos-e-a-tese`
-- Foco: `#contribuicao-e-divisao-do-trabalho`, `#regeneracao-por-nos`
+- Foco: `#contribuicao-e-divisao-do-trabalho`
+- Foco, com parte já encaixada: `#regeneracao-por-nos`
 
 ### 2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel
 
-- Foco: `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`
+- Foco, com parte já encaixada: `#construcao-sustentavel-e-cadeia-produtiva`, `#novo-capitalismo-e-transformacao`
 
 ### 2026-07-04-estrategia-profissional
 
@@ -174,6 +177,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-09-30-linguagem-intencao-e-hipotese
 
 - sem nota na fila: `#abracar-outras-ciencias`, `#a-ideia-tem-uma-mensagem`
+
+### 2026-09-30-precisar-de-menos
+
+- sem nota na fila: `#compromisso-com-pessoas-nao-com-coisas`, `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`
 
 ### 2026-09-29-a-realidade-como-ela-e
 

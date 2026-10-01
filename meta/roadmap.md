@@ -26,7 +26,7 @@ Nesta ordem:
    a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
    Ao fechar um item, o que ficou de fora de uma fonte continua pendente na cobertura, e a nota
    que valha guardar volta ao Encaixar (ver [Fontes na fila](#fontes-na-fila)); o que fica só
-   na fonte, sem ser pendência, é dispensado nos metadados dela.
+   na fonte, sem ser pendência, é dispensado ou declarado latente nos metadados dela.
 3. **Trabalhos em aberto** — refatoração e migração em curso. Mudança estrutural grande
    (mover pastas, renomear blocos) entra aqui antes de começar, quebrada em etapas por esforço,
    uma por PR, as de baixo custo primeiro.
@@ -46,8 +46,8 @@ Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador r
 ## Fontes na fila
 
 O que falta encaixar está em [fontes/cobertura.md](../fontes/cobertura.md), gerado por
-[cobertura.py](cobertura.py): toda seção de toda fonte aparece pendente até ser encaixada ou
-dispensada, então nenhuma se perde por falta de registro na fila
+[cobertura.py](cobertura.py): toda seção de toda fonte aparece pendente até ser encaixada,
+dispensada ou declarada latente, então nenhuma se perde por falta de registro na fila
 ([processo](processo-transcricoes.md#cobertura)).
 
 A fila guarda o que a cobertura não sabe: a prioridade (Foco) e as notas (Encaixar). Uma fonte
@@ -58,6 +58,11 @@ obrigatória.
 Item de fila fala de seção pela âncora (`#secao`) — nunca por intervalo ("de `#a` a `#b`"),
 "o resto" ou "conferir o que falta"; quando vão todas, diz "arquivo inteiro". Documento bruto,
 sem seções, entra pelas ideias, nomeadas uma a uma.
+
+Fonte de origem mista — a fala do incorporador junto de texto de terceiros, como a crítica
+de uma IA — tem a voz marcada no item: a ideia que não é do incorporador leva
+`(voz do guia)` ou o nome de quem fala. O encaixe dela vira provocação no
+[elaborar](../elaborar.md), não texto na voz do incorporador.
 
 ## Como se atualiza
 

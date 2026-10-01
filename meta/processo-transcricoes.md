@@ -39,7 +39,7 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
   - **Escolha de palavra que muda o sentido** — resolver por uma escada, do mais barato ao mais caro. Nunca levar ao incorporador uma pergunta crua ("o que você quis dizer?"): ele decide com o contexto na mão, não de cabeça.
     1. **Contexto imediato** — as frases antes e depois costumam decidir. Um garble logo após ele listar "corpo e mente" quase certo é "corpo"; "papai não é resistir" depois de "nosso papel é fluir" é "o papel".
     2. **Corpus** — termos recorrentes e termos-assinatura em outras transcrições (ver [aprendizados-transcricao.md](aprendizados-transcricao.md)).
-    3. **Incorporador** — o que sobrar vai a ele **já com a proposta e o contexto que a justifica**, para confirmar.
+    3. **Incorporador** — o que sobrar vai a ele **já com a proposta e o contexto que a justifica**, para confirmar. Pergunta ao incorporador não entra na tabela do lote: vai num bloco à parte, depois das tabelas, numerada, e cada uma com o trecho ampliado (as frases antes e depois), as leituras possíveis em linguagem simples, o que cada leitura muda na ideia e a recomendação. A validação por silêncio vale só para as tabelas: um "ok" genérico não responde a pergunta do bloco, que o agente retoma até ter resposta.
     4. **Reouvir** — para os poucos termos que nem o contexto nem o incorporador resolvem de cabeça. Cada um vai com a **localização**: áudio, posição estimada (% das palavras do áudio e minuto aproximado, pela duração do áudio quando conhecida — ver ritmo de fala em [aprendizados-transcricao.md](aprendizados-transcricao.md)) e a palavra exata do bruto, que o incorporador busca na transcrição do celular para navegar até o trecho. A lista vai em ordem cronológica, com a **prioridade** marcada: os trechos em que a escuta muda uma ideia (uma tese, a ligação entre dois argumentos) vêm destacados; os de detalhe de fala, que a proposta ou o `[...]` já resolvem, ficam como opcionais. Viável para poucos termos por sessão; dezenas de buscas tornam o degrau inviável — por isso os degraus anteriores precisam resolver a maior parte.
     5. **`[inaudível]`** — só o que não se resolve em nenhum dos anteriores. Nunca chute.
 - Antes de propor, consultar [aprendizados-transcricao.md](aprendizados-transcricao.md) — padrões recorrentes de erro e termos-assinatura a preservar, que aceleram a validação. Registrar ali o que a sessão ensinar.
@@ -50,10 +50,11 @@ Cópia de trabalho derivada do bruto **sob validação do incorporador**, onde a
 Um documento bruto de `fontes/documentos/` também ganha camada limpa quando reúne ideias demais para contar por arquivo: o primeiro encaixe o daria como citado e esconderia o resto na [cobertura](#cobertura). Valem as regras acima, com estas diferenças:
 
 - O limpo fica ao lado do bruto, com o mesmo nome sem o `.raw` e metadados `tipo: documento-limpo` e `fonte-bruta`, sem `fonte-audio`.
-- Não há escada de escuta: as correções são de digitação, acentuação, abreviação de chat (por extenso, mantido o registro falado, como "pra") e grafia de nome próprio, validadas em lote como as de transcrição.
+- Não há escada de escuta: as correções são de digitação, acentuação, abreviação de chat (por extenso, mantido o registro falado, como "pra") e grafia de nome próprio. A correção mecânica — acento e maiúscula num original escrito sem eles, abreviação por extenso, sigla, nome próprio — se aplica direto, como a correção óbvia de fala, e o agente resolve pelo contexto a que muda a palavra ("esta/está", "pais/país"). Vai à tabela do lote só o que troca ou acrescenta palavra, ou o que o contexto não resolve.
 - O que o bruto repete — rascunho reescrito — fica no limpo só na última versão; trecho de uma versão anterior que a última perdeu fica também. Linha de sistema e marca de formatação (separadores de post) saem.
 - Documento datado por trecho (notas, chat) leva a data de origem em itálico logo abaixo do título da seção. Mensagens de uma mesma ideia se juntam numa seção, cada trecho com sua data; mensagem que só nomeia um tema, autor ou referência, sem afirmar nada, vai para uma seção de tópicos soltos do período.
 - Documento grande passa a limpo em lotes, cada um validado antes do próximo.
+- Trecho sem ideia afirmada — lista técnica, índice, logística — pode ter a dispensa proposta já ao passar a limpo, lote a lote; o incorporador decide. Ideia que parece repetida ou sem casa não se decide aqui: fica para o encaixe, que olha o acervo.
 
 ## Entrada no roadmap
 
@@ -82,7 +83,7 @@ Passos do encaixe:
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
-- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada ou continua pendente na [cobertura](#cobertura), com nota no tier Encaixar do [next-steps da raiz](../next-steps.md) quando houver destino ou ressalva a guardar. Só então o item de encaixe sai da fila.
+- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada, ficou latente ou continua pendente na [cobertura](#cobertura), com nota no tier Encaixar do [next-steps da raiz](../next-steps.md) quando houver destino ou ressalva a guardar. Só então o item de encaixe sai da fila.
 - Encaixe parcial de uma seção: a mesma mudança que encaixa uma ideia registra na fila as que ficaram, nomeadas. A cobertura não enxerga ideia dentro da seção — este é o único momento em que a sobra aparece.
 - Conferir ideia a ideia, não só seção a seção: uma seção citada pode ter perdido ideias na síntese. Antes de declarar o encaixe pronto, reler cada seção e procurar cada ideia no destino; o que se perdeu volta ao texto, vira provocação ou ganha destino na fila. A conferência vai para o incorporador como tabela de cobertura (seção → onde ficou).
 
@@ -105,16 +106,19 @@ Em aberto:
 [fontes/cobertura.md](../fontes/cobertura.md), gerado por `python meta/cobertura.py`, mostra, por fonte — transcrições, conversas e documentos —, o estado geral e as seções ainda não concluídas. Os estados:
 
 - **encaixada** — citada no acervo (ou em `meta/`, ou no [elaborar](../elaborar.md)); uma seção pode servir a mais de um arquivo. Não aparece nas pendências; onde mora se acha buscando a âncora;
-- **pendente** — ainda não encaixada nem dispensada. Aparece com o tier quando a fila a cita (Foco, Encaixar); a seção encaixada em parte, com o resto numa nota da fila, também aparece assim;
-- **dispensada** — lida e sem destino, por decisão.
+- **pendente** — ainda não encaixada, dispensada nem latente. Aparece com o tier quando a fila a cita (Foco, Encaixar); a seção encaixada em parte, com o resto numa nota da fila, também aparece assim;
+- **dispensada** — sem ideia, ou a ideia já mora no acervo. Definitiva: não se revisita;
+- **latente** — tem ideia, mas não tem casa hoje. Sai das pendências e vai à lista de latentes, no fim da cobertura, para ser revisitada quando nascer uma casa ou o contexto mudar. Não é depósito para zerar a cobertura: só se decide no encaixe, com o acervo à vista.
 
-A dispensa mora nos metadados da própria fonte, com o motivo, sem tocar no conteúdo:
+As duas moram nos metadados da própria fonte, com o motivo, sem tocar no conteúdo:
 
 ```yaml
 dispensadas:
   primeira-tentativa: abertura da fala, sem ideia
+latentes:
+  justica-x-liberdade: pergunta sobre sociedade; sem hipótese de sociedade hoje
 ```
 
-Documento bruto, contado por arquivo, usa `dispensada: motivo`. Só o incorporador dispensa.
+Documento bruto, contado por arquivo, usa `dispensada: motivo` ou `latente: motivo`. Só o incorporador dispensa ou declara latente.
 
 Para elaborar um tema, o agente lê as fontes à procura do que fala dele e consulta a cobertura para saber o que já está no acervo e o que ainda está só na fonte — esse segundo grupo fortalece o encaixe.

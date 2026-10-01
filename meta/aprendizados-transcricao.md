@@ -49,6 +49,17 @@ Com duas ferramentas (ver [processo-transcricoes.md](processo-transcricoes.md#re
 - "falando nesse momento **do Marcelo Lá**" / "**não vou se alurar**" → "**no meu celular**".
 - "Então, **citar** a civilização" / "se **está** a civilização" → "se **tal** civilização" — o "tal X" genérico que ele usa para exemplos ("tal partido político", "tal família"). Um "citar" antes de um substantivo genérico pode ser esse "tal".
 
+## Legenda automática do YouTube
+
+Padrões diferentes dos do áudio de celular (vídeos de 2025 do Era pra ser Óbvio):
+
+- Marcadores de tempo exatos por linha: o degrau "reouvir" dispensa a estimativa por contagem de palavras.
+- A negação some e inverte a frase: "eu tô dizendo que as pessoas não têm responsabilidade — elas têm" → "**não** tô dizendo"; "também não acho que ele não tá andando" → "também acho".
+- Locução colada: "precisa **ir pronto**" → "precisa, **e pronto**"; "**Sem ter** uma vontade" → "**Se tem** uma vontade"; "**comércio** pequeno" → "**começar** pequeno"; "**recruta ento**" → "recrutamento".
+- Troca ele/ela sem antecedente: "você experimenta, **ele** fala" → "**ela**" (a vida).
+- Nomes próprios: "viver Cananda" → Vivekananda; "oxo"/"hoje" → Osho; "niet" → Nietzsche; "V Danta"/"Maia" → vedanta/maya; "lavosier" → Lavoisier.
+- Marcas `[Música]` saem; às vezes cobrem o fim de uma frase, que vira `[...]`.
+
 ## Localizar um termo no áudio
 
 Para o degrau "reouvir" da escada de correções, estima-se a posição do termo pela contagem de palavras: % das palavras do áudio até o termo, convertido em minuto pela duração. O ritmo de fala do incorporador medido fica entre **80 e 120 palavras por minuto** (2023-09-02: 8.244 palavras em 67:32 ≈ 122/min, fala corrida e fluindo; 2026-09-24: áudio 2 com 1.323 palavras em 16:35 ≈ 80/min; áudio 5 com 3.018 palavras em 30:26 ≈ 99/min; 2026-07-04: 855 palavras em 9:10 ≈ 93/min; 2026-07-07: 2.774 palavras em 29:02 ≈ 96/min). Sem a duração, estimar por esse ritmo. A estimativa é aproximada; a busca pela palavra exata do bruto na transcrição do celular leva ao ponto certo. Aferição em 2026-09-24: "comentidade" estimada em 3:40, encontrada em 3:40; "lasonatos" estimada em ~5:00, encontrada em 5:16.

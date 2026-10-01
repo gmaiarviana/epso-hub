@@ -7,6 +7,7 @@ genero: rascunho de livro (manifesto)
 corpus: escrita do incorporador
 ia: sem IA (estimado pelo agente)
 escrito-em: até 2022-11-27 (última modificação no Google Drive, pasta Arquivo > Livro)
+dispensada: fragmento de duas frases, inacabado; a ideia já está em filosofia/hipoteses/linguagem.md
 anonimizado: Nada anonimizado.
 nota: >-
   Parte do corpus de textos escritos pelo incorporador, colado no chat em

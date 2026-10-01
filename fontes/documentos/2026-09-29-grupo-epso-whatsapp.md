@@ -12,6 +12,9 @@ nota: >-
   acentuação, abreviações de chat por extenso, grafia de nomes próprios.
   Rascunhos de post reescritos ficam só na última versão; saem as linhas de
   sistema do grupo e os pontos que separavam parágrafos nos posts.
+dispensadas:
+  como-melhorar-em-um-idioma: dica de estudo de idioma, fora do acervo
+  problemas-de-comunicacao-transparencia-e-proposito: só rótulos; já nos valores do núcleo
 ---
 
 # Grupo EPSO no WhatsApp

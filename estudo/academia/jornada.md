@@ -47,6 +47,9 @@ Fontes: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-soci
 A direção, sem ser decisão fechada: no doutorado se aprofunda a minha tese; no mestrado se
 estuda uma tese que já existe e se aproxima da minha, para aprimorá-la.
 
+O doutorado vai ser um lugar de estudar e produzir muito. Dessa produção saem conteúdos
+menores e, possivelmente, consolidações que rendem livros — o doutorado deve render um livro.
+
 A estratégia mira primeiro o doutorado: continuar elaborando a tese é o que torna fácil
 escolher o mestrado. Da tese descem os degraus até o mestrado e os projetos de pesquisa
 ([escada da tese](foco.md#a-escada-da-tese)); os métodos existentes que se parecem com o meu
@@ -59,7 +62,9 @@ demanda tempo, energia, estratégia e intenção.
 Fonte: `#mestrado-pratico-doutorado-profundo`, `#nivel-de-abstracao-do-doutorado`; a tese
 vizinha vem de `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#doutorado-inédito-mestrado-vizinho`;
 o encaixe de cada um, de `fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#tese-de-doutorado-como-tese-de-vida`,
-`#mestrado-como-degrau`, `#estrategia-mirar-no-doutorado`, `#metodos-existentes-e-o-mestrado`.
+`#mestrado-como-degrau`, `#estrategia-mirar-no-doutorado`, `#metodos-existentes-e-o-mestrado`;
+os livros, de `fontes/conversas/2026-10-01-o-livro-e-um-formato.md#o-doutorado-deve-render-um-livro`
+e `fontes/conversas/2026-10-02-encaixe-contexto.md#o-doutorado-gera-conteúdos-e-livros`.
 
 ## Várias sementes, uma jornada
 

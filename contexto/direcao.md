@@ -14,10 +14,16 @@ tecnologia. A tecnologia da informação é o canal de agora porque é onde a co
 colaboração humanas mais se transformam neste momento; a IA é o foco atual dessa transformação —
 ferramenta que cultivo, não identidade.
 
+Ser filósofo também não me representa por completo. Sou artista: tenho intenção na minha
+expressão, sem apego ao formato — como muitos outros. Sou ainda outras coisas; em cada momento
+uma se destaca, mas todas estão presentes.
+
 **Nível:** Decidido.
 
 Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#sou-filósofo-os-temas-são-aplicações`;
-`fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 1. Purpose`).
+`fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 1. Purpose`);
+`fontes/transcricoes/2025-03-06-sobre-filosofia.md#filosofo-e-tambem-artista`;
+`fontes/conversas/2026-10-02-encaixe-contexto.md#artista-é-ter-intenção-na-expressão`.
 
 ## A estratégia
 
@@ -94,9 +100,31 @@ ambiental, também de mentalidade.
 
 Fundar a própria empresa é vontade antiga; o que trava é tempo e dinheiro.
 
+O objetivo de carreira: gastar energia e tempo em lugares que me aproximem das
+[iniciativas](../instituicao/iniciativas/README.md) do EPSO, para um dia trabalhar no EPSO como
+um todo, unindo-as. Trabalhando nelas, entrego tudo o que tenho para entregar: cobrem o que
+acredito sobre a vida.
+
+A trajetória deve render vários livros — às vezes a mesma mensagem com palavras, ritmos,
+analogias e frequências diferentes de transmissão; às vezes mensagens novas (o doutorado, um
+deles: [jornada](../estudo/academia/jornada.md#mestrado-e-doutorado-papéis-distintos)).
+
 Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career Vision`);
 `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#novas-instituicoes-e-rotina-autonoma`;
-`fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, Motivo 2).
+`fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, Motivo 2);
+`fontes/transcricoes/2026-07-04-quatro-iniciativas.md#objetivo-de-carreira`;
+`fontes/conversas/2026-10-01-o-livro-e-um-formato.md#a-trajetória-rende-vários-livros`.
+
+## Como contribuo
+
+Meu compromisso é passar repertório para que o outro descubra a sua verdade e tenha condições
+de viver. É assim que contribuo: passando adiante meus genes e minhas ideias, meus
+aprendizados, transformando os ciclos por que passo. Só posso conduzir por caminhos que
+conheço, por jornadas que vivi, por histórias coerentes com a minha verdade. E o impacto vem de
+viver essa verdade nos ambientes que habito — de ser eu mesmo onde estiver.
+
+Fonte: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#meu-compromisso-e-passar-repertorio-e-caminhos-vividos`
+(o original fala de "ela", provavelmente a filha).
 
 ## Renda
 

@@ -26,6 +26,23 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   reunir o que cada tradição captou se defende dessa crítica? Quem hoje discordaria de você, e
   o que você aprenderia com essa pessoa?* → [a tese](filosofia/cosmovisao/a-tese.md)
 
+### Quem sou eu
+
+- **O planeta é indiferente ou cuida de nós?** Em 2022 você escreveu que o mundo não precisa
+  que a gente mude: a Terra já passou por extinções em massa, e o aquecimento é problema só
+  para nós. Em 2026 você disse que o planeta vai se regenerar e que a mudança é por nós, mas
+  acrescentou: "o planeta cuidou da gente e nos guiou até aqui. Então o planeta, de certa
+  maneira, acredita na gente". As duas falas concordam no fato (o planeta não depende de nós) e
+  divergem na relação: numa ele é uma rocha que sobrevive; na outra, alguém que cuida e
+  confia. O grupo do WhatsApp tem o mesmo par: "a evolução é um fato indiferente" e "a
+  natureza é nossa mãe". *A fala de 2026 substitui a de 2022, ou ficam as duas — o fato
+  indiferente e a imagem de cuidado? Se ficam as duas, qual é a crença e qual é a imagem para
+  comunicar?* → [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md#o-desequilíbrio-de-agora).
+  Fontes: `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`;
+  `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`;
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#evolucao-e-um-fato-indiferente`,
+  `#a-natureza-e-nossa-mae`.
+
 ### Precisão
 
 - **Verdade coerente para cada um.** Numa nota antiga você escreveu: "verdade é aquilo que é

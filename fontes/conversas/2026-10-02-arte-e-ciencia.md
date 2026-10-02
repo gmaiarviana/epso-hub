@@ -17,6 +17,11 @@ verbalidade, em que entramos em flow. Transmitimos mensagens sem precisar racion
 A frase "não me importo com a crítica de quem tem repertório reduzido" pode ser pensada
 melhor, para não soar arrogante.
 
+## Harari é referência
+
+Harari é uma referência. A rede de comunicação que permite cooperar como nunca é uma ideia
+forte que o usa como veículo, e me pegou também.
+
 ## Explicar em níveis é um como
 
 Explicar em níveis me parece mais um "como" do que um "o quê": não cabe no mesmo arquivo da

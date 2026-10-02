@@ -87,13 +87,14 @@ salto antes, a tecnologia da informação é o de agora. Hoje temos uma rede de 
 nos permite cooperar num nível nunca visto: países e culturas cada vez mais próximos e
 interligados. Dá para aproveitar as vantagens disso, em vez de só sofrer as consequências —
 e quando entendermos que somos capazes de colaborar de verdade uns com os outros, a
-humanidade vai dar passos ainda maiores na resolução dos nossos problemas. Yuval Noah Harari
-é referência aqui.
+humanidade vai dar passos ainda maiores na resolução dos nossos problemas. É uma ideia forte
+em Yuval Noah Harari, que a usa como veículo — referência aqui.
 
 Fonte: [24/9]`#tecnologias-da-informacao`; [26/6 tese]`#da-oralidade-a-escrita`,
 `#a-escrita-expandiu-o-processamento`; `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-som-que-vira-sentido`,
 `#a-energia-poupada-é-para-aprofundar`;
-`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#a-rede-de-comunicacao-permite-cooperar-como-nunca`.
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#a-rede-de-comunicacao-permite-cooperar-como-nunca`;
+`fontes/conversas/2026-10-02-arte-e-ciencia.md#harari-e-referencia`.
 
 ## O limite de agora: falamos em camadas
 

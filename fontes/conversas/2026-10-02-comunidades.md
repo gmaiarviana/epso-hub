@@ -20,3 +20,10 @@ receber atenção forte.
 ## A comunidade usa ferramenta
 
 Painel é ferramenta. A comunidade usa ferramenta.
+
+## Comunidade é para fazermos juntos
+
+Gerar senso de pertencimento não é o propósito primeiro de uma comunidade, mas nos unir,
+fazermos juntos. Temos necessidades sociais, de troca de informações — que é um alimento
+também. Precisamos dividir os trabalhos coletivamente. Precisamos escalar a colaboração para
+agir ainda mais especificamente em coisas mais complexas e elaboradas.

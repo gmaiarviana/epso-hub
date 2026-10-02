@@ -1,25 +1,29 @@
 # Comunidades
 
-Gerar senso de pertencimento na sociedade. Para isso, aprender a fazer comunidades orgânicas,
-sustentáveis e relevantes, e impulsionar que a sociedade crie comunidades que causem impacto
-nos seus ambientes. Comunidade aqui é onde se pertence: o encontro, a troca, a rede de quem
-age. A comunidade intencional — pessoas morando juntas — vem do mesmo lugar e é uma das formas
-que ela toma ([abaixo](#comunidades-intencionais)).
+Nos unir, fazermos juntos. Temos necessidades sociais, de troca de informação — que também é
+alimento —, e precisamos dividir os trabalhos coletivamente. Escalar a colaboração para agir de
+forma cada vez mais específica em coisas mais complexas e elaboradas. Comunidade aqui é onde
+isso acontece: o encontro, a troca, a rede de quem age; o pertencimento vem junto
+([abaixo](#pertencimento)). A comunidade intencional — pessoas morando juntas — vem do mesmo
+lugar e é uma das formas que ela toma ([abaixo](#comunidades-intencionais)).
 
 Recebe atenção forte porque os produtos precisam resolver problemas das pessoas e ser
 consumidos por elas: evoluí-los pede estar em contato com quem os usa. As
 [iniciativas](../iniciativas/README.md) fazem; a comunidade é com quem e para quem. É também
 para onde vai quem se aproxima ([chamados](../comunicacao/linha-editorial.md#chamados)).
 
-Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#plataforma-de-comunidades-pelos-quatro-pilares`;
-`fontes/conversas/2026-10-02-comunidades.md#comunidade-não-é-só-morar-junto`,
+Fontes: `fontes/conversas/2026-10-02-comunidades.md#comunidade-é-para-fazermos-juntos`,
+`#comunidade-não-é-só-morar-junto`,
 `#os-produtos-evoluem-em-contato-com-as-pessoas`.
 
 ## Pertencimento
 
-Unir pessoas com interesses em comum, ajudar as comunidades a serem autogeridas, dar suporte
-para que alcancem seus objetivos e promover soluções para os problemas mais comuns delas — com
-uma plataforma, que é ferramenta ([ferramentas livres](../iniciativas/ferramentas-livres/README.md)).
+Gerar senso de pertencimento na sociedade: aprender a fazer comunidades orgânicas, sustentáveis
+e relevantes, e impulsionar que a sociedade crie comunidades que causem impacto nos seus
+ambientes. Unir pessoas com interesses em comum, ajudar as comunidades a serem autogeridas, dar
+suporte para que alcancem seus objetivos e promover soluções para os problemas mais comuns
+delas — com uma plataforma, que é ferramenta
+([ferramentas livres](../iniciativas/ferramentas-livres/README.md)).
 Começa por quatro pilares — identificação, acolhimento, serviço e criação —, com iniciativas que
 promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
 

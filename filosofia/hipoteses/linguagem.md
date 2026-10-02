@@ -87,9 +87,8 @@ salto antes, a tecnologia da informação é o de agora. Hoje temos uma rede de 
 nos permite cooperar num nível nunca visto: países e culturas cada vez mais próximos e
 interligados. Dá para aproveitar as vantagens disso, em vez de só sofrer as consequências —
 e quando entendermos que somos capazes de colaborar de verdade uns com os outros, a
-humanidade vai dar passos ainda maiores na resolução dos nossos problemas. É uma ideia forte,
-que usa Yuval Noah Harari como [veículo](#a-relação-com-a-noosfera-se-torna-coletiva) e pegou
-também quem escreve aqui.
+humanidade vai dar passos ainda maiores na resolução dos nossos problemas. Referência:
+Yuval Noah Harari.
 
 Fonte: [24/9]`#tecnologias-da-informacao`; [26/6 tese]`#da-oralidade-a-escrita`,
 `#a-escrita-expandiu-o-processamento`; `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-som-que-vira-sentido`,

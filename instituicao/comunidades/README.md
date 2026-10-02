@@ -20,8 +20,8 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#plataforma-de-comun
 Unir pessoas com interesses em comum, ajudar as comunidades a serem autogeridas, dar suporte
 para que alcancem seus objetivos e promover soluções para os problemas mais comuns delas — com
 uma plataforma, que é ferramenta ([ferramentas livres](../iniciativas/ferramentas-livres/README.md)).
-Começa por quatro pilares — identificação, acolhimento, serviço e criação —,
-com iniciativas que promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
+Começa por quatro pilares — identificação, acolhimento, serviço e criação —, com iniciativas que
+promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
 
 Uma comunidade autossustentável, com pessoas que sabem cuidar de si. A maneira como nos
 organizamos, comunicamos e somos transparentes é o que agrega valor e permite escalar: um
@@ -83,10 +83,10 @@ Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.m
 
 Cada um diz quais são as suas dores e quais são as suas ofertas, e uma rede de voluntários pensa
 isso junto, não sozinho. O painel onde se dizem é ferramenta
-([o critério](../iniciativas/ferramentas-livres/README.md#o-critério-dores-que-a-gente-tem)), e as
-dores o alimentam;
-as ofertas, a [economia colaborativa](../iniciativas/README.md#troca-e-colaboração), a troca
-por confiança da [economia](../../filosofia/hipoteses/economia.md#troca-por-confiança).
+([o critério](../iniciativas/ferramentas-livres/README.md#o-critério-dores-que-a-gente-tem)). As
+dores alimentam as ferramentas; as ofertas, a
+[economia colaborativa](../iniciativas/README.md#troca-e-colaboração), a troca por confiança da
+[economia](../../filosofia/hipoteses/economia.md#troca-por-confiança).
 
 Fonte: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#plataforma-de-dores-e-ofertas`.
 

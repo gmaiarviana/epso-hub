@@ -242,8 +242,8 @@ o agente o refaz no briefing da sessão de decisão.
      `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, que tensiona "o planeta acredita na
      gente" (`#regeneracao-por-nos`, item 6): o fato é o mesmo (o planeta não depende de nós; a
      mudança é por nós), a relação muda — indiferente em 2022, cuidado e confiança em 2026.
-     Perguntar no encaixe se uma substitui a outra ou se ficam as duas. O mesmo par aparece no
-     item 5: `#evolucao-e-um-fato-indiferente` × `#a-natureza-e-nossa-mae`.
+     A pergunta está no [elaborar](elaborar.md#quem-sou-eu); o encaixe espera a resposta. O
+     mesmo par aparece no item 5: `#evolucao-e-um-fato-indiferente` × `#a-natureza-e-nossa-mae`.
    - → item 4: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` — `#nos-comunicamos-e-estabelecemos-bases-em-comum`;
      de `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#a-saude-e-uma-medida-que-conseguimos-concordar`;
      de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#o-paradoxo-de-querer-economizar-energia`,

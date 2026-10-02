@@ -5,11 +5,26 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 2. Foco
 
-**Todo o contexto encaixado antes de decidir objetivos, imagem e linha editorial.** Muito já foi
-escrito; a decisão (item Objetivos e imagem de
+**Todo o contexto relevante encaixado antes de decidir objetivos, imagem e linha editorial.**
+Muito já foi escrito; a decisão (item Objetivos e imagem de
 [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)) espera o acervo no lugar.
-Alcançado quando a [cobertura](fontes/cobertura.md) não tiver pendência: toda seção encaixada,
-dispensada ou semente (ideia que pode agregar valor, ainda sem casa). Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
+Relevante é o que pode mudar uma resposta dessa sessão — objetivo, imagem, linha editorial,
+e os temas que o incorporador gosta de falar e já tem acervo para sustentar. O que não é
+relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem tier: guardado
+para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
+relevante encaixada, dispensada ou semente.
+
+A onda anda em duas fases:
+
+1. **Triagem de relevância**, uma sessão: lê cada seção citada nos itens, propõe relevante ou
+   guardar, o incorporador valida; cada item fica só com o relevante.
+2. **Encaixe**, uma sessão por item, em paralelo. Travas: o núcleo passa do item 2 ao 5, então
+   a parte de núcleo do item 5 espera o item 2; `quem-sou-eu.md` é um arquivo só, e as sessões
+   dele são sequenciais, por tema; o item 10 decide a casa antes de encaixar e, se for o núcleo,
+   entra na vez do núcleo. Cada sessão edita só o seu item nesta fila; `fontes/cobertura.md` se
+   regenera no merge.
+
+Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
 destino vira nota ao item dono. Os itens 1 a 4 já tiveram a primeira rodada; o que resta neles é a
 segunda (grupo no WhatsApp e textos passados a limpo). Os itens 5 a 10 são a onda 2. O destino de

@@ -55,6 +55,11 @@ enviar com `git push --force-with-lease`, só em branch de feature própria. Con
 nele, e o conflito não se resolve à mão. Em cada commit do rebase que parar nele, rodar
 `python meta/cobertura.py`, `git add fontes/cobertura.md` e seguir com `git rebase --continue`.
 
+**Escopo de sessão paralela:** o encaixe vai aonde a ideia leva, em qualquer bloco, e a
+sessão registra em `fontes/conversas/` as ideias que a própria conversa gerar. Quando há uma
+sessão que coordena as outras, só o que ela consolida (a fila, a cobertura, os metadados das
+fontes) fica reservado, para evitar conflito. O que sair do bloco do item vai declarado no PR.
+
 Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
 worktree é dispensável, e trabalha-se direto na branch designada pela sessão.
 

@@ -33,7 +33,8 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    - quais posicionamentos;
    - quais três a nove temáticas, a partir do universo em Temas — os temas favoritos: o que
      gosto de falar, que já tem muito conteúdo e que ajuda a alcançar os objetivos
-     (`fontes/conversas/2026-10-01-temas-favoritos.md#temas-favoritos`);
+     (`fontes/conversas/2026-10-01-temas-favoritos.md#temas-favoritos`); crenças e valores sim,
+     a palavra espiritualidade não (`#crencas-e-valores`, mesma conversa);
    - os tipos de conteúdo: dimensão própria ou abordagem, e o que é "desejo" para os objetivos.
 5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens derivam do [núcleo](nucleo/README.md). Os traços de postura são praticamente o tom: complementar em vez de concorrer, sem falar *contra*, nem turista nem salvador, postar o que se vive, mostrar o que alguém de renda comum consegue copiar.
 6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:

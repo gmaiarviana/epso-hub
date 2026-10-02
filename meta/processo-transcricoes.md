@@ -110,6 +110,8 @@ Em aberto:
 - **dispensada** — não agrega valor ao repositório: sem ideia (abertura de fala, logística, índice). Ideia que já mora no acervo não se dispensa: cita-se a fonte no destino. Definitiva: não se revisita;
 - **semente** — ideia que pode agregar valor, ainda sem casa — imatura, ou de um tema que o acervo não trata. Sai das pendências e vai à lista de sementes, no fim da cobertura, para ser revisitada quando nascer uma casa ou o contexto mudar: um argumento novo pode se ligar ao que foi dito antes, quando ainda não estava maduro. Não é depósito para zerar a cobertura: só se decide no encaixe, com o acervo à vista.
 
+Fonte: `fontes/conversas/2026-10-01-semente-e-dispensa.md#dispenso-o-que-nao-agrega-valor`, `#semente-o-que-ainda-nao-estava-maduro`.
+
 As duas moram nos metadados da própria fonte, com o motivo, sem tocar no conteúdo. Conversa (`fontes/conversas/`), que não tem bloco de metadados, ganha um bloco só com esses campos quando precisar:
 
 ```yaml

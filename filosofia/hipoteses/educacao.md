@@ -76,18 +76,21 @@ existe atalho: não dá para fazer ninguém passar a fase pelo outro, porque lá
 lacunas que não se preenchem. Precisamos botar todo mundo para jogar os seus jogos, viver as
 suas vidas.
 
-E ninguém passa a fase sozinho. Da maneira como a nossa sociedade foi construída, os opressores
-acabaram hospedados nos oprimidos. Como diz Paulo Freire, ninguém liberta ninguém, ninguém se
-liberta sozinho: os homens se libertam em comunhão. A pedagogia libertadora exige união.
-
 Por isso a conscientização tem que ser espontânea. Estimulada à força, pode causar traumas.
 Alguns estímulos podem ser feitos, com calma, gentileza, empatia e muito amor — mas nunca
 indo até o fim. O ciclo só se fecha quando há consentimento, aceitação, participação. É o
 mesmo que o núcleo diz do apego: soltá-lo não vem por convencimento
 ([crenças](../../instituicao/nucleo/README.md#crenças)).
 
-Fonte: [grupo]`#ninguem-passa-a-fase-pelo-outro`, `#ninguem-se-liberta-sozinho`,
-`#a-conscientizacao-tem-que-ser-espontanea`.
+Fonte: [grupo]`#ninguem-passa-a-fase-pelo-outro`, `#a-conscientizacao-tem-que-ser-espontanea`.
+
+## A pedagogia libertadora exige união
+
+Da maneira como foi construída a nossa sociedade, os opressores acabaram ficando hospedados nos
+oprimidos. Ninguém liberta ninguém, ninguém se liberta sozinho, os homens se libertam em
+comunhão (Paulo Freire). A pedagogia libertadora exige união.
+
+Fonte: [grupo]`#ninguem-se-liberta-sozinho`.
 
 ## Estimular a reflexão, não dar a resposta certa
 

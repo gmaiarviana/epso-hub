@@ -17,9 +17,10 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#plataforma-de-comun
 
 ## Pertencimento
 
-Uma plataforma que una pessoas com interesses em comum, ajude as comunidades a serem
-autogeridas, dê suporte para que alcancem seus objetivos e promova soluções para os problemas
-mais comuns delas. Começa por quatro pilares — identificação, acolhimento, serviço e criação —,
+Unir pessoas com interesses em comum, ajudar as comunidades a serem autogeridas, dar suporte
+para que alcancem seus objetivos e promover soluções para os problemas mais comuns delas — com
+uma plataforma, que é ferramenta ([ferramentas livres](../iniciativas/ferramentas-livres/README.md)).
+Começa por quatro pilares — identificação, acolhimento, serviço e criação —,
 com iniciativas que promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
 
 Uma comunidade autossustentável, com pessoas que sabem cuidar de si. A maneira como nos
@@ -64,16 +65,13 @@ violenta, escuta ativa, buscar as raízes de cada pensamento, ter humildade para
 sabe e pesquisar para trazer argumentos de base sólida. O desafio é entrar em mapas mentais
 complexos com linguagem e organização que a audiência consiga acompanhar.
 
-Um espaço de teorias de mundo: cada um contribui com as suas ideias, ilustra e conta as suas
-histórias mais abstratas, e tenta explicar os mistérios pela colaboração, com uma história que
-conecte tudo. O objetivo é estimular o surgimento de hipóteses e a busca de evidências que as
-fortaleçam. O sentido das coisas vai se combinando pela maneira como entendemos, e pode ser
-editado; adota-se a proposta mais votada, com votos de peso conforme a relevância de quem
-contribui, e moderadores e políticas contra anticiência e sabotagem.
+Teorias de mundo: cada um contribui com as suas ideias, ilustra e conta as suas histórias mais
+abstratas, e tenta explicar os mistérios pela colaboração, com uma história que conecte tudo —
+para estimular o surgimento de hipóteses e a busca de evidências que as fortaleçam.
 
-O ferramental do debate — transcrição, termômetro de concordância — é da
-[linguagem](../iniciativas/linguagem/README.md#estabelecer-bases); o espaço de discussão é o
-segundo pilar do mesmo portal das [ferramentas livres](../iniciativas/ferramentas-livres/README.md).
+A comunidade usa ferramenta: a transcrição e o termômetro de concordância são da
+[linguagem](../iniciativas/linguagem/README.md#estabelecer-bases); o fórum e o espaço de teorias
+de mundo, com a sua votação, das [ferramentas livres](../iniciativas/ferramentas-livres/README.md#candidatas).
 
 Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#comunidade-de-debate-que-converge`;
 `fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md#pilar-2-discussao-e-comunidade`;
@@ -83,9 +81,10 @@ Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.m
 
 ## Dores e ofertas
 
-Uma plataforma em que as pessoas consigam dizer quais são as suas dores e quais são as suas
-ofertas — e uma rede de voluntários para pensar isso junto, não sozinho. As dores alimentam as
-ferramentas ([o critério](../iniciativas/ferramentas-livres/README.md#o-critério-dores-que-a-gente-tem));
+Cada um diz quais são as suas dores e quais são as suas ofertas, e uma rede de voluntários pensa
+isso junto, não sozinho. O painel onde se dizem é ferramenta
+([o critério](../iniciativas/ferramentas-livres/README.md#o-critério-dores-que-a-gente-tem)), e as
+dores o alimentam;
 as ofertas, a [economia colaborativa](../iniciativas/README.md#troca-e-colaboração), a troca
 por confiança da [economia](../../filosofia/hipoteses/economia.md#troca-por-confiança).
 

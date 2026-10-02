@@ -22,7 +22,8 @@ O critério das ideias são dores que a gente tem. Não adianta pensar na dor de
 com que não temos contato, que está distante ou que não representamos: não é buscar uma dor
 para vender, é uma dor para usar — uma dor que existe e não tem solução, ou cuja solução é cara
 ou não é sustentável. Reunir dores, buscar soluções e disponibilizá-las, para que as pessoas
-usem e melhorem a sua vida de graça. As dores chegam também de quem as diz nas
+usem e melhorem a sua vida de graça. Um painel em que as pessoas digam quais são as suas dores
+e quais são as suas ofertas: as dores chegam de quem as vive, nas
 [comunidades](../../comunidades/README.md#dores-e-ofertas).
 
 ## Do material ao abstrato
@@ -46,6 +47,10 @@ práticas, alimentado pelos dados e aprendizados da [construtora](../README.md#c
 
 - Guia de PDI — transformar ideias abstratas sobre carreira em ações concretas que gerem
   resultados: o que desenvolver, o plano em ações práticas, a revisão a cada três meses.
+- Espaço de teorias de mundo — o sentido das coisas se combina pela maneira como entendemos e
+  pode ser editado; adota-se a proposta mais votada, com votos de peso conforme a relevância de
+  quem contribui, e moderadores e políticas contra anticiência e sabotagem. O para quê mora nas
+  [comunidades](../../comunidades/README.md#o-encontro-debate-que-converge).
 
 ## Modelo
 
@@ -59,7 +64,8 @@ Fontes: `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-2-ferra
 `fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md#a-plataforma-do-portfolio`,
 `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#o-criterio-sao-dores-que-a-gente-tem`,
 `#pago-por-quem-nao-e-materia-organica`, `#aprender-junto-e-se-sustentar`;
-`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#tecnologia-para-planejar-sistemas`;
+`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#tecnologia-para-planejar-sistemas`,
+`#plataforma-de-dores-e-ofertas`; `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#plataforma-colaborativa-de-teorias-de-mundo`;
 `fontes/documentos/2026-09-30-guia-pdi.raw.md`;
 `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#portal-open-source`;
 `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`;

@@ -16,3 +16,7 @@ agrupá-las.
 Os produtos precisam resolver problemas das pessoas e ser consumidos por elas. Então preciso
 estar em contato com elas na hora de evoluir os produtos. Isso conta a favor de a comunidade
 receber atenção forte.
+
+## A comunidade usa ferramenta
+
+Painel é ferramenta. A comunidade usa ferramenta.

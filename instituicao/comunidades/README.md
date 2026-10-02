@@ -77,7 +77,8 @@ Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.m
 `fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md#pilar-2-discussao-e-comunidade`;
 `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#encontros-de-debate-de-conciliacao`,
 `#para-convergir-precisamos-de-bases-semelhantes`, `#encontrar-denominadores-comuns`,
-`#plataforma-colaborativa-de-teorias-de-mundo`.
+`#plataforma-colaborativa-de-teorias-de-mundo`;
+`fontes/conversas/2026-10-02-comunidades.md#a-comunidade-usa-ferramenta`.
 
 ## Dores e ofertas
 

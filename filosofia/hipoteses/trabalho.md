@@ -17,19 +17,24 @@ esportes. Toda atividade cultural, religiosa, esportiva ou artística demanda tr
 sociedades a fazem sem necessariamente ser remuneradas.
 
 Aprendemos que trabalhar é ir ao lugar onde se faz uma atividade esperada por outros, em
-troca de um salário. Essa troca é uma forma do trabalho, não o seu fim. O que se busca nele é
-[valor](valor.md): suprir necessidades — físicas, pessoais, sociais. Trabalhamos por condições
+troca de um salário. Essa troca é uma forma do trabalho, não o seu fim. Trabalhamos para gerar
+[valor](valor.md): obter benefício, material ou espiritual — suprir necessidades físicas,
+pessoais, sociais. Trabalhamos por condições
 básicas e por satisfação pessoal. Quem está abaixo da linha da dignidade, ou da linha do
 conforto, trabalha para ter dinheiro. Quem está acima dela trabalha também, mesmo já tendo
 conforto: por autoestima, realização, identificação, aprovação social, para contribuir. O ponto
 mais alto dessa satisfação é criar. A escada lembra a hierarquia de necessidades de Maslow; as
-linhas e os motivos acima delas ainda estão por elaborar.
+linhas estão em [valor](valor.md#dignidade-conforto-e-desperdício), e os motivos acima delas
+ainda estão por elaborar.
 
 Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pelo trecho):
 
 - **[26/6]** `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md`
 - **[23/9]** `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`
 - **[30/9]** `fontes/conversas/2026-09-30-lastro-do-trabalho.md`
+- **[2/10]** `fontes/conversas/2026-10-02-valor-e-linhas.md`
+- **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
+- **[obras]** `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`
 - **[propósito]** `fontes/documentos/2026-09-27-proposito-epso.raw.md`
 - **[ensaio]** `fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`
 - **[cartas]** `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md`
@@ -39,7 +44,8 @@ Fontes, referenciadas abaixo por rótulo e `#secao` (documentos sem seções, pe
 - **[guia PDI]** `fontes/documentos/2026-09-30-guia-pdi.raw.md`
 - **[tpm]** `fontes/documentos/2026-09-27-relato-tpm-programa.raw.md`
 
-Fonte da abertura: [30/9]`#labor-e-movimento`, `#abaixo-e-acima-da-linha-do-conforto`; [ensaio] (Nós não somos nosso trabalho; Fazer
+Fonte da abertura: [30/9]`#labor-e-movimento`, `#abaixo-e-acima-da-linha-do-conforto`;
+[2/10]`#trabalhamos-por-beneficio`; [ensaio] (Nós não somos nosso trabalho; Fazer
 é trabalhar); [comitê] (Pressupostos).
 
 ## Corpo, mente e alma
@@ -55,6 +61,26 @@ O trabalho motiva quando atende três áreas:
 Somos seres integrais: equilibramos eficiência com pessoalidade.
 
 Fonte: [propósito] (crenças).
+
+## Profissionalismo e pessoalidade
+
+Profissionalizar é tornar as interações e as metodologias impessoais. Há valor no método
+impessoal: economiza energia, e políticas e diretrizes facilitam a tomada de decisão. O
+profissionalismo prevalece porque é mais eficiente que a pessoalidade.
+
+Mas a necessidade de trabalhar leva a profissionalização para dentro da própria pessoalidade.
+É a profissionalização da pessoalidade que afasta as pessoas de se conectar umas com as outras:
+olhamos as situações como "ocorrências", as pessoas como "sujeitos" e as ações como
+"diretrizes". E é a pessoalidade que gera pertencimento.
+
+Precisamos ser profissionais quando não sabemos lidar com um contexto — o que acontece
+principalmente quando não sabemos o que queremos, o que somos e qual a nossa intenção. Viver
+com presença e com [intenção](../cosmovisao/quem-sou-eu.md#evoluir-com-intenção) é o que traz
+eficiência para a pessoalidade: é o que dá à pessoa o poder de usar o profissionalismo
+conscientemente, sem perder a pessoalidade. O lado da organização está em [Além dos
+cargos](#além-dos-cargos): a gestão de pessoas pode virar cuidado de pessoas.
+
+Fonte: [grupo]`#profissionalismo-e-pessoalidade`.
 
 ## Criar é o ápice
 
@@ -144,7 +170,12 @@ Daí o guia: trabalhar com o que acreditamos, não com o que gostamos — unir-s
 projetos que buscam objetivos em que se acredita. É também o jeito mais eficiente de engajar
 pessoas numa jornada: quando elas acreditam no que fazem.
 
-Fonte: [ensaio] (Faça o que acredita); [30/9]`#o-prazer-de-fazer`; [guia PDI] (1.2, O que
+Para que o guia valha para todos, todas as pessoas devem ter direito a receber o mínimo digno
+de energia, para que não tenham que trabalhar com o que não acreditam — é a [linha da
+dignidade](valor.md#dignidade-conforto-e-desperdício).
+
+Fonte: [ensaio] (Faça o que acredita); [grupo]`#contra-a-especulacao-reforma-agraria-taxacao-e-renda`
+(distribuição de renda); [30/9]`#o-prazer-de-fazer`; [guia PDI] (1.2, O que
 sustenta o caminho); [palestra PDI] (Aprendi que devemos fazer aquilo em que acreditamos);
 [cartas] (Motivo 2; "completamente orientado a
 propósito").
@@ -163,6 +194,11 @@ que dependem de premissas sem sentido; amenizar expectativas para que o labor n�
 exaustivo — diminuir a carga horária, alternar atividades de concentração com atividades de
 movimento.
 
+Automatizar tem outro lado. A substituição do trabalho humano pela máquina — na construção
+civil, a construção modular, a impressão 3D — pode puxar para a uberização do trabalho, a
+precarização das condições. É um tema difícil, que envolve política, e importante de ser
+levantado.
+
 A jornada de 40 horas semanais surgiu de fatores de um momento da história e pode ser
 repensada. Trabalhar menos horas pede clareza de cima para baixo — do objetivo, do que fazer
 para alcançá-lo, de como se dividir — e corta reuniões, relatórios e interações
@@ -170,8 +206,8 @@ desnecessárias. Sobra tempo para as pessoas viverem e cuidarem de si, e o momen
 vira presença no que realmente importa.
 
 Fonte: [23/9]`#saude-mental-e-trabalho`; [propósito] (propósito);
-[30/9]`#ressignificar-sem-acabar-com-a-divisão`; [proposta] (notas de apoio: "40 horas
-semanais é coisa do passado").
+[30/9]`#ressignificar-sem-acabar-com-a-divisão`; [obras]`#automacao-e-uberizacao-na-construcao`;
+[proposta] (notas de apoio: "40 horas semanais é coisa do passado").
 
 ## Além dos cargos
 

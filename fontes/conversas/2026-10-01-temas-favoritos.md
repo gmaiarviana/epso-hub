@@ -11,3 +11,9 @@ Quero produzir conteúdo. Um mapa dos temas do acervo pode ajudar a definir quai
 instituir como meus temas favoritos: um tema que gosto de falar, de que já tenho muito
 conteúdo, que me ajude a alcançar meus objetivos. Não precisamos lapidar tudo, mas também não
 devemos ignorar.
+
+## Crenças e valores
+
+Não vou usar a palavra espiritualidade. Mas acho que vou falar sobre crenças e valores. A
+frase "falar de ansiedade em vez de espiritualidade", do jeito que chegou, não me convence;
+preciso de mais contexto.

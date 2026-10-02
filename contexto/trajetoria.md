@@ -54,9 +54,8 @@ crenças e valores, e mudar minha postura diante do meu desenvolvimento.
 
 Olhar para dentro me levou a escolher sair. Dava para me conformar e seguir ali, ao preço de
 seguir sem acreditar no que fazia. Saí para trabalhar em algo em que acreditasse, e entrei na
-empresa atual, em julho de 2022, me identificando com os valores e a visão dela. Ficou a
-lição: quando busco trabalhar com o que gosto, fico evitando as partes de que não gosto;
-quando busco trabalhar com o que acredito, consigo encarar essas partes.
+empresa atual, em julho de 2022, me identificando com os valores e a visão dela. A lição
+vive em [trabalhar com o que acreditamos](../filosofia/hipoteses/trabalho.md#trabalhar-com-o-que-acreditamos).
 
 O ciclo vicioso virou virtuoso: sei minimamente o que quero, planejo respeitando meus limites,
 faço o que dá, tenho evidências do meu progresso, as pessoas reconhecem minha evolução, assumo
@@ -141,13 +140,17 @@ Padrões que aparecem ao longo de toda a trajetória:
   resiliência e a transparência.
 - **Liderança desde cedo** — representante de classe, líder na comunidade religiosa, na banda,
   na comissão de formatura. Pensar junto com o grupo em como chegar ao objetivo é natural, e
-  com engajamento vem ser referência.
+  com engajamento vem ser referência. Para mudar uma empresa, atuo em três camadas — cultura,
+  filosofia (crença, mentalidade) e processo: identifico as filosofias para fortalecer a
+  cultura e aprofundo os processos para achar as dores que filosofias ineficientes provocam. O
+  que acredito de uma liderança vive em
+  [trabalho](../filosofia/hipoteses/trabalho.md#o-que-faz-uma-liderança).
 
 Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 2. Values`, Traits;
 `## 1. Purpose`, o fio da comunicação);
 `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup: abertura,
 Motivos 2 e 3); `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#me-inspira-ajudar-as-pessoas-a-se-organizarem`,
-`#sou-uma-pessoa-de-visao`.
+`#sou-uma-pessoa-de-visao`, `#cultura-filosofia-e-processo-para-mudar-empresas`.
 
 ## Voltar a me expor
 

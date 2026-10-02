@@ -14,8 +14,20 @@ Fontes, referenciadas abaixo por rótulo (documentos sem seções, pelo trecho):
 
 - **[proposta]** `fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md`
 - **[comitê]** `fontes/documentos/2026-09-27-notas-comite-ia.raw.md`
+- **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
+- **[30/9]** `fontes/conversas/2026-09-30-lastro-do-trabalho.md`
+- **[2/10]** `fontes/conversas/2026-10-02-valor-e-linhas.md`
 
 Fonte da abertura: [proposta] (notas de apoio: "O que é valor?"); [comitê] (Pressupostos).
+
+## Benefício, não preço
+
+Valor tem dois sentidos, e às vezes os misturamos: quanto custa, qual o preço; e qual o
+benefício. Aqui, valor é o benefício. Agregar valor é trazer benefício, e é por benefício que
+se busca o tempo todo. Os custos se repassam de maneira justa, com a composição completa (ver
+[planejar é compor custos](economia.md#planejar-é-compor-custos)).
+
+Fonte: [2/10]`#dois-sentidos-de-valor`.
 
 ## Nada tem valor por si
 
@@ -40,3 +52,39 @@ Quanto mais o trabalho se divide, mais longe quem trabalha fica do valor que pro
 [a contribuição ficou indireta](trabalho.md#a-contribuição-ficou-indireta).
 
 Fonte: [comitê] (Pressupostos); [proposta] (notas de apoio: contratos com objetivos claros).
+
+## Dignidade, conforto e desperdício
+
+Três linhas — dignidade, conforto, desperdício — criam quatro grandes faixas. Ninguém deve estar
+abaixo da dignidade nem acima do desperdício; todos deveriam estar acima do conforto, ou pelo
+menos perto dele. As linhas lembram a hierarquia de necessidades de Maslow.
+
+Elas valem para a matéria, mas também para a atenção, a energia, as preocupações, os
+pensamentos. E mudam o que se pode dizer a cada um: muitas falas não se aplicam a quem está
+abaixo da dignidade, e muita coisa é urgente para quem está acima do desperdício.
+
+A primeira luta é dar dignidade a todos. Sem dignidade, as pessoas dependem de estruturas que
+aprisionam; quem deixa de depender delas ganha energia, criatividade e força para colaborar. O
+Brasil tem um mercado consumidor gigante que está adormecido: um potencial que precisa de
+energia de ativação para estar ativamente produzindo. Isso faz parte do nosso trabalho.
+
+O que compõe cada linha — a dignidade, o conforto e o que fica acima do conforto — ainda está
+por identificar, talvez por calcular (ver [elaborar](../../elaborar.md)).
+
+**Nível:** Estimado (baixa) — esboço; o incorporador não o acha completo.
+
+Fonte: [30/9]`#dignidade-conforto-e-desperdicio`; [2/10]`#as-linhas-valem-alem-da-materia`,
+`#a-primeira-luta-e-dar-dignidade`.
+
+## Contra a especulação
+
+A especulação é o grande problema: faz as pessoas acumularem e nos afasta do aqui e agora. Uma
+pessoa não deve possuir coisas: é justo ser guardiã enquanto estiver viva, e é justo que quem
+movimenta mais toque em mais. Ninguém pode ser dono do que não consegue manter.
+
+A linha do desperdício vale para o que se acumula e para o que se gasta. Ninguém deveria
+desperdiçar, nem guardar dinheiro que deveria estar se movimentando e colaborando com outros.
+Isso gera menos escassez e ressignifica o papel do dinheiro.
+
+Fonte: [grupo]`#contra-a-especulacao-reforma-agraria-taxacao-e-renda`;
+[30/9]`#dignidade-conforto-e-desperdicio`.

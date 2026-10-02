@@ -25,6 +25,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | completo | 13/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | completo | 15/15 |
 | [2026-09-24-atencao-corpo-linguagem-e-camadas](../fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md) | completo | 28/28 |
+| [2026-10-01-linkedin-sonhar-junto-e-novos-sistemas](../fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md) | não iniciado | 0/28 |
 | [2026-07-07-vetor-ancora-camada-de-fontes](../fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md) | parcial | 8/10 |
 | [2026-09-23-precisao-e-a-pagina-do-livro](../fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md) | completo | 9/9 |
 | [2026-09-25-a-mente-sugere-a-atencao](../fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md) | completo | 2/2 |
@@ -53,6 +54,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-10-01-o-livro-e-um-formato](../fontes/conversas/2026-10-01-o-livro-e-um-formato.md) | não iniciado | 0/5 |
 | [2026-10-01-semente-e-dispensa](../fontes/conversas/2026-10-01-semente-e-dispensa.md) | completo | 2/2 |
 | [2026-10-01-temas-favoritos](../fontes/conversas/2026-10-01-temas-favoritos.md) | não iniciado | 0/2 |
+| [2026-10-02-sonhar-sem-medo](../fontes/conversas/2026-10-02-sonhar-sem-medo.md) | não iniciado | 0/1 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -151,6 +153,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - sem nota na fila: `#a-camada-filosofica-e-a-fonte`, `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao`
 
+### 2026-10-01-linkedin-sonhar-junto-e-novos-sistemas
+
+- Foco: `#linkedin-e-a-rede-de-quem-age`, `#abrir-portas-e-ecossistemas`, `#construir-junto-o-futuro`, `#comunidade-de-debate-que-converge`, `#comunidade-que-compartilha-praticas-sustentaveis`, `#criar-nossa-religiao-politica-e-cidades`, `#tecnologia-para-planejar-sistemas`, `#rede-de-voluntarios-com-beneficio-real`, `#economia-puxada-pela-demanda`, `#dar-um-passo-mesmo-cansado`, `#temas-do-repertorio-escolhidos-com-estrategia`, `#unir-quem-ja-constroi-e-quem-quer-comecar`, `#plataforma-de-dores-e-ofertas`, `#crescer-por-etapas-sem-objetivo-fixo`, `#top-voice-como-sonho-alto`, `#um-espaco-para-filosofar-sem-medo`, `#o-linkedin-aponta-para-o-aprofundamento`, `#chamar-referencias-para-sonhar-junto`, `#sonhar-une`, `#convidar-produtores-a-fomentar-a-rede`, `#sem-exigir-e-sem-queimar-fichas`, `#temas-de-interesse`, `#sem-credencial-mais-humildade`, `#pratico-no-linkedin-filosofico-em-outros-canais`, `#tudo-sao-sistemas`, `#o-dinheiro-fortalece-o-sistema`, `#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte`
+
 ### 2026-07-07-vetor-ancora-camada-de-fontes
 
 - Encaixar: `#migracao-reaproveitar-as-ponderacoes-nao-o-resultado`, `#tres-camadas-de-fonte-audio-bruto-limpo`
@@ -214,6 +220,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-10-01-temas-favoritos
 
 - instituicao/next-steps.md: `#temas-favoritos`, `#crencas-e-valores`
+
+### 2026-10-02-sonhar-sem-medo
+
+- Foco: `#nao-ter-medo-de-sonhar`
 
 ### 2026-09-29-a-realidade-como-ela-e
 

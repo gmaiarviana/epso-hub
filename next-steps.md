@@ -75,6 +75,13 @@ o agente o refaz no briefing da sessão de decisão.
      (`fontes/conversas/2026-09-30-precisar-de-menos.md`): compromisso com pessoas, sim; com
      coisas, não (`#compromisso-com-pessoas-nao-com-coisas` — síntese do agente; o incorporador
      quer pensar antes de virar regra).
+   - Transcrição 2026-10-01 (`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md`): a comunidade e a plataforma —
+     `#comunidade-de-debate-que-converge` (fusão com `#encontros-de-debate-de-conciliacao`),
+     `#comunidade-que-compartilha-praticas-sustentaveis`, `#criar-nossa-religiao-politica-e-cidades`,
+     `#tecnologia-para-planejar-sistemas`, `#rede-de-voluntarios-com-beneficio-real`,
+     `#plataforma-de-dores-e-ofertas` (fusão com `#o-criterio-sao-dores-que-a-gente-tem`),
+     `#economia-puxada-pela-demanda` (já em
+     [hub-de-conhecimento](instituicao/iniciativas/hub-de-conhecimento.md#o-espectro-e-a-produção-puxada)).
 4. **Linguagem, precisão e âncora** — dono de `filosofia/hipoteses/linguagem.md`,
    `filosofia/hipoteses/precisao.md` e `filosofia/hipoteses/ancora.md`.
    - Conversa 2026-09-30 (`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md`):
@@ -177,6 +184,19 @@ o agente o refaz no briefing da sessão de decisão.
      (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#nada-novo-palavras-proprias` (tom base).
    - Conversa 2026-09-26 (`fontes/conversas/2026-09-26-o-epso-e-eu.md`), a voz:
      `#a-comunicacao-nasce-ligada-ao-epso`.
+   - Transcrição 2026-10-01 (`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md`), estratégica para a sessão de decisão: o canal —
+     `#linkedin-e-a-rede-de-quem-age`, `#pratico-no-linkedin-filosofico-em-outros-canais`,
+     `#um-espaco-para-filosofar-sem-medo`, `#o-linkedin-aponta-para-o-aprofundamento`;
+     objetivos e imagem — `#abrir-portas-e-ecossistemas`, `#construir-junto-o-futuro`,
+     `#unir-quem-ja-constroi-e-quem-quer-comecar`, `#sem-credencial-mais-humildade`,
+     `#crescer-por-etapas-sem-objetivo-fixo`, `#dar-um-passo-mesmo-cansado`; o sonho —
+     `#top-voice-como-sonho-alto` (com `fontes/conversas/2026-10-02-sonhar-sem-medo.md#nao-ter-medo-de-sonhar`),
+     `#sonhar-une`; alcance — `#chamar-referencias-para-sonhar-junto`,
+     `#convidar-produtores-a-fomentar-a-rede`, `#sem-exigir-e-sem-queimar-fichas`; temas —
+     `#temas-do-repertorio-escolhidos-com-estrategia`, `#temas-de-interesse`. A teoria de
+     mudança — `#tudo-sao-sistemas`, `#o-dinheiro-fortalece-o-sistema`,
+     `#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte` — checar fusão com
+     `#o-chamado-e-criar-um-novo-sistema`; se for tese do EPSO, a casa é o núcleo (item 5).
 7. **Contexto e estudo** — dono de `contexto/` e `estudo/`.
    - **Regra do encaixe da narrativa v8** (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`,
      em inglês) — encaixe seção por seção, tópico a tópico; o agente adianta o rascunho do que

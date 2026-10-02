@@ -23,7 +23,7 @@ E o outro lado é eu construir, né, a minha trajetória, construir o que eu acr
 
 ## comunidade-de-debate-que-converge
 
-Então eu já pensei — isso já virou uma ideia, né — de repente criar uma comunidade virtual pra trocar ideias. De repente, se a gente consegue estabelecer bases, a gente consegue criar uma plataforma em que a gente consiga se entender. De repente uma plataforma em que a gente consiga debater, e que esse debate seja produtivo, né: que a gente consiga convergir a partir de ideias diferentes. Que a gente consiga respeitosamente — não convencer —, mas chegar ao nome da dor comum, e observar todas as faces, todos os pontos de vista diferentes, e contemplá-los, né, da maneira adequada, no que faz sentido pra aquele momento.
+Então eu já pensei — isso já virou uma ideia, né — de repente criar uma comunidade virtual pra trocar ideias. De repente, se a gente consegue estabelecer bases, a gente consegue criar uma plataforma em que a gente consiga se entender. De repente uma plataforma em que a gente consiga debater, e que esse debate seja produtivo, né: que a gente consiga convergir a partir de ideias diferentes. Que a gente consiga respeitosamente — não convencer —, mas chegar ao denominador comum, e observar todas as faces, todos os pontos de vista diferentes, e contemplá-los, né, da maneira adequada, no que faz sentido pra aquele momento.
 
 ## comunidade-que-compartilha-praticas-sustentaveis
 

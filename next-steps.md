@@ -229,18 +229,84 @@ o agente o refaz no briefing da sessão de decisão.
      `#avaliar-pelas-habilidades-do-gestor`, junto de "o que acredito de uma liderança".
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): traços e autoimagem → `contexto/trajetoria.md` —
      `#me-inspira-ajudar-as-pessoas-a-se-organizarem`, `#sou-o-equilibrio-entre-simplicidade-e-profundidade`, `#sou-uma-pessoa-de-visao`, `#sou-o-guardiao-do-equilibrio`, `#meus-maiores-estudos-vieram-do-silencio`; direção → `contexto/direcao.md` — `#musica-e-corpo-como-caminhos-de-energia`, `#meu-compromisso-e-passar-repertorio-e-caminhos-vividos`, `#sempre-em-constante-evolucao`; liderança e estudo — `#cultura-filosofia-e-processo-para-mudar-empresas`, `#toda-lideranca-tem-carater-espiritual`, `#topicos-soltos-2020`.
-8. **Livro — reavaliar** — o incorporador reavalia tudo o que se refere a livro antes de
-   qualquer encaixe; o dono se decide depois. Há dois planos: o de 2022, três livros
-   (Organização; E assim mudamos o mundo; Moeda), e o de 2024, Manual/Manifesto/Conceitos. As
-   ideias de dentro dos textos vão, depois, aos itens 4 e 5. "O planeta não precisa de nós"
-   (`e-assim-mudamos-o-mundo`) tensiona "o planeta acredita na gente" (item 2).
-   - Documentos em `fontes/documentos/`: `2026-09-29-readme-do-livro.raw.md` e
-     `2026-09-29-glossario.raw.md`; já com camada limpa, arquivo inteiro:
-     `2026-09-29-manifesto-homo-activus.md` (com o rascunho `explicado-homo-activus`),
-     `2026-09-29-manifesto-eamom.md`, `2026-09-29-e-assim-mudamos-o-mundo.md`,
-     `2026-09-29-o-obvio-precisa-ser-dito.md` e `2026-09-29-organizacao.md`. A sugestão de
-     destino por seção, para depois da reavaliação, está na descrição do PR #80.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): `#introducao-do-livro-quem-sou-eu`, `#prefacio-do-livro`, `#estrutura-do-livro-manual-manifesto-conceitos`, `#e-assim-mudaremos-o-mundo`.
+8. **Textos da pasta Livro → itens donos** — não há livro agora: livro é um formato de
+   transmissão, e o hub centraliza as ideias (`fontes/conversas/2026-10-01-o-livro-e-um-formato.md`).
+   Os textos da pasta Livro são fonte como qualquer outra. Este item não é dono de arquivo: na
+   triagem de relevância, cada linha abaixo passa ao item dono do destino, e o item sai. Os
+   planos de livro (os três livros de 2022, a estrutura de 2024) não se encaixam: ficam as
+   ideias de dentro deles.
+   - → item 1: `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`.
+   - → item 2: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
+     `#capacidade-implica-possibilidade-e-sustentabilidade`, `#concordando-atuamos-nas-necessidades-basicas`,
+     `#reinventar-a-organizacao-capitalismo-sustentavel`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
+     `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, que tensiona "o planeta acredita na
+     gente" (`#regeneracao-por-nos`, item 6): o fato é o mesmo (o planeta não depende de nós; a
+     mudança é por nós), a relação muda — indiferente em 2022, cuidado e confiança em 2026.
+     Perguntar no encaixe se uma substitui a outra ou se ficam as duas. O mesmo par aparece no
+     item 5: `#evolucao-e-um-fato-indiferente` × `#a-natureza-e-nossa-mae`.
+   - → item 4: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` — `#nos-comunicamos-e-estabelecemos-bases-em-comum`;
+     de `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#a-saude-e-uma-medida-que-conseguimos-concordar`;
+     de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#o-paradoxo-de-querer-economizar-energia`,
+     `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#lidamos-mal-com-tempo-e-linguagem`; de
+     `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` — `#qual-a-regua-para-escolher-as-bases`,
+     `#uma-frase-simples-abre-inumeras-questoes`, `#priorizar-a-pergunta-que-define-a-base`,
+     `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#comunicar-melhor-resolve-de-forma-sustentavel`;
+     de `fontes/documentos/2026-09-29-organizacao.md` — `#cuidado-ao-misturar-termos-reais-e-abstratos`;
+     de `fontes/documentos/2026-09-29-glossario.raw.md`, as definições de ciência, mentira,
+     verdade e "a verdade" (fusão com `#verdade-e-o-que-faz-sentido-para-cada-um`); do grupo
+     EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) —
+     `#prefacio-do-livro`: a percepção do corpo é limitada (luz e som fora do alcance); humildade
+     para perceber a realidade como ela é.
+   - → item 5: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` — `#sou-um-individuo-com-um-corpo-que-sente`,
+     `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#nao-eliminar-as-experiencias-ruins-classifica-las`,
+     `#agir-pelo-que-nao-queremos-nos-torna-passivos`, `#sobreviver-deixou-de-dar-sentido`,
+     `#talvez-nao-precisemos-de-um-objetivo`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`,
+     `#concordar-sobre-as-bases-da-vida`, `#o-homo-activus-convence-em-vez-de-guerrear`,
+     `#sapiens-praesenti-e-civili-coexistem` (as duas últimas com `#homo-evolutis-a-proxima-evolucao`
+     do WhatsApp); de `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#queremos-mudanca-mas-nao-concordamos-no-que`,
+     `#saude-como-modelo-de-representacao-da-vida`, `#queremos-mudanca-porque-queremos-mais-vida`,
+     `#a-morte-virou-tabu`, `#nao-lidar-com-a-morte-nos-faz-divergir`, `#queremos-a-vida-viver-o-agora`,
+     `#aprender-com-a-historia-e-os-outros-seres-vivos`, `#a-evolucao-e-inevitavel-ajudamos-ou-atrapalhamos`,
+     `#o-sentido-da-vida-e-a-evolucao`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
+     `#a-mudanca-interna-ja-muda-o-mundo`, `#quem-dificulta-acoes-se-conformou-com-a-morte`,
+     `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`,
+     `#toda-acao-ajuda-ou-atrapalha`; de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` —
+     `#preciso-estabelecer-bases-para-investigar`, `#sou-humano-ou-assim-fui-ensinado`,
+     `#valores-e-o-julgamento-entre-bem-e-mal`; de `fontes/documentos/2026-09-29-organizacao.md` —
+     `#o-ritmo-acelerado-desgasta-o-corpo`; de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`,
+     as fases do comportamento da sociedade (consciência → organização → evolução); de
+     `fontes/documentos/2026-09-29-glossario.raw.md`, a lista de termos sem definição — são as
+     bases da vida de `#concordar-sobre-as-bases-da-vida` — e os Homo Praesenti, Civili, Sapiens
+     e Activus; do grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) —
+     `#introducao-do-livro-quem-sou-eu` (formas e mensagens, o roteiro de *quem sou eu*) →
+     `quem-sou-eu.md`; `#estrutura-do-livro-manual-manifesto-conceitos`, os cinco conceitos
+     (camadas e dualismo, ilusão da separação, matéria e ideia, evolução e máxima eficiência,
+     unir-se para aumentar energia e consciência) → `a-tese.md`; `#prefacio-do-livro`, o corpo
+     como oráculo interno.
+   - → item 6: da conversa `fontes/conversas/2026-10-01-o-livro-e-um-formato.md` —
+     `#nao-ha-livro-agora-so-ideias`, `#produzir-recortar-compilar` (fusão com
+     `#intencao-objetivo-tema-e-proposta` do WhatsApp), `#o-livro-e-um-formato-de-transmissao`; de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`, o dilema de ser
+     profundo sem divagar e a forma manifesto curto + explicação palavra por palavra, que se
+     repete em `#prefacio-do-livro` e em `#estrutura-do-livro-manual-manifesto-conceitos` (os
+     dois livros de 2024); de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` —
+     `#o-subentendido-simplifica-mas-limita`; de `fontes/documentos/2026-09-29-organizacao.md` —
+     `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`,
+     `#nao-querer-profundidade-de-maneira-superficial`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
+     `#o-titulo-pode-iludir-com-um-passo-a-passo` (o título forte que promete uma receita);
+     do grupo EPSO no WhatsApp — `#introducao-do-livro-quem-sou-eu`, "escrevo para os meus"
+     (fusão com "falo para os meus", em Chamados), e `#e-assim-mudaremos-o-mundo`, a frase
+     como chamado candidato ou dispensa.
+   - → item 7: de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` — `#quem-escreve-e-quem-le-sao-humanos`
+     e `#maquinas-que-leem-o-que-e-um-ser-vivo` (IA no estudo); de `fontes/documentos/2026-09-29-organizacao.md` —
+     `#escrever-sem-esperar-autoridade` (trajetória). Da conversa 2026-10-01, `#o-doutorado-deve-render-um-livro`
+     → `estudo/academia/foco.md`, e `#a-trajetoria-rende-varios-livros` → `contexto/direcao.md`;
+     o "futura tese e livro" de [filosofia/cosmovisao/README.md](filosofia/cosmovisao/README.md)
+     já conversa com as duas.
+   - → item 9: de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` — `#reduzir-a-diversidade-para-evitar-conflito`
+     (sociedade, representação).
+   - Saem, por dispensa nos metadados: de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`,
+     o plano dos três livros (Organização, E assim mudamos o mundo, Moeda); do WhatsApp, a
+     sequência Manual/Manifesto/Conceitos/Apêndice de `#estrutura-do-livro-manual-manifesto-conceitos`.
 9. **Sem casa** — educação, sociedade e arte ainda não têm lugar no acervo; a casa se decide no
    encaixe (hipótese nova, iniciativa ou arquivo existente).
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): educação e escola — `#educacao-infantil-e-determinante`, `#melhorar-a-educacao-sem-esperar-o-governo`, `#educacao-deixa-as-pessoas-conscientes`, `#educacao-nao-e-so-escola-inteligencias-multiplas`, `#arte-pode-ser-ensinada`, `#ninguem-se-liberta-sozinho`, `#aprender-a-escolher-taxonomia-de-bloom`, `#escola-e-lugar-de-amor`, `#escola-solta-ideias-como-arvore-solta-sementes`, `#motivos-para-escola`, `#educacao-como-empoderamento-foco-no-basico`, `#educacao-e-informacao-mais-experiencia`, `#plano-da-universidade-indigena`; sociedade, política e

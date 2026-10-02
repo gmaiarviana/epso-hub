@@ -12,6 +12,8 @@ Três etapas, cada uma com seu verbo:
 
 O usuário cola a transcrição bruta no chat; colar já é o pedido de registro. Se não vierem junto, perguntar numa só pergunta a data de gravação de cada áudio e a sua duração. A data nomeia o arquivo; a duração alimenta a localização de termos no degrau "reouvir".
 
+Texto colado sem pontuação, em bloco corrido, com marcas de fala ("né", repetições, palavras deformadas) é transcrição, mesmo sem aviso. Na dúvida, perguntar antes de analisar o conteúdo.
+
 Colagem longa pode chegar truncada: o chat corta mensagens acima de ~50 mil caracteres, sem aviso. Conferir o último marcador de tempo de cada transcrição contra a duração; se ficar muito aquém, pedir a colagem de novo antes de gravar.
 
 ## Registro do bruto

@@ -51,6 +51,10 @@ de baixo entra no `main`. Assim que ele entrar, rebasear a branch de cima em `or
 enviar com `git push --force-with-lease`, só em branch de feature própria. Conferir com
 `gh pr view <n> --json commits,files` que o PR mostra só o que é dele.
 
+**Conflito na cobertura:** `fontes/cobertura.md` é gerado, então todo PR paralelo conflita
+nele, e o conflito não se resolve à mão. Em cada commit do rebase que parar nele, rodar
+`python meta/cobertura.py`, `git add fontes/cobertura.md` e seguir com `git rebase --continue`.
+
 Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
 worktree é dispensável, e trabalha-se direto na branch designada pela sessão.
 

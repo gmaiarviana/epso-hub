@@ -14,21 +14,17 @@ relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem 
 para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
 relevante encaixada, dispensada ou semente.
 
-A onda anda em duas fases:
-
-1. **Triagem de relevância** — feita nos itens 1 a 7, 9 e 10: cada item ficou só com o
-   relevante, e as notas do que saiu foram para o Encaixar. Falta o item 8: cada linha dele
-   passa, triada, ao item dono do destino.
-2. **Encaixe**, uma sessão por item, em paralelo. Travas: o núcleo passa do item 2 ao 5, então
-   a parte de núcleo do item 5 espera o item 2; `quem-sou-eu.md` é um arquivo só, e as sessões
-   dele são sequenciais, por tema; o item 10 decide a casa antes de encaixar e, se for o núcleo,
-   entra na vez do núcleo. Cada sessão edita só o seu item nesta fila; `fontes/cobertura.md` se
-   regenera no merge.
+A triagem de relevância já rodou: cada item ficou só com o relevante, e as notas do que saiu
+estão no Encaixar. Agora a onda é o **encaixe**, uma sessão por item, em paralelo. Travas: o núcleo passa do item 2 ao 5, então
+a parte de núcleo do item 5 espera o item 2; `quem-sou-eu.md` é um arquivo só, e as sessões
+dele são sequenciais, por tema; o item 9 decide a casa antes de encaixar e, se for o núcleo,
+entra na vez do núcleo. Cada sessão edita só o seu item nesta fila; `fontes/cobertura.md` se
+regenera no merge.
 
 Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
 destino vira nota ao item dono. Os itens 1 a 4 já tiveram a primeira rodada; o que resta neles é a
-segunda (grupo no WhatsApp e textos passados a limpo). Os itens 5 a 10 são a onda 2. O destino de
+segunda (grupo no WhatsApp e textos passados a limpo). Os itens 5 a 9 são a onda 2. O destino de
 cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas seções se fundem
 com o que o destino já tem. As seções de `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md`
 são respostas à sessão de decisão e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa
@@ -101,6 +97,8 @@ o agente o refaz no briefing da sessão de decisão.
      `#avaliar-governo-e-medir-pelos-proprios-valores`.
    - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
      medição e precisão: `#orcamento-bom-e-o-que-se-aproxima-da-realidade`.
+   - `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md`:
+     `#uma-frase-simples-abre-inumeras-questoes` — desmontar uma frase comum, como formato.
    - Do ensaio (`ensaio-nao-somos-nosso-trabalho`): o sistema operacional das crenças → junto de
      `#crencas-e-palavras`, já em `filosofia/hipoteses/linguagem.md`. Crenças e valores é tema que
      o incorporador quer falar.
@@ -166,6 +164,9 @@ o agente o refaz no briefing da sessão de decisão.
      `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`. Sentido:
      `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`. Cuidado:
      `#ajudar-e-diferente-de-tentar-melhorar`, `#so-posso-dar-o-que-recebi`.
+   - Textos do livro: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
+     `#agir-pelo-que-nao-queremos-nos-torna-passivos`; de `fontes/documentos/2026-09-29-manifesto-eamom.md`,
+     vida e morte, tema candidato — `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`.
 6. **Lastro da comunicação** — dono de `instituicao/comunicacao/`. Lastro, não decisão: o que se
    escolhe fica para a sessão de decisão.
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): por que e o
@@ -182,6 +183,15 @@ o agente o refaz no briefing da sessão de decisão.
      `#ideias-se-aprofundam-conforme-o-envolvimento`, `#tres-temas-e-o-que-nao-sao`,
      `#politica-sao-os-acordos`, `#expor-as-fragilidades-para-aprender`; da filosofia
      (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#nada-novo-palavras-proprias` (tom base).
+   - Textos do livro: de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`, o dilema de ser
+     profundo sem divagar e a forma manifesto curto + explicação palavra por palavra (fusão com
+     explicar em níveis, do item 4); de `fontes/documentos/2026-09-29-organizacao.md` —
+     `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`; de
+     `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#o-titulo-pode-iludir-com-um-passo-a-passo`.
+   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`):
+     `#introducao-do-livro-quem-sou-eu` — "escrevo para os meus" (fusão com "falo para os meus",
+     em Chamados) e a lista de temas que o incorporador declarou (superação, paz, equilíbrio,
+     saúde, vida, natureza), a cruzar com os temas da linha editorial.
    - Conversa 2026-09-26 (`fontes/conversas/2026-09-26-o-epso-e-eu.md`), a voz:
      `#a-comunicacao-nasce-ligada-ao-epso`.
    - Transcrição 2026-10-01 (`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md`), estratégica para a sessão de decisão: o canal —
@@ -225,93 +235,18 @@ o agente o refaz no briefing da sessão de decisão.
      `#sou-uma-pessoa-de-visao`; direção → `contexto/direcao.md` —
      `#meu-compromisso-e-passar-repertorio-e-caminhos-vividos`; liderança —
      `#cultura-filosofia-e-processo-para-mudar-empresas`.
-8. **Textos da pasta Livro → itens donos** — não há livro agora: livro é um formato de
-   transmissão, e o hub centraliza as ideias (`fontes/conversas/2026-10-01-o-livro-e-um-formato.md`).
-   Os textos da pasta Livro são fonte como qualquer outra. Este item não é dono de arquivo: na
-   triagem de relevância, cada linha abaixo passa ao item dono do destino, e o item sai. Os
-   planos de livro (os três livros de 2022, a estrutura de 2024) não se encaixam: ficam as
-   ideias de dentro deles.
-   - → item 1: `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`.
-   - → item 2: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
-     `#capacidade-implica-possibilidade-e-sustentabilidade`, `#concordando-atuamos-nas-necessidades-basicas`,
-     `#reinventar-a-organizacao-capitalismo-sustentavel`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
-     `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`, que tensiona "o planeta acredita na
-     gente" (`#regeneracao-por-nos`, no Encaixar): o fato é o mesmo (o planeta não depende de nós; a
-     mudança é por nós), a relação muda — indiferente em 2022, cuidado e confiança em 2026.
-     A pergunta está no [elaborar](elaborar.md#quem-sou-eu); o encaixe espera a resposta. O
-     mesmo par aparece no grupo do WhatsApp: `#evolucao-e-um-fato-indiferente` × `#a-natureza-e-nossa-mae`
-     (no Encaixar).
-   - → item 4: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` — `#nos-comunicamos-e-estabelecemos-bases-em-comum`;
-     de `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#a-saude-e-uma-medida-que-conseguimos-concordar`;
-     de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#o-paradoxo-de-querer-economizar-energia`,
-     `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#lidamos-mal-com-tempo-e-linguagem`; de
-     `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` — `#qual-a-regua-para-escolher-as-bases`,
-     `#uma-frase-simples-abre-inumeras-questoes`, `#priorizar-a-pergunta-que-define-a-base`,
-     `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#comunicar-melhor-resolve-de-forma-sustentavel`;
-     de `fontes/documentos/2026-09-29-organizacao.md` — `#cuidado-ao-misturar-termos-reais-e-abstratos`;
-     de `fontes/documentos/2026-09-29-glossario.raw.md`, as definições de ciência, mentira,
-     verdade e "a verdade" (fusão com `#verdade-e-o-que-faz-sentido-para-cada-um`); do grupo
-     EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) —
-     `#prefacio-do-livro`: a percepção do corpo é limitada (luz e som fora do alcance); humildade
-     para perceber a realidade como ela é.
-   - → item 5: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` — `#sou-um-individuo-com-um-corpo-que-sente`,
-     `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#nao-eliminar-as-experiencias-ruins-classifica-las`,
-     `#agir-pelo-que-nao-queremos-nos-torna-passivos`, `#sobreviver-deixou-de-dar-sentido`,
-     `#talvez-nao-precisemos-de-um-objetivo`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`,
-     `#concordar-sobre-as-bases-da-vida`, `#o-homo-activus-convence-em-vez-de-guerrear`,
-     `#sapiens-praesenti-e-civili-coexistem` (as duas últimas com `#homo-evolutis-a-proxima-evolucao`
-     do WhatsApp); de `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#queremos-mudanca-mas-nao-concordamos-no-que`,
-     `#saude-como-modelo-de-representacao-da-vida`, `#queremos-mudanca-porque-queremos-mais-vida`,
-     `#a-morte-virou-tabu`, `#nao-lidar-com-a-morte-nos-faz-divergir`, `#queremos-a-vida-viver-o-agora`,
-     `#aprender-com-a-historia-e-os-outros-seres-vivos`, `#a-evolucao-e-inevitavel-ajudamos-ou-atrapalhamos`,
-     `#o-sentido-da-vida-e-a-evolucao`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
-     `#a-mudanca-interna-ja-muda-o-mundo`, `#quem-dificulta-acoes-se-conformou-com-a-morte`,
-     `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`,
-     `#toda-acao-ajuda-ou-atrapalha`; de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` —
-     `#preciso-estabelecer-bases-para-investigar`, `#sou-humano-ou-assim-fui-ensinado`,
-     `#valores-e-o-julgamento-entre-bem-e-mal`; de `fontes/documentos/2026-09-29-organizacao.md` —
-     `#o-ritmo-acelerado-desgasta-o-corpo`; de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`,
-     as fases do comportamento da sociedade (consciência → organização → evolução); de
-     `fontes/documentos/2026-09-29-glossario.raw.md`, a lista de termos sem definição — são as
-     bases da vida de `#concordar-sobre-as-bases-da-vida` — e os Homo Praesenti, Civili, Sapiens
-     e Activus; do grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) —
-     `#introducao-do-livro-quem-sou-eu` (formas e mensagens, o roteiro de *quem sou eu*) →
-     `quem-sou-eu.md`; `#estrutura-do-livro-manual-manifesto-conceitos`, os cinco conceitos
-     (camadas e dualismo, ilusão da separação, matéria e ideia, evolução e máxima eficiência,
-     unir-se para aumentar energia e consciência) → `a-tese.md`; `#prefacio-do-livro`, o corpo
-     como oráculo interno.
-   - → item 6: da conversa `fontes/conversas/2026-10-01-o-livro-e-um-formato.md` —
-     `#nao-ha-livro-agora-so-ideias`, `#produzir-recortar-compilar` (fusão com
-     `#intencao-objetivo-tema-e-proposta` do WhatsApp), `#o-livro-e-um-formato-de-transmissao`; de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`, o dilema de ser
-     profundo sem divagar e a forma manifesto curto + explicação palavra por palavra, que se
-     repete em `#prefacio-do-livro` e em `#estrutura-do-livro-manual-manifesto-conceitos` (os
-     dois livros de 2024); de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` —
-     `#o-subentendido-simplifica-mas-limita`; de `fontes/documentos/2026-09-29-organizacao.md` —
-     `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`,
-     `#nao-querer-profundidade-de-maneira-superficial`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
-     `#o-titulo-pode-iludir-com-um-passo-a-passo` (o título forte que promete uma receita);
-     do grupo EPSO no WhatsApp — `#introducao-do-livro-quem-sou-eu`, "escrevo para os meus"
-     (fusão com "falo para os meus", em Chamados), e `#e-assim-mudaremos-o-mundo`, a frase
-     como chamado candidato ou dispensa.
-   - → item 7: de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` — `#quem-escreve-e-quem-le-sao-humanos`
-     e `#maquinas-que-leem-o-que-e-um-ser-vivo` (IA no estudo); de `fontes/documentos/2026-09-29-organizacao.md` —
-     `#escrever-sem-esperar-autoridade` (trajetória). Da conversa 2026-10-01, `#o-doutorado-deve-render-um-livro`
-     → `estudo/academia/foco.md`, e `#a-trajetoria-rende-varios-livros` → `contexto/direcao.md`;
-     o "futura tese e livro" de [filosofia/cosmovisao/README.md](filosofia/cosmovisao/README.md)
-     já conversa com as duas.
-   - → item 9: de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` — `#reduzir-a-diversidade-para-evitar-conflito`
-     (sociedade, representação).
-   - Saem, por dispensa nos metadados: de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`,
-     o plano dos três livros (Organização, E assim mudamos o mundo, Moeda); do WhatsApp, a
-     sequência Manual/Manifesto/Conceitos/Apêndice de `#estrutura-do-livro-manual-manifesto-conceitos`.
-9. **Sem casa** — educação e sociedade ainda não têm lugar no acervo; a casa se decide no
+   - Textos do livro: de `fontes/documentos/2026-09-29-organizacao.md` —
+     `#escrever-sem-esperar-autoridade` → trajetória; da conversa
+     `fontes/conversas/2026-10-01-o-livro-e-um-formato.md` — `#a-trajetoria-rende-varios-livros`
+     → `contexto/direcao.md`.
+8. **Sem casa** — educação e sociedade ainda não têm lugar no acervo; a casa se decide no
    encaixe (hipótese nova, iniciativa ou arquivo existente).
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): educação —
      `#educacao-como-empoderamento-foco-no-basico`, `#plano-da-universidade-indigena`; sociedade e
      Estado — `#racismo-e-quando-se-normaliza`, `#estado-e-familia`.
    - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
      educação: `#estimular-a-reflexao-nao-dar-a-resposta-certa`.
-10. **Método — o desenvolvimento das etapas** — o método em quatro etapas (estabelecer bases →
+9. **Método — o desenvolvimento das etapas** — o método em quatro etapas (estabelecer bases →
    aceitar a realidade → imaginar → começar pequeno) já está no núcleo, Decidido
    ([Postura](instituicao/nucleo/README.md#postura)). Falta o desenvolvimento das etapas: decidir
    ao abrir se vai para o núcleo ou para `filosofia/`; se for o núcleo, entra na vez do núcleo.
@@ -365,7 +300,9 @@ Notas de seções que a triagem de relevância tirou do Foco; elas seguem penden
   2026-09-24.
 - "O planeta acredita na gente" (`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`)
   ficou fora do núcleo: é imagem, candidata à linha editorial; tensiona "o planeta não precisa
-  de nós" (item 8 do Foco): a pergunta está no [elaborar](elaborar.md#quem-sou-eu), e o encaixe
+  de nós"
+  (`fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`,
+  que também repete a nota do WhatsApp sobre mudar a maneira de pensar, no item 5): a pergunta está no [elaborar](elaborar.md#quem-sou-eu), e o encaixe
   espera a resposta. O mesmo par no grupo EPSO no WhatsApp
   (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): `#evolucao-e-um-fato-indiferente` ×
   `#a-natureza-e-nossa-mae`.
@@ -411,6 +348,57 @@ Notas de seções que a triagem de relevância tirou do Foco; elas seguem penden
 - Arte: `fontes/documentos/2026-09-29-aula-de-artes.raw.md` (notas de aula: confirmar se as
   ideias são próprias ou do professor) e `fontes/documentos/2026-09-29-apresentacao.raw.md`
   (roteiro de show; candidato a dispensa).
+
+- Conversa 2026-10-01 (`fontes/conversas/2026-10-01-o-livro-e-um-formato.md`): não há livro
+  agora — livro é um formato de transmissão, e o hub centraliza as ideias; os planos de livro
+  não se encaixam, ficam as ideias de dentro deles. `#nao-ha-livro-agora-so-ideias`, candidata
+  a dispensa (a decisão já vive aqui); `#produzir-recortar-compilar` → fusão com intenção,
+  objetivo, tema e proposta (item 6); `#o-livro-e-um-formato-de-transmissao` e
+  `#o-doutorado-deve-render-um-livro` → junto de "a trajetória rende vários livros" (item 7) e
+  do "futura tese e livro" de [filosofia/cosmovisao/README.md](filosofia/cosmovisao/README.md);
+  o doutorado → `estudo/academia/foco.md`.
+- `fontes/documentos/2026-09-29-readme-do-livro.raw.md`: dispensar nos metadados o plano dos
+  três livros (Organização, E assim mudamos o mundo, Moeda); as fases do comportamento da
+  sociedade (consciência → organização → evolução) → fusão com o ciclo da descoberta (item 5).
+- Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), textos do
+  livro: dispensar nos metadados a sequência Manual/Manifesto/Conceitos/Apêndice de
+  `#estrutura-do-livro-manual-manifesto-conceitos`; os cinco conceitos dela (camadas e
+  dualismo, ilusão da separação, matéria e ideia, evolução e máxima eficiência, unir-se para
+  aumentar energia e consciência) → checar fusão com `a-tese.md` e `quem-sou-eu.md`; o roteiro
+  de *quem sou eu* de `#introducao-do-livro-quem-sou-eu` repete o arco de `quem-sou-eu.md`:
+  checar fusão; `#prefacio-do-livro` — a percepção do corpo é limitada, humildade para perceber
+  a realidade como ela é, o corpo como oráculo interno; `#e-assim-mudaremos-o-mundo`, candidata
+  a dispensa (a frase solta que "o título pode iludir" critica).
+- Crise de sentido, um argumento só com a definição de depressão e ansiedade do WhatsApp (item
+  5): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
+  `#sobreviver-deixou-de-dar-sentido`, `#nao-eliminar-as-experiencias-ruins-classifica-las`,
+  `#a-mente-e-uma-ferramenta` (fusão com "você não é sua mente"); de
+  `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#escolher-entre-viver-e-morrer`,
+  `#a-mente-e-uma-maquina-de-encontrar-sentido`.
+- Vida e morte, o resto do tema (os representantes estão no item 5): de
+  `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#a-saude-e-uma-medida-que-conseguimos-concordar`
+  e `#saude-como-modelo-de-representacao-da-vida` (um argumento com "queremos mais vida"),
+  `#nao-lidar-com-a-morte-nos-faz-divergir`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
+  `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#quem-dificulta-acoes-se-conformou-com-a-morte`.
+- Estabelecer bases (item 9): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
+  `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`; a lista
+  de bases é a mesma de `fontes/documentos/2026-09-29-glossario.raw.md`, cujas definições de
+  ciência, mentira e verdade vão em fusão com "verdade é o que faz sentido para cada um"
+  (`a-realidade-como-ela-e`); de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` —
+  `#preciso-estabelecer-bases-para-investigar`.
+- Fusões dos textos do livro:
+  `fontes/documentos/2026-09-29-manifesto-homo-activus.md#reinventar-a-organizacao-capitalismo-sustentavel`
+  → "novo capitalismo" de [economia.md](filosofia/hipoteses/economia.md);
+  `fontes/documentos/2026-09-29-manifesto-homo-activus.md#agir-pelo-que-queremos` → junto do
+  par do item 5;
+  `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#filosofias-e-religioes-representam-o-mundo`
+  → "toda analogia é um mito" (item 4);
+  `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#o-paradoxo-de-querer-economizar-energia`
+  (frase sem fim) → `fontes/documentos/2026-09-29-organizacao.md#nao-querer-profundidade-de-maneira-superficial`;
+  `fontes/documentos/2026-09-29-organizacao.md#o-ritmo-acelerado-desgasta-o-corpo` → o convite
+  a desacelerar (item 6);
+  `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md#reduzir-a-diversidade-para-evitar-conflito`
+  → junto de racismo (item 8).
 
 ## 5. Backlog
 

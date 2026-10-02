@@ -26,7 +26,7 @@ Nesta ordem:
    a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
    Ao fechar um item, o que ficou de fora de uma fonte continua pendente na cobertura, e a nota
    que valha guardar volta ao Encaixar (ver [Fontes na fila](#fontes-na-fila)); o que fica só
-   na fonte, sem ser pendência, é dispensado ou declarado latente nos metadados dela.
+   na fonte, sem ser pendência, é dispensado ou declarado semente nos metadados dela.
 3. **Trabalhos em aberto** — refatoração e migração em curso. Mudança estrutural grande
    (mover pastas, renomear blocos) entra aqui antes de começar, quebrada em etapas por esforço,
    uma por PR, as de baixo custo primeiro.
@@ -47,7 +47,7 @@ Rotinas de criação de conteúdo ficam fora da fila ativa até o incorporador r
 
 O que falta encaixar está em [fontes/cobertura.md](../fontes/cobertura.md), gerado por
 [cobertura.py](cobertura.py): toda seção de toda fonte aparece pendente até ser encaixada,
-dispensada ou declarada latente, então nenhuma se perde por falta de registro na fila
+dispensada ou declarada semente, então nenhuma se perde por falta de registro na fila
 ([processo](processo-transcricoes.md#cobertura)).
 
 A fila guarda o que a cobertura não sabe: a prioridade (Foco) e as notas (Encaixar). Uma fonte

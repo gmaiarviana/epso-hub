@@ -31,7 +31,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-25-linguagem-e-ecocidades](../fontes/conversas/2026-09-25-linguagem-e-ecocidades.md) | completo | 5/5 |
 | [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado | 0/5 |
 | [2026-09-26-trabalho-e-novo-paradigma](../fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md) | parcial | 6/7 |
-| [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 7/9 |
+| [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 8/9 |
 | [2026-09-27-as-duas-teses-e-a-migracao](../fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md) | completo | 6/6 |
 | [2026-09-27-estrategia-e-frentes](../fontes/conversas/2026-09-27-estrategia-e-frentes.md) | completo | 1/1 |
 | [2026-09-27-mudar-de-emprego](../fontes/conversas/2026-09-27-mudar-de-emprego.md) | completo | 1/1 |
@@ -151,7 +151,6 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-27-a-construtora-e-o-epso
 
-- Foco, meta/next-steps.md: `#servidor-de-inferencia`
 - meta/next-steps.md, com parte já encaixada: `#tipos-de-sessao`
 
 ### 2026-09-27-o-nucleo-do-epso
@@ -179,8 +178,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-30-lastro-do-trabalho
 
-- Foco: `#dignidade-conforto-e-desperdicio`
-- meta/next-steps.md: `#o-acervo-nao-e-o-texto-publicado`
+- Foco: `#o-acervo-nao-e-o-texto-publicado`, `#dignidade-conforto-e-desperdicio`
 
 ### 2026-09-30-linguagem-intencao-e-hipotese
 
@@ -225,6 +223,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - Foco: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`, `#a-aversao-a-linguagem-extensa`, `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
 
-## Latentes
+## Sementes
 
-Ideias sem casa hoje, por decisão do incorporador. Não contam como pendência; revisitar quando nascer uma casa ou o contexto mudar.
+Ideias que podem agregar valor, ainda sem casa, por decisão do incorporador. Não contam como pendência; revisitar quando nascer uma casa ou o contexto mudar.
+
+### 2026-09-27-a-construtora-e-o-epso
+
+- `#servidor-de-inferencia` — interesse do EPSO (rodar IA própria localmente); só uma ideia, sem prioridade agora

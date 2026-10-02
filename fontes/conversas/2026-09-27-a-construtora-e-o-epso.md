@@ -1,3 +1,7 @@
+---
+sementes:
+  servidor-de-inferencia: interesse do EPSO (rodar IA própria localmente); só uma ideia, sem prioridade agora
+---
 # Conversa — a construtora e o EPSO
 
 *2026-09-27. Ideias que surgiram nesta conversa, na voz do incorporador, ao trazer do Drive o

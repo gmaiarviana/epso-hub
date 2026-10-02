@@ -14,7 +14,7 @@ Português, sempre.
 
 ## Formato dos arquivos
 
-Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições e documentos brutos em `fontes/documentos/` são exceção: mantêm o bloco de metadados descrito em [meta/processo-transcricoes.md](meta/processo-transcricoes.md).)
+Arquivos de conhecimento em Markdown puro, sem frontmatter YAML — o título é o `# H1`. (Transcrições e documentos brutos em `fontes/documentos/` são exceção: mantêm o bloco de metadados descrito em [meta/processo-transcricoes.md](meta/processo-transcricoes.md). Conversas em `fontes/conversas/` ganham bloco só para declarar seção dispensada ou semente, ver [cobertura](meta/processo-transcricoes.md#cobertura).)
 
 Documento bruto em `fontes/documentos/` preserva o texto na íntegra, com uma exceção: a anonimização, porque o repositório é público. Nomes de pessoas e referências internas de empresa e de cliente saem, trocados por rótulo entre colchetes (`[pessoa 1]`, `[empresa]`, `[cliente]`) e declarados no metadado `anonimizado`. Nomes de empregadores ficam quando descrevem a carreira; em documento interno (proposta, relato, e-mail), a empresa também sai. O original identificado fica fora do repositório. A anonimização acontece antes do primeiro push: num repositório público, branch enviada já é publicação.
 

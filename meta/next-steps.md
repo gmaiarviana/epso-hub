@@ -22,13 +22,10 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   ([processo](processo-transcricoes.md#passar-a-limpo-a-camada-limpa)). Insumo sem regra ainda: síntese
   do agente endossada pelo incorporador entrou marcada como "síntese do agente"
   (`fontes/conversas/2026-09-30-precisar-de-menos.md#compromisso-com-pessoas-nao-com-coisas`).
-- **Dispensar seção de conversa** — conversas em `fontes/conversas/` não têm bloco de
-  metadados, então os campos `dispensadas` e `latentes`
-  ([cobertura](processo-transcricoes.md#cobertura)) não se aplicam, e a seção decidida para
-  ficar só na fonte segue pendente. Casos:
-  `2026-09-27-a-construtora-e-o-epso.md#servidor-de-inferencia`,
-  `2026-09-30-lastro-do-trabalho.md#o-acervo-nao-e-o-texto-publicado` (já no `CLAUDE.md`, que
-  não cita fonte) e as seções já aplicadas no acervo que o Foco manda "citar no destino". Decidir a forma e ajustar `cobertura.py`.
+- **Semente guarda a ideia, não só o motivo** — o campo `sementes`
+  ([cobertura](processo-transcricoes.md#cobertura)) registra por que a seção ficou sem casa.
+  Para um argumento novo reencontrar o que foi dito antes, serviria um resumo da ideia numa
+  linha, com o tema. Sem urgência: custa processamento por seção.
 - **Mapa do documento institucional × tipos de sessão** — o
   [mapa](estrutura/mapa-documento-institucional.md) sobe o processo de sessão para o nível EPSO;
   `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#tipos-de-sessao` diz que os tipos de

@@ -14,15 +14,12 @@ relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem 
 para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
 relevante encaixada, dispensada ou semente.
 
-A onda anda em duas fases:
-
-1. **Triagem de relevância** — feita: cada item ficou só com o relevante, e as notas do que
-   saiu foram para o Encaixar. Os textos da pasta Livro passaram, triados, aos itens donos.
-2. **Encaixe**, uma sessão por item, em paralelo. Travas: o núcleo passa do item 2 ao 5, então
-   a parte de núcleo do item 5 espera o item 2; `quem-sou-eu.md` é um arquivo só, e as sessões
-   dele são sequenciais, por tema; o item 9 decide a casa antes de encaixar e, se for o núcleo,
-   entra na vez do núcleo. Cada sessão edita só o seu item nesta fila; `fontes/cobertura.md` se
-   regenera no merge.
+A triagem de relevância já rodou: cada item ficou só com o relevante, e as notas do que saiu
+estão no Encaixar. Agora a onda é o **encaixe**, uma sessão por item, em paralelo. Travas: o núcleo passa do item 2 ao 5, então
+a parte de núcleo do item 5 espera o item 2; `quem-sou-eu.md` é um arquivo só, e as sessões
+dele são sequenciais, por tema; o item 9 decide a casa antes de encaixar e, se for o núcleo,
+entra na vez do núcleo. Cada sessão edita só o seu item nesta fila; `fontes/cobertura.md` se
+regenera no merge.
 
 Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro

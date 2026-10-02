@@ -86,6 +86,32 @@ Estruturas rígidas que tiram qualquer uma das três não trazem o melhor do que
 Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career Vision`);
 `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#novas-instituicoes-e-rotina-autonoma`.
 
+## Liderança
+
+Uma liderança é alguém que tem atitude, dá o exemplo e conhece o processo. Tem uma visão, um
+objetivo, e age para alcançá-lo sem perder o foco. Tem sonhos grandes e consegue mobilizar,
+articular e engajar. Colabora com as pessoas e escuta opiniões diferentes; está disponível para
+mudar de opinião e aprender com as informações novas. Sabe se comunicar com audiências
+diferentes, em momentos e contextos diferentes. Sabe ouvir as pessoas e abraçá-las: dá
+confiança, faz com que se sintam importantes e pertencentes — um ambiente seguro para o
+feedback, com transparência e estímulo à excelência, como o que recebi de uma liderança no
+Nubank ([o autoconhecimento como motor](trajetoria.md#o-autoconhecimento-como-motor)).
+
+Para mudar uma empresa, atuo em três camadas — cultura, filosofia (crença, mentalidade) e
+processo: identificar as filosofias para fortalecer a cultura e aprofundar os processos para
+achar as dores que filosofias ineficientes provocam.
+
+Avaliar quem gere é olhar para as habilidades que se quer desenvolver: comunicação e clareza —
+o nível de detalhe certo para cada etapa e cada audiência, conciso e preciso —; atenção,
+organização e diligência; proatividade — antecipar problemas, perguntar —; e resposta ao
+feedback — entender onde errava e levar o aprendizado a situações diferentes. Essa avaliação
+é subjetiva e pede insumo: feita de forma espaçada, em checkpoints, deixa ver a evolução.
+
+Fontes: `fontes/conversas/2026-10-02-encaixe-contexto.md#o-que-é-uma-liderança`;
+`fontes/documentos/2026-09-27-carta-ex-lider.raw.md`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#cultura-filosofia-e-processo-para-mudar-empresas`;
+`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md#avaliar-pelas-habilidades-do-gestor`.
+
 ## Longo prazo
 
 Construir a reputação que dá acesso a decisões em escala. Os caminhos — empreender, pesquisa
@@ -103,7 +129,7 @@ Fundar a própria empresa é vontade antiga; o que trava é tempo e dinheiro.
 O objetivo de carreira: gastar energia e tempo em lugares que me aproximem das
 [iniciativas](../instituicao/iniciativas/README.md) do EPSO, para um dia trabalhar no EPSO como
 um todo, unindo-as. Trabalhando nelas, entrego tudo o que tenho para entregar: cobrem o que
-acredito sobre a vida.
+acredito sobre a vida. Enquanto isso, trabalho nelas em paralelo — e já trabalho.
 
 A trajetória deve render vários livros — às vezes a mesma mensagem com palavras, ritmos,
 analogias e frequências diferentes de transmissão; às vezes mensagens novas (o doutorado, um

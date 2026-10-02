@@ -66,14 +66,16 @@ Fonte: `fontes/documentos/2026-09-30-palestra-pdi.raw.md` (Atos 1 a 3).
 
 ### Por que saí da construção
 
-O futuro do trabalho precisa de gente que entenda de dados. A construção no Brasil usa
+Entendi que o mundo mudou e que as expectativas de trabalho mudaram: o futuro do trabalho
+precisa de gente que entenda de dados. A construção no Brasil usa
 metodologias construtivas de mais de cinquenta anos: se viesse uma inovação, eu fatalmente
 seria substituído. Somavam-se a instabilidade — o fim da obra é o fim do emprego —, a
 dependência da política e da economia, a insalubridade, o risco de assalto, a baixa qualidade
 de vida, muito estresse e pouco dinheiro. E, principalmente, eu colaborava com o
 desenvolvimento insustentável das cidades.
 
-Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#por-que-saí-da-construção-civil`.
+Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#por-que-saí-da-construção-civil`;
+`fontes/documentos/2026-09-30-palestra-pdi.raw.md` ("Sobre mim - decidi trocar de área").
 
 ### O autoconhecimento como motor
 

@@ -83,11 +83,17 @@ nosso cérebro coletivo. A proposta desse próximo passo vive em
 [inteligência potencializada](inteligencia-potencializada.md).
 
 É este o salto de que fala a [tese](../cosmovisao/a-tese.md): assim como a escrita foi um
-salto antes, a tecnologia da informação é o de agora.
+salto antes, a tecnologia da informação é o de agora. Hoje temos uma rede de comunicação que
+nos permite cooperar num nível nunca visto: países e culturas cada vez mais próximos e
+interligados. Dá para aproveitar as vantagens disso, em vez de só sofrer as consequências —
+e quando entendermos que somos capazes de colaborar de verdade uns com os outros, a
+humanidade vai dar passos ainda maiores na resolução dos nossos problemas. Yuval Noah Harari
+é referência aqui.
 
 Fonte: [24/9]`#tecnologias-da-informacao`; [26/6 tese]`#da-oralidade-a-escrita`,
 `#a-escrita-expandiu-o-processamento`; `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#o-som-que-vira-sentido`,
-`#a-energia-poupada-é-para-aprofundar`.
+`#a-energia-poupada-é-para-aprofundar`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#a-rede-de-comunicacao-permite-cooperar-como-nunca`.
 
 ## O limite de agora: falamos em camadas
 
@@ -124,6 +130,20 @@ ilustração e de exercício.
 Fonte: [24/9]`#camada-de-conceitos`, `#espectro-de-camadas`, `#we-had-a-good-time`;
 `fontes/conversas/2026-09-25-linguagem-e-ecocidades.md#dois-eixos-que-se-relacionam`.
 
+Uma frase comum mostra a elaboração na prática: "com a Primeira Revolução Industrial, no
+século XVIII, as pessoas melhoraram sua qualidade de vida". Está errada, falsa? De início,
+entende-se que fala de tecnologias aplicadas em larga escala, que trouxeram benefícios para
+milhões de pessoas. Mas a conclusão fica superficial diante das perguntas que a frase abre.
+No século XVIII, poucos países tiveram condições de criar indústrias; a melhoria chegou a uma
+parcela limitada do globo, e sobretudo a quem vinha de famílias tradicionais. Em outros
+continentes, os produtos das indústrias se tornaram acessíveis e pouparam horas de trabalho —
+mas culturas foram alteradas, e o conceito de progresso e civilização usurpou o direito de
+diversos povos de continuar com suas crenças e estilos de vida. Uma oração de duas frases abre
+inúmeras reflexões valiosas. Quais questões trazem maior conflito? Quais palavras causam dor e
+ambiguidade? Como mudar a frase para passar a mensagem com mais eficiência?
+
+Fonte: `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md#uma-frase-simples-abre-inumeras-questoes`.
+
 ### Atalhos
 
 Na fala do dia a dia usamos atalhos. "Vou lá em cima pegar um copo d'água" dispensa descrever
@@ -132,7 +152,13 @@ O mesmo vale para palavras amplas: "we had a good time" dito sobre o tempo de co
 uma ponte foi ouvido como o tempo gostoso que passamos juntos. A consciência que falta é saber
 que algumas palavras e expressões pedem complemento.
 
-Fonte: [24/9]`#atalhos-la-em-cima`, `#we-had-a-good-time`.
+O sol é um mito. Dizemos que nasce e se põe, que está quente ou forte, que hoje é dia de sol.
+O sol é o mesmo; o que muda é o nosso ambiente e as nossas percepções. Sabemos da realidade,
+mas dizer "errado" facilita, e todos entendem. Toda analogia é um mito — e toda analogia, como
+todo mito, se constitui de ideia e de matéria.
+
+Fonte: [24/9]`#atalhos-la-em-cima`, `#we-had-a-good-time`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#toda-analogia-e-um-mito`.
 
 ### Onde a comunicação falha
 
@@ -153,13 +179,25 @@ não condiz com a realidade — me iludo. São sempre fragmentos, construções,
 para treinar não se identificar com o resultado e validar se ele faz sentido (ver
 [precisão](precisao.md): as leituras são mais ou menos precisas).
 
+Comunicar é transformar sentimento em mensagem. A transformação tem base no repertório, na
+cosmovisão de quem comunica; toda transformação pode ter falhas, e existem transformações mais
+e menos eficientes. A mais eficiente busca o equilíbrio entre matéria e ideia, entre o
+concreto e o abstrato — o mesmo eixo de equilíbrio da [precisão](precisao.md#mais-preciso-menos-preciso):
+assim se aproxima da maior quantidade de verdades possível e alcança outras pessoas.
+
+A falha na comunicação nunca é causa, sempre consequência: é a manifestação de um
+desalinhamento de expectativas.
+
 Nomear é também o caminho de volta: pela linguagem se racionaliza o que se sente, e assim a
 gente se acessa mais fluidamente. Muitas terapias já dizem isso; o papel aqui é organizar, não
-inventar a roda.
+inventar a roda. A [arte](arte.md) faz o outro caminho: transmite o sentir sem passar pelo
+nome.
 
 Fonte: [24/9]`#do-sentir-ao-comunicar`, `#falhas-na-comunicacao`, `#nomear-para-acessar`;
 `fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
-`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`.
+`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#comunicacao-e-transformar-sentimento-em-mensagem`,
+`#a-falha-de-comunicacao-e-consequencia`.
 
 ## A direção: precisa sem perder a cor
 
@@ -197,7 +235,7 @@ Fonte: [24/9]`#precisao-e-brincadeira`, `#espectro-de-camadas`; [22/9]`#linguage
 Muita gente já estuda como falar com mais intenção: a programação neurolinguística (PNL), a
 neurociência.
 
-Fonte: [26/6 tese]`#linguagem-com-intencao`, `#crencas-e-palavras`;
+Fonte: [26/6 tese]`#linguagem-com-intencao`;
 `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#comunicar-com-mais-intenção`.
 
 ## Comunicar na camada que o outro alcança
@@ -207,10 +245,60 @@ necessários para ela. Mas a responsabilidade não é só de quem não capta. Qu
 comunicar de maneira adequada para todo mundo, começando pela camada mais básica — a
 material, sobre a qual ninguém tem dúvida.
 
-Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#comunicar-para-todos`.
+A linguagem que conecta é a humana: a que fala em primeira pessoa, pessoal.
+
+Falamos ao outro aquilo que queremos reforçar para nós mesmos. Quando algo já está muito
+consolidado para a gente, às vezes nem tentamos explicar ao outro — talvez porque explicar
+desafie a falar de maneira mais simples. Então, mesmo evoluindo, vale buscar a maneira mais
+simples de falar.
+
+Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#comunicar-para-todos`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#a-linguagem-que-conecta-e-a-pessoal`,
+`#falamos-ao-outro-o-que-queremos-reforcar`.
 
 Referência reconhecida como chão: **Paulo Freire** — escutar o valor por trás das palavras,
 recusar tratar o outro como recipiente vazio, inclusão radical, consciência das limitações.
+
+## Crenças: o sistema operacional
+
+A colaboração que a [tese](../cosmovisao/a-tese.md) pede tem efeitos práticos, materiais, mas
+o prático material depende do imaterial: as narrativas, as histórias, as crenças. E essas
+crenças são transmitidas através de palavras.
+
+Nosso sistema racional parece exigir algumas configurações básicas para funcionar: primeiro
+estabelecer um contexto, entender onde estamos, para então processar novas informações. Dar
+sentido às coisas não é bônus, é necessidade — como um computador precisa de um sistema
+operacional que defina as regras e conduza o funcionamento. Em geral, absorvemos as crenças
+dos pais e da família; na escola, conhecemos outras pessoas e ideologias e vamos instalando
+atualizações, pelo que faz mais sentido — a linha de raciocínio mais consistente com as
+evidências que coletamos.
+
+Qualquer que seja o sistema instalado, algo está lá. Todos acreditamos em algo, consciente ou
+inconscientemente: um Deus, a ciência, o niilismo, um time de futebol, o dinheiro, um
+posicionamento político, a família. Até quem diz não acreditar em nada acredita na crença de
+que não acredita em nada. E como o sistema costuma ter um nome, uma forma específica,
+questionar essa entidade que dá significado aos eventos da vida arrisca causar pane. Por isso
+muita gente evita assuntos difíceis, ou se ofende quando a sua base é questionada: não
+suportamos ficar sem sentido, e é custoso encontrar sentido no que difere do padrão da própria
+sociedade — não somos estimulados a isso.
+
+A vida parece um grande open-source, que entendemos melhor a cada atualização. Cada
+descoberta traz uma funcionalidade nova e pede revisar conceitos montados com dados antigos. A
+comunicação é parte central disso: a ilustração, a maneira de transformar o conceito novo em
+aplicação prática, e ela muda com a época — hoje falamos de corpo e mente como hardware e
+software; há cem anos, o corpo era uma máquina; na Grécia antiga, a mente era uma folha em
+branco. São [mitos](#atalhos) no mesmo sentido do sol que nasce.
+
+Todas as culturas, desde a origem da humanidade, aprimoram suas visões de mundo. Temos
+dificuldade de unir as melhores partes de cada uma porque a maneira como foram concebidas e
+transmitidas tinha limitações que dificultam escalar: com linguagens e estruturas de
+pensamento diferentes, a maioria não consegue interpretar como as crenças são construídas por
+dentro. Para entender humanos de outras culturas, épocas e visões de mundo, mais do que um
+raciocínio lógico, é preciso uma conexão empática.
+
+Fonte: [26/6 tese]`#crencas-e-palavras`;
+`fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md` ("Atualizando o sistema
+operacional").
 
 ## Por baixo das palavras: a mensagem
 
@@ -244,6 +332,10 @@ e dentro dele as doutrinas. Com as divergências nítidas, decide-se caso a caso
 entendimento do que diverge, ou deixar a divergência de lado quando ela não influi naquela
 discussão, naquela situação.
 
+Por isso as discussões são ineficientes quando giram em torno de concordar ou discordar, ser a
+favor ou contra um argumento. A consciência evolui com empatia, com entendimento da realidade,
+acompanhando o raciocínio: quais conceitos, premissas e crenças compõem aquele argumento.
+
 **Intenção** é o que se quer alcançar, e a definição vale em todos os usos. Por baixo das
 palavras há uma mensagem, e quem fala tem a intenção de transmiti-la — o terreno da
 semiótica. Falar com mais intenção é saber o que se quer alcançar ao falar. O que quem fala
@@ -256,7 +348,8 @@ Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-li
 `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstracao`;
 `fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
 `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#intenção-é-o-que-queremos-alcançar`,
-`#culturas-podem-falar-e-podem-não-falar`.
+`#culturas-podem-falar-e-podem-não-falar`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#discussoes-de-concordar-ou-discordar-sao-ineficientes`.
 
 ## Em aberto
 

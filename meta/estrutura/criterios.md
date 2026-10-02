@@ -21,6 +21,9 @@ os blocos separam assuntos.
   a tese — a crença argumentada — mora na filosofia. O manifesto deriva do núcleo e mora na
   instituição; a tese de doutorado, que reúne as teses em termos acadêmicos, mora em estudo.
 - **Comunicação** — as vozes do incorporador e do EPSO são uma só por enquanto.
+- **Iniciativas × comunidades** — a iniciativa é o que se faz; a comunidade é com quem e para
+  quem. A comunidade usa ferramenta: o painel, o fórum, a votação são das ferramentas livres; a
+  comunidade guarda o para quê e como as pessoas se juntam.
 - **Contexto** — onde o incorporador está (carreira, empresa atual, lastro, momento). O que é
   logística de estudo fica em estudo; o contexto dá o porquê.
 

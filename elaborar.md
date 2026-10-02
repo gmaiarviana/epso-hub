@@ -122,6 +122,18 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   transformada, uma rede de vilas, ou as duas? Se o seu bairro virasse ecocidade, o que mudaria
   primeiro?* → [ecocidades](filosofia/hipoteses/ecocidades.md)
 
+### Precisar de menos
+
+- **Compromisso com pessoas, não com coisas.** Sobre a piscina você disse: trabalho não é ruim;
+  o peso é o compromisso de longo prazo com coisas. Sobre comunidade: envolve compromisso,
+  estar ali porque gosta e quer. O agente juntou as duas numa frase — compromisso com pessoas,
+  sim; com coisas, não —, e você disse que sim, mas quer pensar melhor antes de virar regra.
+  Exemplo: uma horta comunitária é coisa (pede rega todo dia) e é gente (quem planta junto).
+  *A frase vale como regra? Onde ela falha — quando cuidar de uma coisa é, no fundo, cuidar de
+  pessoas?* → [precisar de menos](filosofia/hipoteses/precisar-de-menos.md#a-comunidade-no-lugar-do-contrato).
+  Fonte: `fontes/conversas/2026-09-30-precisar-de-menos.md#compromisso-com-pessoas-não-com-coisas`
+  (síntese do agente).
+
 ### Inteligência potencializada
 
 - **Modelo ou sistema.** Um chatbot de IA é um modelo treinado que responde de jeito pouco
@@ -190,6 +202,16 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 - **Perguntas curtas.** Ajuda opcional para o núcleo: princípios inegociáveis, o que o EPSO não
   é, e respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos
   quando alguém não contribui?". → [núcleo](instituicao/nucleo/README.md)
+
+### Comunidades
+
+- **Como as pessoas mudam pelo que você faz.** Em 2020 você anotou só a pergunta: como as
+  pessoas mudam ou se transformam como resultado do que você faz? Exemplo: alguém lê um post
+  seu sobre precisar de menos. O que seria sinal de que mudou — cancelou uma assinatura, foi a
+  um encontro, começou a medir a água de casa, só passou a pensar diferente? *Que mudança você
+  quer ver em quem se aproxima, e como saberia que ela aconteceu?* →
+  [comunidades](instituicao/comunidades/README.md#quem-se-aproxima). Fonte:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#como-as-pessoas-mudam-pelo-que-voce-faz`.
 
 ### Iniciativas
 

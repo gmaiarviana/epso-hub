@@ -6,6 +6,10 @@ maneira palpável e simples, para que se repliquem; e catalogar as soluções li
 já existem, do software ao cultivo da terra e à construção, com casos de uso de transformação de
 hábitos. O ponto é a navegabilidade: como encontrar a informação e a ferramenta.
 
+O que circula é trocado em [comunidade](../comunidades/README.md): experiências,
+conhecimentos, sabedorias, ferramentas, técnicas e metodologias, fornecedores e práticas que
+levem a comportamentos mais sustentáveis.
+
 ## Por necessidade
 
 Parte das necessidades — comer, dormir, processar a comida e destinar os resíduos (orgânicos,
@@ -37,5 +41,7 @@ fazendo.
 
 Fontes: `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-3-conhecimento`;
 `fontes/transcricoes/2026-07-04-estrategia-profissional.md#sequenciamento-iniciativas`;
+`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#comunidade-que-compartilha-praticas-sustentaveis`,
+`#economia-puxada-pela-demanda`;
 `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`;
 `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career Vision`).

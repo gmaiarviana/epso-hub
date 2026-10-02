@@ -20,7 +20,16 @@ Um discurso transcrito pode ter cada expressão calibrada — pelo autor ou pelo
 "Deus é amor": o que é Deus, o que é amor, o que é "Deus é amor", e por que se diz isso.
 
 Inclui a mediação de debates: transcrição simultânea, termômetro de concordância e ilustrações,
-para chegar a uma conclusão acordada entre os lados.
+para chegar a uma conclusão acordada entre os lados. Primeiro se estabelecem os valores e as
+crenças em comum, o que fortalece os argumentos e os objetivos de cada lado. Depois, quem ouve
+dá o retorno visual do que concorda, num espectro — concordo plenamente, concordo parcialmente,
+discordo parcialmente, discordo completamente, mais não conheço, impreciso e falso: menos
+interrupções desnecessárias, quem fala vê o que o outro concorda, e quem ouve presta atenção,
+os dois em sintonia. Os encontros onde isso acontece são das
+[comunidades](../../comunidades/README.md#o-encontro-debate-que-converge).
+
+Na mesma direção, tirar a forma da mensagem: não ficar preso à expressão do símbolo, mas ao que
+ele quer dizer; não ficar preso às palavras dos mitos, mas ao que querem representar.
 
 ## Produtos
 
@@ -47,4 +56,6 @@ Fontes: `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#iniciativa-4-abstr
 `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#plataforma-e-autoridade`;
 `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#iniciativa-quatro-e-o-paper-agent`;
 `fontes/documentos/2026-09-27-proposito-epso.raw.md` (mediação de debates);
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#debate-com-feedback-visual-de-concordancia`;
+`fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md#tirar-a-forma-da-mensagem`;
 `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career Vision`).

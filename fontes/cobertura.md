@@ -52,6 +52,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
 | [2026-10-01-o-livro-e-um-formato](../fontes/conversas/2026-10-01-o-livro-e-um-formato.md) | não iniciado | 0/5 |
 | [2026-10-01-semente-e-dispensa](../fontes/conversas/2026-10-01-semente-e-dispensa.md) | completo | 2/2 |
+| [2026-10-01-temas-favoritos](../fontes/conversas/2026-10-01-temas-favoritos.md) | não iniciado | 0/1 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -196,6 +197,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-10-01-o-livro-e-um-formato
 
 - Foco: `#nao-ha-livro-agora-so-ideias`, `#produzir-recortar-compilar`, `#o-livro-e-um-formato-de-transmissao`, `#o-doutorado-deve-render-um-livro`, `#a-trajetoria-rende-varios-livros`
+
+### 2026-10-01-temas-favoritos
+
+- instituicao/next-steps.md: `#temas-favoritos`
 
 ### 2026-09-29-a-realidade-como-ela-e
 

@@ -62,7 +62,7 @@ Cada processo específico tem seu próprio documento, carregado quando o fluxo �
 
 ## Postura
 
-Entender antes de fazer: questionar as premissas antes de propor solução — por que isso é um problema, por que agora, o que sustenta o comportamento atual. Discutir antes de executar.
+Entender antes de fazer: questionar as premissas antes de propor solução — por que isso é um problema, por que agora, o que sustenta o comportamento atual. Discutir antes de executar. Cada proposta diz, numa linha, o que ganha para o objetivo da sessão; mecanismo que não mostra ganho não entra. Diante da dúvida, a forma mais simples que resolve o caso real.
 
 O acervo não é o texto publicado. Ao encaixar, não suavizar termos nem evitar referências por
 receio da reação de um público (nomear um autor, usar a palavra do incorporador): o cuidado

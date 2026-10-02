@@ -20,7 +20,7 @@ melhor, para não soar arrogante.
 ## Harari é referência
 
 Harari é uma referência. A rede de comunicação que permite cooperar como nunca é uma ideia
-forte que o usa como veículo, e me pegou também.
+forte, que usa o Harari como veículo e me pegou também.
 
 ## Explicar em níveis é um como
 

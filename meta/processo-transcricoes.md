@@ -83,7 +83,7 @@ Passos do encaixe:
 - Ler o conteúdo que já existe no destino com atenção.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
-- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada, ficou latente ou continua pendente na [cobertura](#cobertura), com nota no tier Encaixar do [next-steps da raiz](../next-steps.md) quando houver destino ou ressalva a guardar. Só então o item de encaixe sai da fila.
+- Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada, virou semente ou continua pendente na [cobertura](#cobertura), com nota no tier Encaixar do [next-steps da raiz](../next-steps.md) quando houver destino ou ressalva a guardar. Só então o item de encaixe sai da fila.
 - Encaixe parcial de uma seção: a mesma mudança que encaixa uma ideia registra na fila as que ficaram, nomeadas. A cobertura não enxerga ideia dentro da seção — este é o único momento em que a sobra aparece.
 - Conferir ideia a ideia, não só seção a seção: uma seção citada pode ter perdido ideias na síntese. Antes de declarar o encaixe pronto, reler cada seção e procurar cada ideia no destino; o que se perdeu volta ao texto, vira provocação ou ganha destino na fila. A conferência vai para o incorporador como tabela de cobertura (seção → onde ficou).
 
@@ -106,19 +106,19 @@ Em aberto:
 [fontes/cobertura.md](../fontes/cobertura.md), gerado por `python meta/cobertura.py`, mostra, por fonte — transcrições, conversas e documentos —, o estado geral e as seções ainda não concluídas. Os estados:
 
 - **encaixada** — citada no acervo (ou em `meta/`, ou no [elaborar](../elaborar.md)); uma seção pode servir a mais de um arquivo. Não aparece nas pendências; onde mora se acha buscando a âncora;
-- **pendente** — ainda não encaixada, dispensada nem latente. Aparece com o tier quando a fila a cita (Foco, Encaixar); a seção encaixada em parte, com o resto numa nota da fila, também aparece assim;
-- **dispensada** — sem ideia, ou a ideia já mora no acervo. Definitiva: não se revisita;
-- **latente** — tem ideia, mas não tem casa hoje. Sai das pendências e vai à lista de latentes, no fim da cobertura, para ser revisitada quando nascer uma casa ou o contexto mudar. Não é depósito para zerar a cobertura: só se decide no encaixe, com o acervo à vista.
+- **pendente** — ainda não encaixada, dispensada nem semente. Aparece com o tier quando a fila a cita (Foco, Encaixar); a seção encaixada em parte, com o resto numa nota da fila, também aparece assim;
+- **dispensada** — não agrega valor ao repositório: sem ideia (abertura de fala, logística, índice). Ideia que já mora no acervo não se dispensa: cita-se a fonte no destino. Definitiva: não se revisita;
+- **semente** — ideia que pode agregar valor, ainda sem casa — imatura, ou de um tema que o acervo não trata. Sai das pendências e vai à lista de sementes, no fim da cobertura, para ser revisitada quando nascer uma casa ou o contexto mudar: um argumento novo pode se ligar ao que foi dito antes, quando ainda não estava maduro. Não é depósito para zerar a cobertura: só se decide no encaixe, com o acervo à vista.
 
-As duas moram nos metadados da própria fonte, com o motivo, sem tocar no conteúdo:
+As duas moram nos metadados da própria fonte, com o motivo, sem tocar no conteúdo. Conversa (`fontes/conversas/`), que não tem bloco de metadados, ganha um bloco só com esses campos quando precisar:
 
 ```yaml
 dispensadas:
   primeira-tentativa: abertura da fala, sem ideia
-latentes:
+sementes:
   justica-x-liberdade: pergunta sobre sociedade; sem hipótese de sociedade hoje
 ```
 
-Documento bruto, contado por arquivo, usa `dispensada: motivo` ou `latente: motivo`. Só o incorporador dispensa ou declara latente.
+Documento bruto, contado por arquivo, usa `dispensada: motivo` ou `semente: motivo`. Só o incorporador dispensa ou declara semente.
 
 Para elaborar um tema, o agente lê as fontes à procura do que fala dele e consulta a cobertura para saber o que já está no acervo e o que ainda está só na fonte — esse segundo grupo fortalece o encaixe.

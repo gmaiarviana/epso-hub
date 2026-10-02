@@ -5,9 +5,9 @@ Uso, da raiz do repositório:  python meta/cobertura.py
 Estados de uma seção (ver meta/roadmap.md e meta/processo-transcricoes.md):
   encaixada  — citada em arquivo fora de fontes/ que não é next-steps (acervo, meta/, elaborar);
   dispensada — declarada no campo `dispensadas` dos metadados da fonte (documento bruto
-               inteiro: campo `dispensada`): sem ideia, ou a ideia já mora no acervo;
-  latente    — declarada no campo `latentes` (documento bruto inteiro: `latente`): tem ideia,
-               sem casa hoje; sai das pendências e vai à lista de latentes;
+               inteiro: campo `dispensada`): não agrega valor ao repositório;
+  semente    — declarada no campo `sementes` (documento bruto inteiro: `semente`): ideia que pode
+               agregar valor, ainda sem casa; sai das pendências e vai à lista de sementes;
   pendente   — nenhum dos anteriores; com o tier quando algum next-steps.md a cita.
 
 Uma citação vale para a fonte mencionada no mesmo bloco (parágrafo ou item de lista, com os
@@ -36,13 +36,13 @@ def ler(caminho):
 
 
 def metadados(texto):
-    """Devolve (titulo, dispensadas, latentes) do bloco YAML do topo; parser mínimo, sem
+    """Devolve (titulo, dispensadas, sementes) do bloco YAML do topo; parser mínimo, sem
     dependências. O documento inteiro fica sob a chave "*"."""
     m = re.match(r"---\n(.*?)\n---", texto, re.S)
-    titulo, dispensadas, latentes, dentro = "", {}, {}, None
+    titulo, dispensadas, sementes, dentro = "", {}, {}, None
     if not m:
-        return titulo, dispensadas, latentes
-    campos = {"dispensada": dispensadas, "latente": latentes}
+        return titulo, dispensadas, sementes
+    campos = {"dispensada": dispensadas, "semente": sementes}
     for linha in m.group(1).splitlines():
         if dentro is not None:
             sub = re.match(r"\s+([^:]+):\s*(.*)", linha)
@@ -55,9 +55,9 @@ def metadados(texto):
         for campo, destino in campos.items():
             if linha.startswith(campo + ":"):
                 destino["*"] = linha.split(":", 1)[1].strip()
-        if linha.startswith(("dispensadas:", "latentes:")):
-            dentro = dispensadas if linha.startswith("dispensadas:") else latentes
-    return titulo, dispensadas, latentes
+        if linha.startswith(("dispensadas:", "sementes:")):
+            dentro = dispensadas if linha.startswith("dispensadas:") else sementes
+    return titulo, dispensadas, sementes
 
 
 def fontes():
@@ -75,12 +75,12 @@ def fontes():
                 continue
             caminho = f"{pasta}/{nome}"
             texto = ler(caminho)
-            titulo, dispensadas, latentes = metadados(texto)
+            titulo, dispensadas, sementes = metadados(texto)
             if not titulo:
                 h1 = re.search(r"^# (.+)$", texto, re.M)
                 titulo = h1.group(1).strip() if h1 else ""
             fonte = {"caminho": caminho, "base": base, "slug": base[11:], "titulo": titulo,
-                     "dispensadas": dispensadas, "latentes": latentes, "documento": bruto}
+                     "dispensadas": dispensadas, "sementes": sementes, "documento": bruto}
             if fonte["documento"]:
                 fonte["secoes"] = []
             else:
@@ -92,10 +92,10 @@ def fontes():
     for nome in sorted(os.listdir(os.path.join(RAIZ, "fontes/transcricoes/raw"))):
         base = nome[: -len(".raw.md")] if nome.endswith(".raw.md") else None
         if base and base not in limpas:
-            titulo, dispensadas, latentes = metadados(ler(f"fontes/transcricoes/raw/{nome}"))
+            titulo, dispensadas, sementes = metadados(ler(f"fontes/transcricoes/raw/{nome}"))
             lista.append({"caminho": f"fontes/transcricoes/raw/{nome}", "base": base,
                           "slug": base[11:], "titulo": titulo, "dispensadas": dispensadas,
-                          "latentes": latentes, "documento": True, "secoes": []})
+                          "sementes": sementes, "documento": True, "secoes": []})
     return lista
 
 
@@ -227,8 +227,8 @@ def estado_secao(f, s):
         return "fila", fila
     if s in f["dispensadas"]:
         return "dispensada", ""
-    if s in f["latentes"]:
-        return "latente", ""
+    if s in f["sementes"]:
+        return "semente", ""
     return "pendente", "sem nota na fila"
 
 
@@ -238,14 +238,14 @@ def resumo(f):
             ["na fila"] if f["fila_arquivo"] else [])
         if not partes and "*" in f["dispensadas"]:
             return "dispensado", "—"
-        if not partes and "*" in f["latentes"]:
-            return "latente", "—"
+        if not partes and "*" in f["sementes"]:
+            return "semente", "—"
         return "; ".join(partes) or "pendente", "—"
     estados = [estado_secao(f, s)[0] for s, _ in f["secoes"]]
     total = len(estados)
     encaixadas = sum(1 for s, _ in f["secoes"]
                      if f["acervo"][s] and not f["fila"][s]) + estados.count("dispensada") + (
-        estados.count("latente"))
+        estados.count("semente"))
     if encaixadas == total:
         rotulo = "completo"
     elif estados.count("encaixada") == 0:
@@ -284,7 +284,7 @@ def gerar():
     for f in lista:
         if f["documento"]:
             if not (f["acervo_arquivo"] or f["fila_arquivo"] or "*" in f["dispensadas"]
-                    or "*" in f["latentes"]):
+                    or "*" in f["sementes"]):
                 pendentes += 1
                 linhas += ["", f"### {f['base']}", "", "- pendente, sem nota na fila"]
             continue
@@ -297,16 +297,16 @@ def gerar():
         if grupos:
             linhas += ["", f"### {f['base']}", ""]
             linhas += [f"- {g}: " + ", ".join(ss) for g, ss in sorted(grupos.items())]
-    linhas += ["", "## Latentes", "",
-               "Ideias sem casa hoje, por decisão do incorporador. Não contam como pendência; "
+    linhas += ["", "## Sementes", "",
+               "Ideias que podem agregar valor, ainda sem casa, por decisão do incorporador. Não contam como pendência; "
                "revisitar quando nascer uma casa ou o contexto mudar."]
     for f in lista:
-        latentes = {s: motivo for s, motivo in f["latentes"].items()
-                    if s == "*" or (s in dict(f["secoes"]) and estado_secao(f, s)[0] == "latente")}
-        if latentes:
+        sementes = {s: motivo for s, motivo in f["sementes"].items()
+                    if s == "*" or (s in dict(f["secoes"]) and estado_secao(f, s)[0] == "semente")}
+        if sementes:
             linhas += ["", f"### {f['base']}", ""]
             linhas += [f"- {'documento inteiro' if s == '*' else '`#' + s + '`'} — {motivo}"
-                       for s, motivo in sorted(latentes.items())]
+                       for s, motivo in sorted(sementes.items())]
     with open(os.path.join(RAIZ, SAIDA), "w", encoding="utf-8", newline="\n") as saida:
         saida.write("\n".join(linhas) + "\n")
     print(f"{SAIDA} gerado. Seções pendentes: {pendentes}.")

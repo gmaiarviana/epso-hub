@@ -9,7 +9,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 escrito; a decisão (item Objetivos e imagem de
 [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)) espera o acervo no lugar.
 Alcançado quando a [cobertura](fontes/cobertura.md) não tiver pendência: toda seção encaixada,
-dispensada ou latente (tem ideia, sem casa hoje). Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
+dispensada ou semente (ideia que pode agregar valor, ainda sem casa). Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
 paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
 destino vira nota ao item dono. Os itens 1 a 4 já tiveram a primeira rodada; o que resta neles é a
 segunda (grupo no WhatsApp e textos passados a limpo). Os itens 5 a 10 são a onda 2. O destino de
@@ -41,9 +41,6 @@ o agente o refaz no briefing da sessão de decisão.
      eficiência e impacto: `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#a-eficiencia-tem-varias-dimensoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`.
 3. **Chamados e a prática que o conteúdo mostra** — para onde vai quem se aproxima; o que se
    faz, para postar o que se vive. Dono de `instituicao/iniciativas/` e de [elaborar](elaborar.md).
-   - Conversa 2026-09-27 (`fontes/conversas/2026-09-27-a-construtora-e-o-epso.md`): o servidor de
-     inferência (`#servidor-de-inferencia`) fica só na fonte, por decisão — espera a forma de
-     dispensar seção de conversa ([meta/next-steps.md](meta/next-steps.md)).
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), segunda
      rodada: `#plataforma-colaborativa-de-teorias-de-mundo`,
      `#plataforma-de-comunidades-pelos-quatro-pilares`, `#encontros-de-debate-de-conciliacao`,
@@ -216,10 +213,12 @@ o agente o refaz no briefing da sessão de decisão.
      migração, reaproveitar as ponderações e não o resultado
      (`#migração-reaproveitar-as-ponderações-não-o-resultado`);
      `#três-camadas-de-fonte-áudio-bruto-limpo` já vive na régua de preservação do
-     [CLAUDE.md](CLAUDE.md): citar a fonte lá ou dispensar.
+     [CLAUDE.md](CLAUDE.md): citar lá.
    - Conversa 2026-09-26 (`fontes/conversas/2026-09-26-o-epso-e-eu.md`): `#ainda-nao-comecei` →
      trajetória; `#o-estado-mais-atual-sem-genealogia` já vive no [CLAUDE.md](CLAUDE.md): citar
-     lá. Conversa 2026-09-28 (`fontes/conversas/2026-09-28-trajetoria-e-direcao.md`):
+     lá. Conversa 2026-09-30 (`fontes/conversas/2026-09-30-lastro-do-trabalho.md`):
+     `#o-acervo-nao-e-o-texto-publicado` já vive na Postura do [CLAUDE.md](CLAUDE.md): citar lá.
+     Conversa 2026-09-28 (`fontes/conversas/2026-09-28-trajetoria-e-direcao.md`):
      `#a-narrativa-de-carreira-adapta-nao-define` já é a regra da v8, acima: citar onde ela for
      morar.
    - Vídeos de 2025 → `contexto/trajetoria.md`: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`; da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#filosofo-reflete-por-refletir`, `#refletir-ou-viver`, `#filosofo-nao-por-escolha`, `#aprendiz-mais-que-sabio`, `#filosofo-e-tambem-artista`.

@@ -3,6 +3,17 @@
 A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 [meta/roadmap.md](meta/roadmap.md).
 
+## 1. Passar a limpo
+
+- **Transcrição 2026-10-01 — LinkedIn, sonhar junto e novos sistemas**
+  (`fontes/transcricoes/raw/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.raw.md`) — o
+  LinkedIn como rede de quem age; as duas intenções (abrir portas e convidar a construir junto);
+  prático no LinkedIn, filosófico em outro canal; sonhar junto com outros produtores de
+  conteúdo; temas; criar novos sistemas que superem o destrutivo. Estratégica para a sessão de
+  decisão de objetivos e imagem ([instituicao/next-steps.md](instituicao/next-steps.md#comunicação)):
+  passar a limpo antes dela. Destinos prováveis: `instituicao/comunicacao/`; a teoria de
+  mudança, `instituicao/nucleo/` ou `filosofia/hipoteses/`.
+
 ## 2. Foco
 
 **Todo o contexto relevante encaixado antes de decidir objetivos, imagem e linha editorial.**

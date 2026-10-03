@@ -34,7 +34,8 @@ A dependência tem elos:
 - Por querer conforto, ou por não conseguir nos relacionar em comunidade, nos relacionamos por
   contratos liberais — dinheiro.
 - Para ter dinheiro, precisamos de trabalho, e se consegue mais trabalho nos centros urbanos.
-- Para ter trabalho, precisamos mandar as crianças para a escola.
+- Para ter trabalho, precisamos mandar as crianças para a escola
+  ([a escola pela intenção](educacao.md#a-escola-pela-intenção)).
 
 O medo não mede o risco: escolhe quais riscos ficam visíveis. A cidade troca riscos visíveis
 — a distância até o hospital — por riscos normalizados, que não entram na conta. Precisar de
@@ -68,15 +69,6 @@ prioridade se equilibram com trocas; o que se perde é o gosto pessoal de que n�
 Como se troca sem contrato: [economia](economia.md#troca-por-confiança).
 
 Fonte: [conversa]`#comunidade-o-melhor-dos-dois-mundos`, `#o-querer-que-faz-sentido-para-nós`.
-
-## A escola pela intenção
-
-Escolas são boas, mas não precisam ser em cidades. O que pesa é a intenção. Pôr alguém para
-cuidar do filho porque estou ocupado demais é o elo da cadeia. A escola pela intenção positiva
-é outra coisa: que a criança aprenda mais, brinque mais, encontre os amigos, escute outras
-opiniões, aprenda o que eu não saberia ensinar sozinho.
-
-Fonte: [conversa]`#escola-pela-intenção-positiva`.
 
 ## Hábitos factíveis
 

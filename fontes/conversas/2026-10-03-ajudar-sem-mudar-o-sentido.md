@@ -19,3 +19,9 @@ do que ajude.
 ## Confirmar o que pode mudar o sentido
 
 Talvez o ponto seja confirmar quando houver algo que potencialmente pode mudar o sentido.
+
+## A lei de difusão
+
+Quando falo de lei de difusão, é que a gente deve alcançar primeiro as pessoas que já são
+engajadas. Depois, as que têm interesse mas não sabem como. Depois, iremos facilmente alcançar
+a outra metade.

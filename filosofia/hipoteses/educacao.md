@@ -11,6 +11,8 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 
 - **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
 - **[obras]** `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`
+- **[30/9]** `fontes/conversas/2026-09-30-precisar-de-menos.md`
+- **[3/10]** `fontes/conversas/2026-10-03-ajudar-sem-mudar-o-sentido.md`
 
 Fonte da abertura: [grupo]`#educacao-como-empoderamento-foco-no-basico`,
 `#educacao-deixa-as-pessoas-conscientes`.
@@ -21,7 +23,7 @@ Me preocupa o foco na tecnologia: as ferramentas estão sempre evoluindo. O foco
 conhecimentos básicos — comunicação, lógica, organização.
 
 A educação infantil é determinante para o desenvolvimento das habilidades, das inteligências e
-das forças de caráter (ver a peça que falta, em [ecocidades](ecocidades.md#reconhecer-o-que-funciona)).
+das forças de caráter.
 
 Antes do básico, as necessidades: para ter educação, é preciso ter as necessidades atendidas.
 
@@ -51,10 +53,20 @@ Fonte: [grupo]`#educacao-e-informacao-mais-experiencia`,
 Escola é lugar de amor. Uma árvore solta milhões de sementes; a escola solta milhões de ideias.
 
 Os motivos para a escola: eu não sei de tudo, não estou sempre disponível, não posso limitar
-as referências de pensamento (ver [a escola pela intenção](precisar-de-menos.md#a-escola-pela-intenção)).
+as referências de pensamento.
 
 Fonte: [grupo]`#escola-e-lugar-de-amor`, `#escola-solta-ideias-como-arvore-solta-sementes`,
 `#motivos-para-escola`.
+
+## A escola pela intenção
+
+Escolas são boas, mas não precisam ser em cidades. O que pesa é a intenção. Pôr alguém para
+cuidar do filho porque estou ocupado demais é um elo da cadeia que prende à cidade
+([precisar de menos](precisar-de-menos.md#a-cadeia-que-prende-à-cidade)). A escola pela
+intenção positiva é outra coisa: que a criança aprenda mais, brinque mais, encontre os amigos,
+escute outras opiniões, aprenda o que eu não saberia ensinar sozinho.
+
+Fonte: [30/9]`#escola-pela-intenção-positiva`.
 
 ## A palavra ensina, o exemplo educa
 
@@ -62,9 +74,12 @@ Melhorar a educação não precisa esperar o governo. Toda iniciativa começa co
 adianta esperar mudança nos outros se nós não fazemos nada. Ler um livro, aumentar o repertório
 e a profundidade das ideias. Depois, estimular as pessoas próximas a ler mais, a verificar
 fontes, a não se contentar com "não sei" — sem obrigar ninguém a mudar, nem ser chato. A longo
-prazo, as conversas ficam menos superficiais. Lei de difusão de Moore.
+prazo, as conversas ficam menos superficiais.
 
-Fonte: [grupo]`#melhorar-a-educacao-sem-esperar-o-governo`.
+É a lei de difusão: alcançar primeiro as pessoas que já são engajadas; depois, as que têm
+interesse mas não sabem como; depois, alcançaremos facilmente a outra metade.
+
+Fonte: [grupo]`#melhorar-a-educacao-sem-esperar-o-governo`; [3/10]`#a-lei-de-difusao`.
 
 ## Ninguém passa a fase pelo outro
 
@@ -75,8 +90,10 @@ suas vidas.
 
 A conscientização tem que ser espontânea. Estimulada à força, pode causar traumas.
 Alguns estímulos podem ser feitos, com calma, gentileza, empatia e muito amor — mas nunca
-indo até o fim. O ciclo só se fecha quando há consentimento, aceitação, participação (ver
-[crenças](../../instituicao/nucleo/README.md#crenças)).
+indo até o fim. O ciclo só se fecha quando há consentimento, aceitação, participação. É a
+mesma ideia que o núcleo guarda sobre o apego: soltá-lo não vem por convencimento, vem de
+condições — silêncio, sensibilidade, reconexão com a natureza, sair do estado de luta ou fuga,
+sentir-se amado, ter tempo livre ([crenças](../../instituicao/nucleo/README.md#crenças)).
 
 Fonte: [grupo]`#ninguem-passa-a-fase-pelo-outro`, `#a-conscientizacao-tem-que-ser-espontanea`.
 
@@ -104,8 +121,9 @@ Como exercício, desenhei uma universidade indígena em escada: grupo de filosof
 estudos aplicados → grupo de experimentações → grupo de ensino.
 
 O grupo de filosofia estabelece bases, progressivamente, para que tenhamos definições comuns e
-pleno conhecimento dos contextos que nos envolvem, e assim resolver problemas relevantes (ver o
-método, em [postura](../../instituicao/nucleo/README.md#postura)). O caminho:
+pleno conhecimento dos contextos que nos envolvem, e assim resolver problemas relevantes. É a
+primeira etapa do método: antes de discutir, garantir que todos entendam a mesma coisa
+([postura](../../instituicao/nucleo/README.md#postura)). O caminho:
 identificar dores, identificar causas raízes, definir um problema relevante, ter clareza de por
 que é um problema, propor soluções, ter clareza dos benefícios e malefícios de cada solução.
 

@@ -22,6 +22,10 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   ([processo](processo-transcricoes.md#passar-a-limpo-a-camada-limpa)). Insumo sem regra ainda: síntese
   do agente endossada pelo incorporador entrou marcada como "síntese do agente"
   (`fontes/conversas/2026-09-30-precisar-de-menos.md#compromisso-com-pessoas-nao-com-coisas`).
+- **Biblioteca de referências** — guardar livros, artigos e textos de outras pessoas como
+  base e referência, citando o autor. Em aberto: onde mora, como se cita e se o texto de outro
+  autor entra no acervo sozinho ou só ao lado de fala do incorporador
+  (`fontes/conversas/2026-10-03-ideia-nao-tem-dono.md#uma-biblioteca-de-referencias`).
 - **Semente guarda a ideia, não só o motivo** — o campo `sementes`
   ([cobertura](processo-transcricoes.md#cobertura)) registra por que a seção ficou sem casa.
   Para um argumento novo reencontrar o que foi dito antes, serviria um resumo da ideia numa

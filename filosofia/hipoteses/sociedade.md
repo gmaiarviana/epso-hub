@@ -2,10 +2,6 @@
 
 *Camada em lapidação. Registra onde a reflexão chegou; refino continua em iterações futuras.*
 
-Uma sociedade se organiza pelos acordos que faz entre as pessoas e pelos grupos em que elas se
-juntam — família, comunidade, Estado. Os acordos são a política; os grupos, o lugar onde a
-colaboração acontece.
-
 Fontes, referenciadas abaixo por rótulo e `#secao`:
 
 - **[conversa]** `fontes/conversas/2026-10-02-politica-sao-acordos.md`

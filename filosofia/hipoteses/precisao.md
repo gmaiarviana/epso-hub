@@ -40,6 +40,22 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#mais-preciso
 `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#refinamento-adiciona-vetores-de-precisao`,
 `fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#regua-coletiva`.
 
+No dia a dia, o critério é o mesmo: orçamento bom não é o barato, é o que se aproxima da
+realidade. Eficiência no planejamento é previsibilidade — entender de onde vêm as previsões de
+custo para conseguir compará-las com os gastos reais.
+
+Fonte: `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md#orcamento-bom-e-o-que-se-aproxima-da-realidade`.
+
+Dividir em dois parece muito normal: preto ou branco, yin e yang, bem e mal, santo e profano,
+direita ou esquerda, rico ou pobre, oprimido e opressor, masculino ou feminino. Talvez seja
+uma etapa do aprendizado: criamos divisões para facilitar associações, ou dissociações. Quando
+se sabe pouco de um assunto, foca-se nas distinções mais relevantes para aquele momento, e isso
+faz parte do processo. O problema é quando o aprendizado não se conclui e se divide, com
+convicção, de maneira incompleta e inconsistente. Ninguém é obrigado a saber de tudo, mas é
+preciso humildade para reconhecer que nem todas as nossas crenças são verdadeiras.
+
+Fonte: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#dicotomias-sao-etapa-do-aprendizado`.
+
 ## A medição é uma página do livro
 
 Toda medição acontece dentro de uma narrativa: em ambientes que controlamos, considerando
@@ -69,6 +85,13 @@ colaborador ___ vive a cultura da empresa"), medida em frequência, de nunca a s
 maneira de medir que não esquece o que está medindo.
 
 Fonte: `fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md` (segundo e-mail).
+
+O mesmo vale fora do trabalho. Avaliar se um governo foi bom ou ruim, na verdade, se resume à
+percepção de que ele se aproxima ou não dos valores de quem avalia. Todo índice e toda métrica
+são uma redução da realidade, insuficientes para compreender todos os aspectos da vida, e todo
+analista escolhe a sua narrativa e os seus índices favoritos.
+
+Fonte: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#avaliar-governo-e-medir-pelos-proprios-valores`.
 
 O modelo científico atual vai além de medir: joga os saberes que ficam fora dele para o lado
 da superstição. Boaventura de Sousa Santos chama essa fronteira de "linha abissal"; e a
@@ -108,17 +131,42 @@ Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecim
 `#habitos-inconscientes`, `#como-e-porque`;
 `fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`.
 
+## A ciência começa pela humildade
+
+A ciência exige que sejamos humildes e entendamos que não somos especiais: parte do princípio
+de que não sabemos nada e provavelmente estamos errados. Nascemos pequenos cientistas. Ela se
+baseia na colaboração e na observação; tem regras de conduta e metodologias, que precisam ser
+adaptadas. Tem como propósito a evolução, encontrar respostas, e não é egoísta: quer o bem
+maior para o futuro da espécie, reconhece que pessoas no passado fizeram muito pela geração
+atual e avança para que o futuro dê passos ainda maiores. Não tem medo de mudar de opinião, e
+escuta todos os lados.
+
+Adaptar as metodologias é o caminho aqui: abraçar ciências que não conseguem se manter no
+paradigma mecanicista — o que explica o mundo como máquina, pelas peças e pelo que se mede — e
+organizar novas regras para que a gente se beneficie de outras observações. A crítica feita
+de dentro desse paradigma vale como uma [página do livro](#a-medição-é-uma-página-do-livro):
+não se recusa, e também não basta para descartar o que ela não alcança.
+
+Fonte: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#o-que-e-ciencia-humildade-colaboracao-e-evolucao`;
+`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#abraçar-outras-ciências`;
+`fontes/conversas/2026-10-02-arte-e-ciencia.md#sem-soar-arrogante`.
+
 ## Toda hipótese nasce do absurdo
 
 Uma hipótese é imaginação de alguém: um sonho, uma abstração que faz sentido para quem a teve,
 mesmo que só na teoria. Depois ela se testa. Toda hipótese nasce do absurdo, e não se deve ter
 medo dele: o absurdo é o ponto de partida; o teste é o que decide.
 
+Por isso dá para ser orientado a dados mesmo com poucos dados: o foco não está nos dados, mas
+no método — observação, hipótese, testes, conclusão —, buscando provar que a hipótese está
+errada.
+
 Na filosofia da ciência, os nomes vizinhos são contexto da descoberta (de onde vem a ideia,
 livre) e contexto da justificação (como ela se testa, com regras). O próprio Popper chamava as
 hipóteses de conjecturas, e preferia as ousadas.
 
-Fonte: `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#toda-hipótese-nasce-do-absurdo`.
+Fonte: `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#toda-hipótese-nasce-do-absurdo`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#orientado-a-dados-com-poucos-dados`.
 
 ## Comunicar na camada que o outro alcança
 
@@ -141,7 +189,8 @@ Fonte: `fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md#a-intencao-s
 - **Um novo paradigma sobre a ciência.** O critério de Popper — uma teoria precisa poder
   estar errada; a que se encaixa em qualquer resultado não afirma nada — é referência de
   quase total concordância, mas não prisão. A decisão importa também para a academia: a
-  escola epistemológica da banca muda como a tese é atacada e defendida.
+  escola epistemológica da banca muda como a tese é atacada e defendida. A direção já
+  registrada está em [a ciência começa pela humildade](#a-ciência-começa-pela-humildade).
 - **A física quântica como paradigma a elaborar.** Cedo para cravar; pede estudo. Cuidado
   já registrado: na física quântica, "observador" é qualquer interação de medição (um
   detector, um fóton), não um sujeito consciente — homônimo do observador desta tese. A

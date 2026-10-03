@@ -15,7 +15,8 @@ Fontes: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#sou-filósofo-os-te
 
 ## O arco
 
-Desde jovem, equilibro o gosto por me aprofundar num assunto com o pragmatismo — por isso a
+Desde jovem, equilibro o gosto por me aprofundar num assunto com o pragmatismo — sou o
+equilíbrio entre simplicidade e profundidade. Por isso a
 engenharia civil: raciocínio lógico aplicado direto na sociedade. A gestão é o ofício desde o
 primeiro estágio, em 2013. A construção civil foi o primeiro canal
 para exercê-la: de estagiário a engenheiro responsável por uma obra de quinze andares, com cerca
@@ -24,20 +25,56 @@ sistema de crédito com IA, e então produto, programa e projetos. Cada troca te
 articulado; nunca repeti uma posição. O detalhe de cada fase vive na narrativa de carreira,
 documento externo.
 
+Esse é o arco lido olhando para trás, a linha que a narrativa de carreira mostra a quem
+contrata. Vivido por dentro, teve outra forma ([como foi por dentro](#como-foi-por-dentro)).
+As duas leituras são verdadeiras.
+
 Fonte: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 4. Narrative Arc`);
 `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, abertura e
-Motivo 1).
+Motivo 1); `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#sou-o-equilibrio-entre-simplicidade-e-profundidade`.
+
+### Como foi por dentro
+
+Até 2022, eu ia para onde as oportunidades apareciam. Segui o caminho que estava dado —
+engenharia, iniciação científica, intercâmbio, estágio — sem saber bem o que queria, apenas
+indo. Subi degraus e travei: e agora, qual o próximo passo? Decidi migrar para a tecnologia
+sem saber por onde começar; comecei, larguei e concluí vários cursos para descobrir o que me
+interessava. Entrei na tecnologia e continuei indo.
+
+Depois, eu dizia sim para tudo. O plano de desenvolvimento chegou como mais uma tarefa numa
+agenda já cheia, e o preenchi com tudo que parecia interessante, sem saber como aplicaria.
+Entrei num ciclo vicioso: não sabia o que queria, ia atrás de qualquer coisa interessante,
+parava na primeira dificuldade, não percebia meu desenvolvimento e continuava sem saber o que
+queria.
+
+Então aceitei o convite de me conhecer ([o autoconhecimento como motor](#o-autoconhecimento-como-motor)).
+Percebi que não gostava do que fazia — e me sentia culpado por isso —, que não acreditava no
+que fazia e que não sabia bem em que acreditava. Precisava ancorar e registrar meus sonhos,
+crenças e valores, e mudar minha postura diante do meu desenvolvimento.
+
+Olhar para dentro me levou a escolher sair. Dava para me conformar e seguir ali, ao preço de
+seguir sem acreditar no que fazia. Saí para trabalhar em algo em que acreditasse, e entrei na
+empresa atual, em julho de 2022, me identificando com os valores e a visão dela. A lição
+vive em [trabalhar com o que acreditamos](../filosofia/hipoteses/trabalho.md#trabalhar-com-o-que-acreditamos).
+
+O ciclo vicioso virou virtuoso: sei minimamente o que quero, planejo respeitando meus limites,
+faço o que dá, tenho evidências do meu progresso, as pessoas reconhecem minha evolução, assumo
+mais responsabilidades e vivo novas experiências — e passo a ter mais clareza do que quero.
+
+Fonte: `fontes/documentos/2026-09-30-palestra-pdi.raw.md` (Atos 1 a 3).
 
 ### Por que saí da construção
 
-O futuro do trabalho precisa de gente que entenda de dados. A construção no Brasil usa
+Entendi que o mundo mudou e que as expectativas de trabalho mudaram: o futuro do trabalho
+precisa de gente que entenda de dados. A construção no Brasil usa
 metodologias construtivas de mais de cinquenta anos: se viesse uma inovação, eu fatalmente
 seria substituído. Somavam-se a instabilidade — o fim da obra é o fim do emprego —, a
 dependência da política e da economia, a insalubridade, o risco de assalto, a baixa qualidade
 de vida, muito estresse e pouco dinheiro. E, principalmente, eu colaborava com o
 desenvolvimento insustentável das cidades.
 
-Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#por-que-saí-da-construção-civil`.
+Fonte: `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#por-que-saí-da-construção-civil`;
+`fontes/documentos/2026-09-30-palestra-pdi.raw.md` ("Sobre mim - decidi trocar de área").
 
 ### O autoconhecimento como motor
 
@@ -90,14 +127,52 @@ Padrões que aparecem ao longo de toda a trajetória:
 - **Da intenção à estrutura** — transformar intenções, desejos, ideias e mensagens sutis em
   ações, planos, estruturas e resultados, sem esperar o ambiente perfeito para testar.
 - **Otimista com os pés na realidade** — em toda dificuldade há uma oportunidade: uma lista de
-  ideias de produtos, negócios e soluções espera energia para ser estudada e testada.
+  ideias de produtos, negócios e soluções espera energia para ser estudada e testada. O que me
+  desmotiva é o pessimismo de quem só enxerga o pior, sem esperança de mudar ou melhorar.
+- **Organizar o pensamento** — me inspira encontrar uma linha de pensamento que ajude as
+  pessoas a se organizarem.
+- **Reduzir o ruído** — em todo papel: ser preciso, eliminar a ambiguidade, estruturar o que
+  está desorganizado. Entre a intenção de quem fala e a interpretação de quem ouve há várias
+  camadas; é o que me leva à [linguagem](../filosofia/hipoteses/linguagem.md) e a como o
+  sentido se comunica para além das palavras. No núcleo, é o valor
+  [transparência](../instituicao/nucleo/README.md#valores).
+- **Visão** — consigo dar direcionamento e sonho grande; com isso andam a boa comunicação, a
+  resiliência e a transparência.
 - **Liderança desde cedo** — representante de classe, líder na comunidade religiosa, na banda,
   na comissão de formatura. Pensar junto com o grupo em como chegar ao objetivo é natural, e
-  com engajamento vem ser referência.
+  com engajamento vem ser referência. Para mudar uma empresa, atuo em três camadas — cultura,
+  filosofia (crença, mentalidade) e processo: identifico as filosofias para fortalecer a
+  cultura e aprofundo os processos para achar as dores que filosofias ineficientes provocam. O
+  que acredito de uma liderança vive em
+  [trabalho](../filosofia/hipoteses/trabalho.md#o-que-faz-uma-liderança).
 
-Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 2. Values`, Traits);
+Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 2. Values`, Traits;
+`## 1. Purpose`, o fio da comunicação);
 `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup: abertura,
-Motivos 2 e 3).
+Motivos 2 e 3); `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#me-inspira-ajudar-as-pessoas-a-se-organizarem`,
+`#sou-uma-pessoa-de-visao`, `#cultura-filosofia-e-processo-para-mudar-empresas`.
+
+## Voltar a me expor
+
+O canal Era Pra Ser Óbvio nunca morreu dentro de mim: continuei trabalhando, estudando, me
+aprofundando, viajando. Entendi que não bastava ler ou ouvir alguém falar; eu precisava
+experienciar. As experiências que vivi me trouxeram paz — primeiro comigo, entendendo quem sou
+e a realidade em que vivo; depois para conduzir conversas.
+
+Por muito tempo não escrevi porque achava que não tinha autoridade: não tinha um título, não
+tinha lido livros suficientes, minha linguagem era superficial. Entendi que o objetivo não é
+ser perfeito nem prender a todos — mesmo que seja o que eu gostaria. Me aproximo mais do
+aprendiz que do sábio: o grande filósofo costuma ser alguém mais vivido, e a mim, que mostro
+algumas habilidades, ainda falta experiência. Estou na minha jornada, estudando muito, aberto e
+humilde.
+
+Retomar abre espaço para polêmica, ambiguidade, exposição e debate, e vai ser muito trabalho.
+Mas é essa a trajetória que devo seguir: voltar a produzir conteúdo e me pôr em contato com as
+pessoas. O que e como comunico vive na [linha editorial](../instituicao/comunicacao/linha-editorial.md).
+
+Fontes: `fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md#experienciar-em-vez-de-so-ouvir`,
+`#retomar-apesar-da-exposicao`; `fontes/documentos/2026-09-29-organizacao.md#escrever-sem-esperar-autoridade`;
+`fontes/transcricoes/2025-03-06-sobre-filosofia.md#aprendiz-mais-que-sabio`.
 
 ## A empresa atual
 

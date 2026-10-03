@@ -83,6 +83,7 @@ Passos do encaixe:
 - Identificar de que assunto o trecho trata.
 - Localizar o nível e o destino do assunto, usando [meta/estrutura/niveis.md](estrutura/niveis.md) e [meta/estrutura/criterios.md](estrutura/criterios.md).
 - Ler o conteúdo que já existe no destino com atenção.
+- Buscar o caminho da fonte no acervo inteiro: o que ela já deu em outro destino se cita ali, não se repete. A cobertura conta documento bruto por arquivo e não mostra o que já foi encaixado dele.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.
 - Fechar trecho a trecho: antes de encerrar, toda seção da transcrição foi encaixada, virou provocação em [elaborar](../elaborar.md) (pede reflexão nova do incorporador), foi dispensada, virou semente ou continua pendente na [cobertura](#cobertura), com nota no tier Encaixar do [next-steps da raiz](../next-steps.md) quando houver destino ou ressalva a guardar. Só então o item de encaixe sai da fila.

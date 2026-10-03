@@ -221,3 +221,24 @@ A atuação fluida — além de um cargo fixo — é critério do emprego que se
 O lado da pessoa está em [Não somos nosso trabalho](#não-somos-nosso-trabalho).
 
 Fonte: [proposta] (notas de apoio).
+
+## O que faz uma liderança
+
+Uma liderança é alguém que tem atitude, dá o exemplo e conhece o processo. Tem uma visão, um
+objetivo, e age para alcançá-lo sem perder o foco. Tem sonhos grandes e consegue mobilizar,
+articular e engajar. Colabora com as pessoas e escuta opiniões diferentes; está disponível para
+mudar de opinião e aprender com as informações novas. Sabe se comunicar com audiências
+diferentes, em momentos e contextos diferentes. Sabe ouvir as pessoas e abraçá-las: dá
+confiança, faz com que se sintam importantes e pertencentes. Constrói um ambiente seguro para
+o feedback, busca a transparência e estimula a excelência. É o cuidado de pessoas de
+[Além dos cargos](#além-dos-cargos).
+
+Avaliar quem gere é olhar para as habilidades que se quer desenvolver: comunicação e clareza —
+o nível de detalhe certo para cada etapa e cada audiência, conciso e preciso —; atenção,
+organização e diligência; proatividade — antecipar problemas, perguntar —; e resposta ao
+feedback — entender onde errava e levar o aprendizado a situações diferentes. Essa avaliação
+é subjetiva e pede insumo: feita de forma espaçada, em checkpoints, deixa ver a evolução.
+
+Fonte: `fontes/conversas/2026-10-02-encaixe-contexto.md#o-que-é-uma-liderança`;
+`fontes/documentos/2026-09-27-carta-ex-lider.raw.md`;
+`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md#avaliar-pelas-habilidades-do-gestor`.

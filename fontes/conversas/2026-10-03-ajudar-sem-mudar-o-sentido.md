@@ -49,3 +49,12 @@ racionalização. Então insistir às vezes não é benéfico.
 Consentimento não é a palavra mais precisa, porque consentir é dizer sim. O fechamento do ciclo
 demanda uma postura mais ativa do que apenas dizer sim: envolve abraçar, se entregar, aceitar.
 Claro que tem aceitação que vem mais tímida, mas ao longo dos ciclos vai se fortalecendo.
+
+## A escola perto, fora da cidade
+
+De fato prefiro escolas fora da cidade, porque é fundamental o silêncio, a proximidade com a
+natureza, espaços amplos para brincar. A crítica era que a gente vai criando dependências com a
+cidade. E claro que, longe dos centros urbanos, as escolas podem acabar ficando longe das casas.
+Então sim, precisamos de estratégia, mas o melhor do mundo é quando temos comunidades que
+agrupam uma quantidade boa de pessoas, que consegue criar uma escola perto. A importância dos
+bairros, das vilas. São partes das ecocidades.

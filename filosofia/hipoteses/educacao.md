@@ -60,13 +60,19 @@ Fonte: [grupo]`#escola-e-lugar-de-amor`, `#escola-solta-ideias-como-arvore-solta
 
 ## A escola pela intenção
 
-Escolas são boas, mas não precisam ser em cidades. O que pesa é a intenção. Pôr alguém para
-cuidar do filho porque estou ocupado demais é um elo da cadeia que prende à cidade
+O que pesa é a intenção. Pôr alguém para cuidar do filho porque estou ocupado demais é um elo
+da cadeia que prende à cidade
 ([precisar de menos](precisar-de-menos.md#a-cadeia-que-prende-à-cidade)). A escola pela
 intenção positiva é outra coisa: que a criança aprenda mais, brinque mais, encontre os amigos,
 escute outras opiniões, aprenda o que eu não saberia ensinar sozinho.
 
-Fonte: [30/9]`#escola-pela-intenção-positiva`.
+Prefiro escolas fora da cidade, porque é fundamental o silêncio, a proximidade com a natureza,
+espaços amplos para brincar. Longe dos centros urbanos, as escolas podem acabar ficando longe
+das casas; então precisamos de estratégia. O melhor do mundo é quando temos comunidades que
+agrupam uma quantidade boa de pessoas, que conseguem criar uma escola perto. Daí a importância
+dos bairros, das vilas — partes das [ecocidades](ecocidades.md).
+
+Fonte: [30/9]`#escola-pela-intenção-positiva`; [3/10]`#a-escola-perto-fora-da-cidade`.
 
 ## A palavra ensina, o exemplo educa
 

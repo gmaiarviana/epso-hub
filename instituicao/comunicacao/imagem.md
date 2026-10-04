@@ -20,6 +20,22 @@ Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tem
 
 **Nível:** Em aberto.
 
+Talvez eu venha para unir dois lados: quem já está produzindo, trabalhando, construindo — e eu
+posso me somar aos projetos e agregar — e quem tem interesse e não sabe por onde começar. Com
+base nos meus valores, na transparência, no novo paradigma, na nova mentalidade.
+
+É difícil porque não tenho mestrado, doutorado. Tenho uma pós, mas não estou atuando nesse
+setor; não tenho nem graduação em tecnologia. Isso me toma — por que estou falando disso? —, e
+reforça que preciso de mais humildade. Tudo isso tem de ser planejado com calma.
+
+A comunicação é minha, mas nasce ligada diretamente ao EPSO: no começo, fundidos. Depois não
+sei se vou dar opiniões que não sejam pelo EPSO; quando chegar esse momento, reorganizo.
+
+Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#unir-quem-ja-constroi-e-quem-quer-comecar`,
+`#sem-credencial-mais-humildade`; `fontes/conversas/2026-09-26-o-epso-e-eu.md#a-comunicação-nasce-ligada-ao-epso`.
+
+**Nível:** Em aberto.
+
 ## Insumos em outros lugares
 
 - **Identidade** — filósofo construindo uma nova sociedade; os temas são aplicações, não a

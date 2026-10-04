@@ -2,6 +2,22 @@
 
 Vocabulário da comunicação. Cada peça combina **mensagem-chave + abordagem + tema**, contada segundo um **arco narrativo** e dirigida a um **segmento** de público. **Quadros recorrentes** são formatos fixos que recebem essas combinações. Os valores de cada dimensão vivem em [linha-editorial.md](../linha-editorial.md).
 
+## Intenção, objetivo, tema e proposta
+
+Quatro palavras para pensar uma peça, uma série ou uma obra:
+
+- **Intenção** — vontade subjetiva.
+- **Objetivo** — avaliação do sucesso.
+- **Tema** — contexto, ambiente, a "substância".
+- **Proposta** — tática, condução, o "esqueleto".
+
+Primeiro se produz: escrever, gravar áudios e vídeos, ter as ideias registradas. Depois se
+propõe uma intenção, um recorte para um público-alvo, com uma mensagem; compila-se, organiza-se
+o storytelling e a narrativa, e publica-se — até um livro.
+
+Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#intencao-objetivo-tema-e-proposta`;
+`fontes/conversas/2026-10-01-o-livro-e-um-formato.md#produzir-recortar-compilar`.
+
 ## Mensagem-chave — por quê
 
 Conceito que se quer fixar na mente do público. Aparece de forma sutil e constante, atravessando temas e abordagens. A repetição consistente constrói o posicionamento.

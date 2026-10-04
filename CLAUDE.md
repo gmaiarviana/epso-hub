@@ -56,7 +56,7 @@ Conteúdo migrado de fora do repositório passa a morar aqui e não cita a orige
 Cada processo específico tem seu próprio documento, carregado quando o fluxo é acionado.
 
 - Registro de transcrições → [meta/processo-transcricoes.md](meta/processo-transcricoes.md)
-- Sessões Claude em paralelo (higiene de working copy) → [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md)
+- Sessões Claude em paralelo (higiene de working copy; trabalho com consolidadora) → [meta/sessoes-paralelas.md](meta/sessoes-paralelas.md)
 - Encerramento de sessão ("vamos encerrar") → [meta/processo-encerramento.md](meta/processo-encerramento.md)
 - Roadmap (regras dos next-steps) → [meta/roadmap.md](meta/roadmap.md)
 

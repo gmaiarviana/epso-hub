@@ -83,8 +83,18 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 - **Mudar as regras do jogo.** Recusar uma crítica porque ela parte de um pressuposto que você
   não aceita é legítimo. Recusar qualquer crítica porque "o outro não tem os receptores"
   transforma a tese num sistema que se protege de tudo — um time que muda a regra quando vai
-  perder. *Como alguém de fora distingue os dois casos na sua tese? Que crítica você aceitaria
-  como válida contra ela?* → [precisão](filosofia/hipoteses/precisao.md)
+  perder. Em 30/9 você disse: "não me importo com a crítica de quem tem um repertório
+  reduzido"; depois pediu para repensar a frase, que soa arrogante, e o texto passou a dizer que
+  a crítica de dentro do mecanicismo vale como uma página do livro — não se recusa, e não basta
+  para descartar o que ela não alcança. *Como alguém de fora distingue os dois casos na sua
+  tese? Que crítica você aceitaria como válida contra abraçar ciências fora do mecanicismo?* →
+  [precisão](filosofia/hipoteses/precisao.md#a-ciência-começa-pela-humildade)
+- **A ciência é invisível.** Numa nota de 2020, sobre o que é ciência, você escreveu só "É
+  invisível", sem desenvolver. Exemplo: ninguém vê a vacina sendo testada, só o resultado; e
+  ninguém vê o método, que é um modo de pensar e não uma coisa. *Invisível em que sentido: porque
+  não se vê o método funcionando, porque é um modo de pensar, ou outro?* →
+  [precisão](filosofia/hipoteses/precisao.md#a-ciência-começa-pela-humildade). Fonte:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#o-que-e-ciencia-humildade-colaboracao-e-evolucao`.
 
 ### Vetor
 
@@ -121,6 +131,20 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   "do nosso cérebro coletivo". *O que é esse cérebro coletivo: uma comunidade pensando junto, a
   internet, outra coisa? Um exemplo de quando ele funciona hoje?* →
   [linguagem](filosofia/hipoteses/linguagem.md)
+- **Crenças e valores.** A seção sobre crenças veio do ensaio e fala só de crenças; você quer
+  falar de valores. Exemplo: "a natureza é sagrada" é uma crença; cuidar do rio é um valor que
+  sai dela — ou o valor vem primeiro e a crença o justifica? Ficou de fora também uma frase do
+  ensaio: "as sociedades ocidentais não têm histórico de aceitar diversidade de crenças". *Valor
+  é uma crença, ou o que a crença protege? A frase do ensaio entra como você escreveu?* →
+  [linguagem](filosofia/hipoteses/linguagem.md#crenças-o-sistema-operacional)
+
+### Arte
+
+- **Um passarinho faz arte?** Você escreveu que a natureza não precisa de arte, o que sugere que
+  não — mas o canto ficou sem resposta. Pelo seu critério, a expressão vira arte quando
+  transmite uma mensagem com intenção. *O canto é expressão sem ser arte, porque falta a
+  intenção de transmitir? Ou a intenção existe ali também?* →
+  [arte](filosofia/hipoteses/arte.md#quando-a-expressão-vira-arte)
 
 ### Ecocidades
 
@@ -150,6 +174,30 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   Fonte: `fontes/conversas/2026-09-30-precisar-de-menos.md#compromisso-com-pessoas-não-com-coisas`
   (síntese do agente).
 
+### Trabalho
+
+- **Quem fica com o ganho da automação?** A casa modular e a impressão 3D tiram trabalho do
+  pedreiro; o mesmo movimento pode libertar (ninguém mais carrega saco de cimento) ou precarizar
+  (o pedreiro vira entregador de aplicativo). A pergunta é do agente, a partir da sua nota do
+  curso de obras. *O que separa a automação que liberta da que precariza: quem é dono da
+  máquina, para onde vai o tempo liberado, outra coisa?* →
+  [trabalho](filosofia/hipoteses/trabalho.md#ressignificar-o-trabalho). Fonte:
+  `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md#automacao-e-uberizacao-na-construcao`.
+
+### Valor
+
+- **O que compõe cada linha.** As linhas de dignidade, conforto e desperdício valem além da
+  matéria: atenção, energia, pensamento. Exemplo: ter casa e comida está acima da dignidade em
+  matéria; quem trabalha doze horas por dia pode estar abaixo dela em tempo e atenção. *O que
+  compõe cada linha em cada dimensão? Dá para calcular, ou só para reconhecer?* →
+  [valor](filosofia/hipoteses/valor.md#dignidade-conforto-e-desperdício). Fonte:
+  `fontes/conversas/2026-10-02-valor-e-linhas.md#as-linhas-valem-alem-da-materia`.
+- **Um exemplo real do desperdício.** A cadeia do desperdício usa um exemplo provisório: a água
+  que um acumula vira energia gasta pelo vizinho, depois dinheiro e tempo de um terceiro, e por
+  fim o comunitário que não se faz. Você disse que o exemplo pode melhorar. *Qual situação que
+  você viveu ou viu mostra o acúmulo de um virando gasto de outro?* →
+  [valor](filosofia/hipoteses/valor.md#riqueza-não-é-atributo-individual)
+
 ### Inteligência potencializada
 
 - **Modelo ou sistema.** Um chatbot de IA é um modelo treinado que responde de jeito pouco
@@ -162,6 +210,34 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   *O que o sistema guardaria no lugar das palavras: o conceito, o argumento, outra unidade? Como
   ele saberia que as duas querem dizer o mesmo?* →
   [inteligência potencializada](filosofia/hipoteses/inteligencia-potencializada.md)
+
+### Educação
+
+- **Por que a educação infantil é determinante?** Hoje há só uma frase sobre ela. O agente a
+  ligou à falta de escola para crianças pequenas no campo, e você não reconheceu ali o que quis
+  dizer. Exemplo: aos três anos, uma criança aprende a esperar a vez numa roda; aos trinta, isso
+  é uma conversa em que todos falam. *O que a educação infantil decide, e o que isso pede?* →
+  [educação](filosofia/hipoteses/educacao.md#o-foco-é-o-básico)
+- **Os ditados perderam o valor?** Numa nota antiga você perguntou se as pessoas escutam menos os
+  mais velhos. Exemplo: "quem guarda tem" valia como conselho da avó; hoje a mesma ideia chega
+  por um vídeo de finanças. *Os mais velhos deixaram de ser escutados, ou mudou o canal? O que
+  se perde quando o conselho vem de fora da família?* →
+  [educação](filosofia/hipoteses/educacao.md). Fonte:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#as-pessoas-escutam-menos-os-mais-velhos`.
+
+### Sociedade
+
+- **O que liga as seções.** Sociedade tem política são acordos, de onde vêm as instituições,
+  Estado e família e criar sistemas melhores, lado a lado. O agente propôs uma frase central
+  ("uma sociedade se organiza pelos acordos que faz e pelos grupos em que se junta"), e você não
+  se reconheceu nela. *Há uma ideia que costura essas partes? Qual, com as suas palavras?* →
+  [sociedade](filosofia/hipoteses/sociedade.md)
+- **Justiça × liberdade.** Numa nota antiga você perguntou por que divergimos tanto sobre o que é
+  melhor para a sociedade. Exemplo: um imposto sobre grandes fortunas parece justiça para uns e
+  ataque à liberdade para outros, e os dois lados querem uma sociedade boa. *Por que divergimos:
+  valores diferentes, informação diferente, ou a mesma palavra para coisas diferentes?* →
+  [sociedade](filosofia/hipoteses/sociedade.md). Fonte:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#justica-x-liberdade-por-que-divergimos`.
 
 ## Estudo
 
@@ -197,8 +273,8 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 ### Núcleo
 
 - **As crenças a confirmar.** As seis crenças-base do núcleo já são suas — da camada sem forma
-  ao "gostamos de entender". Abaixo delas ficaram nove da lista antiga, com a sua concordância
-  mas não com as suas palavras: "juntos vamos mais longe", "somos seres integrais", "a criação
+  ao "gostamos de entender". Abaixo delas ficaram oito da lista antiga, com a sua concordância
+  mas não com as suas palavras: "somos seres integrais", "a criação
   é o ápice do prazer" e outras. Exemplo: você já disse que a criação como ápice do prazer "é
   mais minha do que do EPSO". *Quais dessas você explicaria numa decisão com "porque
   acreditamos que…"? As que não aparecerem em decisão nenhuma saem do rol?* →

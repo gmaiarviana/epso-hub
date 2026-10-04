@@ -59,10 +59,15 @@ Item de fila fala de seção pela âncora (`#secao`) — nunca por intervalo ("d
 "o resto" ou "conferir o que falta"; quando vão todas, diz "arquivo inteiro". Documento bruto,
 sem seções, entra pelas ideias, nomeadas uma a uma.
 
-Fonte de origem mista — a fala do incorporador junto de texto de terceiros, como a crítica
-de uma IA — tem a voz marcada no item: a ideia que não é do incorporador leva
-`(voz do guia)` ou o nome de quem fala. O encaixe dela vira provocação no
-[elaborar](../elaborar.md), não texto na voz do incorporador.
+A voz é das palavras, não da ideia: ideia não tem dono. Quando o incorporador diz com as
+palavras dele uma ideia que outros também disseram, o texto fica na voz dele e os outros
+entram como referência. Texto que ele escreveu com ajuda de IA, sob seu controle, é voz dele.
+Fonte de origem mista — a fala do incorporador junto de texto que ele não assumiu, como a
+crítica de uma IA numa conversa — tem a voz marcada no item: o trecho que não é dele leva o
+nome de quem fala. Esse trecho não entra como texto na voz do incorporador; se tensiona o que
+ele sustenta, vira provocação no [elaborar](../elaborar.md).
+
+Fonte: `fontes/conversas/2026-10-03-ideia-nao-tem-dono.md#ideia-nao-tem-dono`.
 
 ## Como se atualiza
 

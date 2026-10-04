@@ -309,6 +309,9 @@ roupas da ideia). A direção é tirar a linguagem da dependência das palavras 
 mensagem: o que se quer dizer, em qual camada, independente das palavras — que são só a
 maneira de transmitir. Fazer uma derivada das palavras.
 
+As formas são mitos: anteparo para as mensagens, com as suas limitações. As mensagens são
+expressão, essência. Toda matéria possui uma substância; toda ideia possui um sentido.
+
 As palavras têm muito poder, mas remetem a emoções, a histórias, a contextos que, a depender
 da pessoa, trazem resistência, repulsa no lugar de atração, ou uma atração enviesada onde
 caberia análise crítica. Abstrair é olhar para o conceito sem essa carga.
@@ -350,7 +353,8 @@ Fonte: [22/9]`#semiotica-e-intencao`; [26/6]`#modelos-eficientes-e-limites-da-li
 `fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md`;
 `fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md#intenção-é-o-que-queremos-alcançar`,
 `#culturas-podem-falar-e-podem-não-falar`;
-`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#discussoes-de-concordar-ou-discordar-sao-ineficientes`.
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#discussoes-de-concordar-ou-discordar-sao-ineficientes`,
+`#introducao-do-livro-quem-sou-eu` (formas e mensagens).
 
 ## Em aberto
 

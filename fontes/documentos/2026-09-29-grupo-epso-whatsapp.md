@@ -15,6 +15,12 @@ nota: >-
 dispensadas:
   como-melhorar-em-um-idioma: dica de estudo de idioma, fora do acervo
   problemas-de-comunicacao-transparencia-e-proposito: só rótulos; já nos valores do núcleo
+sementes:
+  tolos-sagazes-e-sabios: aforismo conhecido, não ideia do incorporador; a gradação pessoas → acontecimentos → ideias pode servir à escala do material ao abstrato
+  acessorios-como-cartao-de-visita: expressão visual da personalidade; tema de identidade sem casa, pode se ligar a arte
+  racismo-e-quando-se-normaliza: racismo estrutural como normalização; tema sem casa madura no acervo
+  racismo-direto-e-indireto: par de racismo-e-quando-se-normaliza; mesma decisão
+  oficina-de-filosofia: prática que o incorporador quer pôr em ação um dia, sem prioridade agora
 ---
 
 # Grupo EPSO no WhatsApp

@@ -14,96 +14,29 @@ relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem 
 para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
 relevante encaixada, dispensada ou semente.
 
-A triagem de relevância já rodou: cada item ficou só com o relevante, e as notas do que saiu
-estão no Encaixar. Agora a onda é o **encaixe**, uma sessão por item, em paralelo. Travas: o núcleo passa do item 2 ao 5, então
-a parte de núcleo do item 5 espera o item 2; `quem-sou-eu.md` é um arquivo só, e as sessões
-dele são sequenciais, por tema; o item 9 decide a casa antes de encaixar e, se for o núcleo,
-entra na vez do núcleo. Cada sessão edita só o seu item nesta fila; `fontes/cobertura.md` se
-regenera no merge.
+Da onda de encaixe faltam a cosmovisão e o método. Travas: `quem-sou-eu.md` é um arquivo só, e
+as sessões dele são sequenciais, por tema; o item 2 decide a casa antes de encaixar e, se for o
+núcleo, entra depois do item 1, que é dono do núcleo. Sessões em paralelo seguem o
+[trabalho com consolidadora](meta/sessoes-paralelas.md#trabalho-paralelo-com-consolidador).
 
-Os itens se dividem pelo destino, não pela fonte, para rodarem em sessões
-paralelas sem disputar arquivo: cada item diz de que arquivos é dono; o que aparecer para outro
-destino vira nota ao item dono. Os itens 1 a 4 já tiveram a primeira rodada; o que resta neles é a
-segunda (grupo no WhatsApp e textos passados a limpo). Os itens 5 a 9 são a onda 2. O destino de
-cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas seções se fundem
-com o que o destino já tem. As seções de `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md`
-são respostas à sessão de decisão e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa
-v8, `relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização do corpus) não se guarda:
-o agente o refaz no briefing da sessão de decisão.
+O destino de cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas
+seções se fundem com o que o destino já tem. As seções de
+`fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md` são respostas à sessão de decisão
+e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa v8,
+`relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização do corpus) não se guarda: o
+agente o refaz no briefing da sessão de decisão.
 
-1. **Trabalho e valor** — dono de `filosofia/hipoteses/trabalho.md` e `valor.md`.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): trabalho —
-     `#profissionalismo-e-pessoalidade`; valor e economia —
-     `#contra-a-especulacao-reforma-agraria-taxacao-e-renda`.
-   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`):
-     `#automacao-e-uberizacao-na-construcao`.
-2. **Precisar de menos, economia e construção** — dono de `filosofia/hipoteses/ecocidades.md`,
-   `precisar-de-menos.md` e `economia.md`, e de `instituicao/nucleo/` até o item 5 abrir.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): precisar de
-     menos — `#a-verdadeira-riqueza-e-viver-com-o-que-se-consegue-manter`; comunidade —
-     `#pertencimento-precede-a-colaboracao`. Pertencimento, colaboração e a plataforma de
-     comunidades (item 3) formam um argumento só.
-   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
-     eficiência e impacto: `#a-eficiencia-tem-varias-dimensoes`.
-3. **Chamados e a prática que o conteúdo mostra** — para onde vai quem se aproxima; o que se
-   faz, para postar o que se vive. Dono de `instituicao/iniciativas/` e de [elaborar](elaborar.md).
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): a plataforma
-     — `#plataforma-de-comunidades-pelos-quatro-pilares`, `#encontros-de-debate-de-conciliacao`;
-     o movimento e quem se aproxima — `#conectar-quem-luta-para-que-saibam-que-nao-estao-sos`,
-     `#inspirar-duas-pessoas-um-pouco-de-cada-vez`, `#ideias-sem-acao-nao-mudam-a-vida-das-pessoas`;
-     práticas — `#apontar-empresas-destrutivas-e-criar-indices` (os índices tocam as linhas de
-     dignidade e desperdício do item 1). Só pergunta, a levar ao [elaborar](elaborar.md) como
-     provocação: `#como-as-pessoas-mudam-pelo-que-voce-faz`. Muitas notas do grupo antecedem ou
-     repetem o que o acervo já tem: o encaixe começa checando fusão.
-   - Vídeo 2025-04-17 (`fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md`):
-     `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`,
-     `#pilar-2-discussao-e-comunidade` → a plataforma e `instituicao/iniciativas/ferramentas-livres/`;
-     `#aberta-a-voluntarios-e-a-financiamento` toca também `instituicao/financiamento/`.
-   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`) →
-     a construtora, na gaveta: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`,
-     `#qualquer-um-pode-tocar-uma-obra`.
-   - O portal de economia colaborativa e o crédito de trabalho do sítio-restaurante são a prática
-     de [economia.md](filosofia/hipoteses/economia.md#troca-por-confiança): apontar para lá. A
-     construtora já pratica "planejar é compor custos".
-   - `fontes/documentos/2026-09-30-guia-pdi.raw.md`: o guia de PDI como candidato a ferramenta
-     gratuita (pilar 1 da plataforma).
-   - Provocação a levar ao [elaborar](elaborar.md), da conversa 2026-09-30
-     (`fontes/conversas/2026-09-30-precisar-de-menos.md`): compromisso com pessoas, sim; com
-     coisas, não (`#compromisso-com-pessoas-nao-com-coisas` — síntese do agente; o incorporador
-     quer pensar antes de virar regra).
-   - Transcrição 2026-10-01 (`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md`): a comunidade e a plataforma —
-     `#comunidade-de-debate-que-converge` (fusão com `#encontros-de-debate-de-conciliacao`),
-     `#comunidade-que-compartilha-praticas-sustentaveis`, `#criar-nossa-religiao-politica-e-cidades`,
-     `#tecnologia-para-planejar-sistemas`, `#rede-de-voluntarios-com-beneficio-real`,
-     `#plataforma-de-dores-e-ofertas` (fusão com `#o-criterio-sao-dores-que-a-gente-tem`),
-     `#economia-puxada-pela-demanda` (já em
-     [hub-de-conhecimento](instituicao/iniciativas/hub-de-conhecimento.md#o-espectro-e-a-produção-puxada)).
-4. **Linguagem, precisão e âncora** — dono de `filosofia/hipoteses/linguagem.md`,
-   `filosofia/hipoteses/precisao.md` e `filosofia/hipoteses/ancora.md`.
-   - Conversa 2026-09-30 (`fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md`):
-     abraçar ciências fora do paradigma mecanicista e organizar novas regras
-     (`#abracar-outras-ciencias`) → destino a decidir; conversa com "Um novo paradigma sobre a
-     ciência" de `filosofia/hipoteses/precisao.md` e com "Mudar as regras do jogo" do
-     [elaborar](elaborar.md).
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): linguagem —
-     `#acessorios-como-cartao-de-visita`, `#arte-e-entretenimento-os-dois-extremos`,
-     `#explicar-em-niveis-superficial-medio-e-profundo`, `#tolos-sagazes-e-sabios`,
-     `#a-rede-de-comunicacao-permite-cooperar-como-nunca`, `#a-linguagem-que-conecta-e-a-pessoal`,
-     `#falamos-ao-outro-o-que-queremos-reforcar`, `#toda-analogia-e-um-mito`,
-     `#quando-a-expressao-vira-arte`, `#comunicacao-e-transformar-sentimento-em-mensagem`,
-     `#a-falha-de-comunicacao-e-consequencia`, `#discussoes-de-concordar-ou-discordar-sao-ineficientes`;
-     precisão — `#o-que-e-ciencia-humildade-colaboracao-e-evolucao`,
-     `#dicotomias-sao-etapa-do-aprendizado`, `#orientado-a-dados-com-poucos-dados`,
-     `#avaliar-governo-e-medir-pelos-proprios-valores`.
-   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
-     medição e precisão: `#orcamento-bom-e-o-que-se-aproxima-da-realidade`.
-   - `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md`:
-     `#uma-frase-simples-abre-inumeras-questoes` — desmontar uma frase comum, como formato.
-   - Do ensaio (`ensaio-nao-somos-nosso-trabalho`): o sistema operacional das crenças → junto de
-     `#crencas-e-palavras`, já em `filosofia/hipoteses/linguagem.md`. Crenças e valores é tema que
-     o incorporador quer falar.
-5. **Cosmovisão** — dono de `filosofia/cosmovisao/`, de `filosofia/hipoteses/vetor.md` e, depois
-   do item 2, de `instituicao/nucleo/`.
+1. **Cosmovisão** — dono de `filosofia/cosmovisao/`, de `filosofia/hipoteses/vetor.md` e de
+   `instituicao/nucleo/`. [a-tese.md](filosofia/cosmovisao/a-tese.md) já recebeu, do encaixe da
+   comunicação, o conjunto de teses (`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md`):
+   ler antes de encaixar nela.
+   - Núcleo, das sessões de encaixe: "a palavra informa, mas o exemplo convence"
+     (abertura de [iniciativas](instituicao/iniciativas/README.md)) repete "só filosofar não dá exemplo nem arrasta", do § Propósito → a frase pode subir. A
+     crença "soltar o apego não vem por convencimento; vem de condições" ganhou desenvolvimento
+     em [educação](filosofia/hipoteses/educacao.md), § Ninguém passa a fase pelo outro: crença não
+     muda por informação; as lacunas são crenças não transformadas; fechar o ciclo é mais que
+     consentir (`fontes/conversas/2026-10-03-ajudar-sem-mudar-o-sentido.md`) → checar se "vem de
+     condições" e "vem de se entregar" se completam e se a frase do núcleo muda.
    - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
      — de `#equilibrio-materia-e-ideias`, o paradoxo prático × abstrato como lugar do
      entendimento da realidade (a borda do estudo já está em `estudo/academia/foco.md`);
@@ -121,7 +54,9 @@ o agente o refaz no briefing da sessão de decisão.
      de vista em harmonia (`cartas-de-candidatura`, última carta) → checar fusão com
      `filosofia/cosmovisao/a-tese.md`; **todo problema é uma expectativa não atendida**
      (`cartas-de-candidatura`, carta à startup) → hipótese pequena ou
-     `filosofia/cosmovisao/quem-sou-eu.md`; do ensaio (`ensaio-nao-somos-nosso-trabalho`): você
+     `filosofia/cosmovisao/quem-sou-eu.md` — conversa com a falha de comunicação como
+     desalinhamento de expectativas, em
+     [linguagem](filosofia/hipoteses/linguagem.md#onde-a-comunicação-falha); do ensaio (`ensaio-nao-somos-nosso-trabalho`): você
      não é sua mente → `quem-sou-eu.md`.
    - Global destrutivo → global regenerativo
      (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#de-global-destrutivo-a-global-regenerativo`),
@@ -152,7 +87,9 @@ o agente o refaz no briefing da sessão de decisão.
      `filosofia/hipoteses/trabalho.md#ressignificar-o-trabalho`: tendemos a resistir ao que ainda
      não dominamos; a dor aponta onde desenvolver e a força, por onde começar; estímulos
      diferentes ajudam a descansar. Checar fusão com "o que incomoda não está necessariamente
-     errado".
+     errado". Junto, as lições de `fontes/documentos/2026-09-30-palestra-pdi.raw.md` que não são
+     trajetória: o foco é a evolução do indivíduo inteiro; a jornada é longa, sem pausa, sem
+     pressa; equilibrar flexibilidade e foco; clareza é cortar excessos, honesto com o momento.
    - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) → `filosofia/cosmovisao/quem-sou-eu.md`, por
      tema. Despertar e evolução: `#homo-evolutis-a-proxima-evolucao`,
      `#o-ciclo-da-descoberta-ao-novo-paradigma`, `#intencao-traz-conexao-e-clareza`. Corpo, mente
@@ -167,89 +104,19 @@ o agente o refaz no briefing da sessão de decisão.
    - Textos do livro: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
      `#agir-pelo-que-nao-queremos-nos-torna-passivos`; de `fontes/documentos/2026-09-29-manifesto-eamom.md`,
      vida e morte, tema candidato — `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`.
-6. **Lastro da comunicação** — dono de `instituicao/comunicacao/`. Lastro, não decisão: o que se
-   escolhe fica para a sessão de decisão.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): por que e o
-     que produzir — `#por-que-produzir-conteudo`, `#roteiro-do-primeiro-filme`,
-     `#primeira-rodada-sonhos-quem-sou-eu-estamos-juntos`,
-     `#falar-de-ansiedade-em-vez-de-espiritualidade` (o incorporador não concorda com a frase como
-     está e pede mais contexto: não vai usar a palavra espiritualidade, mas quer falar de crenças
-     e valores); como a mensagem chega — `#nao-convencer-fazer-as-pessoas-se-identificarem`,
-     `#individual-coletivo-razao-emocao`, `#detalhar-o-custo-do-problema-impacta-mais`,
-     `#o-que-faz-a-geracao-25-35-diferente`; formatos e pautas —
-     `#intencao-objetivo-tema-e-proposta`, `#a-ciencia-precisa-ser-propagada`; chamados —
-     `#convite-simplificar-desacelerar-aceitar-colaborar`, `#o-chamado-e-criar-um-novo-sistema`.
-   - Vídeos de 2025 → `linha-editorial.md`: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#o-obvio-precisa-ser-dito`,
-     `#ideias-se-aprofundam-conforme-o-envolvimento`, `#tres-temas-e-o-que-nao-sao`,
-     `#politica-sao-os-acordos`, `#expor-as-fragilidades-para-aprender`; da filosofia
-     (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#nada-novo-palavras-proprias` (tom base).
-   - Textos do livro: de `fontes/documentos/2026-09-29-readme-do-livro.raw.md`, o dilema de ser
-     profundo sem divagar e a forma manifesto curto + explicação palavra por palavra (fusão com
-     explicar em níveis, do item 4); de `fontes/documentos/2026-09-29-organizacao.md` —
-     `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`; de
-     `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#o-titulo-pode-iludir-com-um-passo-a-passo`.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`):
-     `#introducao-do-livro-quem-sou-eu` — "escrevo para os meus" (fusão com "falo para os meus",
-     em Chamados) e a lista de temas que o incorporador declarou (superação, paz, equilíbrio,
-     saúde, vida, natureza), a cruzar com os temas da linha editorial.
-   - Conversa 2026-09-26 (`fontes/conversas/2026-09-26-o-epso-e-eu.md`), a voz:
-     `#a-comunicacao-nasce-ligada-ao-epso`.
-   - Transcrição 2026-10-01 (`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md`), estratégica para a sessão de decisão: o canal —
-     `#linkedin-e-a-rede-de-quem-age`, `#pratico-no-linkedin-filosofico-em-outros-canais`,
-     `#um-espaco-para-filosofar-sem-medo`, `#o-linkedin-aponta-para-o-aprofundamento`;
-     objetivos e imagem — `#abrir-portas-e-ecossistemas`, `#construir-junto-o-futuro`,
-     `#unir-quem-ja-constroi-e-quem-quer-comecar`, `#sem-credencial-mais-humildade`,
-     `#crescer-por-etapas-sem-objetivo-fixo`, `#dar-um-passo-mesmo-cansado`; o sonho —
-     `#top-voice-como-sonho-alto` (com `fontes/conversas/2026-10-02-sonhar-sem-medo.md#nao-ter-medo-de-sonhar`),
-     `#sonhar-une`; alcance — `#chamar-referencias-para-sonhar-junto`,
-     `#convidar-produtores-a-fomentar-a-rede`, `#sem-exigir-e-sem-queimar-fichas`; temas —
-     `#temas-do-repertorio-escolhidos-com-estrategia`, `#temas-de-interesse`. A teoria de
-     mudança — `#tudo-sao-sistemas`, `#o-dinheiro-fortalece-o-sistema`,
-     `#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte` — checar fusão com
-     `#o-chamado-e-criar-um-novo-sistema`; se for tese do EPSO, a casa é o núcleo (item 5).
-7. **Contexto e estudo** — dono de `contexto/` e `estudo/`.
-   - **Regra do encaixe da narrativa v8** (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`,
-     em inglês) — encaixe seção por seção, tópico a tópico; o agente adianta o rascunho do que
-     não depende de decisão. O repositório é dono de propósito, valores, EPSO, direção e método;
-     o documento externo, complementar, é dono do detalhe de carreira e passa a derivar daqui.
-     O encaixe reescreve em português e na voz do incorporador, citando a fonte. `## 1` e `## 2`
-     estão no núcleo e na trajetória; `## 3`, em `contexto/direcao.md`; a forma do arco de
-     `## 4`, na trajetória. Ficam só no documento externo, por decisão: o detalhe de cada fase
-     (`## 4`), as competências (`## 5`), os resultados (`## 6`), as adaptações por contexto
-     (`## 8`, que servem a candidaturas), os registros (`## 9`) e o glossário (`## 10`). Os
-     diferenciais (`## 7`) são insumo da imagem
-     ([contexto/next-steps.md](contexto/next-steps.md#trabalho)).
-   - Transcrição 2026-07-04 (`fontes/transcricoes/2026-07-04-quatro-iniciativas.md`):
-     `#objetivo-de-carreira` → `contexto/direcao.md`.
-   - "Reduzir o ruído em todo papel", do fio da comunicação de `## 1` da narrativa v8 → prática
-     profissional, em `contexto/` (a hipótese já está em linguagem).
-   - **O que acredito de uma liderança** — ambiente seguro para feedback, transparência,
-     estímulo à excelência (`carta-ex-lider`) → pede a fala do incorporador; destino a decidir.
-   - Vídeos de 2025 → `contexto/trajetoria.md`: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`;
-     da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#aprendiz-mais-que-sabio`, `#filosofo-e-tambem-artista`.
-   - `fontes/documentos/2026-09-30-palestra-pdi.raw.md` → narrativa de carreira em `contexto/`: o
-     arco (ir para onde as oportunidades apareciam → dizer sim para tudo → olhar para dentro →
-     escolher sair) e o ciclo vicioso que vira virtuoso.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): traços e autoimagem → `contexto/trajetoria.md` —
-     `#me-inspira-ajudar-as-pessoas-a-se-organizarem`, `#sou-o-equilibrio-entre-simplicidade-e-profundidade`,
-     `#sou-uma-pessoa-de-visao`; direção → `contexto/direcao.md` —
-     `#meu-compromisso-e-passar-repertorio-e-caminhos-vividos`; liderança —
-     `#cultura-filosofia-e-processo-para-mudar-empresas`.
-   - Textos do livro: de `fontes/documentos/2026-09-29-organizacao.md` —
-     `#escrever-sem-esperar-autoridade` → trajetória; da conversa
-     `fontes/conversas/2026-10-01-o-livro-e-um-formato.md` — `#a-trajetoria-rende-varios-livros`
-     → `contexto/direcao.md`.
-8. **Sem casa** — educação e sociedade ainda não têm lugar no acervo; a casa se decide no
-   encaixe (hipótese nova, iniciativa ou arquivo existente).
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): educação —
-     `#educacao-como-empoderamento-foco-no-basico`, `#plano-da-universidade-indigena`; sociedade e
-     Estado — `#racismo-e-quando-se-normaliza`, `#estado-e-familia`.
-   - Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`),
-     educação: `#estimular-a-reflexao-nao-dar-a-resposta-certa`.
-9. **Método — o desenvolvimento das etapas** — o método em quatro etapas (estabelecer bases →
+2. **Método — o desenvolvimento das etapas** — o método em quatro etapas (estabelecer bases →
    aceitar a realidade → imaginar → começar pequeno) já está no núcleo, Decidido
    ([Postura](instituicao/nucleo/README.md#postura)). Falta o desenvolvimento das etapas: decidir
-   ao abrir se vai para o núcleo ou para `filosofia/`; se for o núcleo, entra na vez do núcleo.
+   ao abrir se vai para o núcleo ou para `filosofia/`; se for o núcleo, entra depois do item 1.
+   - Já no acervo, para a etapa 1: a universidade indígena nomeia "estabelecer bases" e o
+     caminho dor → causa raiz → problema relevante → soluções com prós e contras
+     ([educação](filosofia/hipoteses/educacao.md#um-exercício-a-universidade-indígena)); o
+     pertencimento como condição de estabelecer bases foi relativizado — só a colaboração sem
+     estímulo financeiro pede crença comum
+     ([economia](filosofia/hipoteses/economia.md#colaborar-por-acordo-ou-por-crença)).
+   - Para começar pequeno, de `fontes/documentos/2026-09-30-palestra-pdi.raw.md`: os critérios de
+     um plano (Ato 4) e o processo (Ato 5) — guardar o sim, sonhar grande exige crescimento,
+     decidir onde chegar e depois as ferramentas, começar pelo caminho que custa menos.
    - De 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`): `#metodo-4-comecar-pequeno`.
    - Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`): `#simples-sem-ser-simplorio`,
      `#tudo-e-sobre-intencao`, `#entender-o-outro-sem-apontar-o-dedo`, `#metodo-aberto-a-mudanca`,
@@ -258,17 +125,47 @@ o agente o refaz no briefing da sessão de decisão.
 
 ## 4. Encaixar
 
-Notas de seções que a triagem de relevância tirou do Foco; elas seguem pendentes na
+Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
 [cobertura](fontes/cobertura.md).
 
-- [valor.md](filosofia/hipoteses/valor.md) × [economia.md](filosofia/hipoteses/economia.md):
-  nasceram em sessões paralelas. "Nada tem valor por si" e "valor pelo custo, não pelo que o
-  mercado paga" podem ser partes de um argumento ou se tensionar → checar fusão.
-- Conversa 2026-09-30 (`fontes/conversas/2026-09-30-lastro-do-trabalho.md`): as linhas de
-  dignidade, conforto e desperdício — quatro faixas; ninguém abaixo da dignidade nem acima do
-  desperdício; o dinheiro parado também é desperdício (`#dignidade-conforto-e-desperdicio`) →
-  `valor.md` ou `economia.md`; par da nota contra a especulação (item 1 do Foco); o
-  incorporador quer elaborar com calma: talvez provocação no elaborar.
+- [economia.md](filosofia/hipoteses/economia.md), de `fontes/conversas/2026-10-02-valor-e-linhas.md`:
+  valor e economia não se fundem — há o preço e o benefício, e
+  [valor](filosofia/hipoteses/valor.md#benefício-não-preço) fica com o benefício; o "Valor pelo
+  custo" de economia.md é, nesse vocabulário, preço pelo custo → considerar renomear a seção.
+  `#camadas-de-custo` — as camadas primária, secundária, terciária e as mais profundas;
+  operação, manutenção, aquisição, planejamento, custo de oportunidade, depreciação →
+  [planejar é compor custos](filosofia/hipoteses/economia.md#planejar-é-compor-custos), que hoje
+  tem manutenção e depreciação.
+- Contra a especulação, encaixada em parte em
+  [valor](filosofia/hipoteses/valor.md#contra-a-especulação): ficaram de fora a taxação de
+  fortunas, a governança (famílias, comunidades), o comércio local e a reforma agrária como
+  proposta (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#contra-a-especulacao-reforma-agraria-taxacao-e-renda`).
+  O encaixe propôs um eixo político para elas (`fontes/conversas/2026-10-02-valor-e-linhas.md#um-eixo-politico`);
+  [sociedade](filosofia/hipoteses/sociedade.md#política-são-acordos) nasceu depois e é candidata
+  a casa → decidir se ela é o eixo.
+- De `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#maslow-necessidades-atendidas-antes-do-pensamento-complexo`,
+  encaixada em parte em educação: as doenças da mente como doenças do século, explicadas pela
+  pirâmide de Maslow, e a impossibilidade de pensamento complexo com a necessidade na camada mais
+  física → `quem-sou-eu.md` (saúde mental) ou `trabalho.md`.
+- Margens do grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), vizinhas
+  de educação e sociedade: `#filhos-impulsionam-quem-sabe-viver` → `quem-sou-eu.md` (filho é
+  impulso para quem sabe viver, fardo para quem vive anestesiado);
+  `#meus-maiores-estudos-vieram-do-silencio` → trajetória ou cosmovisão;
+  `#ambicao-nao-e-proposito-de-vida` → propósito, não educação; `#arte-pode-ser-ensinada` →
+  educação ou arte; `#a-brincadeira-exercita-a-imaginacao` → cosmovisão ou educação;
+  `#razao-e-pensamento-em-linha-a-sociedade-e-rede`,
+  `#a-complexidade-da-civilizacao-e-organizacao-insustentavel`, `#a-historia-nao-tolera-o-vazio`,
+  `#nao-existe-vacuo-as-pessoas-ocupam-espacos` → cosmovisão ou sociedade;
+  `#todos-somos-ignorantes-em-algum-topico` → precisão, pela humildade.
+- Conversa 2026-10-03 (`fontes/conversas/2026-10-03-ideia-nao-tem-dono.md`): a crença de que as
+  ideias existem e são captadas, e de que se apegar a ser dono é do paradigma anterior
+  (`#ideia-nao-tem-dono`), e `#assimilar-o-que-tem-a-mesma-mensagem` → `ancora.md` ou `a-tese.md`;
+  `#estabelecer-as-bases-antes-de-aprofundar` → linha editorial, junto de "o óbvio precisa ser
+  dito".
+- `fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md#aberta-a-voluntarios-e-a-financiamento`,
+  a parte de financiamento: trabalho voluntário ou remunerado quando houver clientes, empresas,
+  investidor-anjo ou edital — "não importa a maneira que a gente conseguir financiamento" →
+  [financiamento](instituicao/financiamento/README.md).
 - Provocações a levar ao [elaborar](elaborar.md): como se mede a troca — banco de tempo ×
   moeda social (`fontes/conversas/2026-09-30-precisar-de-menos.md`); por que o lazer vem
   "principalmente" entre os hábitos
@@ -302,7 +199,7 @@ Notas de seções que a triagem de relevância tirou do Foco; elas seguem penden
   ficou fora do núcleo: é imagem, candidata à linha editorial; tensiona "o planeta não precisa
   de nós"
   (`fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`,
-  que também repete a nota do WhatsApp sobre mudar a maneira de pensar, no item 5): a pergunta está no [elaborar](elaborar.md#quem-sou-eu), e o encaixe
+  que também repete a nota do WhatsApp sobre mudar a maneira de pensar, no item 1): a pergunta está no [elaborar](elaborar.md#quem-sou-eu), e o encaixe
   espera a resposta. O mesmo par no grupo EPSO no WhatsApp
   (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): `#evolucao-e-um-fato-indiferente` ×
   `#a-natureza-e-nossa-mae`.
@@ -324,22 +221,17 @@ Notas de seções que a triagem de relevância tirou do Foco; elas seguem penden
   (`fontes/conversas/2026-09-27-o-nucleo-do-epso.md#valores-de-outra-empresa`, já aplicada no
   núcleo: citar lá). Os quatro tipos de benchmarking (`notas-comite-ia`) pedem explicação do
   incorporador; candidato a [elaborar](elaborar.md).
-- `fontes/conversas/2026-09-28-validacao-do-nucleo.md#eficiencia` (eficiência é maior
-  resultado com mínimo de esforço) → núcleo.
 - Narrativa v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`), `## 3`: os três
   campos da pesquisa em IA (processamento de linguagem natural, representação de
   conhecimento, eficiência computacional) → checar fusão com os candidatos de recorte em
   `estudo/academia/foco.md`. `blocos-de-curriculo` não tem ideia nova: é detalhe de carreira,
   do documento externo → dispensar nos metadados.
-- Curso de obras (`fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`):
-  `#avaliar-pelas-habilidades-do-gestor`, junto de "o que acredito de uma liderança" (item 7
-  do Foco).
 - Já vivem no [CLAUDE.md](CLAUDE.md), citar lá:
   `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#três-camadas-de-fonte-áudio-bruto-limpo`
   (régua de preservação), `fontes/conversas/2026-09-26-o-epso-e-eu.md#o-estado-mais-atual-sem-genealogia`
   e `fontes/conversas/2026-09-30-lastro-do-trabalho.md#o-acervo-nao-e-o-texto-publicado`
   (Postura). `fontes/conversas/2026-09-28-trajetoria-e-direcao.md#a-narrativa-de-carreira-adapta-nao-define`
-  já é a regra da v8 (item 7 do Foco): citar onde ela for morar.
+  já é a regra da v8: citar em [direção](contexto/direcao.md), onde ela mora.
 - Conversa 2026-07-07 (`fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md`): na
   migração, reaproveitar as ponderações e não o resultado
   (`#migração-reaproveitar-as-ponderações-não-o-resultado`).
@@ -352,35 +244,32 @@ Notas de seções que a triagem de relevância tirou do Foco; elas seguem penden
 - Conversa 2026-10-01 (`fontes/conversas/2026-10-01-o-livro-e-um-formato.md`): não há livro
   agora — livro é um formato de transmissão, e o hub centraliza as ideias; os planos de livro
   não se encaixam, ficam as ideias de dentro deles. `#nao-ha-livro-agora-so-ideias`, candidata
-  a dispensa (a decisão já vive aqui); `#produzir-recortar-compilar` → fusão com intenção,
-  objetivo, tema e proposta (item 6); `#o-livro-e-um-formato-de-transmissao` e
-  `#o-doutorado-deve-render-um-livro` → junto de "a trajetória rende vários livros" (item 7) e
-  do "futura tese e livro" de [filosofia/cosmovisao/README.md](filosofia/cosmovisao/README.md);
-  o doutorado → `estudo/academia/foco.md`.
+  a dispensa (a decisão já vive aqui); `#o-livro-e-um-formato-de-transmissao` → junto de "a
+  trajetória rende vários livros" ([direção](contexto/direcao.md#longo-prazo)) e do "futura
+  tese e livro" de [filosofia/cosmovisao/README.md](filosofia/cosmovisao/README.md).
 - `fontes/documentos/2026-09-29-readme-do-livro.raw.md`: dispensar nos metadados o plano dos
   três livros (Organização, E assim mudamos o mundo, Moeda); as fases do comportamento da
-  sociedade (consciência → organização → evolução) → fusão com o ciclo da descoberta (item 5).
+  sociedade (consciência → organização → evolução) → fusão com o ciclo da descoberta (item 1).
 - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), textos do
   livro: dispensar nos metadados a sequência Manual/Manifesto/Conceitos/Apêndice de
   `#estrutura-do-livro-manual-manifesto-conceitos`; os cinco conceitos dela (camadas e
   dualismo, ilusão da separação, matéria e ideia, evolução e máxima eficiência, unir-se para
-  aumentar energia e consciência) → checar fusão com `a-tese.md` e `quem-sou-eu.md`; o roteiro
-  de *quem sou eu* de `#introducao-do-livro-quem-sou-eu` repete o arco de `quem-sou-eu.md`:
-  checar fusão; `#prefacio-do-livro` — a percepção do corpo é limitada, humildade para perceber
+  aumentar energia e consciência) → checar fusão com `a-tese.md` e `quem-sou-eu.md`;
+  `#prefacio-do-livro` — a percepção do corpo é limitada, humildade para perceber
   a realidade como ela é, o corpo como oráculo interno; `#e-assim-mudaremos-o-mundo`, candidata
   a dispensa (a frase solta que "o título pode iludir" critica).
 - Crise de sentido, um argumento só com a definição de depressão e ansiedade do WhatsApp (item
-  5): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
+  1): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
   `#sobreviver-deixou-de-dar-sentido`, `#nao-eliminar-as-experiencias-ruins-classifica-las`,
   `#a-mente-e-uma-ferramenta` (fusão com "você não é sua mente"); de
   `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#escolher-entre-viver-e-morrer`,
   `#a-mente-e-uma-maquina-de-encontrar-sentido`.
-- Vida e morte, o resto do tema (os representantes estão no item 5): de
+- Vida e morte, o resto do tema (os representantes estão no item 1): de
   `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#a-saude-e-uma-medida-que-conseguimos-concordar`
   e `#saude-como-modelo-de-representacao-da-vida` (um argumento com "queremos mais vida"),
   `#nao-lidar-com-a-morte-nos-faz-divergir`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
   `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#quem-dificulta-acoes-se-conformou-com-a-morte`.
-- Estabelecer bases (item 9): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
+- Estabelecer bases (item 2): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
   `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`; a lista
   de bases é a mesma de `fontes/documentos/2026-09-29-glossario.raw.md`, cujas definições de
   ciência, mentira e verdade vão em fusão com "verdade é o que faz sentido para cada um"
@@ -390,15 +279,15 @@ Notas de seções que a triagem de relevância tirou do Foco; elas seguem penden
   `fontes/documentos/2026-09-29-manifesto-homo-activus.md#reinventar-a-organizacao-capitalismo-sustentavel`
   → "novo capitalismo" de [economia.md](filosofia/hipoteses/economia.md);
   `fontes/documentos/2026-09-29-manifesto-homo-activus.md#agir-pelo-que-queremos` → junto do
-  par do item 5;
+  par do item 1;
   `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#filosofias-e-religioes-representam-o-mundo`
-  → "toda analogia é um mito" (item 4);
+  → "toda analogia é um mito", em [linguagem](filosofia/hipoteses/linguagem.md);
   `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#o-paradoxo-de-querer-economizar-energia`
   (frase sem fim) → `fontes/documentos/2026-09-29-organizacao.md#nao-querer-profundidade-de-maneira-superficial`;
   `fontes/documentos/2026-09-29-organizacao.md#o-ritmo-acelerado-desgasta-o-corpo` → o convite
-  a desacelerar (item 6);
+  a desacelerar, em [chamados](instituicao/comunicacao/linha-editorial.md#chamados);
   `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md#reduzir-a-diversidade-para-evitar-conflito`
-  → junto de racismo (item 8).
+  → [sociedade](filosofia/hipoteses/sociedade.md), ou junto das sementes de racismo do grupo.
 
 ## 5. Backlog
 

@@ -55,13 +55,30 @@ enviar com `git push --force-with-lease`, só em branch de feature própria. Con
 nele, e o conflito não se resolve à mão. Em cada commit do rebase que parar nele, rodar
 `python meta/cobertura.py`, `git add fontes/cobertura.md` e seguir com `git rebase --continue`.
 
-**Escopo de sessão paralela:** o encaixe vai aonde a ideia leva, em qualquer bloco, e a
-sessão registra em `fontes/conversas/` as ideias que a própria conversa gerar. Quando há uma
-sessão que coordena as outras, só o que ela consolida (a fila, a cobertura, os metadados das
-fontes) fica reservado, para evitar conflito. O que sair do bloco do item vai declarado no PR.
-
 Sessão Claude Code na nuvem já roda num container isolado, com clone próprio: ali o
 worktree é dispensável, e trabalha-se direto na branch designada pela sessão.
+
+## Trabalho paralelo com consolidador
+
+Quando várias sessões trabalham ao mesmo tempo sobre a mesma fila — o encaixe de uma onda do
+Foco, por exemplo —, uma delas fica como **consolidadora**: gera os prompts das outras e é a
+única que edita o que todas disputariam — a fila (`next-steps.md`), `fontes/cobertura.md`, os
+metadados das fontes (dispensas e sementes) e as provocações que as sessões mandam ao
+[elaborar](../elaborar.md).
+
+As outras sessões:
+
+- encaixam aonde a ideia leva, em qualquer bloco, e declaram no PR o que saiu do bloco do item;
+- registram em `fontes/conversas/` as ideias que a própria conversa gerar — arquivo novo não
+  disputa com ninguém;
+- rodam `python meta/cobertura.py` só para conferir, sem commitar;
+- terminam a descrição do PR com `## Retorno ao consolidador`: seções encaixadas (âncora →
+  arquivo); dispensas e sementes aprovadas, com motivo; notas a outros itens e ao Encaixar;
+  provocações ao elaborar; o que muda no item da fila.
+
+Depois do merge, o incorporador diz à consolidadora "veja a #N": ela lê o retorno
+(`gh pr view <n>`), aplica na branch dela e regera a cobertura. A cobertura do `main` fica
+defasada só entre um merge e o push seguinte da consolidadora.
 
 ## Limpeza: worktree de PR mergeado
 

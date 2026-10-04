@@ -9,10 +9,10 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | Fonte | Estado | Concluídas |
 |---|---|---|
 | [2023-09-02-sistema-filosofico-trilha-do-autoconhecimento](../fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md) | completo | 26/26 |
-| [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md) | não iniciado | 0/20 |
-| [2025-03-06-sobre-filosofia](../fontes/transcricoes/2025-03-06-sobre-filosofia.md) | não iniciado | 0/9 |
+| [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md) | parcial | 7/20 |
+| [2025-03-06-sobre-filosofia](../fontes/transcricoes/2025-03-06-sobre-filosofia.md) | parcial | 3/9 |
 | [2025-03-06-sobre-o-metodo](../fontes/transcricoes/2025-03-06-sobre-o-metodo.md) | não iniciado | 0/46 |
-| [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md) | não iniciado | 0/8 |
+| [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md) | parcial | 7/8 |
 | [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md) | não iniciado | 0/22 |
 | [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 5/13 |
 | [2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu](../fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md) | parcial | 5/6 |
@@ -20,17 +20,17 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade](../fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md) | parcial | 6/10 |
 | [2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel](../fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md) | completo | 5/5 |
 | [2026-07-04-estrategia-profissional](../fontes/transcricoes/2026-07-04-estrategia-profissional.md) | completo | 4/4 |
-| [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | parcial | 5/6 |
+| [2026-07-04-quatro-iniciativas](../fontes/transcricoes/2026-07-04-quatro-iniciativas.md) | completo | 6/6 |
 | [2026-07-07-camada-filosofica-e-a-jornada-academica](../fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md) | parcial | 9/12 |
 | [2026-09-22-regeneracao-lastro-e-eco-cidades](../fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md) | completo | 13/13 |
 | [2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas](../fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md) | completo | 15/15 |
 | [2026-09-24-atencao-corpo-linguagem-e-camadas](../fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md) | completo | 28/28 |
-| [2026-10-01-linkedin-sonhar-junto-e-novos-sistemas](../fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md) | não iniciado | 0/28 |
+| [2026-10-01-linkedin-sonhar-junto-e-novos-sistemas](../fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md) | completo | 28/28 |
 | [2026-07-07-vetor-ancora-camada-de-fontes](../fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md) | parcial | 8/10 |
 | [2026-09-23-precisao-e-a-pagina-do-livro](../fontes/conversas/2026-09-23-precisao-e-a-pagina-do-livro.md) | completo | 9/9 |
 | [2026-09-25-a-mente-sugere-a-atencao](../fontes/conversas/2026-09-25-a-mente-sugere-a-atencao.md) | completo | 2/2 |
 | [2026-09-25-linguagem-e-ecocidades](../fontes/conversas/2026-09-25-linguagem-e-ecocidades.md) | completo | 5/5 |
-| [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | não iniciado | 0/5 |
+| [2026-09-26-o-epso-e-eu](../fontes/conversas/2026-09-26-o-epso-e-eu.md) | parcial | 1/5 |
 | [2026-09-26-trabalho-e-novo-paradigma](../fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md) | parcial | 6/7 |
 | [2026-09-27-a-construtora-e-o-epso](../fontes/conversas/2026-09-27-a-construtora-e-o-epso.md) | parcial | 8/9 |
 | [2026-09-27-as-duas-teses-e-a-migracao](../fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md) | completo | 6/6 |
@@ -40,7 +40,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-receitas-plataformas-e-notas-antigas](../fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md) | parcial | 2/6 |
 | [2026-09-28-objetivos-canal-e-idioma](../fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md) | completo | 6/6 |
 | [2026-09-28-trajetoria-e-direcao](../fontes/conversas/2026-09-28-trajetoria-e-direcao.md) | parcial | 2/3 |
-| [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 14/16 |
+| [2026-09-28-validacao-do-nucleo](../fontes/conversas/2026-09-28-validacao-do-nucleo.md) | parcial | 15/16 |
 | [2026-09-29-a-critica-a-ia-atual](../fontes/conversas/2026-09-29-a-critica-a-ia-atual.md) | completo | 1/1 |
 | [2026-09-29-as-teses-o-manifesto-e-o-doutorado](../fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md) | completo | 5/5 |
 | [2026-09-29-carta-ao-ex-lider](../fontes/conversas/2026-09-29-carta-ao-ex-lider.md) | completo | 2/2 |
@@ -48,17 +48,26 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-o-meio-do-paradoxo](../fontes/conversas/2026-09-29-o-meio-do-paradoxo.md) | completo | 6/6 |
 | [2026-09-29-objetivos-imagem-e-tematicas](../fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md) | não iniciado | 0/13 |
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
-| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | parcial | 6/8 |
-| [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 6/9 |
+| [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | parcial | 7/8 |
+| [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
 | [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
-| [2026-10-01-o-livro-e-um-formato](../fontes/conversas/2026-10-01-o-livro-e-um-formato.md) | não iniciado | 0/5 |
+| [2026-10-01-o-livro-e-um-formato](../fontes/conversas/2026-10-01-o-livro-e-um-formato.md) | parcial | 3/5 |
 | [2026-10-01-semente-e-dispensa](../fontes/conversas/2026-10-01-semente-e-dispensa.md) | completo | 2/2 |
-| [2026-10-01-temas-favoritos](../fontes/conversas/2026-10-01-temas-favoritos.md) | não iniciado | 0/2 |
-| [2026-10-02-sonhar-sem-medo](../fontes/conversas/2026-10-02-sonhar-sem-medo.md) | não iniciado | 0/1 |
+| [2026-10-01-temas-favoritos](../fontes/conversas/2026-10-01-temas-favoritos.md) | completo | 2/2 |
+| [2026-10-02-arte-e-ciencia](../fontes/conversas/2026-10-02-arte-e-ciencia.md) | parcial | 3/4 |
+| [2026-10-02-comunidades](../fontes/conversas/2026-10-02-comunidades.md) | completo | 4/4 |
+| [2026-10-02-encaixe-contexto](../fontes/conversas/2026-10-02-encaixe-contexto.md) | completo | 3/3 |
+| [2026-10-02-politica-sao-acordos](../fontes/conversas/2026-10-02-politica-sao-acordos.md) | completo | 4/4 |
+| [2026-10-02-sonhar-sem-medo](../fontes/conversas/2026-10-02-sonhar-sem-medo.md) | completo | 1/1 |
+| [2026-10-02-valor-e-linhas](../fontes/conversas/2026-10-02-valor-e-linhas.md) | parcial | 4/6 |
+| [2026-10-03-ajudar-sem-mudar-o-sentido](../fontes/conversas/2026-10-03-ajudar-sem-mudar-o-sentido.md) | completo | 9/9 |
+| [2026-10-03-ideia-nao-tem-dono](../fontes/conversas/2026-10-03-ideia-nao-tem-dono.md) | parcial | 2/6 |
+| [2026-10-03-riqueza-e-pertencimento](../fontes/conversas/2026-10-03-riqueza-e-pertencimento.md) | completo | 7/7 |
+| [2026-10-03-teses-ansiedade-e-glossario](../fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md) | completo | 5/5 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
-| [2026-09-27-carta-ex-lider](../fontes/documentos/2026-09-27-carta-ex-lider.raw.md) | citado; na fila | — |
+| [2026-09-27-carta-ex-lider](../fontes/documentos/2026-09-27-carta-ex-lider.raw.md) | citado | — |
 | [2026-09-27-carta-rede-de-pais](../fontes/documentos/2026-09-27-carta-rede-de-pais.raw.md) | dispensado | — |
 | [2026-09-27-cartas-de-candidatura](../fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md) | citado; na fila | — |
 | [2026-09-27-construtora-documento-institucional](../fontes/documentos/2026-09-27-construtora-documento-institucional.raw.md) | citado; na fila | — |
@@ -73,21 +82,21 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-a-realidade-como-ela-e](../fontes/documentos/2026-09-29-a-realidade-como-ela-e.md) | não iniciado | 0/7 |
 | [2026-09-29-apresentacao](../fontes/documentos/2026-09-29-apresentacao.raw.md) | na fila | — |
 | [2026-09-29-aula-de-artes](../fontes/documentos/2026-09-29-aula-de-artes.raw.md) | na fila | — |
-| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md) | parcial | 0/11 |
+| [2026-09-29-e-assim-mudamos-o-mundo](../fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md) | parcial | 1/11 |
 | [2026-09-29-engajamento](../fontes/documentos/2026-09-29-engajamento.raw.md) | citado | — |
 | [2026-09-29-eu](../fontes/documentos/2026-09-29-eu.raw.md) | citado; na fila | — |
 | [2026-09-29-explicado-homo-activus](../fontes/documentos/2026-09-29-explicado-homo-activus.raw.md) | dispensado | — |
-| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md) | não iniciado | 14/42 |
+| [2026-09-29-gerenciamento-de-obras-proposta-de-curso](../fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md) | parcial | 22/42 |
 | [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | na fila | — |
-| [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | parcial | 2/341 |
+| [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | parcial | 82/341 |
 | [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.md) | não iniciado | 0/10 |
 | [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | não iniciado | 0/15 |
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | dispensado | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | na fila | — |
-| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md) | não iniciado | 0/12 |
-| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | não iniciado | 0/6 |
+| [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md) | parcial | 1/12 |
+| [2026-09-29-organizacao](../fontes/documentos/2026-09-29-organizacao.md) | parcial | 2/6 |
 | [2026-09-29-personalidades](../fontes/documentos/2026-09-29-personalidades.raw.md) | na fila | — |
-| [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | na fila | — |
+| [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | citado; na fila | — |
 | [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado; na fila | — |
 | [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado; na fila | — |
 
@@ -98,12 +107,12 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2025-03-05-sobre-o-era-pra-ser-obvio
 
 - Encaixar: `#todo-conteudo-e-um-convite`, `#retornar-e-se-expor`
-- Foco: `#o-obvio-precisa-ser-dito`, `#experienciar-em-vez-de-so-ouvir`, `#retomar-apesar-da-exposicao`, `#ideias-se-aprofundam-conforme-o-envolvimento`, `#metodo-4-comecar-pequeno`, `#tres-temas-e-o-que-nao-sao`, `#praticante-nao-mestre`, `#politica-sao-os-acordos`, `#expor-as-fragilidades-para-aprender`
+- Foco: `#metodo-4-comecar-pequeno`, `#praticante-nao-mestre`
 - sem nota na fila: `#o-canal-nasceu-do-excesso-de-informacao`, `#nada-se-cria-tudo-se-transforma`, `#metodo-1-estabelecer-bases`, `#metodo-2-aceitar-a-realidade`, `#metodo-3-criar-imaginar`, `#espiritualidade-e-o-misterio`, `#o-que-nos-faz-unir`, `#tudo-e-filosofia`, `#comecar-livre-para-nao-procrastinar`
 
 ### 2025-03-06-sobre-filosofia
 
-- Foco: `#nada-novo-palavras-proprias`, `#aprendiz-mais-que-sabio`, `#no-meio-do-paradoxo-da-expectativa`, `#filosofo-e-tambem-artista`
+- Foco: `#no-meio-do-paradoxo-da-expectativa`
 - sem nota na fila: `#filosofo-reflete-por-refletir`, `#refletir-ou-viver`, `#filosofo-nao-por-escolha`, `#cada-filosofo-tem-uma-percepcao-unica`, `#aprender-com-os-erros-de-quem-veio-antes`
 
 ### 2025-03-06-sobre-o-metodo
@@ -114,8 +123,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2025-04-17-sobre-a-plataforma-epso
 
-- Foco: `#aberta-a-voluntarios-e-a-financiamento`, `#o-criterio-sao-dores-que-a-gente-tem`, `#pilar-2-discussao-e-comunidade`
-- sem nota na fila: `#a-plataforma-do-portfolio`, `#pilar-1-ferramentas-gratuitas-para-as-pessoas`, `#pago-por-quem-nao-e-materia-organica`, `#aprender-junto-e-se-sustentar`, `#tirar-a-forma-da-mensagem`
+- Encaixar, com parte já encaixada: `#aberta-a-voluntarios-e-a-financiamento`
 
 ### 2025-04-30-a-vida-e-o-determinismo
 
@@ -145,17 +153,9 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 - Foco: `#quem-somos-nos-e-a-tese`
 - sem nota na fila: `#um-retrato-no-tempo`, `#mudar-paradigmas-no-seculo-xxi`
 
-### 2026-07-04-quatro-iniciativas
-
-- Foco: `#objetivo-de-carreira`
-
 ### 2026-07-07-camada-filosofica-e-a-jornada-academica
 
 - sem nota na fila: `#a-camada-filosofica-e-a-fonte`, `#a-solucao-mudar-o-paradigma-realidade-nao-dual`, `#novo-paradigma-e-transformacao`
-
-### 2026-10-01-linkedin-sonhar-junto-e-novos-sistemas
-
-- Foco: `#linkedin-e-a-rede-de-quem-age`, `#abrir-portas-e-ecossistemas`, `#construir-junto-o-futuro`, `#comunidade-de-debate-que-converge`, `#comunidade-que-compartilha-praticas-sustentaveis`, `#criar-nossa-religiao-politica-e-cidades`, `#tecnologia-para-planejar-sistemas`, `#rede-de-voluntarios-com-beneficio-real`, `#economia-puxada-pela-demanda`, `#dar-um-passo-mesmo-cansado`, `#temas-do-repertorio-escolhidos-com-estrategia`, `#unir-quem-ja-constroi-e-quem-quer-comecar`, `#plataforma-de-dores-e-ofertas`, `#crescer-por-etapas-sem-objetivo-fixo`, `#top-voice-como-sonho-alto`, `#um-espaco-para-filosofar-sem-medo`, `#o-linkedin-aponta-para-o-aprofundamento`, `#chamar-referencias-para-sonhar-junto`, `#sonhar-une`, `#convidar-produtores-a-fomentar-a-rede`, `#sem-exigir-e-sem-queimar-fichas`, `#temas-de-interesse`, `#sem-credencial-mais-humildade`, `#pratico-no-linkedin-filosofico-em-outros-canais`, `#tudo-sao-sistemas`, `#o-dinheiro-fortalece-o-sistema`, `#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte`
 
 ### 2026-07-07-vetor-ancora-camada-de-fontes
 
@@ -164,7 +164,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-09-26-o-epso-e-eu
 
 - Encaixar: `#ainda-nao-comecei`, `#o-estado-mais-atual-sem-genealogia`
-- Foco: `#o-epso-e-a-institucionalizacao-das-minhas-ideias`, `#a-comunicacao-nasce-ligada-ao-epso`
+- Foco: `#o-epso-e-a-institucionalizacao-das-minhas-ideias`
 - sem nota na fila: `#somos-uma-coisa-so-por-enquanto`
 
 ### 2026-09-26-trabalho-e-novo-paradigma
@@ -190,7 +190,6 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-28-validacao-do-nucleo
 
-- Encaixar: `#eficiencia`
 - instituicao/next-steps.md, com parte já encaixada: `#objetivos`
 
 ### 2026-09-29-objetivos-imagem-e-tematicas
@@ -200,31 +199,35 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-30-lastro-do-trabalho
 
-- Encaixar: `#o-acervo-nao-e-o-texto-publicado`, `#dignidade-conforto-e-desperdicio`
+- Encaixar: `#o-acervo-nao-e-o-texto-publicado`
 
 ### 2026-09-30-linguagem-intencao-e-hipotese
 
 - Encaixar, com parte já encaixada: `#intencao-e-o-que-queremos-alcancar`
 - Encaixar, filosofia/next-steps.md: `#a-ideia-tem-uma-mensagem`
-- Foco: `#abracar-outras-ciencias`
 
 ### 2026-09-30-precisar-de-menos
 
 - Foco: `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`
-- Foco, meta/next-steps.md: `#compromisso-com-pessoas-nao-com-coisas`
+- meta/next-steps.md, com parte já encaixada: `#compromisso-com-pessoas-nao-com-coisas`
 
 ### 2026-10-01-o-livro-e-um-formato
 
-- Encaixar: `#nao-ha-livro-agora-so-ideias`, `#produzir-recortar-compilar`, `#o-livro-e-um-formato-de-transmissao`, `#o-doutorado-deve-render-um-livro`
-- Foco: `#a-trajetoria-rende-varios-livros`
+- Encaixar: `#nao-ha-livro-agora-so-ideias`, `#o-livro-e-um-formato-de-transmissao`
 
-### 2026-10-01-temas-favoritos
+### 2026-10-02-arte-e-ciencia
 
-- instituicao/next-steps.md: `#temas-favoritos`, `#crencas-e-valores`
+- sem nota na fila: `#explicar-em-niveis-e-um-como`
 
-### 2026-10-02-sonhar-sem-medo
+### 2026-10-02-valor-e-linhas
 
-- Foco: `#nao-ter-medo-de-sonhar`
+- Encaixar: `#camadas-de-custo`, `#um-eixo-politico`
+
+### 2026-10-03-ideia-nao-tem-dono
+
+- Encaixar: `#assimilar-o-que-tem-a-mesma-mensagem`, `#estabelecer-as-bases-antes-de-aprofundar`
+- Encaixar, com parte já encaixada: `#ideia-nao-tem-dono`
+- meta/next-steps.md: `#uma-biblioteca-de-referencias`
 
 ### 2026-09-29-a-realidade-como-ela-e
 
@@ -234,22 +237,18 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - Encaixar: `#o-paradoxo-de-querer-economizar-energia`, `#a-mente-e-uma-maquina-de-encontrar-sentido`, `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#quem-dificulta-acoes-se-conformou-com-a-morte`, `#escolher-entre-viver-e-morrer`, `#filosofias-e-religioes-representam-o-mundo`
 - Encaixar, com parte já encaixada: `#mudar-o-mundo-e-mudar-as-pessoas-nao-o-planeta`
-- Foco: `#o-titulo-pode-iludir-com-um-passo-a-passo`
 - sem nota na fila: `#lidamos-mal-com-tempo-e-linguagem`, `#a-mudanca-interna-ja-muda-o-mundo`, `#toda-acao-ajuda-ou-atrapalha`
 
 ### 2026-09-29-gerenciamento-de-obras-proposta-de-curso
 
-- Encaixar: `#avaliar-pelas-habilidades-do-gestor`
-- Foco: `#estimar-a-obra-mostra-que-ninguem-tem-precisao`, `#qualquer-um-pode-tocar-uma-obra`, `#a-eficiencia-tem-varias-dimensoes`, `#orcamento-bom-e-o-que-se-aproxima-da-realidade`, `#estimular-a-reflexao-nao-dar-a-resposta-certa`, `#automacao-e-uberizacao-na-construcao`
-- sem nota na fila: `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#como-se-ganha-dinheiro-com-obra`, `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#equilibrar-estrutura-e-burocracia`, `#vantagem-financeira-nao-e-vantagem-economica`, `#residuo-impacto-ambiental-e-etica`, `#o-que-e-realmente-lei-e-realmente-necessario`, `#projeto-final-orcamento-com-checkpoints`
+- sem nota na fila: `#tudo-e-simples-separado-e-complexo-junto`, `#muitos-problemas-muitas-maneiras-de-se-destacar`, `#a-eficiencia-e-mentalidade-nas-pequenas-decisoes`, `#as-normas-antigas-nao-priorizavam-o-equilibrio`, `#sem-concepcao-eficiente-so-se-remedia`, `#entender-por-que-a-obra-existe-e-quem-a-quer`, `#mostrar-ao-cliente-o-valor-do-engenheiro`, `#gerenciar-obra-e-mais-que-o-canteiro`, `#o-cliente-quer-o-problema-resolvido`, `#o-gestor-de-obra-precisa-de-base-tecnica`, `#certificacao-ajuda-mas-nao-garante`, `#grau-e-qualidade-sao-coisas-diferentes`, `#como-se-ganha-dinheiro-com-obra`, `#aprender-sem-levar-30-anos-estabelecendo-bases`, `#va-ao-lugar`, `#cada-um-puxa-para-o-seu-lado`, `#equilibrar-estrutura-e-burocracia`, `#residuo-impacto-ambiental-e-etica`, `#o-que-e-realmente-lei-e-realmente-necessario`, `#projeto-final-orcamento-com-checkpoints`
 
 ### 2026-09-29-grupo-epso-whatsapp
 
-- Encaixar: `#e-assim-mudaremos-o-mundo`, `#prefacio-do-livro`, `#estrutura-do-livro-manual-manifesto-conceitos`
-- Encaixar, Foco: `#introducao-do-livro-quem-sou-eu`
-- Encaixar, com parte já encaixada: `#a-natureza-e-nossa-mae`, `#evolucao-e-um-fato-indiferente`
-- Foco: `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`, `#acessorios-como-cartao-de-visita`, `#como-as-pessoas-mudam-pelo-que-voce-faz`, `#a-ciencia-precisa-ser-propagada`, `#o-que-e-ciencia-humildade-colaboracao-e-evolucao`, `#arte-e-entretenimento-os-dois-extremos`, `#explicar-em-niveis-superficial-medio-e-profundo`, `#o-que-faz-a-geracao-25-35-diferente`, `#tolos-sagazes-e-sabios`, `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`, `#a-rede-de-comunicacao-permite-cooperar-como-nunca`, `#dicotomias-sao-etapa-do-aprendizado`, `#o-que-melhora-as-coisas-e-conexao`, `#qual-seria-sua-resistencia-a-uma-ideia-disruptiva`, `#todo-mundo-precisa-de-ajuda-para-organizar-os-pensamentos`, `#racismo-e-quando-se-normaliza`, `#encontros-de-debate-de-conciliacao`, `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`, `#palavras-e-valores-em-lista`, `#equilibrio-entre-arte-ciencia-e-filosofia`, `#utopias-tendem-a-se-tornar-realidade`, `#me-inspira-ajudar-as-pessoas-a-se-organizarem`, `#homo-evolutis-a-proxima-evolucao`, `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`, `#por-que-produzir-conteudo`, `#nao-precisamos-mudar-o-mundo-mas-a-maneira-de-pensar`, `#ideias-sem-acao-nao-mudam-a-vida-das-pessoas`, `#inspirar-duas-pessoas-um-pouco-de-cada-vez`, `#sou-o-equilibrio-entre-simplicidade-e-profundidade`, `#nao-convencer-fazer-as-pessoas-se-identificarem`, `#organizacao-e-a-ferramenta-mais-poderosa`, `#conectar-quem-luta-para-que-saibam-que-nao-estao-sos`, `#cultura-filosofia-e-processo-para-mudar-empresas`, `#presenca-a-habilidade-do-seculo-21`, `#a-linguagem-que-conecta-e-a-pessoal`, `#intencao-objetivo-tema-e-proposta`, `#falamos-ao-outro-o-que-queremos-reforcar`, `#unir-razao-e-espiritualidade`, `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`, `#o-ciclo-da-descoberta-ao-novo-paradigma`, `#toda-analogia-e-um-mito`, `#ajudar-e-diferente-de-tentar-melhorar`, `#estado-e-familia`, `#plano-da-universidade-indigena`, `#a-revolucao-vira-quando-as-ideias-estiverem-maduras`, `#quando-a-expressao-vira-arte`, `#individual-coletivo-razao-emocao`, `#consciencia-individual-e-coletiva-se-retroalimentam`, `#profissionalismo-e-pessoalidade`, `#comunicacao-e-transformar-sentimento-em-mensagem`, `#por-que-estamos-em-momento-critico`, `#so-posso-dar-o-que-recebi`, `#pertencimento-precede-a-colaboracao`, `#plataforma-de-comunidades-pelos-quatro-pilares`, `#convite-simplificar-desacelerar-aceitar-colaborar`, `#contra-a-especulacao-reforma-agraria-taxacao-e-renda`, `#apontar-empresas-destrutivas-e-criar-indices`, `#educacao-como-empoderamento-foco-no-basico`, `#sou-uma-pessoa-de-visao`, `#a-verdadeira-riqueza-e-viver-com-o-que-se-consegue-manter`, `#meu-compromisso-e-passar-repertorio-e-caminhos-vividos`, `#roteiro-do-primeiro-filme`, `#o-que-entendi-e-sou-convidado-a-contribuir`, `#falar-de-ansiedade-em-vez-de-espiritualidade`, `#orientado-a-dados-com-poucos-dados`, `#intencao-traz-conexao-e-clareza`, `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`, `#a-falha-de-comunicacao-e-consequencia`, `#discussoes-de-concordar-ou-discordar-sao-ineficientes`, `#avaliar-governo-e-medir-pelos-proprios-valores`, `#detalhar-o-custo-do-problema-impacta-mais`, `#o-chamado-e-criar-um-novo-sistema`, `#primeira-rodada-sonhos-quem-sou-eu-estamos-juntos`
-- sem nota na fila: `#lembrar-que-estamos-vivos`, `#a-bifurcacao-do-labirinto-sair-ou-continuar-no-nivel`, `#despertar-libera-energia`, `#o-ciclo-problema-conflito-curiosidade-descoberta-tedio`, `#horizontalizar-o-tempo-qualidade-e-maldicao`, `#chorar-quebra-a-tensao`, `#a-mente-busca-sentido-no-passado-e-especula-o-futuro`, `#semelhanca-gera-seguranca-e-cooperacao`, `#o-somatorio-de-fundamentos-nos-torna-unicos`, `#ninguem-passa-a-fase-pelo-outro`, `#a-opiniao-se-forma-pelo-pico-e-pelo-fim`, `#maslow-necessidades-atendidas-antes-do-pensamento-complexo`, `#o-que-e-instintivo-e-inconsciente-no-humano`, `#a-consciencia-nos-livra-dos-mesmos-truques`, `#a-evolucao-sera-mental-e-cultural-nao-fisica`, `#educacao-infantil-e-determinante`, `#a-humanidade-so-precisa-despertar`, `#ser-feliz-e-querer-fazer-os-outros-felizes`, `#o-corpo-ja-tem-o-que-precisamos-falta-liberar`, `#separar-dor-e-sofrimento`, `#a-evolucao-vai-por-bem-ou-por-mal`, `#evoluir-sem-sentir-o-destino-dos-computadores`, `#uma-cultura-pode-ser-mais-evoluida-que-outra`, `#invencao-cria-descoberta-tropeca`, `#melhorar-a-educacao-sem-esperar-o-governo`, `#ambicao-nao-e-proposito-de-vida`, `#o-martelo-de-maslow-misturar-assuntos-empobrece`, `#nascemos-com-a-dor-da-duvida-nao-com-o-pecado`, `#encontrar-denominadores-comuns`, `#justica-x-liberdade-por-que-divergimos`, `#arte-pode-ser-ensinada`, `#autoconhecimento-e-reconhecer-os-proprios-sinais`, `#ninguem-se-liberta-sozinho`, `#educacao-deixa-as-pessoas-conscientes`, `#educacao-nao-e-so-escola-inteligencias-multiplas`, `#as-pessoas-escutam-menos-os-mais-velhos`, `#consciencia-e-percepcao-da-existencia-e-aceitacao-da-realidade`, `#a-ciencia-vai-romper-o-mundo-que-conhecemos`, `#aprender-a-escolher-taxonomia-de-bloom`, `#empatia-e-sentir-e-estar-presente`, `#gostar-e-ser-se-parecem`, `#progresso-economico-exige-democracia`, `#sobreviver-e-facil-viver-e-dificil`, `#a-historia-nao-tolera-o-vazio`, `#teorias-da-conspiracao-a-mentira-confortavel`, `#racismo-direto-e-indireto`, `#topicos-soltos-2020`, `#trabalho-empoderamento-ou-dependencia`, `#o-obvio-precisa-ser-dito`, `#hobbes-x-rousseau-quem-corrompe-a-sociedade`, `#a-propriedade-nasceu-do-uso-viver-e-possuir`, `#as-instituicoes-nasceram-da-uniao-das-familias`, `#meditacao-e-cultivar-qualidades-humanas-basicas`, `#caminho-do-meio-curtir-a-jornada`, `#se-estiver-mal-cuide-de-si-se-estiver-bem-cuide-dos-outros`, `#eu-nao-sou-minha-mente-o-corpo-decide`, `#como-nos-expressamos-reflete-a-personalidade`, `#seu-passado-nao-define-seu-futuro`, `#observar-sem-explicacoes-da-mente`, `#razao-e-pensamento-em-linha-a-sociedade-e-rede`, `#nao-da-pra-ter-prazer-sem-se-entregar`, `#a-mente-cria-sentido-que-nao-e-real-e-nos-leva-aos-buracos`, `#sentir-deixar-a-vida-dominar-os-sentimentos`, `#a-realidade-e-o-que-experienciamos`, `#natureza-humana-e-se-conectar`, `#tratar-pensamentos-como-hipoteses`, `#so-vemos-a-profundidade-do-outro-na-medida-da-nossa`, `#qual-o-sentido-da-vida-humana-ou-de-toda-vida`, `#natureza-e-planeta-terra-sao-a-mesma-coisa`, `#todos-somos-ignorantes-em-algum-topico`, `#para-convergir-precisamos-de-bases-semelhantes`, `#mentes-interagem-como-corpos`, `#debate-com-feedback-visual-de-concordancia`, `#plataforma-colaborativa-de-teorias-de-mundo`, `#ciencia-tambem-e-politica`, `#a-palavra-tem-poder-porque-da-significado`, `#somos-produto-do-que-consumimos`, `#a-politica-e-como-a-sociedade-se-organiza`, `#sobrevivencia-evolucao-e-satisfacao`, `#perguntas-absurdas-demandam-respostas-absurdas`, `#transformar-o-capitalismo-e-ressignificar-objetivos-de-vida`, `#o-super-humano`, `#organizar-a-mente-humana`, `#a-complexidade-da-civilizacao-e-organizacao-insustentavel`, `#a-diferenca-entre-especies-humanas-e-distincao-nossa`, `#revolucao-de-ideias-precede-a-evolucao`, `#simbolos-selos-e-partido-para-os-conectados`, `#filosofia-precede-a-ciencia`, `#ciencia-arte-e-linguagem-cada-uma-no-seu-papel`, `#felicidade-e-um-estado-ligado-a-esperanca`, `#o-corpo-nao-quer-estar-infeliz`, `#topicos-soltos-2021-2022`, `#quem-procura-acha`, `#mente-ocupada-e-defesa-contra-a-civilizacao`, `#transformar-sonhos-em-realidade`, `#a-vida-e-um-grande-fractal`, `#somos-partes-de-um-so-ser`, `#a-morte-so-e-temida-pela-dor`, `#a-depressao-deve-ser-vivida-por-todos`, `#nosso-papel-na-natureza`, `#seres-perdidos-com-instinto-predador`, `#o-que-e-x-por-que-x-nao-e-tudo`, `#diminuir-a-carga-mental-para-evoluir`, `#energia-ruim-se-transforma-por-ressignificacao`, `#a-confianca-e-a-liga`, `#inovacao-e-aplicacao-na-vida-das-pessoas`, `#comunicacao-eficiente-vem-da-conexao-presente`, `#resolver-esquecer-aceitar`, `#o-espelho-no-inferno`, `#o-que-sinto-nao-depende-de-circunstancias`, `#consumir-conteudo-e-entrar-na-mente-de-alguem`, `#a-natureza-nao-precisa-de-filosofia`, `#autoconhecimento-passa-pela-aceitacao-da-vulnerabilidade`, `#a-materia-e-manifestacao-e-distracao`, `#as-outras-vidas-tem-percepcoes-proprias`, `#o-sentido-da-vida-e-aumentar-a-propria-energia`, `#conectar-com-a-camada-profunda-e-o-fim-em-si`, `#verdade-e-a-linha-de-raciocinio-que-faz-mais-sentido`, `#materialistas-e-idealistas`, `#a-vida-se-mostra-conforme-o-que-focamos`, `#quanto-mais-simples-a-arte-melhor`, `#simplicidade-deve-ser-o-foco-das-filosofias`, `#a-materia-precisa-chegar-la`, `#cultura-e-feita-por-quem-vive`, `#os-seres-mais-evoluidos-estao-em-outra-frequencia`, `#responsabilidade-pela-nossa-especie`, `#humanos-como-criancas-distraidas`, `#o-humano-extinguiu-quem-ocupava-papeis-semelhantes`, `#a-cidade-concentra-pessoas-e-microideias`, `#filosofia-espiritualidade-cultura-arte-politica-ciencia-e-religiao`, `#preservar-as-sabedorias`, `#nao-quero-nada-apenas-ser`, `#drogas-alteram-a-percepcao-pela-materia`, `#sexualidade-e-processo-espiritual`, `#polaridades-yin-yang`, `#espirito-como-entender-as-energias`, `#olhar-o-fluxo-e-nao-a-fotografia`, `#a-visao-de-mundo-como-gatilho-da-evolucao`, `#inspiracao-atravessa-a-logica-e-chega-na-emocao`, `#a-pergunta-acontece-na-camada-interior`, `#o-ser-e-energia-manifestada-em-materia-e-ideia`, `#a-mitose-e-energia-suficiente-numa-ideia`, `#so-podemos-direcionar-a-atencao`, `#abstracao-fala-com-abstracao-estado-com-familia`, `#estado-paga-as-familias-e-estima-custos-de-manutencao`, `#empreender-e-gerar-valor-com-organizacao-e-sabedorias`, `#saude-mental-e-equilibrio-entre-energia-das-ideias-e-do-corpo`, `#energia-demais-desequilibra`, `#cura-e-acolhimento-e-aceitar-a-realidade`, `#oficina-de-filosofia`, `#escalas-de-familia-a-nacao-e-de-individuo-a-pais`, `#indice-de-forca-de-trabalho-disponivel`, `#incentivos-para-nao-depender-de-sistemas-ruins`, `#processos-seletivos-por-cartas`, `#consciencia-e-quem-somos`, `#mapear-mundo-material-e-mundo-das-ideias`, `#todas-as-visoes-honestas-estao-certas-em-parte`, `#perfeccionismo-na-coerencia`, `#nao-querer-assumir-forma-para-nao-se-limitar`, `#o-corpo-esta-onde-deve-estar`, `#competicao-e-cooperacao-andam-juntas`, `#ubuntu`, `#entrar-no-ritmo-da-natureza-e-das-ideias`, `#nao-existe-vacuo-as-pessoas-ocupam-espacos`, `#so-existe-o-presente-considerar-o-futuro`, `#o-oposto-do-medo-e-o-amor`, `#input-processamento-output`, `#o-chamado-e-coletivo`, `#tres-atos-reunir-mudar-paradigma-agir`, `#o-argumento-irresistivel`, `#a-consciencia-so-se-expande`, `#o-desconforto-expande-a-consciencia`, `#viver-e-ir-do-desequilibrio-ao-equilibrio`, `#o-trabalho-remoto-exige-confianca-e-clareza`, `#escola-e-lugar-de-amor`, `#despertos-encontram-despertos`, `#o-corpo-resiste-a-despertar`, `#heisenberg-posicao-ou-movimento`, `#autoconhecimento-e-cura-liberam-os-canais`, `#arquetipos-das-deusas`, `#tudo-parece-aleatorio-sem-a-contagem`, `#quem-ve-em-duas-dimensoes-nao-nota-profundidade`, `#linguagem-contem-racionalizacao`, `#chamar-atencao-e-se-diferenciar-da-harmonia`, `#escola-solta-ideias-como-arvore-solta-sementes`, `#o-centro-nao-existe-sem-a-circunferencia`, `#aceitar-a-realidade-e-assinar-o-contrato-da-vida`, `#orar-e-comunhao-com-o-eu-divino`, `#meus-maiores-estudos-vieram-do-silencio`, `#nao-existe-selecao-nao-natural`, `#da-revolucao-ao-novo-paradigma`, `#comunidade-autossustentavel-e-modelo-escalavel`, `#carne-racionalidade-veganismo-sensibilidade`, `#como-nos-unimos-no-mundo-espiritual-e-no-material`, `#interpretacoes-complementares-da-inteligencia-suprema`, `#dia-energia-material-noite-energia-espiritual`, `#na-cerimonia-os-despertos-acessam-portais-juntos`, `#colaboracao-e-evolucao`, `#as-sabedorias-dos-povos`, `#pulsos-de-desafio-e-conforto`, `#uma-ideia-precisa-estar-firme-para-entrar`, `#musica-e-corpo-como-caminhos-de-energia`, `#estar-em-equilibrio-aqui-e-agora`, `#abrir-espaco-para-a-vida-se-auto-organizar`, `#falta-tesao-energia-e-intencao`, `#o-amor-comeca-pelo-proprio-corpo`, `#viver-no-meio-do-paradoxo`, `#liberar-os-pontos-de-energia`, `#mapear-crencas-como-codigo-genetico`, `#filhos-impulsionam-quem-sabe-viver`, `#unir-os-fragmentos-da-individualidade`, `#eleger-guias-sem-se-identificar`, `#abundancia-e-escassez-em-equilibrio`, `#nao-consigo-te-escutar-energia-no-lugar-errado`, `#topicos-soltos-2023`, `#meditacao-mostra-o-que-muda-e-o-que-nao-muda`, `#alinhar-corpo-mente-e-espirito-na-relacao`, `#nos-sentimos-acolhidos-quando-nos-acolhemos`, `#a-nova-economia-no-meio-do-paradoxo-pessoalidade-e-profissionalismo`, `#vida-e-energia-em-movimento`, `#o-ciclo-do-desenvolvimento-termina-na-pratica`, `#ciclos-interrompidos-ficam-abertos`, `#a-consciencia-desperta-como-uma-onda`, `#incluir-o-sutil-nas-percepcoes`, `#no-meio-do-paradoxo-nao-desistir-e-nao-resistir`, `#as-coisas-acontecem-conforme-reagimos`, `#se-estamos-conscientes-nao-morremos`, `#coerencia-viver-com-o-que-produz-e-fazer-o-que-fala`, `#o-padrao-e-a-cama-o-novo-e-a-flecha`, `#descolar-do-presente-e-voltar-simplificando`, `#tudo-e-storytelling`, `#motivos-para-escola`, `#sempre-em-constante-evolucao`, `#a-conscientizacao-tem-que-ser-espontanea`, `#aceitar-a-realidade-e-equanimidade`, `#atitudes-inerentes-buscar-a-verdade-e-aumentar-conatus`, `#atividade-intencional-e-ver-o-futuro-e-concretiza-lo`, `#a-mensagem-precisa-tem-o-minimo-de-ruido`, `#ideia-e-criacao-conceito-e-observacao`, `#a-colaboracao-transforma-ciclos-viciosos-em-virtuosos`, `#na-camada-profunda-nao-existe-gostar`, `#toda-lideranca-tem-carater-espiritual`, `#a-vida-linear-parece-finita`, `#a-comunicacao-eficiente-depende-do-ambiente`, `#problema-solucao-implementacao-operacao`, `#a-brincadeira-exercita-a-imaginacao`, `#nao-saber-gastar-a-energia-acumulada`, `#sou-o-guardiao-do-equilibrio`, `#amor-e-conexao-incondicional`, `#a-energia-se-redireciona-quando-o-caminho-perde-eficiencia`, `#colaboracao-para-testar-hipoteses-do-dia-a-dia`, `#cerimonias-e-rituais-servem-para-relembrar`, `#o-que-preciso-relembrar`, `#herdamos-dos-pais-defeitos-e-qualidades`, `#educacao-e-informacao-mais-experiencia`, `#o-perdao-acontece-em-quem-foi-ferido`, `#o-ceu-e-onde-habitam-as-ideias`, `#dois-eixos-material-ideal-e-simples-complexo`, `#os-sonhos-e-que-unem`, `#topicos-soltos-2024-2026`
+- Encaixar: `#ambicao-nao-e-proposito-de-vida`, `#arte-pode-ser-ensinada`, `#a-historia-nao-tolera-o-vazio`, `#e-assim-mudaremos-o-mundo`, `#razao-e-pensamento-em-linha-a-sociedade-e-rede`, `#todos-somos-ignorantes-em-algum-topico`, `#a-complexidade-da-civilizacao-e-organizacao-insustentavel`, `#nao-existe-vacuo-as-pessoas-ocupam-espacos`, `#meus-maiores-estudos-vieram-do-silencio`, `#filhos-impulsionam-quem-sabe-viver`, `#prefacio-do-livro`, `#estrutura-do-livro-manual-manifesto-conceitos`, `#a-brincadeira-exercita-a-imaginacao`
+- Encaixar, com parte já encaixada: `#maslow-necessidades-atendidas-antes-do-pensamento-complexo`, `#a-natureza-e-nossa-mae`, `#evolucao-e-um-fato-indiferente`, `#contra-a-especulacao-reforma-agraria-taxacao-e-renda`
+- Foco: `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`, `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`, `#o-que-melhora-as-coisas-e-conexao`, `#qual-seria-sua-resistencia-a-uma-ideia-disruptiva`, `#todo-mundo-precisa-de-ajuda-para-organizar-os-pensamentos`, `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`, `#palavras-e-valores-em-lista`, `#equilibrio-entre-arte-ciencia-e-filosofia`, `#utopias-tendem-a-se-tornar-realidade`, `#homo-evolutis-a-proxima-evolucao`, `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`, `#nao-precisamos-mudar-o-mundo-mas-a-maneira-de-pensar`, `#organizacao-e-a-ferramenta-mais-poderosa`, `#presenca-a-habilidade-do-seculo-21`, `#unir-razao-e-espiritualidade`, `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`, `#o-ciclo-da-descoberta-ao-novo-paradigma`, `#ajudar-e-diferente-de-tentar-melhorar`, `#a-revolucao-vira-quando-as-ideias-estiverem-maduras`, `#consciencia-individual-e-coletiva-se-retroalimentam`, `#por-que-estamos-em-momento-critico`, `#so-posso-dar-o-que-recebi`, `#o-que-entendi-e-sou-convidado-a-contribuir`, `#intencao-traz-conexao-e-clareza`, `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`
+- sem nota na fila: `#lembrar-que-estamos-vivos`, `#a-bifurcacao-do-labirinto-sair-ou-continuar-no-nivel`, `#despertar-libera-energia`, `#o-ciclo-problema-conflito-curiosidade-descoberta-tedio`, `#horizontalizar-o-tempo-qualidade-e-maldicao`, `#chorar-quebra-a-tensao`, `#a-mente-busca-sentido-no-passado-e-especula-o-futuro`, `#semelhanca-gera-seguranca-e-cooperacao`, `#o-somatorio-de-fundamentos-nos-torna-unicos`, `#a-opiniao-se-forma-pelo-pico-e-pelo-fim`, `#o-que-e-instintivo-e-inconsciente-no-humano`, `#a-consciencia-nos-livra-dos-mesmos-truques`, `#a-evolucao-sera-mental-e-cultural-nao-fisica`, `#a-humanidade-so-precisa-despertar`, `#ser-feliz-e-querer-fazer-os-outros-felizes`, `#o-corpo-ja-tem-o-que-precisamos-falta-liberar`, `#separar-dor-e-sofrimento`, `#a-evolucao-vai-por-bem-ou-por-mal`, `#evoluir-sem-sentir-o-destino-dos-computadores`, `#uma-cultura-pode-ser-mais-evoluida-que-outra`, `#invencao-cria-descoberta-tropeca`, `#o-martelo-de-maslow-misturar-assuntos-empobrece`, `#nascemos-com-a-dor-da-duvida-nao-com-o-pecado`, `#explicar-em-niveis-superficial-medio-e-profundo`, `#autoconhecimento-e-reconhecer-os-proprios-sinais`, `#consciencia-e-percepcao-da-existencia-e-aceitacao-da-realidade`, `#a-ciencia-vai-romper-o-mundo-que-conhecemos`, `#empatia-e-sentir-e-estar-presente`, `#gostar-e-ser-se-parecem`, `#sobreviver-e-facil-viver-e-dificil`, `#teorias-da-conspiracao-a-mentira-confortavel`, `#topicos-soltos-2020`, `#trabalho-empoderamento-ou-dependencia`, `#meditacao-e-cultivar-qualidades-humanas-basicas`, `#caminho-do-meio-curtir-a-jornada`, `#se-estiver-mal-cuide-de-si-se-estiver-bem-cuide-dos-outros`, `#eu-nao-sou-minha-mente-o-corpo-decide`, `#como-nos-expressamos-reflete-a-personalidade`, `#seu-passado-nao-define-seu-futuro`, `#observar-sem-explicacoes-da-mente`, `#nao-da-pra-ter-prazer-sem-se-entregar`, `#a-mente-cria-sentido-que-nao-e-real-e-nos-leva-aos-buracos`, `#sentir-deixar-a-vida-dominar-os-sentimentos`, `#a-realidade-e-o-que-experienciamos`, `#natureza-humana-e-se-conectar`, `#tratar-pensamentos-como-hipoteses`, `#so-vemos-a-profundidade-do-outro-na-medida-da-nossa`, `#qual-o-sentido-da-vida-humana-ou-de-toda-vida`, `#natureza-e-planeta-terra-sao-a-mesma-coisa`, `#mentes-interagem-como-corpos`, `#a-palavra-tem-poder-porque-da-significado`, `#somos-produto-do-que-consumimos`, `#sobrevivencia-evolucao-e-satisfacao`, `#perguntas-absurdas-demandam-respostas-absurdas`, `#transformar-o-capitalismo-e-ressignificar-objetivos-de-vida`, `#o-super-humano`, `#organizar-a-mente-humana`, `#a-diferenca-entre-especies-humanas-e-distincao-nossa`, `#revolucao-de-ideias-precede-a-evolucao`, `#simbolos-selos-e-partido-para-os-conectados`, `#filosofia-precede-a-ciencia`, `#ciencia-arte-e-linguagem-cada-uma-no-seu-papel`, `#felicidade-e-um-estado-ligado-a-esperanca`, `#o-corpo-nao-quer-estar-infeliz`, `#topicos-soltos-2021-2022`, `#quem-procura-acha`, `#mente-ocupada-e-defesa-contra-a-civilizacao`, `#transformar-sonhos-em-realidade`, `#a-vida-e-um-grande-fractal`, `#somos-partes-de-um-so-ser`, `#a-morte-so-e-temida-pela-dor`, `#a-depressao-deve-ser-vivida-por-todos`, `#nosso-papel-na-natureza`, `#seres-perdidos-com-instinto-predador`, `#o-que-e-x-por-que-x-nao-e-tudo`, `#diminuir-a-carga-mental-para-evoluir`, `#energia-ruim-se-transforma-por-ressignificacao`, `#a-confianca-e-a-liga`, `#inovacao-e-aplicacao-na-vida-das-pessoas`, `#comunicacao-eficiente-vem-da-conexao-presente`, `#resolver-esquecer-aceitar`, `#o-espelho-no-inferno`, `#o-que-sinto-nao-depende-de-circunstancias`, `#consumir-conteudo-e-entrar-na-mente-de-alguem`, `#a-natureza-nao-precisa-de-filosofia`, `#autoconhecimento-passa-pela-aceitacao-da-vulnerabilidade`, `#a-materia-e-manifestacao-e-distracao`, `#as-outras-vidas-tem-percepcoes-proprias`, `#o-sentido-da-vida-e-aumentar-a-propria-energia`, `#conectar-com-a-camada-profunda-e-o-fim-em-si`, `#verdade-e-a-linha-de-raciocinio-que-faz-mais-sentido`, `#materialistas-e-idealistas`, `#a-vida-se-mostra-conforme-o-que-focamos`, `#quanto-mais-simples-a-arte-melhor`, `#simplicidade-deve-ser-o-foco-das-filosofias`, `#a-materia-precisa-chegar-la`, `#cultura-e-feita-por-quem-vive`, `#os-seres-mais-evoluidos-estao-em-outra-frequencia`, `#responsabilidade-pela-nossa-especie`, `#humanos-como-criancas-distraidas`, `#o-humano-extinguiu-quem-ocupava-papeis-semelhantes`, `#a-cidade-concentra-pessoas-e-microideias`, `#filosofia-espiritualidade-cultura-arte-politica-ciencia-e-religiao`, `#preservar-as-sabedorias`, `#nao-quero-nada-apenas-ser`, `#drogas-alteram-a-percepcao-pela-materia`, `#sexualidade-e-processo-espiritual`, `#polaridades-yin-yang`, `#espirito-como-entender-as-energias`, `#olhar-o-fluxo-e-nao-a-fotografia`, `#a-visao-de-mundo-como-gatilho-da-evolucao`, `#inspiracao-atravessa-a-logica-e-chega-na-emocao`, `#a-pergunta-acontece-na-camada-interior`, `#o-ser-e-energia-manifestada-em-materia-e-ideia`, `#a-mitose-e-energia-suficiente-numa-ideia`, `#so-podemos-direcionar-a-atencao`, `#empreender-e-gerar-valor-com-organizacao-e-sabedorias`, `#saude-mental-e-equilibrio-entre-energia-das-ideias-e-do-corpo`, `#energia-demais-desequilibra`, `#cura-e-acolhimento-e-aceitar-a-realidade`, `#processos-seletivos-por-cartas`, `#consciencia-e-quem-somos`, `#mapear-mundo-material-e-mundo-das-ideias`, `#todas-as-visoes-honestas-estao-certas-em-parte`, `#perfeccionismo-na-coerencia`, `#nao-querer-assumir-forma-para-nao-se-limitar`, `#o-corpo-esta-onde-deve-estar`, `#competicao-e-cooperacao-andam-juntas`, `#ubuntu`, `#entrar-no-ritmo-da-natureza-e-das-ideias`, `#so-existe-o-presente-considerar-o-futuro`, `#o-oposto-do-medo-e-o-amor`, `#input-processamento-output`, `#o-chamado-e-coletivo`, `#tres-atos-reunir-mudar-paradigma-agir`, `#o-argumento-irresistivel`, `#a-consciencia-so-se-expande`, `#o-desconforto-expande-a-consciencia`, `#viver-e-ir-do-desequilibrio-ao-equilibrio`, `#o-trabalho-remoto-exige-confianca-e-clareza`, `#despertos-encontram-despertos`, `#o-corpo-resiste-a-despertar`, `#heisenberg-posicao-ou-movimento`, `#autoconhecimento-e-cura-liberam-os-canais`, `#arquetipos-das-deusas`, `#tudo-parece-aleatorio-sem-a-contagem`, `#quem-ve-em-duas-dimensoes-nao-nota-profundidade`, `#linguagem-contem-racionalizacao`, `#chamar-atencao-e-se-diferenciar-da-harmonia`, `#o-centro-nao-existe-sem-a-circunferencia`, `#aceitar-a-realidade-e-assinar-o-contrato-da-vida`, `#orar-e-comunhao-com-o-eu-divino`, `#nao-existe-selecao-nao-natural`, `#da-revolucao-ao-novo-paradigma`, `#carne-racionalidade-veganismo-sensibilidade`, `#como-nos-unimos-no-mundo-espiritual-e-no-material`, `#interpretacoes-complementares-da-inteligencia-suprema`, `#dia-energia-material-noite-energia-espiritual`, `#na-cerimonia-os-despertos-acessam-portais-juntos`, `#colaboracao-e-evolucao`, `#as-sabedorias-dos-povos`, `#pulsos-de-desafio-e-conforto`, `#uma-ideia-precisa-estar-firme-para-entrar`, `#musica-e-corpo-como-caminhos-de-energia`, `#estar-em-equilibrio-aqui-e-agora`, `#abrir-espaco-para-a-vida-se-auto-organizar`, `#falta-tesao-energia-e-intencao`, `#o-amor-comeca-pelo-proprio-corpo`, `#viver-no-meio-do-paradoxo`, `#liberar-os-pontos-de-energia`, `#mapear-crencas-como-codigo-genetico`, `#unir-os-fragmentos-da-individualidade`, `#eleger-guias-sem-se-identificar`, `#abundancia-e-escassez-em-equilibrio`, `#nao-consigo-te-escutar-energia-no-lugar-errado`, `#topicos-soltos-2023`, `#meditacao-mostra-o-que-muda-e-o-que-nao-muda`, `#alinhar-corpo-mente-e-espirito-na-relacao`, `#nos-sentimos-acolhidos-quando-nos-acolhemos`, `#a-nova-economia-no-meio-do-paradoxo-pessoalidade-e-profissionalismo`, `#vida-e-energia-em-movimento`, `#o-ciclo-do-desenvolvimento-termina-na-pratica`, `#ciclos-interrompidos-ficam-abertos`, `#a-consciencia-desperta-como-uma-onda`, `#incluir-o-sutil-nas-percepcoes`, `#no-meio-do-paradoxo-nao-desistir-e-nao-resistir`, `#as-coisas-acontecem-conforme-reagimos`, `#se-estamos-conscientes-nao-morremos`, `#coerencia-viver-com-o-que-produz-e-fazer-o-que-fala`, `#o-padrao-e-a-cama-o-novo-e-a-flecha`, `#descolar-do-presente-e-voltar-simplificando`, `#tudo-e-storytelling`, `#sempre-em-constante-evolucao`, `#aceitar-a-realidade-e-equanimidade`, `#atitudes-inerentes-buscar-a-verdade-e-aumentar-conatus`, `#atividade-intencional-e-ver-o-futuro-e-concretiza-lo`, `#a-mensagem-precisa-tem-o-minimo-de-ruido`, `#ideia-e-criacao-conceito-e-observacao`, `#a-colaboracao-transforma-ciclos-viciosos-em-virtuosos`, `#na-camada-profunda-nao-existe-gostar`, `#toda-lideranca-tem-carater-espiritual`, `#a-vida-linear-parece-finita`, `#a-comunicacao-eficiente-depende-do-ambiente`, `#problema-solucao-implementacao-operacao`, `#nao-saber-gastar-a-energia-acumulada`, `#sou-o-guardiao-do-equilibrio`, `#amor-e-conexao-incondicional`, `#a-energia-se-redireciona-quando-o-caminho-perde-eficiencia`, `#colaboracao-para-testar-hipoteses-do-dia-a-dia`, `#cerimonias-e-rituais-servem-para-relembrar`, `#o-que-preciso-relembrar`, `#herdamos-dos-pais-defeitos-e-qualidades`, `#o-perdao-acontece-em-quem-foi-ferido`, `#o-ceu-e-onde-habitam-as-ideias`, `#dois-eixos-material-ideal-e-simples-complexo`, `#os-sonhos-e-que-unem`, `#topicos-soltos-2024-2026`
 
 ### 2026-09-29-manifesto-eamom
 
@@ -266,13 +265,11 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-09-29-o-obvio-precisa-ser-dito
 
 - Encaixar: `#preciso-estabelecer-bases-para-investigar`, `#reduzir-a-diversidade-para-evitar-conflito`
-- Foco: `#uma-frase-simples-abre-inumeras-questoes`
 - sem nota na fila: `#qual-a-regua-para-escolher-as-bases`, `#sou-humano-ou-assim-fui-ensinado`, `#valores-e-o-julgamento-entre-bem-e-mal`, `#o-subentendido-simplifica-mas-limita`, `#priorizar-a-pergunta-que-define-a-base`, `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#comunicar-melhor-resolve-de-forma-sustentavel`, `#quem-escreve-e-quem-le-sao-humanos`, `#maquinas-que-leem-o-que-e-um-ser-vivo`
 
 ### 2026-09-29-organizacao
 
 - Encaixar: `#o-ritmo-acelerado-desgasta-o-corpo`, `#nao-querer-profundidade-de-maneira-superficial`
-- Foco: `#escrever-sem-esperar-autoridade`, `#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`
 - sem nota na fila: `#a-aversao-a-linguagem-extensa`, `#cuidado-ao-misturar-termos-reais-e-abstratos`
 
 ## Sementes
@@ -282,3 +279,11 @@ Ideias que podem agregar valor, ainda sem casa, por decisão do incorporador. N�
 ### 2026-09-27-a-construtora-e-o-epso
 
 - `#servidor-de-inferencia` — interesse do EPSO (rodar IA própria localmente); só uma ideia, sem prioridade agora
+
+### 2026-09-29-grupo-epso-whatsapp
+
+- `#acessorios-como-cartao-de-visita` — expressão visual da personalidade; tema de identidade sem casa, pode se ligar a arte
+- `#oficina-de-filosofia` — prática que o incorporador quer pôr em ação um dia, sem prioridade agora
+- `#racismo-direto-e-indireto` — par de racismo-e-quando-se-normaliza; mesma decisão
+- `#racismo-e-quando-se-normaliza` — racismo estrutural como normalização; tema sem casa madura no acervo
+- `#tolos-sagazes-e-sabios` — aforismo conhecido, não ideia do incorporador; a gradação pessoas → acontecimentos → ideias pode servir à escala do material ao abstrato

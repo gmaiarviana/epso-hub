@@ -84,11 +84,9 @@ Depois, rodar `python meta/cobertura.py` para regerar
 [fontes/cobertura.md](../fontes/cobertura.md), que entra no mesmo commit
 ([cobertura](processo-transcricoes.md#cobertura)).
 
-Em sessão de encaixe que roda em paralelo com um consolidador, fila e cobertura são do
-consolidador: a sessão roda `python meta/cobertura.py` só para conferir, sem commitar, e
-entrega o que muda na fila na seção "Retorno ao consolidador" da descrição do PR. A conversa da
-própria sessão (`fontes/conversas/`, arquivo novo) a sessão registra: é arquivo novo e não
-disputa com ninguém.
+Em sessão que roda em paralelo com uma consolidadora, a fila e a cobertura são dela: a sessão
+entrega o que muda no "Retorno ao consolidador" da descrição do PR
+([sessões paralelas](sessoes-paralelas.md#trabalho-paralelo-com-consolidador)).
 
 ## 3. Registrar ideias da conversa, se a sessão gerou acervo
 

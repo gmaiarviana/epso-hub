@@ -42,9 +42,3 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   mínimo em aberto; as provocações ao incorporador vivem em `elaborar.md`. Já vale para
   `linguagem`, `ecocidades` e `inteligencia-potencializada`; falta aplicar em `precisao`,
   `quem-sou-eu`, `ancora` e `vetor`.
-- **Cobertura só no `main` — a decidir** — todo PR paralelo conflita em `fontes/cobertura.md`,
-  e o remédio de hoje é regerar no rebase ([sessões paralelas](sessoes-paralelas.md)).
-  Proposta para evitar o conflito em vez de resolvê-lo: o PR de sessão não commita a cobertura,
-  e ela se regera só no `main` — por quem faz o merge ou por uma GitHub Action gratuita.
-  Trade-off: a cobertura no PR deixa de mostrar o efeito da sessão, e o `main` fica
-  defasado entre o merge e a regeneração.

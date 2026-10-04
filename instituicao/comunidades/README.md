@@ -18,14 +18,50 @@ Fontes: `fontes/conversas/2026-10-02-comunidades.md#comunidade-é-para-fazermos-
 
 ## Pertencimento
 
+O EPSO não existe para gerar pertencimento — existe para criar novas bases, possibilidades,
+linguagens e sistemas e fazê-los acontecer —, mas com certeza o favorece. Fazer acontecer pede
+engajar e mobilizar pessoas, e fazer juntos dá o senso de coletivo: uma philia, o amor por
+fazer parte. É consequência, não regra rígida.
+
+Bastaria nos reconhecermos contemporâneos, conterrâneos, da mesma espécie. Como não basta,
+buscam-se outros parâmetros de identificação, aos poucos e com estratégia — primeiro os
+inconformados ([quem se aproxima](#quem-se-aproxima)). A colaboração paga dispensa crenças
+comuns; a que acontece sem estímulo financeiro pede que se acredite, e a crença coletiva gera
+identificação e pertencimento
+([economia](../../filosofia/hipoteses/economia.md#colaborar-por-acordo-ou-por-crença)).
+
+Sem pertencimento, achamos que os problemas devem ser resolvidos pelos outros e nos sentimos
+impotentes para agir, porque não sabemos colaborar com eficiência. E não nos sentimos
+autorrealizados quando não usamos por completo nossas habilidades e potenciais, inclusive os
+sociais. A maneira orgânica de fazer isso é a comunidade, com este ou outro nome. Ela traz
+pertencimento por quatro caminhos:
+
+- **Identificação** — no processo de autoconsciência, precisamos nos identificar como
+  indivíduos: pelo sobrenome, pela cor da pele, pelo idioma, pelo clube de futebol, pelos
+  hábitos.
+- **Acolhimento** — conhecer quem já passou pelo que estamos passando, que nos encoraje ou dê
+  conselhos. É um processo ancestral.
+- **Serviço** — o instinto pede que cuidemos de nós primeiro; bem cuidados, é natural querer
+  cuidar dos nossos pares e, em seguida, dos que ainda não conhecemos. Servir parece aumentar
+  a nossa energia, nutrir o espírito.
+- **Criação** — um ambiente para criar junto e participar ativamente explora as habilidades
+  criativas e sociais. É gratificante fazer coisas incríveis com pessoas para compartilhar,
+  vibrar e comemorar; é frustrante realizar sonhos sozinho.
+
+Gerar pertencimento é necessário para resolver problemas reais e para a realização individual.
+
+Fontes: `fontes/conversas/2026-10-03-riqueza-e-pertencimento.md#o-epso-não-existe-para-gerar-pertencimento`,
+`#reconhecer-nos-da-mesma-espécie`, `#colaborar-por-acordo-ou-por-crença`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#pertencimento-precede-a-colaboracao`.
+
 Gerar senso de pertencimento na sociedade: aprender a fazer comunidades orgânicas, sustentáveis
 e relevantes, e impulsionar que a sociedade crie comunidades que causem impacto nos seus
 ambientes. Unir pessoas com interesses em comum, ajudar as comunidades a serem autogeridas, dar
 suporte para que alcancem seus objetivos e promover soluções para os problemas mais comuns
 delas — com uma plataforma, que é ferramenta
 ([ferramentas livres](../iniciativas/ferramentas-livres/README.md)).
-Começa por quatro pilares — identificação, acolhimento, serviço e criação —, com iniciativas que
-promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
+Começa pelos quatro caminhos — identificação, acolhimento, serviço e criação —, com iniciativas
+que promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
 
 Uma comunidade autossustentável, com pessoas que sabem cuidar de si. A maneira como nos
 organizamos, comunicamos e somos transparentes é o que agrega valor e permite escalar: um
@@ -38,7 +74,9 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#plataforma-de-comun
 
 ## Quem se aproxima
 
-A ação é conectar e encontrar quem já está presente. Essas pessoas continuam fazendo as suas
+A ação é conectar e encontrar quem já está presente: primeiro os inconformados, os que já
+constroem a mudança — que não precisamos convencer, porque já sabem, mas que talvez estejam se
+achando isolados —, uni-los ou dar condições para que nos unamos. Essas pessoas continuam fazendo as suas
 lutas; a diferença é que vão saber que não estão sós, enquanto um trabalho de organização e
 planejamento acontece. Conectadas — um grupo que acredita num futuro em que estaremos em
 harmonia, organizados e evoluídos —, encontram um caminho que faça sentido e se sentem
@@ -49,7 +87,8 @@ Um pouco de cada vez: inspirar duas pessoas, e que essas duas inspirem mais duas
 cresce por convite, do [núcleo](../nucleo/README.md#propósito).
 
 Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#conectar-quem-luta-para-que-saibam-que-nao-estao-sos`,
-`#inspirar-duas-pessoas-um-pouco-de-cada-vez`.
+`#inspirar-duas-pessoas-um-pouco-de-cada-vez`;
+`fontes/conversas/2026-10-03-riqueza-e-pertencimento.md#reconhecer-nos-da-mesma-espécie`.
 
 ## O encontro: debate que converge
 

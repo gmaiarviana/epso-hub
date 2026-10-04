@@ -11,6 +11,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[conversa]** `fontes/conversas/2026-09-30-precisar-de-menos.md`
 - **[23/9]** `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md`
 - **[26/6]** `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`
+- **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
 
 ## Por dentro
 
@@ -25,6 +26,19 @@ prisão; soltar o apego não vem por convencimento, vem de condições
 ([crenças](../../instituicao/nucleo/README.md#crenças)).
 
 Fonte: [conversa]`#começa-por-dentro`, `#o-conforto-de-ter-mais`; [23/9]`#precisar-de-menos`.
+
+## O teste do dinheiro
+
+Se o dinheiro acabar, se tudo for queimado, as pessoas conseguiriam viver do jeito que vivem?
+O teste mede a dependência: viver com o que se consegue manter. Não tem problema morar numa
+casa grande, desde que se consiga cuidar dela sem precisar pagar outros. Tudo bem ter gente
+ajudando, desde que ajude porque quer, e não porque é indiretamente extorquida ou obrigada — é
+o espectro da eficiência do [núcleo](../../instituicao/nucleo/README.md#régua-fluir-sem-dissipar)
+e o "ninguém pode ser dono do que não consegue manter" do
+[valor](valor.md#contra-a-especulação). A nota de origem chama isso de riqueza; o que é
+riqueza está em [valor](valor.md#riqueza-não-é-atributo-individual).
+
+Fonte: [grupo]`#a-verdadeira-riqueza-e-viver-com-o-que-se-consegue-manter`.
 
 ## A cadeia que prende à cidade
 

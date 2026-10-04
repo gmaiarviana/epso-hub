@@ -17,6 +17,7 @@ Fontes, referenciadas abaixo por rótulo (documentos sem seções, pelo trecho):
 - **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
 - **[30/9]** `fontes/conversas/2026-09-30-lastro-do-trabalho.md`
 - **[2/10]** `fontes/conversas/2026-10-02-valor-e-linhas.md`
+- **[3/10]** `fontes/conversas/2026-10-03-riqueza-e-pertencimento.md`
 
 Fonte da abertura: [proposta] (notas de apoio: "O que é valor?"); [comitê] (Pressupostos).
 
@@ -88,3 +89,30 @@ Isso gera menos escassez e ressignifica o papel do dinheiro.
 
 Fonte: [grupo]`#contra-a-especulacao-reforma-agraria-taxacao-e-renda`;
 [30/9]`#dignidade-conforto-e-desperdicio`.
+
+## Riqueza não é atributo individual
+
+Rico e pobre vêm de referências: água encanada, séculos atrás, talvez fosse privilégio de
+ricos; hoje está difundida. No paradigma atual, riqueza material é estar acima da linha do
+conforto: ter energia acumulada — como dinheiro —, tempo livre, não ter a necessidade de
+trabalhar, poder trocar com abundância sem comprometer o planejamento do dia a dia. Nesse
+sentido, quero que todos sejam ricos: todos acima da linha da dignidade e, quem sabe, acima da
+do conforto.
+
+No novo paradigma, talvez rico e pobre não sirvam para definir pessoas nem classes sociais:
+riqueza não é atributo individual. Ninguém acumula coisas ou energias; os recursos se usam
+coletivamente. Armazenar o que vai ser necessário, sim — com equilíbrio: atender às
+necessidades e repassar, para que outros consigam atender às suas. Isso está longe de ser
+verdade no paradigma atual.
+
+Desperdício é o armazenamento que excede as necessidades de modo que os outros não conseguem
+reaproveitá-lo: contribui para a escassez, e a escassez se propaga em formas diferentes. Um
+exemplo, a melhorar: uma pessoa acumula muita água; o vizinho fica sem e gasta mais energia
+para compensar; um terceiro, sem energia suficiente, gasta mais dinheiro, e o dinheiro toma o
+seu tempo; sem tempo, ele não cuida do que é comunitário e beneficiaria o primeiro. A vida é
+mais complexa, mas o acúmulo de um vira gasto de outro.
+
+**Nível:** Estimado (baixa) — primeira formulação.
+
+Fonte: [3/10]`#rico-e-pobre-vêm-de-referências`, `#a-riqueza-material-de-hoje`,
+`#riqueza-não-é-atributo-individual`, `#desperdício-é-o-acúmulo-que-gera-escassez`.

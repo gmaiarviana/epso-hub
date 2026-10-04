@@ -48,7 +48,13 @@ por isso se veste na matéria para se reproduzir. Tratada assim, a ideia é algo
 sofre seleção e se propaga — não um objeto inerte que apenas guardamos, mas um vetor
 que procura se transmitir.
 
-Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#o-vetor-veste-a-matéria-para-se-propagar`.
+A ideia também amadurece. Uma revolução não acontece por falta de oportunidade — os eventos
+que abalam as estruturas talvez surjam todo dia —, mas por falta de maturidade das ideias
+existentes. E essa maturidade vem de um processo evolutivo: todas as discussões anteriores e
+as de agora estão contribuindo (ver [como a mudança chega](../cosmovisao/novo-paradigma.md#como-a-mudança-chega)).
+
+Fonte: `fontes/conversas/2026-07-07-vetor-ancora-camada-de-fontes.md#o-vetor-veste-a-matéria-para-se-propagar`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#a-revolucao-vira-quando-as-ideias-estiverem-maduras`.
 
 ## O observador entra na observação
 

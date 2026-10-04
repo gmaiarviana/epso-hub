@@ -88,19 +88,29 @@ existe atalho: não dá para fazer ninguém passar a fase pelo outro, porque lá
 lacunas que não se preenchem. Precisamos botar todo mundo para jogar os seus jogos, viver as
 suas vidas.
 
-A conscientização tem que ser espontânea. Estimulada à força, pode causar traumas.
-Alguns estímulos podem ser feitos, com calma, gentileza, empatia e muito amor — mas nunca
-indo até o fim. O ciclo só se fecha quando há consentimento, aceitação, participação.
+As lacunas são crenças que ainda não foram transformadas. Precisamos experienciar e viver para
+que essas crenças sejam provocadas e haja espaço para a transformação. Pode ser que não
+estejamos prontos para transformar; então, em algum momento, revivemos aquilo.
+
+A conscientização tem que ser espontânea. Não tem como obrigar uma pessoa a entender algo,
+porque entender excede a racionalização; insistir às vezes não é benéfico. Estimulada à força,
+a conscientização pode causar traumas. Alguns estímulos podem ser feitos, com calma, gentileza,
+empatia e muito amor — mas nunca indo até o fim.
 
 Não há racionalização para o que está definido por crenças: não é mais informação. A mente pode
 até "saber", mas continua agindo irracionalmente quando as crenças não são atualizadas. A
 mudança de comportamento não vem apenas por entender, mas por se entregar — por substituir as
-outras crenças. É um trabalho que demanda meditação, expansão de consciência. É a crença do
-núcleo: soltar o apego não vem por convencimento
+outras crenças. É um trabalho que demanda meditação, expansão de consciência. Entre as crenças
+que definem o EPSO, no núcleo, está esta: soltar o apego não vem por convencimento
 ([crenças](../../instituicao/nucleo/README.md#crenças)).
 
+O ciclo só se fecha quando há aceitação, participação. Fechar o ciclo é mais que consentir, que
+é só dizer sim: pede uma postura ativa — abraçar, se entregar, aceitar. Tem aceitação que vem
+mais tímida, mas ao longo dos ciclos ela vai se fortalecendo.
+
 Fonte: [grupo]`#ninguem-passa-a-fase-pelo-outro`, `#a-conscientizacao-tem-que-ser-espontanea`;
-[3/10]`#a-crenca-nao-muda-por-informacao`.
+[3/10]`#as-lacunas-sao-crencas-nao-transformadas`, `#entender-excede-a-racionalizacao`,
+`#a-crenca-nao-muda-por-informacao`, `#fechar-o-ciclo-e-mais-que-consentir`.
 
 ## A pedagogia libertadora exige união
 

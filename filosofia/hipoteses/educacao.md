@@ -90,12 +90,17 @@ suas vidas.
 
 A conscientização tem que ser espontânea. Estimulada à força, pode causar traumas.
 Alguns estímulos podem ser feitos, com calma, gentileza, empatia e muito amor — mas nunca
-indo até o fim. O ciclo só se fecha quando há consentimento, aceitação, participação. É a
-mesma ideia que o núcleo guarda sobre o apego: soltá-lo não vem por convencimento, vem de
-condições — silêncio, sensibilidade, reconexão com a natureza, sair do estado de luta ou fuga,
-sentir-se amado, ter tempo livre ([crenças](../../instituicao/nucleo/README.md#crenças)).
+indo até o fim. O ciclo só se fecha quando há consentimento, aceitação, participação.
 
-Fonte: [grupo]`#ninguem-passa-a-fase-pelo-outro`, `#a-conscientizacao-tem-que-ser-espontanea`.
+Não há racionalização para o que está definido por crenças: não é mais informação. A mente pode
+até "saber", mas continua agindo irracionalmente quando as crenças não são atualizadas. A
+mudança de comportamento não vem apenas por entender, mas por se entregar — por substituir as
+outras crenças. É um trabalho que demanda meditação, expansão de consciência. É a crença do
+núcleo: soltar o apego não vem por convencimento
+([crenças](../../instituicao/nucleo/README.md#crenças)).
+
+Fonte: [grupo]`#ninguem-passa-a-fase-pelo-outro`, `#a-conscientizacao-tem-que-ser-espontanea`;
+[3/10]`#a-crenca-nao-muda-por-informacao`.
 
 ## A pedagogia libertadora exige união
 

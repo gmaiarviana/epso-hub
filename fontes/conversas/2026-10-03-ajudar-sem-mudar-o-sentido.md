@@ -25,3 +25,10 @@ Talvez o ponto seja confirmar quando houver algo que potencialmente pode mudar o
 Quando falo de lei de difusão, é que a gente deve alcançar primeiro as pessoas que já são
 engajadas. Depois, as que têm interesse mas não sabem como. Depois, iremos facilmente alcançar
 a outra metade.
+
+## A crença não muda por informação
+
+Não há racionalização para o que está definido por crenças. Não é mais informação. A mente pode
+até "saber", mas continua agindo irracionalmente quando as crenças não são atualizadas. Então
+uma mudança de comportamento não vem apenas por entender, mas por se entregar — por substituir
+as outras crenças. E esse é um trabalho que demanda meditação, expansão de consciência.

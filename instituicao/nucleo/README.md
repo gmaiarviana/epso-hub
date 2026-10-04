@@ -18,6 +18,8 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[22/9]** `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md`
 - **[conversa]** `fontes/conversas/2026-09-30-precisar-de-menos.md`
 - **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
+- **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
+- **[obras]** `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`
 
 ## Propósito
 
@@ -91,7 +93,7 @@ casa.
 
 Sustentável é o que se sustenta: o que faz sentido manter. Os parâmetros são muitos — custo,
 durabilidade, manutenção, energia gasta, o quanto é preciso manter, impacto, sujeira, tempo,
-qualidade, conforto, satisfação —, todos se avaliam, e o somatório diz se faz sentido. Trabalho
+estresse, risco à vida humana, qualidade, conforto, satisfação —, todos se avaliam, e o somatório diz se faz sentido. Trabalho
 não é ruim; ruim é o compromisso de longo prazo com coisas, que vira peso e leva a satisfação.
 Uma piscina individual aumenta a ordem de grandeza e talvez peça alguém pago para limpá-la; a
 comunitária talvez caiba numa rotina. Manutenção todo dia talvez não faça sentido; uma vez por
@@ -121,12 +123,12 @@ geram a demanda pelos equipamentos de um empreendimento.
 
 **Nível:** Decidido.
 
-Fonte: [validação]`#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
+Fonte: [validação]`#eficiencia`, `#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
 [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`;
 [conversa]`#os-parâmetros-da-sustentabilidade`, `#impacto-do-nosso-tamanho`,
 `#trabalho-não-é-ruim-o-peso-é-o-compromisso-com-coisas`,
 `#o-desenho-é-nosso-a-vida-é-da-natureza`, `#contar-o-nosso-impacto-sem-ciência-de-foguete`;
-[26/6]`#construcao-sustentavel-e-cadeia-produtiva`.
+[26/6]`#construcao-sustentavel-e-cadeia-produtiva`; [obras]`#a-eficiencia-tem-varias-dimensoes`.
 
 ## Crenças
 
@@ -148,17 +150,19 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
   reconexão com a natureza, sair do estado de luta ou fuga, sentir-se amado, ter tempo livre.
 - **Gostamos de entender.** Somos materiais, mas também informacionais: gostamos de
   coerência, de lastro, de concordar. É o porquê da transparência.
+- **Colaborar é a nossa maior habilidade** — mais que comunicar ou raciocinar, que por si sós
+  não trazem benefício à espécie. Juntos vamos mais longe
+  ([comunidades](../comunidades/README.md#pertencimento)).
 
 **Nível:** Decidido.
 
 Fonte: [validação]`#a-camada-sem-forma`, `#a-desconexão`, `#entropia-e-o-tamanho-do-impacto`,
-`#conforto-e-medo`, `#soltar-o-apego`, `#crenças`.
+`#conforto-e-medo`, `#soltar-o-apego`, `#crenças`; [grupo]`#pertencimento-precede-a-colaboracao`.
 
 ### A confirmar no rol
 
 O conteúdo tem a concordância do incorporador; a formulação ainda não é dele.
 
-- **Juntos vamos mais longe.**
 - **Somos seres integrais:** equilibramos eficiência com pessoalidade
   ([trabalho](../../filosofia/hipoteses/trabalho.md#corpo-mente-e-alma)).
 - **Estamos em constante transformação.** Não nos banhamos duas vezes no mesmo rio

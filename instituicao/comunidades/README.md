@@ -34,7 +34,7 @@ Sem pertencimento, achamos que os problemas devem ser resolvidos pelos outros e 
 impotentes para agir, porque não sabemos colaborar com eficiência. E não nos sentimos
 autorrealizados quando não usamos por completo nossas habilidades e potenciais, inclusive os
 sociais. A maneira orgânica de fazer isso é a comunidade, com este ou outro nome. Ela traz
-pertencimento por quatro caminhos:
+pertencimento por quatro pilares:
 
 - **Identificação** — no processo de autoconsciência, precisamos nos identificar como
   indivíduos: pelo sobrenome, pela cor da pele, pelo idioma, pelo clube de futebol, pelos
@@ -60,7 +60,7 @@ ambientes. Unir pessoas com interesses em comum, ajudar as comunidades a serem a
 suporte para que alcancem seus objetivos e promover soluções para os problemas mais comuns
 delas — com uma plataforma, que é ferramenta
 ([ferramentas livres](../iniciativas/ferramentas-livres/README.md)).
-Começa pelos quatro caminhos — identificação, acolhimento, serviço e criação —, com iniciativas
+Começa pelos quatro pilares — identificação, acolhimento, serviço e criação —, com iniciativas
 que promovam e fortaleçam cada um; talvez seja preciso dividir em subgrupos.
 
 Uma comunidade autossustentável, com pessoas que sabem cuidar de si. A maneira como nos

@@ -10,6 +10,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[conversa]** `fontes/conversas/2026-09-30-precisar-de-menos.md`
 - **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
 - **[3/10]** `fontes/conversas/2026-10-03-riqueza-e-pertencimento.md`
+- **[obras]** `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`
 
 ## Troca por confiança
 
@@ -66,3 +67,16 @@ transparência do núcleo aplicada ao preço: a margem se decompõe em categoria
 **Nível:** Estimado (média) — formulação do agente; o incorporador a acha no caminho certo.
 
 Fonte: [conversa]`#valor-pelo-custo`; [26/6]`#novo-capitalismo-e-transformacao`.
+
+## Eficiência não é só financeira
+
+Existem vários tipos de eficiência: economia de dinheiro, de tempo, de estresse, de vida humana,
+de impacto ambiental. Muitas vezes o empreendedor considera apenas o financeiro, e precisamos
+ter clareza sobre quais valores temos, pois serão determinantes na nossa tomada de decisão.
+
+Vantagem financeira não significa vantagem econômica. Rodar o concreto na mão ou chamar um
+carro de concreto? Alugar ou comprar uma betoneira? Às vezes, na ponta do lápis, se economizam
+10 reais, mas com o dobro de estresse e de risco de dar merda. A conta inteira é a da
+[régua do núcleo](../../instituicao/nucleo/README.md#régua-fluir-sem-dissipar).
+
+Fonte: [obras]`#a-eficiencia-tem-varias-dimensoes`, `#vantagem-financeira-nao-e-vantagem-economica`.

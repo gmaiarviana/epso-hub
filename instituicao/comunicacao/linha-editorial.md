@@ -180,7 +180,7 @@ Fontes: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto);
 Candidatas, à espera do [núcleo](../nucleo/):
 
 - É possível equilibrar saúde mental e trabalho — pelo autoconhecimento.
-- O sistema é feito pela gente: invista onde você se identifica (o argumento em
+- O sistema é feito pela gente — nós somos o sistema: invista onde você se identifica (o argumento em
   [sociedade](../../filosofia/hipoteses/sociedade.md#criar-sistemas-melhores)).
 - O futuro do trabalho dependerá de conexão humana.
 

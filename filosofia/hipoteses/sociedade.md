@@ -55,9 +55,15 @@ Tudo são sistemas. Dentro de uma casa, uma pessoa cozinha e a outra lava a lou�
 dia se inverte, ou não. Os acordos — os que falamos abertamente e os que não falamos, os
 implícitos e os explícitos —, as condições e o contexto vão criando um sistema.
 
-A gente trabalha, tem dinheiro e gasta com coisas, com serviços, com pessoas, com comida.
-Assim está investindo: diz a quem recebe o dinheiro que continue fazendo o que faz, e isso
-fortalece o sistema em que a gente está.
+Nós somos o sistema. Dizemos que o sistema, o mecanismo da sociedade, é falido, é desigual — e
+é tudo verdade. Mas quem compõe o sistema? Podemos pensar que é um monte de velhos sentados
+numa mesa num quarto escuro, ou que nós o fortalecemos com as nossas decisões do dia a dia. A
+gente trabalha, tem dinheiro e gasta com coisas, com serviços, com pessoas, com comida, para
+suprir as nossas necessidades: distribui dinheiro com pessoas e instituições, dá atenção a
+ideias, veicula assuntos. Assim está investindo: diz a quem recebe que continue fazendo o que
+faz, e isso fortalece o sistema em que a gente está. Precisamos ter intenção, consciência e
+protagonismo para pôr a nossa energia apenas no que constitui o sistema em que acreditamos.
+Enquanto nos colocarmos como vítimas e apoiarmos o sistema destrutivo, ele continua dominando.
 
 O sistema, do jeito que está, é destrutivo. Como transformá-lo, como quebrá-lo? A resposta
 pode vir por anarquia, por revolução, por revolta armada. A minha é criar novos sistemas e
@@ -76,7 +82,8 @@ aposentados.
 que é possível fazer diferente.
 
 Fonte: [01/10]`#tudo-sao-sistemas`, `#o-dinheiro-fortalece-o-sistema`,
-`#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte`.
+`#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte`;
+`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#nós-somos-o-sistema`.
 
 ## De onde vêm as instituições
 

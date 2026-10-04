@@ -8,7 +8,7 @@ para o núcleo e as iniciativas está na fila do [next-steps da raiz](../next-st
 Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravação geradas pelo calendário entram nesta seção.
 
 1. **Arco narrativo** — definir os arcos adequados a pautas de pensamento ([dimensoes.md](comunicacao/metodo/dimensoes.md#arco-narrativo--estrutura)).
-2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois.
+2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois. O que já foi dito está em [imagem.md](comunicacao/imagem.md).
 3. **Tom de voz** — revisitar o método de extração da voz e revisar o perfil v1 item por item
    contra o corpus de escrita do incorporador (`fontes/documentos/`, campo `corpus`). O
    incorporador traz o manual e o perfil v1, gerados por LLM e guardados fora do repositório.
@@ -27,14 +27,15 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    pilar de autoridade passa a se chamar posicionamento; temática é o pano de fundo; tipos de
    conteúdo (autoridade, desejo, curiosidade, conexão) ressignificados para os objetivos.
    Perguntas que restam:
-   - "abrir portas" como objetivo — confirmar;
+   - "abrir portas" como objetivo — confirmar (em 01/10 a expressão já veio na fala do
+     incorporador: [objetivos](comunicacao/linha-editorial.md#objetivos));
    - o que observar no desafio de uma semana, além de alcance e interação;
    - a imagem — a liderança que pensa e faz, sem título fixo: como ela aparece no perfil;
    - quais posicionamentos;
-   - quais três a nove temáticas, a partir do universo em Temas — os temas favoritos: o que
-     gosto de falar, que já tem muito conteúdo e que ajuda a alcançar os objetivos
-     (`fontes/conversas/2026-10-01-temas-favoritos.md#temas-favoritos`); crenças e valores sim,
-     a palavra espiritualidade não (`#crencas-e-valores`, mesma conversa);
+   - quais três a nove temáticas, a partir do universo e das listas em
+     [Temas](comunicacao/linha-editorial.md#temas);
+   - qual canal complementar, para o lado filosófico
+     ([canal](comunicacao/linha-editorial.md#canal));
    - os tipos de conteúdo: dimensão própria ou abordagem, e o que é "desejo" para os objetivos.
 5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens derivam do [núcleo](nucleo/README.md). Os traços de postura são praticamente o tom: complementar em vez de concorrer, sem falar *contra*, nem turista nem salvador, postar o que se vive, mostrar o que alguém de renda comum consegue copiar.
 6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:

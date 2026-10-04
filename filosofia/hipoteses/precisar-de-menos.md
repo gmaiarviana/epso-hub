@@ -71,8 +71,8 @@ Trocar o contrato pela comunidade tem custo, e o custo se aceita: abrir mão do 
 sem perder a individualidade. É buscar o equilíbrio, o melhor dos dois mundos. Envolve
 compromisso, envolve viver junto — mas estar ali porque gosta e quer, não porque é obrigado ou
 tem que cumprir algo. É o marcador de identidade que reconhece uma comunidade viva: gente
-movida por pertencimento, não por remuneração
-([ecocidades](ecocidades.md#reconhecer-o-que-funciona)).
+movida por [pertencimento](../../instituicao/comunidades/README.md#pertencimento), não por
+remuneração ([ecocidades](ecocidades.md#reconhecer-o-que-funciona)).
 
 O compromisso não contradiz o querer; o que muda é o querer. Nunca se deve fazer o que não se
 quer — mas o compromisso se estabelece sobre empatia, confiança, lealdade e entrega. O novo

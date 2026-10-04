@@ -7,6 +7,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[conversa]** `fontes/conversas/2026-10-02-politica-sao-acordos.md`
 - **[03-05]** `fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`
 - **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
+- **[01/10]** `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md`
 
 ## Política são acordos
 
@@ -43,6 +44,42 @@ materiais.
 
 Fonte: [conversa]`#mudar-a-mentalidade-muda-os-acordos`, `#a-lei-pede-verificacao-e-estimulo`,
 `#estimular-sem-violencia`.
+
+## Criar sistemas melhores
+
+Tudo são sistemas. Dentro de uma casa, uma pessoa cozinha e a outra lava a louça, e no outro
+dia se inverte, ou não. Os acordos — os que falamos abertamente e os que não falamos, os
+implícitos e os explícitos —, as condições e o contexto vão criando um sistema.
+
+Nós somos o sistema. Dizemos que o sistema, o mecanismo da sociedade, é falido, é desigual — e
+é tudo verdade. Mas quem compõe o sistema? Podemos pensar que é um monte de velhos sentados
+numa mesa num quarto escuro, ou que nós o fortalecemos com as nossas decisões do dia a dia. A
+gente trabalha, tem dinheiro e gasta com coisas, com serviços, com pessoas, com comida, para
+suprir as nossas necessidades: distribui dinheiro com pessoas e instituições, dá atenção a
+ideias, veicula assuntos. Assim está investindo: diz a quem recebe que continue fazendo o que
+faz, e isso fortalece o sistema em que a gente está. Precisamos ter intenção, consciência e
+protagonismo para pôr a nossa energia apenas no que constitui o sistema em que acreditamos.
+Enquanto nos colocarmos como vítimas e apoiarmos o sistema destrutivo, ele continua dominando.
+
+O sistema, do jeito que está, é destrutivo. Como transformá-lo, como quebrá-lo? A resposta
+pode vir por anarquia, por revolução, por revolta armada. A minha é criar novos sistemas e
+fortalecê-los para que dominem o sistema destrutivo: um sistema tão bom, tão eficiente, tão
+prazeroso, tão sustentável que as pessoas queiram entrar nele, queiram se adaptar a ele. E as
+leis, os acordos, vão mudando e obrigando mais e mais os outros atores do sistema a entrar.
+
+Não vai ser fácil: envolve política, envolve guerra, e é preciso estar preparado. O nosso
+paradigma não tem medo; o nosso paradigma é mais forte. A evolução nos apoia, porque o nosso
+sistema é mais adaptado. O sistema atual, apesar de enraizado, está fragilizado, doente. O novo
+sistema deve trazer alívio, esperança, gana, tesão e vontade de sentir-se vivo — e vai ter
+muito mais força que os outros sistemas, que estão velhos, cansados e prontos para ser
+aposentados.
+
+É o como do [propósito](../../instituicao/nucleo/README.md#propósito) do EPSO: provar na prática
+que é possível fazer diferente.
+
+Fonte: [01/10]`#tudo-sao-sistemas`, `#o-dinheiro-fortalece-o-sistema`,
+`#criar-sistemas-melhores-que-atraem`, `#o-novo-paradigma-e-mais-forte`;
+`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#nós-somos-o-sistema`.
 
 ## De onde vêm as instituições
 

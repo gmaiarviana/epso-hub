@@ -20,12 +20,22 @@ de quem sou eu é muito mais forte do que reunir as tradições.*
 
 **Em aberto:** se *quem sou eu* é o centro do qual as outras teses decorrem, ou se são várias
 teses lado a lado, sem hierarquia ([elaborar](../../elaborar.md#a-tese)). O mapa abaixo segue a
-primeira leitura enquanto a pergunta não assenta.
+primeira leitura enquanto a pergunta não assenta. Não tenho certeza: depende da narrativa que
+vamos compor.
+
+O EPSO tem um conjunto de teses. Uma principal seria que a crítica é sobre o nosso conceito de
+civilização — e que isso é silencioso. Outra: precisamos de um novo paradigma de civilização,
+que envolve como vemos a nós mesmos e o mundo. Outra: precisamos equilibrar o material e o não
+material ([a mudança de paradigma sobre a realidade](#o-que-decorre-do-centro)); então uma forma
+de uma ideia fazer sentido é funcionando na prática
+([a balança](../../README.md#a-balança-pensamento-e-prática)).
 
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`,
 `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`,
 `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
-`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#mais-de-uma-tese`.
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#mais-de-uma-tese`;
+`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#um-conjunto-de-teses`,
+`#centro-ou-lado-a-lado`.
 
 ## O que decorre do centro
 

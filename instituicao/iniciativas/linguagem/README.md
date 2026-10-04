@@ -31,6 +31,11 @@ os dois em sintonia. Os encontros onde isso acontece são das
 Na mesma direção, tirar a forma da mensagem: não ficar preso à expressão do símbolo, mas ao que
 ele quer dizer; não ficar preso às palavras dos mitos, mas ao que querem representar.
 
+Um glossário que cresce também estabelece bases: novas definições, novos conceitos, adicionados
+aos poucos, aproveitáveis numa das plataformas planejadas. Um começo é o vocabulário da
+comunicação ([dimensões](../../comunicacao/metodo/dimensoes.md#intenção-objetivo-tema-e-proposta)).
+Fonte: `fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#um-glossário-que-cresce`.
+
 ## Produtos
 
 - **paper-agent** (nome provisório) — lê um texto e tenta entender o que o autor quis dizer,

@@ -15,9 +15,12 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 - **Um centro ou várias teses.** Em julho você escolheu *quem sou eu* como centro, sobre
   "reunir o que cada tradição captou": *a questão de quem sou eu é muito mais forte*. Depois
   disse que talvez o EPSO tenha mais de uma tese. Por exemplo: "a palavra fixa a mensagem"
-  (linguagem) decorre de *quem sou eu*, ou se sustenta sozinha, lado a lado com ela? *Há um
-  centro do qual as outras decorrem, ou várias teses sem hierarquia?* →
-  [a tese](filosofia/cosmovisao/a-tese.md)
+  (linguagem) decorre de *quem sou eu*, ou se sustenta sozinha, lado a lado com ela? Em outubro
+  você listou um conjunto — a crítica ao nosso conceito de civilização, que é silenciosa; um
+  novo paradigma de civilização; equilibrar o material e o não material — e disse que a
+  resposta depende da narrativa que vamos compor. *Quando a narrativa for composta (o
+  manifesto, por exemplo), as teses aparecem como capítulos lado a lado ou como desdobramentos
+  de quem sou eu?* → [a tese](filosofia/cosmovisao/a-tese.md)
 - **Reunir sem apagar.** Quem trabalha com saberes indígenas e tradicionais costuma desconfiar
   de projetos que querem "reunir cosmovisões": o medo é que a reunião apague diferenças, ou que
   um saber alheio só passe a valer quando traduzido para a linguagem de quem reúne — a
@@ -42,6 +45,19 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`;
   `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#evolucao-e-um-fato-indiferente`,
   `#a-natureza-e-nossa-mae`.
+- **O roteiro de 2023.** Numa introdução de livro, em 2023, você respondeu *quem sou eu?* num
+  roteiro: nos identificamos com as formas (matérias, ideias); o paradigma atual
+  é ter consciência da realidade; aceitar a realidade pede sensibilidade para ouvir os sinais e
+  humildade para reconhecer; a nossa consciência é a nossa energia — superar, adaptar, evoluir
+  (por dentro); energia em flow para ser quem somos — gratidão, leveza, conexão, presença (por
+  fora); mudar de paradigma é focar no Ser e abstrair as formas; a vida não é fácil, fácil é
+  não viver; revisar as crenças é simplificar para colaborar, em harmonia entre os seres. As
+  formas e as mensagens já estão em
+  [linguagem](filosofia/hipoteses/linguagem.md#por-baixo-das-palavras-a-mensagem). Por exemplo:
+  "a consciência é a nossa energia" é o mesmo que "somos vórtices de energia", do núcleo, ou
+  outra ideia? *Quais desses passos você ainda sustenta, e em que ordem eles contam quem sou
+  eu hoje?* → [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md). Fonte:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#introducao-do-livro-quem-sou-eu`.
 
 ### Precisão
 

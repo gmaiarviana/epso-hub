@@ -101,9 +101,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   `#todos-somos-ignorantes-em-algum-topico` → precisão, pela humildade.
 - Conversa 2026-10-03 (`fontes/conversas/2026-10-03-ideia-nao-tem-dono.md`): a crença de que as
   ideias existem e são captadas, e de que se apegar a ser dono é do paradigma anterior
-  (`#ideia-nao-tem-dono`), e `#assimilar-o-que-tem-a-mesma-mensagem` → `ancora.md` ou `a-tese.md`;
-  `#estabelecer-as-bases-antes-de-aprofundar` → linha editorial, junto de "o óbvio precisa ser
-  dito".
+  (`#ideia-nao-tem-dono`), e `#assimilar-o-que-tem-a-mesma-mensagem` → `ancora.md` ou `a-tese.md`.
 - `fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md#aberta-a-voluntarios-e-a-financiamento`,
   a parte de financiamento: trabalho voluntário ou remunerado quando houver clientes, empresas,
   investidor-anjo ou edital — "não importa a maneira que a gente conseguir financiamento" →
@@ -194,8 +192,7 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 - Conversa 2026-09-26 (`fontes/conversas/2026-09-26-o-epso-e-eu.md`): `#ainda-nao-comecei` →
   trajetória.
 - Arte: `fontes/documentos/2026-09-29-aula-de-artes.raw.md` (notas de aula: confirmar se as
-  ideias são próprias ou do professor) e `fontes/documentos/2026-09-29-apresentacao.raw.md`
-  (roteiro de show; candidato a dispensa).
+  ideias são próprias ou do professor).
 
 - Conversa 2026-10-01 (`fontes/conversas/2026-10-01-o-livro-e-um-formato.md`): não há livro
   agora — livro é um formato de transmissão, e o hub centraliza as ideias; os planos de livro

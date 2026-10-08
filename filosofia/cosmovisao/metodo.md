@@ -10,8 +10,10 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[manifesto]** `fontes/documentos/2026-09-29-manifesto-homo-activus.md`
 - **[óbvio]** `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md`
 - **[palestra PDI]** `fontes/documentos/2026-09-30-palestra-pdi.raw.md`
+- **[conversa]** `fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md`
 
-**Nível:** as etapas, Decidido (no núcleo); o desenvolvimento, Estimado (alta).
+**Nível:** as etapas, Decidido (no núcleo); o desenvolvimento, Em aberto — precisa ser
+elaborado ([conversa]`#o-desenvolvimento-do-método-precisa-ser-elaborado`).
 
 ## Um método para colaborar
 
@@ -116,7 +118,8 @@ sociedade vêm de ainda discordarmos sobre essas bases essenciais. Concordando, 
 problemas essenciais de maneira sustentável, começando pelas necessidades básicas humanas:
 fome, saneamento básico.
 
-**Nível:** Estimado (baixa) — vem de um manifesto antigo, ainda não assumido.
+**Nível:** Estimado (baixa) — vem de um manifesto antigo, ainda não assumido
+([conversa]`#o-termo-homo-activus-ainda-não`).
 
 Estabelecer bases é também condição para investigar. Não consigo questionar algo, encontrar um
 padrão, observar a realidade ou isolar os fatos enquanto estiver duvidando de tudo. Preciso
@@ -372,4 +375,4 @@ grande leva anos; o trabalho é escolher um pedaço que caiba no contexto. Antes
 guardar o sim só para o que aponta na direção que se quer, e decidir primeiro onde chegar,
 depois as ferramentas. Quando a ação trava, começar pelo caminho que custa menos.
 
-Fonte: [palestra PDI] (Atos 4 e 5).
+Fonte: [palestra PDI] (Atos 4 e 5); [conversa]`#o-pdi-não-é-feito-para-exemplificar-o-método`.

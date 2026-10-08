@@ -301,12 +301,22 @@ def gerar():
                "Ideias que podem agregar valor, ainda sem casa, por decisão do incorporador. Não contam como pendência; "
                "revisitar quando nascer uma casa ou o contexto mudar."]
     for f in lista:
-        sementes = {s: motivo for s, motivo in f["sementes"].items()
-                    if s == "*" or (s in dict(f["secoes"]) and estado_secao(f, s)[0] == "semente")}
+        secoes = dict(f["secoes"])
+        sementes = {}
+        for s, motivo in f["sementes"].items():
+            if s == "*":
+                sementes[s] = "documento inteiro — " + motivo
+            elif s not in secoes:
+                # documento bruto, contado por arquivo: a semente é uma ideia, não uma seção
+                sementes[s] = f"`{s}` (ideia do documento) — " + motivo
+            elif estado_secao(f, s)[0] == "semente":
+                sementes[s] = f"`#{s}` — " + motivo
+            else:
+                # seção encaixada em parte: a semente é o resto, guardada nos metadados
+                sementes[s] = f"`#{s}` (parcial: a seção está encaixada) — " + motivo
         if sementes:
             linhas += ["", f"### {f['base']}", ""]
-            linhas += [f"- {'documento inteiro' if s == '*' else '`#' + s + '`'} — {motivo}"
-                       for s, motivo in sorted(sementes.items())]
+            linhas += [f"- {texto}" for _, texto in sorted(sementes.items())]
     with open(os.path.join(RAIZ, SAIDA), "w", encoding="utf-8", newline="\n") as saida:
         saida.write("\n".join(linhas) + "\n")
     print(f"{SAIDA} gerado. Seções pendentes: {pendentes}.")

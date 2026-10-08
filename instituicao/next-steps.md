@@ -41,6 +41,11 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
 6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:
    matéria local, informação global — a comida vem de perto, as ideias circulam pelo mundo.
    Fonte: `fontes/conversas/2026-09-28-validacao-do-nucleo.md#objetivos`.
+7. **Estratégia do LinkedIn** — depois do começo em curso (esquentar a conta, em
+   [calendário](comunicacao/linha-editorial.md#calendário)): as séries seguintes e outras
+   maneiras de esquentar. Abre com briefing a partir de [linkedin.md](comunicacao/linkedin.md)
+   e da linha editorial. O esquentar faz as vezes do desafio de uma semana do item 4: o que
+   observar nele entra aqui. Fonte: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#depois-novas-series`.
 
 ### Adiados
 

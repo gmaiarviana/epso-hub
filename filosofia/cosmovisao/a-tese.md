@@ -4,13 +4,6 @@
 uma frase, mora no [núcleo](../../instituicao/nucleo/README.md#crenças); o argumento, no
 arquivo para onde o mapa aponta.*
 
-"Ah, mas a vida não tem aonde quer chegar." Será? Será que a vida é só viver? Alguns podem
-responder que sim. Isso é uma crença, e o que eu digo é outra crença; só que escolho a crença
-que faz mais sentido. É assim que se estabelecem bases. Quem diz que não faz sentido especular
-sobre a vida, porque a vida é o que é — concordo em partes.
-
-Fonte: `fontes/transcricoes/2025-03-06-sobre-o-metodo.md#escolher-a-crenca-que-faz-mais-sentido`.
-
 ## O centro: a pergunta *quem sou eu*
 
 No centro está uma pergunta: **quem sou eu?** Todo comportamento nasce de uma crença, e a
@@ -26,8 +19,7 @@ Precisamos evoluir o entendimento de quem somos nós: revisitar as perguntas bá
 eu, para onde vou, por que estou aqui, o que há depois da morte — e dar um passo de clareza,
 de maturidade, de evolução. É nessa clareza que quero ajudar. Não sou detentor de todas as
 respostas, mas sou detentor de muitas perguntas; ao refletir sobre elas, desenvolvi narrativas
-que fazem muito sentido para mim e que podem fazer para os outros. É essa a tese que quero
-lançar e estudar no doutorado.
+que fazem muito sentido para mim e que podem fazer para os outros.
 
 Escolhido sobre a outra abertura candidata ("reunir o que cada tradição captou"): *a questão
 de quem sou eu é muito mais forte do que reunir as tradições.*
@@ -80,9 +72,12 @@ Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
 ## O que parte das teses
 
 - **A tese de doutorado** — outra peça: a junção destas teses, em termos acadêmicos. Ainda não
-  definida; vive em [[foco]] (`estudo/academia/foco.md`).
+  definida; o que quero lançar e estudar ali são essas perguntas básicas e as narrativas que
+  desenvolvi sobre elas ([o centro](#o-centro-a-pergunta-quem-sou-eu)). Vive em [[foco]]
+  (`estudo/academia/foco.md`).
 - **O manifesto** — as crenças organizadas numa narrativa para quem vai colaborar; deriva do
   núcleo e vive na instituição.
 
 Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
-`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#crença-e-tese`, `#o-manifesto`, `#o-doutorado-como-junção`.
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#crença-e-tese`, `#o-manifesto`, `#o-doutorado-como-junção`;
+`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#quem-somos-nos-e-a-tese`.

@@ -32,8 +32,12 @@ argumento, cada ideia no seu lugar, respeitando a sua existência — um olhar m
 realidade, sem inflar nem reduzir. Ela vem da observação sem julgamento, e a observação vem
 do silêncio da mente, em flow ou em introspecção; os caminhos são muitos.
 
-Por que clareza: a clareza de pensamento vem antes da mudança de comportamento. Crenças geram
-comportamentos, comportamentos geram rotinas, rotinas geram resultados (ver
+Por que clareza: todo mundo precisa de ajuda para organizar os pensamentos. Ninguém tem todas as
+respostas — quem é mestre num assunto é leigo em outro, e não há tempo nem capacidade para ser
+especialista em tudo. Dá para ter domínio de um ambiente, ou já ter amadurecido as ferramentas da
+própria organização; mas ninguém nasce sabendo, e em algum momento isso precisa ser desenvolvido.
+
+E a clareza de pensamento vem antes da mudança de comportamento: crenças geram comportamentos, comportamentos geram rotinas, rotinas geram resultados (ver
 [a tese](../../filosofia/cosmovisao/a-tese.md#o-centro-a-pergunta-quem-sou-eu)).
 
 Como: experimentar e provar na prática que é possível fazer diferente. Cada projeto é um
@@ -53,7 +57,8 @@ linguagens e formatos.
 
 Fonte: [núcleo]`#propósito`; [validação]`#clareza`, `#para-que-vem-o-epso`,
 `#por-que-o-epso`, `#resolver-os-próprios-problemas`; [narrativa] `## 1. Purpose`;
-[construtora] (Propósito); [propósito] (Propósito).
+[construtora] (Propósito); [propósito] (Propósito);
+[grupo]`#todo-mundo-precisa-de-ajuda-para-organizar-os-pensamentos`; [4/10]`#ninguém-nasce-sabendo-se-organizar`.
 
 ## Valores
 
@@ -78,7 +83,8 @@ principais", "colaboração é uma palavra-chave", No que acreditamos); [constru
 
 ## Régua: fluir sem dissipar
 
-O fluxo não deve resistir, travar, dissipar energia. Viver causa impacto — morar numa casa já
+Sou fluxo ou sou resistência? Contribuo ou atrapalho? Aceito a realidade e colaboro com a vida,
+ou dificulto? O fluxo não deve resistir, travar, dissipar energia. Viver causa impacto — morar numa casa já
 mexe no entorno —; a pergunta é o tamanho dele:
 
 - É reversível?
@@ -125,6 +131,8 @@ geram a demanda pelos equipamentos de um empreendimento.
 **Nível:** Decidido.
 
 Fonte: [validação]`#eficiencia`, `#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
+`fontes/transcricoes/2025-03-06-sobre-o-metodo.md#fluxo-ou-resistencia`;
+[4/10]`#fluxo-ou-resistencia-e-como-lido-com-a-vida`;
 [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`;
 [conversa]`#os-parâmetros-da-sustentabilidade`, `#impacto-do-nosso-tamanho`,
 `#trabalho-não-é-ruim-o-peso-é-o-compromisso-com-coisas`,

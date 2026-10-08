@@ -302,8 +302,7 @@ Inclui as perguntas de análise específicas de cada arco.
 - **O sonho antes do "ver mais":** o LinkedIn mostra só as primeiras linhas, e a linha em
   branco conta como linha. Com o sonho na mesma linha da saudação, o leitor vê a diferença
   entre um post e outro.
-- **Uma linha que soa como o incorporador:** sai das palavras dele; alguém pode discordar
-  dela; dá para imaginar a cena. Frase com que todo mundo concorda soa como jargão.
+- **Uma linha que soa como o incorporador:** sai das palavras dele e dá para imaginar a cena.
 - **Sonhos:** postados — todos acima da linha da dignidade e ninguém acima da linha do
   desperdício; amar a natureza. Em rascunho: atenção, consumo, labor, colaboração, cidades,
   silêncio, menos estímulo, carga de trabalho, movimento. Falta escolher e escrever os

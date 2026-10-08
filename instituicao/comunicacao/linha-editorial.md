@@ -332,6 +332,15 @@ Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#organico`.
 
 **Nível:** Decidido.
 
+Compartilhar é falar sobre o assunto e enviar para outras pessoas; o botão não é a métrica de
+sucesso, mas o alcance importa. O próprio algoritmo compartilha a ação das pessoas. A intenção
+é que a presença ganhe força a ponto de ser notada. Como o feed distribui conteúdo mora em
+[linkedin.md](linkedin.md).
+
+Fonte: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#compartilhar-e-falar-sobre`.
+
+**Nível:** Decidido.
+
 Alcance por convite. Identificar pessoas que são referências — com quem tenho afinidade, que
 respeito, com quem gostaria de trocar —, marcá-las, conversar, colaborar e chamá-las para
 sonhar junto; se elas se interessarem em fazer isso com a rede delas, é uma alavanca. Alcanço
@@ -391,6 +400,17 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#roteiro-do-primeiro
 `fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md#ideias-se-aprofundam-conforme-o-envolvimento`.
 
 **Nível:** Em aberto.
+
+O começo, em curso: esquentar a conta, com 5 a 7 posts em umas duas semanas, sem frequência
+diária — curtos, de 2 a 3 linhas, só texto, na conta pessoal. Os posts não fazem pergunta nem
+pedem ação específica; pedem, de forma leve, que a mensagem seja passada adiante. O objetivo é
+ganhar visibilidade e gerar conexões, sem buscar viralizar. Depois vêm novas séries; talvez
+seja preciso esquentar de outras maneiras.
+
+Fontes: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#esquentar-a-conta`,
+`#depois-novas-series`.
+
+**Nível:** Decidido — o começo; Em aberto — as séries seguintes e outras maneiras de esquentar.
 
 ## Ciclos e metas
 

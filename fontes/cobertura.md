@@ -9,9 +9,9 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | Fonte | Estado | Concluídas |
 |---|---|---|
 | [2023-09-02-sistema-filosofico-trilha-do-autoconhecimento](../fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md) | completo | 26/26 |
-| [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md) | parcial | 7/20 |
+| [2025-03-05-sobre-o-era-pra-ser-obvio](../fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md) | parcial | 12/20 |
 | [2025-03-06-sobre-filosofia](../fontes/transcricoes/2025-03-06-sobre-filosofia.md) | parcial | 3/9 |
-| [2025-03-06-sobre-o-metodo](../fontes/transcricoes/2025-03-06-sobre-o-metodo.md) | parcial | 0/46 |
+| [2025-03-06-sobre-o-metodo](../fontes/transcricoes/2025-03-06-sobre-o-metodo.md) | parcial | 31/46 |
 | [2025-04-17-sobre-a-plataforma-epso](../fontes/transcricoes/2025-04-17-sobre-a-plataforma-epso.md) | parcial | 7/8 |
 | [2025-04-30-a-vida-e-o-determinismo](../fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md) | não iniciado | 0/22 |
 | [2026-06-26-a-tese-mudanca-de-paradigma](../fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md) | parcial | 5/13 |
@@ -66,6 +66,8 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-10-03-teses-ansiedade-e-glossario](../fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md) | completo | 5/5 |
 | [2026-10-04-a-tese-e-o-novo-paradigma](../fontes/conversas/2026-10-04-a-tese-e-o-novo-paradigma.md) | parcial | 4/5 |
 | [2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas](../fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md) | parcial | 5/9 |
+| [2026-10-08-linkedin-alcance-e-presenca](../fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md) | parcial | 2/3 |
+| [2026-10-08-o-metodo-e-o-pdi](../fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md) | completo | 4/4 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -92,7 +94,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-glossario](../fontes/documentos/2026-09-29-glossario.raw.md) | na fila | — |
 | [2026-09-29-grupo-epso-whatsapp](../fontes/documentos/2026-09-29-grupo-epso-whatsapp.md) | parcial | 82/341 |
 | [2026-09-29-manifesto-eamom](../fontes/documentos/2026-09-29-manifesto-eamom.md) | não iniciado | 0/10 |
-| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | não iniciado | 0/15 |
+| [2026-09-29-manifesto-homo-activus](../fontes/documentos/2026-09-29-manifesto-homo-activus.md) | parcial | 0/15 |
 | [2026-09-29-manifesto-organizacao](../fontes/documentos/2026-09-29-manifesto-organizacao.raw.md) | dispensado | — |
 | [2026-09-29-o-eu-como-um-universo](../fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md) | na fila | — |
 | [2026-09-29-o-obvio-precisa-ser-dito](../fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md) | parcial | 1/12 |
@@ -110,9 +112,8 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2025-03-05-sobre-o-era-pra-ser-obvio
 
 - Encaixar: `#todo-conteudo-e-um-convite`, `#retornar-e-se-expor`
-- Foco: `#metodo-4-comecar-pequeno`
-- Foco, com parte já encaixada: `#praticante-nao-mestre`
-- sem nota na fila: `#o-canal-nasceu-do-excesso-de-informacao`, `#nada-se-cria-tudo-se-transforma`, `#metodo-1-estabelecer-bases`, `#metodo-2-aceitar-a-realidade`, `#metodo-3-criar-imaginar`, `#espiritualidade-e-o-misterio`, `#o-que-nos-faz-unir`, `#tudo-e-filosofia`, `#comecar-livre-para-nao-procrastinar`
+- Foco, com parte já encaixada: `#metodo-4-comecar-pequeno`, `#praticante-nao-mestre`
+- sem nota na fila: `#o-canal-nasceu-do-excesso-de-informacao`, `#espiritualidade-e-o-misterio`, `#o-que-nos-faz-unir`, `#tudo-e-filosofia`
 
 ### 2025-03-06-sobre-filosofia
 
@@ -121,10 +122,9 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2025-03-06-sobre-o-metodo
 
-- Encaixar: `#na-relacao-chegar-a-um-acordo`, `#a-mesma-palavra-para-coisas-diferentes`, `#imaginar-com-intencao-sem-utilitarismo`
-- Foco: `#simples-sem-ser-simplorio`, `#tudo-e-sobre-intencao`, `#entender-o-outro-sem-apontar-o-dedo`, `#metodo-aberto-a-mudanca`, `#escolher-a-crenca-que-faz-mais-sentido`, `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#serie-longa-pede-rotina`, `#comece-agora-sem-desculpas`, `#o-que-nos-define-e-o-que-fazemos`, `#a-energia-diz-se-e-o-caminho`
-- Foco, com parte já encaixada: `#fluxo-ou-resistencia`
-- sem nota na fila: `#base-para-unir-colaborar-e-agir`, `#aplicavel-do-micro-ao-macro`, `#estabelecer-bases-e-falar-a-mesma-lingua`, `#camadas-da-percepcao-da-realidade`, `#o-que-se-diz-sem-palavras`, `#a-intencao-por-tras-da-fala`, `#falar-para-nao-ficar-em-silencio`, `#quem-escuta-pergunta-em-vez-de-assumir`, `#bases-tambem-nos-problemas-complexos`, `#aceitar-exige-dar-nome-ao-que-se-sente`, `#elaborar-e-depois-reduzir`, `#expandir-e-voltar-como-as-ondas`, `#nao-somos-nossa-mente`, `#reflexao-e-ouvir-o-corpo`, `#aceitar-a-historia-como-ela-e`, `#a-realidade-independe-de-como-eu-me-sinto`, `#meditacao-e-buscar-o-menos`, `#sou-o-somatorio-do-que-consumi`, `#a-escolha-dos-fatos-ja-e-um-vies`, `#a-aranha-e-os-limites-da-percepcao`, `#perdas-entre-sentir-e-dizer`, `#aceitar-que-nao-sabemos`, `#o-futuro-ideal-da-direcao`, `#a-flecha-da-evolucao`, `#maya-a-grande-ilusao`, `#sonhar-grande-tambem-no-pratico`, `#sem-destino-comum-a-politica-anda-em-circulos`, `#dar-um-passo-em-direcao-ao-sonho`, `#materia-fala-com-materia`, `#desejo-do-que-sou-e-desejo-idealizado`, `#nao-reprimir-nem-se-apegar-ao-sonho`
+- Encaixar, com parte já encaixada: `#na-relacao-chegar-a-um-acordo`, `#a-mesma-palavra-para-coisas-diferentes`, `#imaginar-com-intencao-sem-utilitarismo`
+- Foco: `#escolher-a-crenca-que-faz-mais-sentido`, `#a-energia-diz-se-e-o-caminho`
+- Foco, com parte já encaixada: `#simples-sem-ser-simplorio`, `#tudo-e-sobre-intencao`, `#entender-o-outro-sem-apontar-o-dedo`, `#metodo-aberto-a-mudanca`, `#fluxo-ou-resistencia`, `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#serie-longa-pede-rotina`, `#comece-agora-sem-desculpas`, `#o-que-nos-define-e-o-que-fazemos`
 
 ### 2025-04-17-sobre-a-plataforma-epso
 
@@ -241,6 +241,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - sem nota na fila: `#as-ideias-nao-sao-minhas`, `#escolher-as-condicoes-escolher-se-entregar`, `#investigar-a-resistencia`, `#palavras-de-que-gosto`
 
+### 2026-10-08-linkedin-alcance-e-presenca
+
+- instituicao/next-steps.md, com parte já encaixada: `#depois-novas-series`
+
 ### 2026-09-29-a-realidade-como-ela-e
 
 - sem nota na fila: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`, `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`
@@ -271,13 +275,15 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-09-29-manifesto-homo-activus
 
-- Encaixar: `#nao-eliminar-as-experiencias-ruins-classifica-las`, `#sobreviver-deixou-de-dar-sentido`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`, `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`, `#reinventar-a-organizacao-capitalismo-sustentavel`
+- Encaixar: `#nao-eliminar-as-experiencias-ruins-classifica-las`, `#sobreviver-deixou-de-dar-sentido`, `#a-mente-e-uma-ferramenta`, `#agir-pelo-que-queremos`, `#reinventar-a-organizacao-capitalismo-sustentavel`
+- Encaixar, com parte já encaixada: `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`
 - Foco: `#agir-pelo-que-nao-queremos-nos-torna-passivos`
 - sem nota na fila: `#sou-um-individuo-com-um-corpo-que-sente`, `#nos-comunicamos-e-estabelecemos-bases-em-comum`, `#experiencias-aumentam-ou-diminuem-nossa-energia`, `#capacidade-implica-possibilidade-e-sustentabilidade`, `#talvez-nao-precisemos-de-um-objetivo`, `#o-homo-activus-convence-em-vez-de-guerrear`, `#sapiens-praesenti-e-civili-coexistem`
 
 ### 2026-09-29-o-obvio-precisa-ser-dito
 
-- Encaixar: `#preciso-estabelecer-bases-para-investigar`, `#reduzir-a-diversidade-para-evitar-conflito`
+- Encaixar: `#reduzir-a-diversidade-para-evitar-conflito`
+- Encaixar, com parte já encaixada: `#preciso-estabelecer-bases-para-investigar`
 - sem nota na fila: `#qual-a-regua-para-escolher-as-bases`, `#sou-humano-ou-assim-fui-ensinado`, `#valores-e-o-julgamento-entre-bem-e-mal`, `#o-subentendido-simplifica-mas-limita`, `#priorizar-a-pergunta-que-define-a-base`, `#a-comunicacao-entre-grupos-diferentes-e-ineficiente`, `#comunicar-melhor-resolve-de-forma-sustentavel`, `#quem-escreve-e-quem-le-sao-humanos`, `#maquinas-que-leem-o-que-e-um-ser-vivo`
 
 ### 2026-09-29-organizacao

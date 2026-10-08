@@ -416,7 +416,8 @@ Do roteiro de uma apresentação musical:
 - Qual o sentido da vida? Quem sou eu?
 
 Fontes: `fontes/documentos/2026-09-29-engajamento.raw.md`;
-`fontes/documentos/2026-09-29-apresentacao.raw.md`.
+`fontes/documentos/2026-09-29-apresentacao.raw.md`;
+`fontes/conversas/2026-10-08-ganchos-e-servicos.md#ganchos-depois-da-clareza`.
 
 **Nível:** Em aberto.
 

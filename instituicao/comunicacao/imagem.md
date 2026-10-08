@@ -113,3 +113,5 @@ Fontes: `fontes/conversas/2026-09-26-o-epso-e-eu.md#a-comunicação-nasce-ligada
   competência sustenta qual pilar está em
   [contexto/next-steps.md](../../contexto/next-steps.md#trabalho).
 - **Objetivos, público e temas** — na [linha editorial](linha-editorial.md).
+- **Serviços** — o que o EPSO oferece mora nas [iniciativas](../iniciativas/README.md), não
+  na imagem (`fontes/conversas/2026-10-08-ganchos-e-servicos.md#quem-somos-sao-servicos`).

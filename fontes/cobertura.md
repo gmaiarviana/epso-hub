@@ -68,6 +68,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-10-04-despertar-e-evolucao](../fontes/conversas/2026-10-04-despertar-e-evolucao.md) | completo | 17/17 |
 | [2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas](../fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md) | parcial | 7/9 |
 | [2026-10-08-dois-sentidos-de-convencer](../fontes/conversas/2026-10-08-dois-sentidos-de-convencer.md) | completo | 1/1 |
+| [2026-10-08-ganchos-e-servicos](../fontes/conversas/2026-10-08-ganchos-e-servicos.md) | completo | 2/2 |
 | [2026-10-08-linkedin-alcance-e-presenca](../fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md) | parcial | 2/3 |
 | [2026-10-08-o-metodo-e-o-pdi](../fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md) | parcial | 3/4 |
 | [2026-10-08-serie-quero-me-conectar](../fontes/conversas/2026-10-08-serie-quero-me-conectar.md) | completo | 8/8 |

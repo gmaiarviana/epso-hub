@@ -76,7 +76,7 @@ Pesquisar, analisar, estimar e apontar riscos. As decisões são do incorporador
 
 O incorporador não guarda de memória o que registrou em sessões anteriores. Ao retomar uma frente ou item da fila, o agente abre com um briefing antes de propor ação: onde a frente está, o que já foi dito sobre o tema (uma linha por objeto, com link para a fonte) e quais decisões a sessão vai pedir. As decisões que pertencem a uma sessão posterior (por exemplo, a sessão de decisão que um Foco prepara) entram só como contexto, marcadas como tal — não como pergunta a responder agora. Não assumir que o incorporador lembra do conteúdo de arquivos ou transcrições.
 
-O briefing fala simples: cada ponto com um exemplo concreto e, quando for o caso, a pergunta que o incorporador precisa responder. Jargão técnico ou acadêmico só entra explicado.
+O briefing fala simples: cada ponto com um exemplo concreto e, quando for o caso, a pergunta que o incorporador precisa responder. Jargão técnico ou acadêmico só entra explicado. Toda pergunta de decisão, no briefing ou não, segue essa forma: o contexto em uma frase, um exemplo concreto e a pergunta.
 
 ## Níveis de confiança
 

@@ -30,57 +30,13 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
     desafio de uma semana do item 4 (alcance e interação) e o que anotar ao fim dela.
 
 1. **Arco narrativo** — definir os arcos adequados a pautas de pensamento ([dimensoes.md](comunicacao/metodo/dimensoes.md#arco-narrativo--estrutura)).
-   - Matéria-prima ainda não encaixada:
-     - do grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`):
-       `#tres-atos-reunir-mudar-paradigma-agir`,
-       `#o-ciclo-problema-conflito-curiosidade-descoberta-tedio`,
-       `#o-ciclo-do-desenvolvimento-termina-na-pratica`, `#problema-solucao-implementacao-operacao`,
-       `#o-que-e-x-por-que-x-nao-e-tudo`, `#o-padrao-e-a-cama-o-novo-e-a-flecha`,
-       `#a-opiniao-se-forma-pelo-pico-e-pelo-fim`, `#tudo-e-storytelling`,
-       `#inspiracao-atravessa-a-logica-e-chega-na-emocao`;
-     - a entrada pelo prático, que evidencia a dor
-       (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#parte-do-pratico`);
-     - da narrativa v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`), o data
-       storytelling: conclusão primeiro, depois a evidência;
-     - o roteiro em três blocos de `fontes/documentos/2026-09-29-apresentacao.raw.md` — chamar a
-       atenção racional, sentir as emoções, intenção —, a aproveitar ou dispensar.
 2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois. O que já foi dito está em [imagem.md](comunicacao/imagem.md).
-   - Matéria-prima ainda não encaixada:
-     - do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`):
-       `#por-que-eu-falo`, `#o-que-bate-em-mim-bate-em-voces`;
-     - da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`):
-       `#cada-filosofo-tem-uma-percepcao-unica`, `#filosofo-nao-por-escolha` (o filósofo fica fora
-       da cara pública);
-     - de `fontes/conversas/2026-10-03-ideia-nao-tem-dono.md`: `#ideia-nao-tem-dono`,
-       `#assimilar-o-que-tem-a-mesma-mensagem` — o papel da pessoa e o do EPSO;
-     - da planilha da construtora (`fontes/documentos/2026-09-27-construtora-operacional.raw.md`, aba
-       Marca e Posicionamento): o EPSO como marca guarda-chuva, cada braço com marca própria.
 3. **Tom de voz** — revisitar o método de extração da voz e revisar o perfil v1 item por item
    contra o corpus de escrita do incorporador (`fontes/documentos/`, campo `corpus`). O
    incorporador traz o manual e o perfil v1, gerados por LLM e guardados fora do repositório.
    Todos os textos do corpus foram validados pelo incorporador; os critérios de extração
    (peso do campo `ia`, do `genero`) se decidem nessa sessão. Resultado → Tom base em
    [linha-editorial.md](comunicacao/linha-editorial.md).
-   - Matéria-prima ainda não encaixada:
-     - de `fontes/documentos/2026-09-29-organizacao.md`:
-       `#nao-querer-profundidade-de-maneira-superficial`, `#a-aversao-a-linguagem-extensa`,
-       `#cuidado-ao-misturar-termos-reais-e-abstratos`;
-     - `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md#o-subentendido-simplifica-mas-limita`;
-     - do grupo (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`):
-       `#a-mensagem-precisa-tem-o-minimo-de-ruido`, `#quanto-mais-simples-a-arte-melhor`,
-       `#simplicidade-deve-ser-o-foco-das-filosofias`, `#o-super-humano`,
-       `#interpretacoes-complementares-da-inteligencia-suprema`,
-       `#consumir-conteudo-e-entrar-na-mente-de-alguem`,
-       `#explicar-em-niveis-superficial-medio-e-profundo`;
-     - `fontes/conversas/2026-10-02-arte-e-ciencia.md#explicar-em-niveis-e-um-como`;
-     - `fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md#nascer-crescer-reproduzir-morrer`
-       (simplificar);
-     - `fontes/conversas/2026-10-03-ideia-nao-tem-dono.md#estabelecer-as-bases-antes-de-aprofundar`,
-       junto de "o óbvio precisa ser dito";
-     - `fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md#o-termo-homo-activus-ainda-nao` (vocabulário a
-       evitar);
-     - da narrativa v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`, seção 10): o termo
-       técnico ganha versão simples quando sai da especialidade.
 4. **Objetivos e imagem** — a sessão de decisão, primeiro passo do Foco do
    [next-steps da raiz](../next-steps.md). O briefing refaz o resumo dos diferenciais e da
    evidência (narrativa v8, `relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização
@@ -106,36 +62,7 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    - qual canal complementar, para o lado filosófico
      ([canal](comunicacao/linha-editorial.md#canal));
    - os tipos de conteúdo: dimensão própria ou abordagem, e o que é "desejo" para os objetivos.
-   - Matéria-prima ainda não encaixada:
-     - da conversa de 29/09 (`fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md`), o que o
-       resumo acima não guarda: `#sem-caixinha-de-titulo`, `#a-lideranca-que-quero-mostrar`,
-       `#sonho-alto-comeco-pequeno`, `#pilar-de-autoridade-e-associacao`, `#desejo-ressignificado`,
-       `#quatro-tipos-de-conteudo`;
-     - de `fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md`: a lista do que quer se
-       posicionar e os canais já no ar;
-     - da narrativa v8 (`fontes/documentos/2026-09-26-career-narrative-v8.raw.md`, seção 3): as áreas
-       de interesse, para as temáticas;
-     - de `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md`: "uma consciência orientada à
-       intenção";
-     - de `fontes/documentos/2026-09-29-eu.raw.md`: ocupar espaço de visibilidade pela própria verdade;
-     - do grupo (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`): "focar em nicho", em `#topicos-soltos-2024-2026`;
-     - do canal (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`):
-       `#o-canal-nasceu-do-excesso-de-informacao`, `#espiritualidade-e-o-misterio`,
-       `#o-que-nos-faz-unir`, `#tudo-e-filosofia`;
-     - `fontes/transcricoes/2025-03-06-sobre-filosofia.md#no-meio-do-paradoxo-da-expectativa`.
 5. **Linha editorial** — completar [linha-editorial.md](comunicacao/linha-editorial.md) seguindo [construcao.md](comunicacao/metodo/construcao.md), depois do item 4: referências, arcos, quadros e calendário; o tom base vem do item 3; mensagens-chave e abordagens derivam do [núcleo](nucleo/README.md). Os traços de postura são praticamente o tom: complementar em vez de concorrer, sem falar *contra*, nem turista nem salvador, postar o que se vive, mostrar o que alguém de renda comum consegue copiar.
-   - Matéria-prima ainda não encaixada:
-     - referências: de `fontes/transcricoes/2025-03-06-sobre-filosofia.md`, `#refletir-ou-viver`
-       (influências) e `#filosofo-reflete-por-refletir`; de
-       `fontes/documentos/2026-09-27-notas-comite-ia.raw.md`, os quatro tipos de benchmarking e o
-       branding informativo com linguagem pessoal;
-     - quadros e ganchos: as perguntas de `fontes/documentos/2026-09-29-engajamento.raw.md`; do grupo
-       (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`,
-       `#o-martelo-de-maslow-misturar-assuntos-empobrece`;
-     - constância e mensagens-chave, do grupo (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`):
-       `#a-comunicacao-eficiente-depende-do-ambiente`, `#uma-ideia-precisa-estar-firme-para-entrar`,
-       `#o-argumento-irresistivel`;
-     - chamados: `fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md#todo-conteudo-e-um-convite`.
 6. **Manifesto** — derivar do [núcleo](nucleo/README.md) validado. Uma frase a elaborar:
    matéria local, informação global — a comida vem de perto, as ideias circulam pelo mundo.
    Fonte: `fontes/conversas/2026-09-28-validacao-do-nucleo.md#objetivos`.

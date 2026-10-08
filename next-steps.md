@@ -193,6 +193,19 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
   trajetória.
 - Arte: `fontes/documentos/2026-09-29-aula-de-artes.raw.md` (notas de aula: confirmar se as
   ideias são próprias ou do professor).
+- Sobras do encaixe na comunicação (`instituicao/comunicacao/`):
+  `fontes/transcricoes/2025-03-06-sobre-filosofia.md#refletir-ou-viver` — o que Vivekananda,
+  Osho e Nietzsche dizem sobre refletir ou viver (em Referências, só os nomes);
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#interpretacoes-complementares-da-inteligencia-suprema`
+  — todos podem interpretar todos os lados, cada um desenvolve lados específicos; mais pessoas,
+  mais interpretações, visões complementares (no Tom base, só "formas materiais para ideias
+  espirituais"); `#o-padrao-e-a-cama-o-novo-e-a-flecha` — a estratégia de vida se nutre da
+  diversidade, nos dividimos e cocriamos. Das notas do comitê de IA
+  (`fontes/documentos/2026-09-27-notas-comite-ia.raw.md`): os quatro tipos de benchmarking —
+  com quem se comparar conforme onde está o problema; método de inovação, sem casa — e
+  "branding informativo com linguagem pessoal" → Tom base ou Objetivos da linha editorial. Do
+  roteiro (`fontes/documentos/2026-09-29-apresentacao.raw.md`): "aceitar a realidade como ela é,
+  cuidado pra não se distrair, seja quem você é" e o tema "o chamado para o tempo presente".
 
 - Conversa 2026-10-01 (`fontes/conversas/2026-10-01-o-livro-e-um-formato.md`): não há livro
   agora — livro é um formato de transmissão, e o hub centraliza as ideias; os planos de livro

@@ -7,6 +7,28 @@ para o núcleo e as iniciativas está na fila do [next-steps da raiz](../next-st
 
 Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravação geradas pelo calendário entram nesta seção.
 
+- **Série "Quero me conectar"** — em andamento; o quadro está em
+  [linha-editorial.md](comunicacao/linha-editorial.md#quadros-recorrentes).
+  - **Os sonhos** — escolher os próximos com as palavras do incorporador. Caminho proposto:
+    um áudio curto respondendo a quatro perguntas concretas — numa manhã comum do mundo que
+    você quer, o que é diferente da de hoje? O que te irritou nesta semana que nesse mundo
+    não existiria? O que você já faz hoje que é como o mundo deveria ser? Do que você abriria
+    mão sem sentir falta? Matéria-prima no acervo: "quero que todos sejam ricos"
+    (`fontes/conversas/2026-10-03-riqueza-e-pertencimento.md#a-riqueza-material-de-hoje`),
+    "saúde perto, não hospital perto" e "estar ali porque gosta e quer"
+    (`fontes/conversas/2026-09-30-precisar-de-menos.md#saude-perto-nao-hospital-perto`,
+    `#comunidade-o-melhor-dos-dois-mundos`), "a criação é o ápice do prazer"
+    (`fontes/documentos/2026-09-27-proposito-epso.raw.md`), "achar aqueles que não
+    precisamos convencer" (`fontes/conversas/2026-10-03-riqueza-e-pertencimento.md#reconhecer-nos-da-mesma-especie`).
+  - **O algoritmo do LinkedIn em 2026** — pesquisa em outro chat, separando o que é
+    duradouro do que vale em 2026: peso de curtida, comentário, repost e envio; se o tempo de
+    leitura e o clique em "ver mais" contam (post curto sem "ver mais" perde?); primeira hora
+    e resposta a comentários; frequência irregular; hashtags, marcações e links externos;
+    como uma conta pouco ativa esquenta; horário para o público brasileiro; limite antes do
+    "ver mais". Fontes com data e nível de confiança. Resultado → [canal](comunicacao/linha-editorial.md#canal).
+  - **O que observar** — a série é o primeiro teste na rede: confirmar se ela faz o papel do
+    desafio de uma semana do item 4 (alcance e interação) e o que anotar ao fim dela.
+
 1. **Arco narrativo** — definir os arcos adequados a pautas de pensamento ([dimensoes.md](comunicacao/metodo/dimensoes.md#arco-narrativo--estrutura)).
 2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois. O que já foi dito está em [imagem.md](comunicacao/imagem.md).
 3. **Tom de voz** — revisitar o método de extração da voz e revisar o perfil v1 item por item

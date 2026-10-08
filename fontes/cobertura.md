@@ -50,7 +50,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-30-iniciativas-gaveta-mesa-e-andamento](../fontes/conversas/2026-09-30-iniciativas-gaveta-mesa-e-andamento.md) | completo | 3/3 |
 | [2026-09-30-lastro-do-trabalho](../fontes/conversas/2026-09-30-lastro-do-trabalho.md) | parcial | 7/8 |
 | [2026-09-30-linguagem-intencao-e-hipotese](../fontes/conversas/2026-09-30-linguagem-intencao-e-hipotese.md) | parcial | 7/9 |
-| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 20/23 |
+| [2026-09-30-precisar-de-menos](../fontes/conversas/2026-09-30-precisar-de-menos.md) | parcial | 18/23 |
 | [2026-10-01-o-livro-e-um-formato](../fontes/conversas/2026-10-01-o-livro-e-um-formato.md) | parcial | 3/5 |
 | [2026-10-01-semente-e-dispensa](../fontes/conversas/2026-10-01-semente-e-dispensa.md) | completo | 2/2 |
 | [2026-10-01-temas-favoritos](../fontes/conversas/2026-10-01-temas-favoritos.md) | completo | 2/2 |
@@ -62,12 +62,13 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-10-02-valor-e-linhas](../fontes/conversas/2026-10-02-valor-e-linhas.md) | parcial | 4/6 |
 | [2026-10-03-ajudar-sem-mudar-o-sentido](../fontes/conversas/2026-10-03-ajudar-sem-mudar-o-sentido.md) | completo | 9/9 |
 | [2026-10-03-ideia-nao-tem-dono](../fontes/conversas/2026-10-03-ideia-nao-tem-dono.md) | parcial | 2/6 |
-| [2026-10-03-riqueza-e-pertencimento](../fontes/conversas/2026-10-03-riqueza-e-pertencimento.md) | completo | 7/7 |
+| [2026-10-03-riqueza-e-pertencimento](../fontes/conversas/2026-10-03-riqueza-e-pertencimento.md) | parcial | 5/7 |
 | [2026-10-03-teses-ansiedade-e-glossario](../fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md) | completo | 5/5 |
 | [2026-10-04-a-tese-e-o-novo-paradigma](../fontes/conversas/2026-10-04-a-tese-e-o-novo-paradigma.md) | parcial | 4/5 |
 | [2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas](../fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md) | parcial | 5/9 |
 | [2026-10-08-linkedin-alcance-e-presenca](../fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md) | parcial | 2/3 |
 | [2026-10-08-o-metodo-e-o-pdi](../fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md) | completo | 4/4 |
+| [2026-10-08-serie-quero-me-conectar](../fontes/conversas/2026-10-08-serie-quero-me-conectar.md) | completo | 8/8 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -79,7 +80,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-27-emails-avaliacao-e-pdi](../fontes/documentos/2026-09-27-emails-avaliacao-e-pdi.raw.md) | citado | — |
 | [2026-09-27-ensaio-nao-somos-nosso-trabalho](../fontes/documentos/2026-09-27-ensaio-nao-somos-nosso-trabalho.raw.md) | citado; na fila | — |
 | [2026-09-27-notas-comite-ia](../fontes/documentos/2026-09-27-notas-comite-ia.raw.md) | citado; na fila | — |
-| [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado | — |
+| [2026-09-27-proposito-epso](../fontes/documentos/2026-09-27-proposito-epso.raw.md) | citado; na fila | — |
 | [2026-09-27-proposta-a-diretoria](../fontes/documentos/2026-09-27-proposta-a-diretoria.raw.md) | citado; na fila | — |
 | [2026-09-27-quem-somos-e-plataformas](../fontes/documentos/2026-09-27-quem-somos-e-plataformas.raw.md) | citado; na fila | — |
 | [2026-09-27-relato-tpm-programa](../fontes/documentos/2026-09-27-relato-tpm-programa.raw.md) | citado; na fila | — |
@@ -213,6 +214,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 ### 2026-09-30-precisar-de-menos
 
 - Foco, com parte já encaixada: `#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`
+- instituicao/next-steps.md, com parte já encaixada: `#saude-perto-nao-hospital-perto`, `#comunidade-o-melhor-dos-dois-mundos`
 - meta/next-steps.md, com parte já encaixada: `#compromisso-com-pessoas-nao-com-coisas`
 
 ### 2026-10-01-o-livro-e-um-formato
@@ -232,6 +234,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 - Encaixar: `#assimilar-o-que-tem-a-mesma-mensagem`, `#estabelecer-as-bases-antes-de-aprofundar`
 - Encaixar, com parte já encaixada: `#ideia-nao-tem-dono`
 - meta/next-steps.md: `#uma-biblioteca-de-referencias`
+
+### 2026-10-03-riqueza-e-pertencimento
+
+- instituicao/next-steps.md, com parte já encaixada: `#a-riqueza-material-de-hoje`, `#reconhecer-nos-da-mesma-especie`
 
 ### 2026-10-04-a-tese-e-o-novo-paradigma
 

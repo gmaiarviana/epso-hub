@@ -74,6 +74,77 @@ condições, ambientes, problemas.
 Podemos atualizar o que temos agora sobre a depressão; há aprofundamentos que posso fazer
 depois.
 
+## A porta é atravessar para um novo estado
+
+A porta é uma analogia interessante porque você a atravessa: entra em um novo estado. É o que
+se passa comigo — não para forçar a manter a expressão, mas explicando.
+
+## O isolamento que se reforça
+
+Se muita gente se identifica porque vive nas mesmas condições, podemos ver efeitos coletivos:
+cada um se isola e reforça o isolamento do outro. Apatia, individualismo.
+
+## Depressão é quando nada faz sentido
+
+Depressão é quando as coisas não fazem sentido. A vida não faz sentido; não vemos sentido nas
+coisas. As nossas crenças estão desconectadas: existe alguma desconexão entre nossos elementos —
+nosso corpo, mente, espírito. Às vezes acontece quando temos muita informação que não
+conseguiu ser assimilada, processada. Mas, uma vez que conseguimos ligar todos os pontos, nada
+dói mais, nada assusta mais, não temos mais medo: superamos a depressão, porque sabemos por que
+estamos aqui, sabemos o que faz sentido para a gente. Sabemos no que acreditamos — ou, pelo
+menos, temos uma pista de como alcançar essa clareza.
+
+## A depressão prende no passado
+
+A depressão nos deixa presos em revisitar acontecimentos e sentimentos passados, tentando
+conectar os pontos; então está mais associada ao passado. Nossa energia e atenção ficam
+plenamente fixas na nossa mente, nos nossos pensamentos. Perdemos a graça de estar presentes.
+Perdemos a curiosidade, a vontade de explorar, de descobrir, de conquistar, de sonhar. Não nos
+identificamos com o mundo, não queremos fazer parte dele; nos negamos a nos reconhecer nele.
+Estamos separados, afastados.
+
+## Depois do objetivo alcançado
+
+Quando estamos buscando, procurando, tentando alcançar um objetivo, nossa mente está fixa em
+algo palpável. Não há vazio: temos um objetivo, e ali faz sentido. Quando alcançamos, às vezes
+não sabemos o próximo passo. Pode ser que tenha; mas pode ser que o que está lá pare de fazer
+sentido, que percebamos que não queremos seguir com o plano anterior. Então há uma separação,
+e começa a depressão.
+
+## Um ciclo que não para
+
+Nem sempre a depressão causa efeitos catastróficos. E nunca acaba, mas a gente vai aprendendo a
+lidar com ela. Chega um momento em que a gente só precisa de um tempo para consolidar os
+pensamentos — claro que é outro estágio de maturidade de autoconhecimento, então esse
+vazio, essa confusão, podemos chamar de outro nome que não depressão. Mas é um ciclo que não
+para. Vai ficando mais fácil por um lado, porque vamos adquirindo ferramentas e habilidades;
+mas vamos atravessando novos níveis de autoconhecimento, que se tornam difíceis de assimilar.
+Mais um paradoxo.
+
+Arrisco dizer que todos precisam passar por isso em sua jornada de autoconhecimento — não
+necessariamente no transtorno, em que essas questões afetam gravemente nossa funcionalidade
+social.
+
+## Saber lidar com o que não faz sentido
+
+Antes eu considerava que as coisas não fazem sentido — é um absurdo — e continuo concordando com
+isso. Mas isso é num sentido racional: a realidade não faz sentido para a nossa mente. Talvez
+hoje eu entenda que a nossa mente nunca vai conseguir entender, então não devemos esperar que
+faça sentido mentalmente. Mas, quando se está em harmonia com todas as nossas partes, existe um
+sentido — que não conseguimos descrever, racionalizar ou verbalizar completamente. Não vejo que
+as duas visões concorram. Saber lidar com o que não faz sentido é não ficar preso na mente: é se
+conectar com a realidade, com o sentido, mesmo sem entender racionalmente, através das nossas
+outras partes — corpo, emoções, espírito.
+
+O "depois do objetivo alcançado" se parece com o tédio do ciclo da descoberta.
+
+## As ferramentas se aprendem
+
+Sobre os dois motivos — não ter sido estimulado, ou não conseguir com as ferramentas que tinha:
+aprender a lidar com o tédio, com o vazio, a observar os pensamentos, a respirar, a ter tempo
+sozinho, a se conectar com o corpo, a se conectar com a natureza, a entrar em flow. Ou a gente
+aprende sozinho, ou a gente aprende com alguém nos ensinando.
+
 ## Activus e evolutis se aproximam
 
 Vejo aproximação entre o homo activus e o homo evolutis, mas nenhum dos dois está fresco na

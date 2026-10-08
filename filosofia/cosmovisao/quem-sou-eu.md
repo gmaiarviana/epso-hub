@@ -83,7 +83,8 @@ Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecim
 `#razao-e-devastacao`, `#razao-dos-outros-seres`, `#consciencia-da-alma`, `#crencas`,
 `#atravessar-o-portao`, `#alma-nao-sustenta`, `#ninguem-feliz-sozinho`, `#algo-coordena-tudo`,
 `#energia`, `#consciencia-do-ser`, `#espirito-e-materia`, `#aceitar-a-realidade`, `#eu-sou-voce`;
-`fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#camadas-de-quem-sou-eu`.
+`fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#camadas-de-quem-sou-eu`;
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#a-porta-e-atravessar-para-um-novo-estado`.
 
 **Nível:** Estimado (média) — a trilha é de 2023; o incorporador a confirmou em 2026, e os
 nomes das camadas seguem em aberto.
@@ -104,25 +105,60 @@ a mesma de [fluir](#fluir).
 Fonte: `fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#espirito-e-tudo-que-nao-e-material`,
 `#o-meio-do-paradoxo`, `#consciencia-e-atencao`, `#espirito-nao-e-consciencia`, `#alma-e-espirito-sao-a-mesma-coisa`.
 
-### A depressão: quando a matéria não basta
+### A depressão: quando nada faz sentido
 
-O sintoma depressivo — não o transtorno, que pede diagnóstico — aparece quando a matéria já não
-basta e a pessoa não consegue passar do corpo para a mente: "não vejo sentido, porque a matéria
-não me basta". Quem tem tudo de que precisa não é estimulado a amadurecer a mente; quando
-precisa, pode não ter as ferramentas, e às vezes foge — álcool, drogas, jogos, qualquer vício.
+O sintoma depressivo — não o transtorno, em que essas questões afetam gravemente a
+funcionalidade social — é quando as coisas não fazem sentido: a vida não faz sentido. As
+crenças estão desconectadas; há alguma desconexão entre corpo, mente e espírito. Às vezes vem
+de muita informação que não conseguiu ser assimilada, processada.
 
-A fuga é a mesma de [anestesiar o medo](#anestesiar-ou-encarar): o que falta, quando a matéria
-não basta, é o vazio, e o vício embota para não senti-lo. Esse involuntário é falta de
-[intenção](#a-intenção-traz-conexão), de consciência, de ferramenta. Começa individual, mas
-muita gente se identifica, principalmente porque vive nos mesmos espaços, condições, ambientes
-e problemas.
+A depressão prende no passado: revisitamos acontecimentos e sentimentos, tentando conectar os
+pontos. A energia e a atenção ficam fixas nos pensamentos; perdemos a graça de estar presentes,
+a curiosidade, a vontade de explorar, de descobrir, de conquistar, de sonhar. Não nos
+reconhecemos no mundo, não queremos fazer parte dele: estamos separados.
+
+Pode começar quando alcançamos um objetivo. Enquanto buscamos, a mente está fixa em algo
+palpável, e não há vazio. Alcançado, às vezes não sabemos o próximo passo, ou o que está lá
+para de fazer sentido, e percebemos que não queremos seguir com o plano anterior. Há uma
+separação, e começa a depressão.
+
+Às vezes fugimos — álcool, drogas, jogos, qualquer vício. É a mesma fuga de
+[anestesiar o medo](#anestesiar-ou-encarar): o vício embota o vazio para não senti-lo. Esse
+involuntário é falta de [intenção](#a-intenção-traz-conexão), de consciência, de ferramenta.
+As ferramentas se aprendem: lidar com o tédio, com o vazio, observar os pensamentos, respirar,
+ter tempo sozinho, se conectar com o corpo e com a natureza, entrar em flow. Ou aprendemos
+sozinhos, ou com alguém nos ensinando — e quem sempre teve tudo de que precisava pode nunca ter
+sido estimulado a aprender.
+Começa individual, mas muita gente se identifica, porque vive nos mesmos espaços, condições,
+ambientes e problemas — e cada um se isola e reforça o isolamento do outro: apatia,
+individualismo.
+
+Num sentido racional, as coisas não fazem sentido — é um absurdo: a realidade não faz sentido
+para a nossa mente, e a mente nunca vai conseguir entendê-la. Não devemos esperar que faça
+sentido mentalmente. Mas, quando estamos em harmonia com todas as nossas partes, existe um
+sentido, que não conseguimos descrever, racionalizar ou verbalizar completamente. Saber lidar
+com o que não faz sentido é não ficar preso na mente: é se conectar com a realidade, com o
+sentido, mesmo sem entender racionalmente, através das nossas outras partes — corpo, emoções,
+espírito.
+
+Quando conseguimos ligar os pontos, nada dói mais, nada assusta mais: sabemos por que estamos
+aqui, no que acreditamos — ou, pelo menos, temos uma pista de como alcançar essa clareza. Mas
+o ciclo não para. Nem sempre causa efeitos catastróficos, e vamos aprendendo a lidar; num
+estágio mais maduro, às vezes só precisamos de um tempo para consolidar os pensamentos, e esse
+vazio talvez mereça outro nome. Fica mais fácil, porque adquirimos ferramentas e habilidades,
+mas atravessamos novos níveis de autoconhecimento, difíceis de assimilar — mais um paradoxo.
+Arrisco dizer que todos precisam passar por isso na jornada de autoconhecimento.
 
 É o lastro do tema saúde mental da
 [linha editorial](../../instituicao/comunicacao/linha-editorial.md#temas).
 
 Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#depressao`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#depressao-e-ansiedade-o-que-nao-sabemos-lidar`;
 `fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#a-depressao-a-atualizar`;
-`fontes/conversas/2026-10-04-despertar-e-evolucao.md#a-fuga-da-depressao-e-anestesia`.
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#a-fuga-da-depressao-e-anestesia`,
+`#o-isolamento-que-se-reforca`, `#depressao-e-quando-nada-faz-sentido`,
+`#a-depressao-prende-no-passado`, `#depois-do-objetivo-alcancado`, `#um-ciclo-que-nao-para`,
+`#saber-lidar-com-o-que-nao-faz-sentido`, `#as-ferramentas-se-aprendem`.
 
 **Nível:** Estimado (baixa) — o incorporador ainda vai aprofundar como vê a depressão.
 

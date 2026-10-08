@@ -83,7 +83,8 @@ Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecim
 `#razao-e-devastacao`, `#razao-dos-outros-seres`, `#consciencia-da-alma`, `#crencas`,
 `#atravessar-o-portao`, `#alma-nao-sustenta`, `#ninguem-feliz-sozinho`, `#algo-coordena-tudo`,
 `#energia`, `#consciencia-do-ser`, `#espirito-e-materia`, `#aceitar-a-realidade`, `#eu-sou-voce`;
-`fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#camadas-de-quem-sou-eu`.
+`fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#camadas-de-quem-sou-eu`;
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#a-porta-e-atravessar-para-um-novo-estado`.
 
 **Nível:** Estimado (média) — a trilha é de 2023; o incorporador a confirmou em 2026, e os
 nomes das camadas seguem em aberto.
@@ -104,19 +105,62 @@ a mesma de [fluir](#fluir).
 Fonte: `fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#espirito-e-tudo-que-nao-e-material`,
 `#o-meio-do-paradoxo`, `#consciencia-e-atencao`, `#espirito-nao-e-consciencia`, `#alma-e-espirito-sao-a-mesma-coisa`.
 
-### A depressão na porta da mente
+### A depressão: quando nada faz sentido
 
-O sintoma depressivo — não o transtorno, que pede diagnóstico — é ver a porta da mente e não
-conseguir atravessá-la: "não vejo sentido, porque a matéria não me basta". Quem tem tudo de
-que precisa não é estimulado a amadurecer a mente; quando precisa, pode não ter as
-ferramentas, e às vezes foge — álcool, drogas, jogos, qualquer vício. É o lastro do tema saúde
-mental da [linha editorial](../../instituicao/comunicacao/linha-editorial.md#temas).
+O sintoma depressivo — não o transtorno, em que essas questões afetam gravemente a
+funcionalidade social — é quando as coisas não fazem sentido: a vida não faz sentido. As
+crenças estão desconectadas; há alguma desconexão entre corpo, mente e espírito. Às vezes vem
+de muita informação que não conseguiu ser assimilada, processada.
+
+A depressão prende no passado: revisitamos acontecimentos e sentimentos, tentando conectar os
+pontos. A energia e a atenção ficam fixas nos pensamentos; perdemos a graça de estar presentes,
+a curiosidade, a vontade de explorar, de descobrir, de conquistar, de sonhar. Não nos
+reconhecemos no mundo, não queremos fazer parte dele: estamos separados.
+
+Pode começar quando alcançamos um objetivo. Enquanto buscamos, a mente está fixa em algo
+palpável, e não há vazio. Alcançado, às vezes não sabemos o próximo passo, ou o que está lá
+para de fazer sentido, e percebemos que não queremos seguir com o plano anterior. Há uma
+separação, e começa a depressão.
+
+Às vezes fugimos — álcool, drogas, jogos, qualquer vício. É a mesma fuga de
+[anestesiar o medo](#anestesiar-ou-encarar): o vício embota o vazio para não senti-lo. Esse
+involuntário é falta de [intenção](#a-intenção-traz-conexão), de consciência, de ferramenta.
+As ferramentas se aprendem: lidar com o tédio, com o vazio, observar os pensamentos, respirar,
+ter tempo sozinho, se conectar com o corpo e com a natureza, entrar em flow. Ou aprendemos
+sozinhos, ou com alguém nos ensinando — e quem sempre teve tudo de que precisava pode nunca ter
+sido estimulado a aprender.
+Começa individual, mas muita gente se identifica, porque vive nos mesmos espaços, condições,
+ambientes e problemas — e cada um se isola e reforça o isolamento do outro: apatia,
+individualismo.
+
+Num sentido racional, as coisas não fazem sentido — é um absurdo: a realidade não faz sentido
+para a nossa mente, e a mente nunca vai conseguir entendê-la. Não devemos esperar que faça
+sentido mentalmente. Mas, quando estamos em harmonia com todas as nossas partes, existe um
+sentido, que não conseguimos descrever, racionalizar ou verbalizar completamente. Saber lidar
+com o que não faz sentido é não ficar preso na mente: é se conectar com a realidade, com o
+sentido, mesmo sem entender racionalmente, através das nossas outras partes — corpo, emoções,
+espírito.
+
+Quando conseguimos ligar os pontos, nada dói mais, nada assusta mais: sabemos por que estamos
+aqui, no que acreditamos — ou, pelo menos, temos uma pista de como alcançar essa clareza. Mas
+o ciclo não para. Nem sempre causa efeitos catastróficos, e vamos aprendendo a lidar; num
+estágio mais maduro, às vezes só precisamos de um tempo para consolidar os pensamentos, e esse
+vazio talvez mereça outro nome. Fica mais fácil, porque adquirimos ferramentas e habilidades,
+mas atravessamos novos níveis de autoconhecimento, difíceis de assimilar — mais um paradoxo.
+Arrisco dizer que todos precisam passar por isso na jornada de autoconhecimento.
+
+É o lastro do tema saúde mental da
+[linha editorial](../../instituicao/comunicacao/linha-editorial.md#temas).
 
 Fonte: `fontes/transcricoes/2023-09-02-sistema-filosofico-trilha-do-autoconhecimento.md#depressao`;
-`fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#a-depressao-a-atualizar`.
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#depressao-e-ansiedade-o-que-nao-sabemos-lidar`;
+`fontes/conversas/2026-09-29-o-meio-do-paradoxo.md#a-depressao-a-atualizar`;
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#a-fuga-da-depressao-e-anestesia`,
+`#o-isolamento-que-se-reforca`, `#depressao-e-quando-nada-faz-sentido`,
+`#a-depressao-prende-no-passado`, `#depois-do-objetivo-alcancado`, `#um-ciclo-que-nao-para`,
+`#saber-lidar-com-o-que-nao-faz-sentido`, `#as-ferramentas-se-aprendem`.
 
-**Nível:** Estimado (baixa) — leitura de 2023; o incorporador vai atualizar como vê a
-depressão.
+**Nível:** Estimado (baixa) — o incorporador ainda vai aprofundar como vê a depressão.
 
 ## Sou o observador
 
@@ -175,6 +219,10 @@ nós, numa abertura de tempo maior que a nossa — não dá para verificar. Mas 
 coisas: imaginar, e sentir o que essa imaginação provoca. Ela nos afasta ou nos aproxima?
 Aumenta ou diminui a energia vital — o conatus?
 
+Imaginar e sentir é um método, uma capacidade a usar em diferentes contextos — uma meditação.
+Criar uma realidade e entrar nela; acreditar nela a ponto de nossos comportamentos mudarem com
+base nela.
+
 O sentir não decide sozinho. O que incomoda não está necessariamente errado: às vezes o
 incômodo é resistência. E nem tudo que parece fazer bem é verdade: às vezes é entusiasmo
 ilusório. O trabalho é separar o que é ego, identificação e desejo ilusório do que é conexão
@@ -183,7 +231,8 @@ alinhamento ressoa em quem está na mesma trajetória. A confirmação vem do co
 de universalidade da [precisão](../hipoteses/precisao.md#mais-preciso-menos-preciso).
 
 Fonte: `fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#imaginar-e-sentir`,
-`#regua-coletiva`.
+`#regua-coletiva`;
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#imaginar-e-sentir-e-um-metodo`.
 
 ## Estamos aqui para o equilíbrio
 
@@ -207,13 +256,18 @@ nos apegar, e sim um veículo transitório. Não sabemos o que vem, e não é no
 nas próximas gerações nossas visões de bonito e feio. Fazemos o que deve ser feito: o que
 aumenta a energia coletiva, o que nos aproxima do equilíbrio.
 
+O sapiens é uma transição. Assim como olhamos para os hominídeos que viveram antes dele, a
+próxima evolução vai olhar para nós com empatia, mas sabendo que nunca entenderemos a maneira
+como ela vai pensar.
+
 E o que deve ser feito? Não há manual de instruções. Há observar o nosso corpo, o nosso
 momento, o nosso ambiente — e aquilo que somos levados a acreditar. Não tenho como saber se o
 outro é uma simulação ou um robô, mas todas as minhas emoções e faculdades me levam a
 acreditar que ele também experiencia a vida, como eu.
 
 Fonte: `fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#equilibrio-e-flexibilidade`,
-`#interdependencia-das-especies`, `#humanidade-transitoria`, `#sem-manual-de-instrucoes`.
+`#interdependencia-das-especies`, `#humanidade-transitoria`, `#sem-manual-de-instrucoes`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#homo-evolutis-a-proxima-evolucao`.
 
 ## O desequilíbrio de agora
 
@@ -232,6 +286,37 @@ disso.
 
 Fonte: `fontes/transcricoes/2026-09-24-atencao-corpo-linguagem-e-camadas.md#excesso-de-racionalidade`.
 
+## Anestesiar ou encarar
+
+Buscando conforto e qualidade de vida — menos mortalidade, mais tempo livre —, aprendemos com
+os erros e criamos estruturas civilizatórias: política, leis, direito, infraestrutura. Não
+podemos negar que evoluímos. No início, foi elitista: principalmente as oligarquias puderam
+filosofar e estudar. A Revolução Industrial democratizou um pouco a qualidade de vida, mas
+ainda na camada dos mais privilegiados, e nos países mais privilegiados.
+
+Mas essa evolução não é necessariamente boa: é adaptada. Apenas reagindo, nos adaptamos ao que
+anestesia nossos medos, não ao que os transforma. O medo de morrer sustenta muitas estruturas
+insustentáveis.
+
+Anestesiar, embotar, é não sentir: esquecer, pôr debaixo do tapete, silenciar e fazer de conta que não
+existe. Sobre o medo do vazio, da morte, a gente não reflete: se distrai, consome conteúdo,
+enche a agenda — foge de pensar no assunto, de meditar, de sentir. Às vezes nem é medo de um
+problema: é uma repulsa involuntária, inconsciente, um temor — do diabo, do escuro, do
+imaterial, de outras possibilidades de vida, da nossa limitação e pequenez.
+
+O passo agora é transformar, ressignificar, encarar os medos. Encarar é meditar sobre o medo,
+olhar, [imaginar](#imaginar-e-sentir) os cenários, sentir como seria. É uma maneira de já viver
+esse medo, e ele deixa de ser poderoso. Continua sendo uma realidade que podemos não querer,
+mas sem poder de nos dominar.
+
+Ser coadjuvante da própria vida é mentalidade: como interpretamos a vida e reagimos a ela. As
+condições econômicas impulsionam, facilitam ou agravam: a necessidade de suprir as
+necessidades físicas, nossas, da família, do ambiente; o tempo disponível.
+
+Fonte: `fontes/documentos/2026-09-29-manifesto-homo-activus.md#agir-pelo-que-nao-queremos-nos-torna-passivos`;
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#evoluimos-mas-por-adaptacao`,
+`#anestesiar-e-nao-sentir`, `#encarar-o-medo-tira-o-poder-dele`, `#ser-coadjuvante-e-mentalidade`.
+
 ## Fluir
 
 Nosso papel é fluir no rio. A onda que se forma vai chegar a uma crise, vai quebrar e vai se
@@ -244,6 +329,20 @@ reativo e passar a ser propositivo.
 
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#fluir-e-deixar-de-ser-reativo`.
 
+## A intenção traz conexão
+
+Consciente e intencional, em vez de inconsciente e condicionado. A intenção traz conexão; a
+falta de intenção traz falta de conexão. Intenção é a palavra de ouro.
+
+Tomamos consciência, estamos presentes, definimos nossa intenção, seguimos presentes e agimos
+com o que temos disponível. Agir é natural quando existe uma intenção clara.
+
+Temos clareza da nossa intenção quando reduzimos os ruídos, cortamos os excessos, separamos o
+que importa. Quando não estamos presentes, não conseguimos essa clareza; e, sem ela, nossas
+palavras e atitudes carregam confusão, incoerência e ruído.
+
+Fonte: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#intencao-traz-conexao-e-clareza`.
+
 ## Evoluir com intenção
 
 Até aqui a humanidade evoluiu por adaptação, por necessidade, pelo caminho de menor esforço e
@@ -252,6 +351,9 @@ construção do caminho que acreditamos fazer mais sentido. É o fluir no plano 
 
 Isso não pressupõe controle. Não garante que conseguiremos; significa a diferença entre ir
 numa direção e ir à deriva.
+
+Estamos evoluindo, conscientemente ou não: se não nos extinguirmos, inevitavelmente vamos
+evoluir. A pergunta é como assumo minha responsabilidade em tornar esse processo sustentável.
 
 Também não é desenhar o que vem. A evolução acontece de qualquer jeito: podemos nos adaptar a
 precisar menos de sol, a passar mais tempo sentados, a depender mais de açúcar — e isso não
@@ -277,7 +379,9 @@ Fonte: `fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-socie
 `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md#colaboracao-como-capacidade-humana`,
 `fontes/conversas/2026-09-29-evoluir-com-intencao-e-o-pendulo.md#a-evolucao-e-um-fato-a-intencao-e-o-foco`,
 `#o-pendulo-que-vira-linha`, `#os-vizinhos-do-pendulo`,
-`#o-organico-nao-se-desenha-o-construto-sim`.
+`#o-organico-nao-se-desenha-o-construto-sim`;
+`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#homo-evolutis-a-proxima-evolucao`;
+`fontes/conversas/2026-10-04-despertar-e-evolucao.md#queremos-e-um-verbo-ruim`.
 
 ## Destino e intenção são camadas diferentes
 

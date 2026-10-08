@@ -26,6 +26,13 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   base e referência, citando o autor. Em aberto: onde mora, como se cita e se o texto de outro
   autor entra no acervo sozinho ou só ao lado de fala do incorporador
   (`fontes/conversas/2026-10-03-ideia-nao-tem-dono.md#uma-biblioteca-de-referencias`).
+  Direção, Estimado (média): `fontes/` deixa de ser só a voz do incorporador — passa a ser o
+  material-fonte, com a voz dada pela subpasta; a referência de autor (ideias e conceitos de
+  alguém, duradouros, usados por vários blocos, com trecho e autoria preservados) vai para
+  `fontes/referencias/`, candidata a alvo do `[[nome]]`. A pesquisa operacional (como algo
+  funciona, perecível, usada por um bloco) fica no bloco que a usa, com fonte e data em cada
+  afirmação e data de revisão — primeiro caso: [linkedin.md](../instituicao/comunicacao/linkedin.md).
+  A regra completa nasce com o primeiro livro ou artigo.
 - **Semente guarda a ideia, não só o motivo** — o campo `sementes`
   ([cobertura](processo-transcricoes.md#cobertura)) registra por que a seção ficou sem casa.
   Para um argumento novo reencontrar o que foi dito antes, serviria um resumo da ideia numa

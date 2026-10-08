@@ -37,8 +37,11 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    Todos os textos do corpus foram validados pelo incorporador; os critérios de extração
    (peso do campo `ia`, do `genero`) se decidem nessa sessão. Resultado → Tom base em
    [linha-editorial.md](comunicacao/linha-editorial.md).
-4. **Objetivos e imagem** — a sessão de decisão, depois da preparação que está no Foco do
-   [next-steps da raiz](../next-steps.md). O que já foi dito está em
+4. **Objetivos e imagem** — a sessão de decisão, primeiro passo do Foco do
+   [next-steps da raiz](../next-steps.md). O briefing refaz o resumo dos diferenciais e da
+   evidência (narrativa v8, `relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização
+   do corpus); o acervo que sustenta um tema conta também o que ainda não foi encaixado (a
+   ansiedade, por exemplo, está no grupo EPSO no WhatsApp: ver a [cobertura](../fontes/cobertura.md)). O que já foi dito está em
    [linha-editorial.md](comunicacao/linha-editorial.md#objetivos) e
    [imagem.md](comunicacao/imagem.md); o [núcleo](nucleo/README.md) validado é a base.
    Respostas já dadas, a levar à linha editorial e à imagem na sessão:

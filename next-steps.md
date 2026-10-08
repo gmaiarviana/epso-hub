@@ -5,88 +5,74 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 2. Foco
 
-**Todo o contexto relevante encaixado antes de decidir objetivos, imagem e linha editorial.**
-Muito já foi escrito; a decisão (item Objetivos e imagem de
-[instituicao/next-steps.md](instituicao/next-steps.md#comunicação)) espera o acervo no lugar.
-Relevante é o que pode mudar uma resposta dessa sessão — objetivo, imagem, linha editorial,
-e os temas que o incorporador gosta de falar e já tem acervo para sustentar. O que não é
-relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem tier, ou vira
-semente, quando o incorporador decide no encaixe: guardado para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
-relevante encaixada, dispensada ou semente.
+**A estratégia da linha editorial.** Destrava-se pelos itens de
+[Comunicação](instituicao/next-steps.md#comunicação), nesta ordem:
 
-Da onda de encaixe falta `quem-sou-eu.md`, por tema: as sessões dele são sequenciais, porque o
-arquivo é um só. Sessões em paralelo seguem o
-[trabalho com consolidadora](meta/sessoes-paralelas.md#trabalho-paralelo-com-consolidador).
-
-O destino de cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas
-seções se fundem com o que o destino já tem. As seções de
-`fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md` são respostas à sessão de decisão
-e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa v8,
-`relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização do corpus) não se guarda: o
-agente o refaz no briefing da sessão de decisão.
-
-1. **Cosmovisão — quem sou eu** — dono de `filosofia/cosmovisao/` (com
-   [novo-paradigma.md](filosofia/cosmovisao/novo-paradigma.md) e
-   [metodo.md](filosofia/cosmovisao/metodo.md)), de `filosofia/hipoteses/vetor.md` e de
-   `instituicao/nucleo/`. Critério do incorporador: *quem sou eu* é sobre como nos
-   identificamos e nos enxergamos; mudança de paradigma mora em `novo-paradigma.md`
-   (`fontes/conversas/2026-10-04-a-tese-e-o-novo-paradigma.md#quem-sou-eu-e-sobre-como-nos-identificamos`
-   → talvez o cabeçalho de `quem-sou-eu.md`; § O desequilíbrio de agora pode apontar para o
-   novo paradigma, § De global destrutivo a global regenerativo).
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) →
-     `quem-sou-eu.md`, por tema, uma sessão por vez. Corpo, mente e saúde mental: de
-     `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`, só a ansiedade (a depressão já está em
-     § A depressão: quando nada faz sentido, Estimado (baixa));
-     `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`,
-     `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`; de
-     `#qual-seria-sua-resistencia-a-uma-ideia-disruptiva`, a parte que não entrou no novo
-     paradigma — corpo e mente trabalham separados; a mente é só a maneira de processar
-     abstração e linguagem; para lidar com a ansiedade, quem processa o que vivemos é o corpo.
-     Atenção e presença: `#presenca-a-habilidade-do-seculo-21`,
-     `#consciencia-individual-e-coletiva-se-retroalimentam`. Energia e equilíbrio:
-     `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`,
-     `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`. Sentido:
-     `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`; de
-     `#o-que-entendi-e-sou-convidado-a-contribuir`, os itens 2 a 6 — a realidade não tem moral,
-     evolução é fato, entropia é flecha; espírito, mente e corpo; o corpo define como
-     experimentamos o mundo; estamos despertando; não resistir, equanimidade, pensar global e
-     agir local. Cuidado: `#ajudar-e-diferente-de-tentar-melhorar`, `#so-posso-dar-o-que-recebi`.
-   - Do corpus: **todo problema é uma expectativa não atendida** (`cartas-de-candidatura`, carta
-     à startup) → hipótese pequena ou `quem-sou-eu.md` — conversa com a falha de comunicação como
-     desalinhamento de expectativas, em
-     [linguagem](filosofia/hipoteses/linguagem.md#onde-a-comunicação-falha); do ensaio
-     (`ensaio-nao-somos-nosso-trabalho`): você não é sua mente → `quem-sou-eu.md`, com a parte do
-     corpo e da mente acima; o método já diz "não somos nossa mente"
-     ([método](filosofia/cosmovisao/metodo.md), etapa 2): checar fusão.
-   - Vídeos de 2025 → `quem-sou-eu.md`: da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#no-meio-do-paradoxo-da-expectativa`;
-     do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#nada-e-facil-facil-e-nao-viver`, `#por-que-eu-falo`.
-   - Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`):
-     `#escolher-a-crenca-que-faz-mais-sentido` — "escolho a crença que faz mais sentido; então
-     estamos estabelecendo bases" → [método](filosofia/cosmovisao/metodo.md), etapa 1; checar
-     fusão com a camada 3 de `quem-sou-eu.md` ("quem diz não acreditar em nada acredita que não
-     acredita") e com [linguagem](filosofia/hipoteses/linguagem.md#crenças-o-sistema-operacional).
-     Crenças e valores é tema que o incorporador quer falar.
-   - `fontes/documentos/2026-09-30-guia-pdi.raw.md` → `quem-sou-eu.md` ou
-     `filosofia/hipoteses/trabalho.md#ressignificar-o-trabalho`: tendemos a resistir ao que ainda
-     não dominamos; a dor aponta onde desenvolver e a força, por onde começar; estímulos
-     diferentes ajudam a descansar. Checar fusão com "o que incomoda não está necessariamente
-     errado". Junto, as lições de `fontes/documentos/2026-09-30-palestra-pdi.raw.md` que não são
-     trajetória: o foco é a evolução do indivíduo inteiro; a jornada é longa, sem pausa, sem
-     pressa; equilibrar flexibilidade e foco; clareza é cortar excessos, honesto com o momento.
-   - Vida e morte, tema inteiro numa sessão (decisão do incorporador): de
-     `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#queremos-mudanca-porque-queremos-mais-vida`
-     (termina com "estabelecer bases… é a nossa primeira base"), `#a-morte-virou-tabu`, e o resto
-     do tema no Encaixar. Ler antes § Anestesiar ou encarar: o medo de morrer e o "fazer de conta
-     que não existe" estão muito perto do tabu. Não costurar "mais vida" com conatus sem
-     confirmar.
-   - Núcleo: a [Postura](instituicao/nucleo/README.md#postura) pode ganhar um link para
-     [método](filosofia/cosmovisao/metodo.md), junto das quatro etapas.
+1. Objetivos e imagem — a sessão de decisão.
+2. Voz — os papéis da pessoa e do EPSO.
+3. Tom de voz — o perfil v1 contra o corpus.
+4. Arco narrativo.
+5. Linha editorial — referências, arcos, quadros e calendário.
 
 ## 4. Encaixar
 
 Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
 [cobertura](fontes/cobertura.md).
 
+- `filosofia/cosmovisao/quem-sou-eu.md` é sobre como nos identificamos e nos enxergamos; mudança
+  de paradigma mora em `novo-paradigma.md`
+  (`fontes/conversas/2026-10-04-a-tese-e-o-novo-paradigma.md#quem-sou-eu-e-sobre-como-nos-identificamos`
+  → talvez o cabeçalho de `quem-sou-eu.md`; § O desequilíbrio de agora pode apontar para o
+  novo paradigma, § De global destrutivo a global regenerativo). O arquivo é um só: as
+  sessões de encaixe nele são sequenciais, uma por tema.
+- Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) →
+  `quem-sou-eu.md`, por tema. Corpo, mente e saúde mental: de
+  `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`, só a ansiedade (a depressão já está em
+  § A depressão: quando nada faz sentido);
+  `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`,
+  `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`; de
+  `#qual-seria-sua-resistencia-a-uma-ideia-disruptiva`, a parte que não entrou no novo
+  paradigma — corpo e mente trabalham separados; a mente é só a maneira de processar
+  abstração e linguagem; para lidar com a ansiedade, quem processa o que vivemos é o corpo.
+  Atenção e presença: `#presenca-a-habilidade-do-seculo-21`,
+  `#consciencia-individual-e-coletiva-se-retroalimentam`. Energia e equilíbrio:
+  `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`,
+  `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`. Sentido:
+  `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`; de
+  `#o-que-entendi-e-sou-convidado-a-contribuir`, os itens 2 a 6 — a realidade não tem moral,
+  evolução é fato, entropia é flecha; espírito, mente e corpo; o corpo define como
+  experimentamos o mundo; estamos despertando; não resistir, equanimidade, pensar global e
+  agir local. Cuidado: `#ajudar-e-diferente-de-tentar-melhorar`, `#so-posso-dar-o-que-recebi`.
+- Do corpus: **todo problema é uma expectativa não atendida** (`cartas-de-candidatura`, carta
+  à startup) → hipótese pequena ou `quem-sou-eu.md` — conversa com a falha de comunicação como
+  desalinhamento de expectativas, em
+  [linguagem](filosofia/hipoteses/linguagem.md#onde-a-comunicação-falha); do ensaio
+  (`ensaio-nao-somos-nosso-trabalho`): você não é sua mente → `quem-sou-eu.md`, com a parte do
+  corpo e da mente do grupo; o método já diz "não somos nossa mente"
+  ([método](filosofia/cosmovisao/metodo.md), etapa 2): checar fusão.
+- Vídeos de 2025 → `quem-sou-eu.md`: da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#no-meio-do-paradoxo-da-expectativa`;
+  do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#nada-e-facil-facil-e-nao-viver`, `#por-que-eu-falo`.
+- Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`):
+  `#escolher-a-crenca-que-faz-mais-sentido` — "escolho a crença que faz mais sentido; então
+  estamos estabelecendo bases" → [método](filosofia/cosmovisao/metodo.md), etapa 1; checar
+  fusão com a camada 3 de `quem-sou-eu.md` ("quem diz não acreditar em nada acredita que não
+  acredita") e com [linguagem](filosofia/hipoteses/linguagem.md#crenças-o-sistema-operacional).
+  Crenças e valores é tema que o incorporador quer falar. Junto, a
+  [Postura](instituicao/nucleo/README.md#postura) do núcleo pode ganhar um link para o método,
+  junto das quatro etapas.
+- `fontes/documentos/2026-09-30-guia-pdi.raw.md` → `quem-sou-eu.md` ou
+  `filosofia/hipoteses/trabalho.md#ressignificar-o-trabalho`: tendemos a resistir ao que ainda
+  não dominamos; a dor aponta onde desenvolver e a força, por onde começar; estímulos
+  diferentes ajudam a descansar. Checar fusão com "o que incomoda não está necessariamente
+  errado". Junto, as lições de `fontes/documentos/2026-09-30-palestra-pdi.raw.md` que não são
+  trajetória: o foco é a evolução do indivíduo inteiro; a jornada é longa, sem pausa, sem
+  pressa; equilibrar flexibilidade e foco; clareza é cortar excessos, honesto com o momento.
+- Vida e morte, tema inteiro numa sessão (decisão do incorporador): de
+  `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#queremos-mudanca-porque-queremos-mais-vida`
+  (termina com "estabelecer bases… é a nossa primeira base"), `#a-morte-virou-tabu`, e as
+  notas do tema abaixo (determinismo, morte). Ler antes § Anestesiar ou encarar: o medo de morrer e o "fazer de conta
+  que não existe" estão muito perto do tabu. Não costurar "mais vida" com conatus sem
+  confirmar.
 - [economia.md](filosofia/hipoteses/economia.md), de `fontes/conversas/2026-10-02-valor-e-linhas.md`:
   valor e economia não se fundem — há o preço e o benefício, e
   [valor](filosofia/hipoteses/valor.md#benefício-não-preço) fica com o benefício; o "Valor pelo

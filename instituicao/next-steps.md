@@ -8,7 +8,7 @@ para o núcleo e as iniciativas está na fila do [next-steps da raiz](../next-st
 Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravação geradas pelo calendário entram nesta seção.
 
 - **Série "Quero me conectar"** — em andamento; o quadro está em
-  [linha-editorial.md](comunicacao/linha-editorial.md#quadros-recorrentes).
+  [quero-me-conectar.md](comunicacao/quadros/quero-me-conectar.md).
   - **Os sonhos** — escolher os próximos com as palavras do incorporador. Caminho proposto:
     um áudio curto respondendo a quatro perguntas concretas — numa manhã comum do mundo que
     você quer, o que é diferente da de hoje? O que te irritou nesta semana que nesse mundo

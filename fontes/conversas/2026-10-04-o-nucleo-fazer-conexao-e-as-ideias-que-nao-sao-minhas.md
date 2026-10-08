@@ -1,3 +1,8 @@
+---
+sementes:
+  palavras-de-que-gosto: palavras de que o incorporador gosta, sem ideia afirmada; elaborar depois
+---
+
 # Conversa — o núcleo: fazer, conexão e as ideias que não são minhas
 
 *2026-10-04. Ideias que surgiram nesta conversa, na voz do incorporador, ao encaixar no núcleo

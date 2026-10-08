@@ -64,10 +64,13 @@ Quando várias sessões trabalham ao mesmo tempo sobre a mesma fila — o encaix
 Foco, por exemplo —, uma delas fica como **consolidadora**: gera os prompts das outras e é a
 única que edita o que todas disputariam — a fila (`next-steps.md`), `fontes/cobertura.md`, os
 metadados das fontes (dispensas e sementes) e as provocações que as sessões mandam ao
-[elaborar](../elaborar.md).
+[elaborar](../elaborar.md). Ela entrega cada prompt completo, pronto para colar, e só depois
+que o PR de consolidação anterior entrou no `main`: a sessão nasce da fila atualizada.
 
 As outras sessões:
 
+- no briefing, leem os retornos dos PRs mergeados depois da última consolidação
+  (`gh pr list --state merged`) à procura de notas ao próprio item;
 - encaixam aonde a ideia leva, em qualquer bloco, e declaram no PR o que saiu do bloco do item;
 - registram em `fontes/conversas/` as ideias que a própria conversa gerar — arquivo novo não
   disputa com ninguém;

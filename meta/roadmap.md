@@ -59,6 +59,9 @@ Item de fila fala de seção pela âncora (`#secao`) — nunca por intervalo ("d
 "o resto" ou "conferir o que falta"; quando vão todas, diz "arquivo inteiro". Documento bruto,
 sem seções, entra pelas ideias, nomeadas uma a uma.
 
+Âncora na fila conta como pendência na cobertura. O que é só contexto — já encaixado, citado
+para orientar — se cita pelo arquivo ou pelo nome da seção do destino, sem `#`.
+
 A voz é das palavras, não da ideia: ideia não tem dono. Quando o incorporador diz com as
 palavras dele uma ideia que outros também disseram, o texto fica na voz dele e os outros
 entram como referência. Texto que ele escreveu com ajuda de IA, sob seu controle, é voz dele.

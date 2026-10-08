@@ -21,6 +21,8 @@ sementes:
   racismo-e-quando-se-normaliza: racismo estrutural como normalização; tema sem casa madura no acervo
   racismo-direto-e-indireto: par de racismo-e-quando-se-normaliza; mesma decisão
   oficina-de-filosofia: prática que o incorporador quer pôr em ação um dia, sem prioridade agora
+  palavras-e-valores-em-lista: os três valores estão no núcleo (Valores); as palavras soltas (meditação, equilíbrio, luz, protagonismo, energia, ikigai, propósito, eros, philia, ágape, pertencimento) são de que o incorporador gosta, sem ideia afirmada
+  homo-evolutis-a-proxima-evolucao: encaixada em quem-sou-eu (Estamos aqui para o equilíbrio; Evoluir com intenção); ficam como semente "neuroatípicos são a evolução do sapiens?" e a coexistência sapiens × evolutis (o evolutis não ocupa os mesmos espaços; o conflito viria do sapiens)
 ---
 
 # Grupo EPSO no WhatsApp

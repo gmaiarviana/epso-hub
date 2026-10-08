@@ -16,6 +16,10 @@ nota: >-
   "Explicado Homo Activus") e o plano de três livros. Conteúdo preservado na
   íntegra, sem correção. O título H1 é do registro: o nome no Drive é só
   "readme".
+dispensadas:
+  plano-dos-tres-livros: Organização, E assim mudamos o mundo, Moeda; não há livro agora, e o plano não se encaixa
+sementes:
+  fases-do-comportamento-da-sociedade: consciência → organização → evolução; não se funde com o ciclo da descoberta
 ---
 
 # readme do livro

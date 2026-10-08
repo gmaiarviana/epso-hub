@@ -10,13 +10,12 @@ Muito já foi escrito; a decisão (item Objetivos e imagem de
 [instituicao/next-steps.md](instituicao/next-steps.md#comunicação)) espera o acervo no lugar.
 Relevante é o que pode mudar uma resposta dessa sessão — objetivo, imagem, linha editorial,
 e os temas que o incorporador gosta de falar e já tem acervo para sustentar. O que não é
-relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem tier: guardado
-para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
+relevante sai do item e segue pendente na [cobertura](fontes/cobertura.md), sem tier, ou vira
+semente, quando o incorporador decide no encaixe: guardado para depois. Alcançado quando a cobertura não tiver pendência marcada Foco — cada seção
 relevante encaixada, dispensada ou semente.
 
-Da onda de encaixe faltam a cosmovisão e o método. Travas: `quem-sou-eu.md` é um arquivo só, e
-as sessões dele são sequenciais, por tema; o item 2 decide a casa antes de encaixar e, se for o
-núcleo, entra depois do item 1, que é dono do núcleo. Sessões em paralelo seguem o
+Da onda de encaixe falta `quem-sou-eu.md`, por tema: as sessões dele são sequenciais, porque o
+arquivo é um só. Sessões em paralelo seguem o
 [trabalho com consolidadora](meta/sessoes-paralelas.md#trabalho-paralelo-com-consolidador).
 
 O destino de cada seção é sugestão da triagem: a sessão de encaixe decide ao ler, e muitas
@@ -26,63 +25,47 @@ e ficam fora do critério. O resumo dos diferenciais e da evidência (narrativa 
 `relato-tpm-programa`, `notas-comite-ia`, o gargalo de organização do corpus) não se guarda: o
 agente o refaz no briefing da sessão de decisão.
 
-1. **Cosmovisão** — dono de `filosofia/cosmovisao/`, de `filosofia/hipoteses/vetor.md` e de
-   `instituicao/nucleo/`. [a-tese.md](filosofia/cosmovisao/a-tese.md) já recebeu, do encaixe da
-   comunicação, o conjunto de teses (`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md`):
-   ler antes de encaixar nela.
-   - Núcleo, das sessões de encaixe: "a palavra informa, mas o exemplo convence"
-     (abertura de [iniciativas](instituicao/iniciativas/README.md)) repete "só filosofar não dá exemplo nem arrasta", do § Propósito → a frase pode subir. A
-     crença "soltar o apego não vem por convencimento; vem de condições" ganhou desenvolvimento
-     em [educação](filosofia/hipoteses/educacao.md), § Ninguém passa a fase pelo outro: crença não
-     muda por informação; as lacunas são crenças não transformadas; fechar o ciclo é mais que
-     consentir (`fontes/conversas/2026-10-03-ajudar-sem-mudar-o-sentido.md`) → checar se "vem de
-     condições" e "vem de se entregar" se completam e se a frase do núcleo muda.
-   - **Transcrição 2026-06-26 — equilíbrio** (`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md`)
-     — de `#equilibrio-materia-e-ideias`, o paradoxo prático × abstrato como lugar do
-     entendimento da realidade (a borda do estudo já está em `estudo/academia/foco.md`);
-     `#cosmovisao-e-novas-bases` e `#escala-e-evidencias`. A parte acadêmica já está em
-     `estudo/academia/`; a estratégia, em `contexto/trajetoria.md`.
-   - **Transcrições 2026-06-26 — as outras** (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
-     `…-as-primeiras-teses-crencas-e-quem-sou-eu.md`, `…-mestrado-doutorado-e-contribuicao-a-sociedade.md`):
-     detentor de perguntas e as perguntas básicas (quem sou eu, para onde vou, por que estou
-     aqui, o que há depois da morte) — `#quem-somos-nos-e-a-tese`; as condições do novo
-     processamento (transparência, rastreabilidade, confiança, sustentável, responsável) —
-     `#o-novo-processamento`; mudar paradigmas para colaborar —
-     `#mudar-paradigmas-para-colaborar`.
-   - Do corpus, uma ideia por sessão: **condições para colaborar** — humildade (cada um vê a
-     verdade de um ângulo), liberdade de compartilhar, comunicar sem ruído, organizar os pontos
-     de vista em harmonia (`cartas-de-candidatura`, última carta) → checar fusão com
-     `filosofia/cosmovisao/a-tese.md`; **todo problema é uma expectativa não atendida**
-     (`cartas-de-candidatura`, carta à startup) → hipótese pequena ou
-     `filosofia/cosmovisao/quem-sou-eu.md` — conversa com a falha de comunicação como
+1. **Cosmovisão — quem sou eu** — dono de `filosofia/cosmovisao/` (com
+   [novo-paradigma.md](filosofia/cosmovisao/novo-paradigma.md) e
+   [metodo.md](filosofia/cosmovisao/metodo.md)), de `filosofia/hipoteses/vetor.md` e de
+   `instituicao/nucleo/`. Critério do incorporador: *quem sou eu* é sobre como nos
+   identificamos e nos enxergamos; mudança de paradigma mora em `novo-paradigma.md`
+   (`fontes/conversas/2026-10-04-a-tese-e-o-novo-paradigma.md#quem-sou-eu-e-sobre-como-nos-identificamos`
+   → talvez o cabeçalho de `quem-sou-eu.md`; § O desequilíbrio de agora pode apontar para o
+   novo paradigma, § De global destrutivo a global regenerativo).
+   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) →
+     `quem-sou-eu.md`, por tema, uma sessão por vez. Corpo, mente e saúde mental: de
+     `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`, só a ansiedade (a depressão já está em
+     § A depressão: quando nada faz sentido, Estimado (baixa));
+     `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`,
+     `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`; de
+     `#qual-seria-sua-resistencia-a-uma-ideia-disruptiva`, a parte que não entrou no novo
+     paradigma — corpo e mente trabalham separados; a mente é só a maneira de processar
+     abstração e linguagem; para lidar com a ansiedade, quem processa o que vivemos é o corpo.
+     Atenção e presença: `#presenca-a-habilidade-do-seculo-21`,
+     `#consciencia-individual-e-coletiva-se-retroalimentam`. Energia e equilíbrio:
+     `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`,
+     `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`. Sentido:
+     `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`; de
+     `#o-que-entendi-e-sou-convidado-a-contribuir`, os itens 2 a 6 — a realidade não tem moral,
+     evolução é fato, entropia é flecha; espírito, mente e corpo; o corpo define como
+     experimentamos o mundo; estamos despertando; não resistir, equanimidade, pensar global e
+     agir local. Cuidado: `#ajudar-e-diferente-de-tentar-melhorar`, `#so-posso-dar-o-que-recebi`.
+   - Do corpus: **todo problema é uma expectativa não atendida** (`cartas-de-candidatura`, carta
+     à startup) → hipótese pequena ou `quem-sou-eu.md` — conversa com a falha de comunicação como
      desalinhamento de expectativas, em
-     [linguagem](filosofia/hipoteses/linguagem.md#onde-a-comunicação-falha); do ensaio (`ensaio-nao-somos-nosso-trabalho`): você
-     não é sua mente → `quem-sou-eu.md`.
-   - Global destrutivo → global regenerativo
-     (`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#de-global-destrutivo-a-global-regenerativo`),
-     esclarecida em `fontes/conversas/2026-09-30-precisar-de-menos.md`
-     (`#global-destrutivo-e-global-regenerativo`, `#tornar-se-global-nao-tem-moral-o-como-foi-destrutivo`):
-     tornar-se global não tem moral; o destrutivo foi o como. Candidatos:
-     [a-tese.md](filosofia/cosmovisao/a-tese.md#o-que-decorre-do-centro) (a tecnologia da
-     informação como salto) ou [quem-sou-eu.md](filosofia/cosmovisao/quem-sou-eu.md#o-desequilíbrio-de-agora).
+     [linguagem](filosofia/hipoteses/linguagem.md#onde-a-comunicação-falha); do ensaio
+     (`ensaio-nao-somos-nosso-trabalho`): você não é sua mente → `quem-sou-eu.md`, com a parte do
+     corpo e da mente acima; o método já diz "não somos nossa mente"
+     ([método](filosofia/cosmovisao/metodo.md), etapa 2): checar fusão.
    - Vídeos de 2025 → `quem-sou-eu.md`: da filosofia (`fontes/transcricoes/2025-03-06-sobre-filosofia.md`) — `#no-meio-do-paradoxo-da-expectativa`;
      do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`) — `#nada-e-facil-facil-e-nao-viver`, `#por-que-eu-falo`.
-   - Vídeos de 2025 → `a-tese.md` ou `vetor.md`: do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) —
-     `#escolher-a-crenca-que-faz-mais-sentido` (crenças e valores, tema que o incorporador quer falar).
-   - Vídeos de 2025 → núcleo: de 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`) — `#praticante-nao-mestre`;
-     do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`) — `#fluxo-ou-resistencia`, `#a-energia-diz-se-e-o-caminho`.
-     Termo da voz a preservar: "sou fluxo ou sou resistência".
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) → `filosofia/cosmovisao/a-tese.md`:
-     `#qual-seria-sua-resistencia-a-uma-ideia-disruptiva`, `#utopias-tendem-a-se-tornar-realidade`,
-     `#nao-precisamos-mudar-o-mundo-mas-a-maneira-de-pensar`, `#equilibrio-entre-arte-ciencia-e-filosofia`,
-     `#organizacao-e-a-ferramenta-mais-poderosa`, `#unir-razao-e-espiritualidade`,
-     `#a-revolucao-vira-quando-as-ideias-estiverem-maduras`, `#por-que-estamos-em-momento-critico`,
-     `#o-que-entendi-e-sou-convidado-a-contribuir`.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) → `instituicao/nucleo/`, que está validado: entra por
-     diálogo, não por inserção — `#o-que-melhora-as-coisas-e-conexao`,
-     `#todo-mundo-precisa-de-ajuda-para-organizar-os-pensamentos`, `#palavras-e-valores-em-lista`.
-     Também `fontes/conversas/2026-09-26-o-epso-e-eu.md#o-epso-e-a-institucionalizacao-das-minhas-ideias`
-     (núcleo ou README).
+   - Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`):
+     `#escolher-a-crenca-que-faz-mais-sentido` — "escolho a crença que faz mais sentido; então
+     estamos estabelecendo bases" → [método](filosofia/cosmovisao/metodo.md), etapa 1; checar
+     fusão com a camada 3 de `quem-sou-eu.md` ("quem diz não acreditar em nada acredita que não
+     acredita") e com [linguagem](filosofia/hipoteses/linguagem.md#crenças-o-sistema-operacional).
+     Crenças e valores é tema que o incorporador quer falar.
    - `fontes/documentos/2026-09-30-guia-pdi.raw.md` → `quem-sou-eu.md` ou
      `filosofia/hipoteses/trabalho.md#ressignificar-o-trabalho`: tendemos a resistir ao que ainda
      não dominamos; a dor aponta onde desenvolver e a força, por onde começar; estímulos
@@ -90,38 +73,14 @@ agente o refaz no briefing da sessão de decisão.
      errado". Junto, as lições de `fontes/documentos/2026-09-30-palestra-pdi.raw.md` que não são
      trajetória: o foco é a evolução do indivíduo inteiro; a jornada é longa, sem pausa, sem
      pressa; equilibrar flexibilidade e foco; clareza é cortar excessos, honesto com o momento.
-   - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`) → `filosofia/cosmovisao/quem-sou-eu.md`, por
-     tema. Despertar e evolução: `#homo-evolutis-a-proxima-evolucao`,
-     `#o-ciclo-da-descoberta-ao-novo-paradigma`, `#intencao-traz-conexao-e-clareza`. Corpo, mente
-     e saúde mental: `#depressao-e-ansiedade-o-que-nao-sabemos-lidar`,
-     `#eu-sou-as-pessoas-sao-a-vida-e-crencas-escondidas`,
-     `#equilibrar-o-prazer-da-pressao-alta-e-do-presente`. Atenção e presença:
-     `#presenca-a-habilidade-do-seculo-21`, `#consciencia-individual-e-coletiva-se-retroalimentam`.
-     Energia e equilíbrio: `#ninguem-e-isento-facilitamos-ou-dificultamos-o-fluxo`,
-     `#felicidade-e-equilibrio-entre-o-que-sou-acredito-faco-e-quero`. Sentido:
-     `#guia-pratico-corpo-meio-e-os-que-estao-por-vir`. Cuidado:
-     `#ajudar-e-diferente-de-tentar-melhorar`, `#so-posso-dar-o-que-recebi`.
-   - Textos do livro: de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
-     `#agir-pelo-que-nao-queremos-nos-torna-passivos`; de `fontes/documentos/2026-09-29-manifesto-eamom.md`,
-     vida e morte, tema candidato — `#queremos-mudanca-porque-queremos-mais-vida`, `#a-morte-virou-tabu`.
-2. **Método — o desenvolvimento das etapas** — o método em quatro etapas (estabelecer bases →
-   aceitar a realidade → imaginar → começar pequeno) já está no núcleo, Decidido
-   ([Postura](instituicao/nucleo/README.md#postura)). Falta o desenvolvimento das etapas: decidir
-   ao abrir se vai para o núcleo ou para `filosofia/`; se for o núcleo, entra depois do item 1.
-   - Já no acervo, para a etapa 1: a universidade indígena nomeia "estabelecer bases" e o
-     caminho dor → causa raiz → problema relevante → soluções com prós e contras
-     ([educação](filosofia/hipoteses/educacao.md#um-exercício-a-universidade-indígena)); o
-     pertencimento como condição de estabelecer bases foi relativizado — só a colaboração sem
-     estímulo financeiro pede crença comum
-     ([economia](filosofia/hipoteses/economia.md#colaborar-por-acordo-ou-por-crença)).
-   - Para começar pequeno, de `fontes/documentos/2026-09-30-palestra-pdi.raw.md`: os critérios de
-     um plano (Ato 4) e o processo (Ato 5) — guardar o sim, sonhar grande exige crescimento,
-     decidir onde chegar e depois as ferramentas, começar pelo caminho que custa menos.
-   - De 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`): `#metodo-4-comecar-pequeno`.
-   - Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`): `#simples-sem-ser-simplorio`,
-     `#tudo-e-sobre-intencao`, `#entender-o-outro-sem-apontar-o-dedo`, `#metodo-aberto-a-mudanca`,
-     `#sonhar-grande-sem-medo`, `#o-meio-ambiente-pelas-tres-etapas`, `#serie-longa-pede-rotina`,
-     `#comece-agora-sem-desculpas`, `#o-que-nos-define-e-o-que-fazemos`.
+   - Vida e morte, tema inteiro numa sessão (decisão do incorporador): de
+     `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#queremos-mudanca-porque-queremos-mais-vida`
+     (termina com "estabelecer bases… é a nossa primeira base"), `#a-morte-virou-tabu`, e o resto
+     do tema no Encaixar. Ler antes § Anestesiar ou encarar: o medo de morrer e o "fazer de conta
+     que não existe" estão muito perto do tabu. Não costurar "mais vida" com conatus sem
+     confirmar.
+   - Núcleo: a [Postura](instituicao/nucleo/README.md#postura) pode ganhar um link para
+     [método](filosofia/cosmovisao/metodo.md), junto das quatro etapas.
 
 ## 4. Encaixar
 
@@ -178,11 +137,25 @@ Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
 - `fontes/documentos/2026-09-29-personalidades.raw.md` — a cadeia de dúvidas sobre a
   fidelidade da mensagem de Jesus e Buda: a ideia excede a expressão →
   `filosofia/hipoteses/ancora.md`; encaixe direto, ou provocação no elaborar.
-- Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`): `#a-mesma-palavra-para-coisas-diferentes`,
-  candidata a dispensa (recapitula a parte 1). Ao encaixar
-  `#imaginar-com-intencao-sem-utilitarismo`, explicitar que "positivismo" ali é a crítica a que
-  tudo deva ter um propósito bom, não o de Comte; "intenção é a palavra de ouro".
-  `#na-relacao-chegar-a-um-acordo` cita a CNV de passagem.
+- Do método (`fontes/transcricoes/2025-03-06-sobre-o-metodo.md`): `#a-energia-diz-se-e-o-caminho`,
+  com `fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md#investigar-a-resistencia`
+  → [precisão](filosofia/hipoteses/precisao.md), porque é sobre como observamos a verdade: a
+  energia como leitura; a resistência pode ter base sólida ou ilusória; investigar pede
+  meditação e autoconhecimento; outros ajudam. O "experimentar dá clareza" → também
+  [método](filosofia/cosmovisao/metodo.md), etapa 4, com o limite de
+  [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md#imaginar-e-sentir).
+- Da mesma conversa, `#as-ideias-nao-sao-minhas`, encaixada em parte no README: a autenticidade
+  — todos são únicos (biologia, história, família); algumas referências são únicas → sem casa
+  decidida.
+- De `fontes/documentos/2026-09-30-palestra-pdi.raw.md`, o que ficou fora do método: os critérios
+  de um plano (faz sentido, estimula, dá orgulho, é factível), as seis travas com a saída de
+  cada uma ("o que faz o plano sair do papel") e o fecho em quatro passos (sonhe, seja gentil
+  com o seu momento, experimente, recomece) → a casa do PDI
+  ([trabalho](filosofia/hipoteses/trabalho.md), que já cita a palestra, ou outro destino).
+- Manifesto Homo Activus (`fontes/documentos/2026-09-29-manifesto-homo-activus.md`), em toda nota
+  que o cita: o termo "homo activus" não entra no acervo; a ideia pode entrar, sem tratar o
+  manifesto como posição sólida
+  (`fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md#o-termo-homo-activus-ainda-nao`).
 - De 03-05 (`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md`): `#retornar-e-se-expor`,
   candidata a dispensa (repete `#todo-conteudo-e-um-convite`).
 - Do determinismo (`fontes/transcricoes/2025-04-30-a-vida-e-o-determinismo.md`):
@@ -208,8 +181,8 @@ Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
   `filosofia/cosmovisao/quem-sou-eu.md#tudo-pulsa`); "une-e-supera", as tradições parcialmente
   cegas, e "tudo é verdade" rebaixado a método de leitura (`#nucleo-da-tese` →
   `filosofia/cosmovisao/a-tese.md`).
-- `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#a-cola-imaterial` — não é
-  linguagem; destino em `filosofia/cosmovisao/`.
+- `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#a-cola-imaterial` — a fonte da
+  "cola que une" de [vetor](filosofia/hipoteses/vetor.md#a-família): candidato direto.
 - `fontes/documentos/2026-09-29-o-eu-como-um-universo.raw.md` — simulação, o Uno, viver para
   aumentar a energia → `quem-sou-eu.md`. "Não preciso querer melhorar a vida dos outros"
   tensiona o propósito contributivo: provocação no elaborar.
@@ -247,9 +220,6 @@ Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
   a dispensa (a decisão já vive aqui); `#o-livro-e-um-formato-de-transmissao` → junto de "a
   trajetória rende vários livros" ([direção](contexto/direcao.md#longo-prazo)) e do "futura
   tese e livro" de [filosofia/cosmovisao/README.md](filosofia/cosmovisao/README.md).
-- `fontes/documentos/2026-09-29-readme-do-livro.raw.md`: dispensar nos metadados o plano dos
-  três livros (Organização, E assim mudamos o mundo, Moeda); as fases do comportamento da
-  sociedade (consciência → organização → evolução) → fusão com o ciclo da descoberta (item 1).
 - Grupo EPSO no WhatsApp (`fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`), textos do
   livro: dispensar nos metadados a sequência Manual/Manifesto/Conceitos/Apêndice de
   `#estrutura-do-livro-manual-manifesto-conceitos`; os cinco conceitos dela (camadas e
@@ -261,25 +231,25 @@ Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
 - Crise de sentido, um argumento só com a definição de depressão e ansiedade do WhatsApp (item
   1): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
   `#sobreviver-deixou-de-dar-sentido`, `#nao-eliminar-as-experiencias-ruins-classifica-las`,
-  `#a-mente-e-uma-ferramenta` (fusão com "você não é sua mente"); de
+  `#a-mente-e-uma-ferramenta` (fusão com "você não é sua mente", item 1); de
   `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` — `#escolher-entre-viver-e-morrer`,
-  `#a-mente-e-uma-maquina-de-encontrar-sentido`.
+  `#a-mente-e-uma-maquina-de-encontrar-sentido` → junto de
+  [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md), § A depressão: quando nada faz sentido.
 - Vida e morte, o resto do tema (os representantes estão no item 1): de
   `fontes/documentos/2026-09-29-manifesto-eamom.md` — `#a-saude-e-uma-medida-que-conseguimos-concordar`
   e `#saude-como-modelo-de-representacao-da-vida` (um argumento com "queremos mais vida"),
   `#nao-lidar-com-a-morte-nos-faz-divergir`; de `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md` —
   `#cumprir-o-papel-sem-sentido-e-se-conformar-com-a-morte`, `#quem-dificulta-acoes-se-conformou-com-a-morte`.
-- Estabelecer bases (item 2): de `fontes/documentos/2026-09-29-manifesto-homo-activus.md` —
-  `#concordar-sobre-as-bases-da-vida`, `#concordando-atuamos-nas-necessidades-basicas`; a lista
-  de bases é a mesma de `fontes/documentos/2026-09-29-glossario.raw.md`, cujas definições de
-  ciência, mentira e verdade vão em fusão com "verdade é o que faz sentido para cada um"
-  (`a-realidade-como-ela-e`); de `fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md` —
-  `#preciso-estabelecer-bases-para-investigar`.
+- `fontes/documentos/2026-09-29-glossario.raw.md`: a lista de bases já está no
+  [método](filosofia/cosmovisao/metodo.md), pelo manifesto; as definições de ciência, mentira e
+  verdade vão em fusão com "verdade é o que faz sentido para cada um" (`a-realidade-como-ela-e`).
 - Fusões dos textos do livro:
   `fontes/documentos/2026-09-29-manifesto-homo-activus.md#reinventar-a-organizacao-capitalismo-sustentavel`
   → "novo capitalismo" de [economia.md](filosofia/hipoteses/economia.md);
-  `fontes/documentos/2026-09-29-manifesto-homo-activus.md#agir-pelo-que-queremos` → junto do
-  par do item 1;
+  `fontes/documentos/2026-09-29-manifesto-homo-activus.md#agir-pelo-que-queremos` → ler com a
+  fala "queremos é um verbo ruim: não sabemos o que queremos"
+  (`fontes/conversas/2026-10-04-despertar-e-evolucao.md`), junto de [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md), § Anestesiar ou
+  encarar;
   `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#filosofias-e-religioes-representam-o-mundo`
   → "toda analogia é um mito", em [linguagem](filosofia/hipoteses/linguagem.md);
   `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#o-paradoxo-de-querer-economizar-energia`

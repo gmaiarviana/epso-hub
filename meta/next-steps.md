@@ -42,6 +42,15 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#tipos-de-sessao` diz que os tipos de
   sessão eram o modo de trabalhar da construtora (hoje na entrada dela, em
   `instituicao/iniciativas/`). Conferir se o mapa pede ajuste.
+- **Colagem de conversa de chat** — o registro de documento bruto não prevê a conversa de grupo
+  colada em partes: a colagem arrasta mensagens de outras pessoas para dentro das do
+  incorporador, o "ler mais" do WhatsApp corta mensagem longa, parte vem sem carimbo de data e
+  hora, e só o lado dele chega, sem as mensagens a que responde. Em aberto: se a mensagem de
+  terceiro sai ou fica anonimizada como contexto; se o bruto pode ser uma seleção; como
+  datar o que veio sem carimbo. Também em aberto, a pensar com mais calma: o que fazer com
+  menção a figura pública, sobretudo acusação a pessoa nomeada — hoje saiu por decisão do
+  incorporador, para não distrair da ideia, e a regra de anonimização não cobre o caso.
+  Insumo: a `nota` de `fontes/documentos/2026-10-08-eleicao-no-whatsapp.raw.md`.
 - **O comum sobe para `fontes/`** — com os três tipos à vista (transcrições, conversas e
   documentos), o que for comum (preservação, voz, rastreabilidade) sobe para um processo da
   mãe.

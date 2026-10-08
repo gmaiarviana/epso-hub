@@ -37,6 +37,12 @@ próximos passos — item concluído sai da lista; o histórico vive no git.
   ([cobertura](processo-transcricoes.md#cobertura)) registra por que a seção ficou sem casa.
   Para um argumento novo reencontrar o que foi dito antes, serviria um resumo da ideia numa
   linha, com o tema. Sem urgência: custa processamento por seção.
+- **Semente parcial na cobertura** — semente declarada em seção já encaixada (ou por ideia em
+  documento bruto) fica nos metadados, mas não aparece na lista de sementes: o
+  [cobertura.py](cobertura.py) dá precedência ao encaixe. Ajuste: listar também essas
+  sementes, marcadas como parciais. Casos: o resto de homo evolutis e as palavras soltas da
+  lista de valores, no grupo do WhatsApp; as fases do comportamento da sociedade, no readme do
+  livro.
 - **Mapa do documento institucional × tipos de sessão** — o
   [mapa](estrutura/mapa-documento-institucional.md) sobe o processo de sessão para o nível EPSO;
   `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#tipos-de-sessao` diz que os tipos de

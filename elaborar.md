@@ -29,6 +29,35 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   reunir o que cada tradição captou se defende dessa crítica? Quem hoje discordaria de você, e
   o que você aprenderia com essa pessoa?* → [a tese](filosofia/cosmovisao/a-tese.md)
 
+### O novo paradigma
+
+- **Mudar o mundo ou a maneira de pensar.** Em 2022 você escreveu: "Não precisamos mudar o
+  mundo… O que precisamos é mudar a maneira que pensamos, agimos, nossos hábitos,
+  expectativas… encarar a vida como ela é: curta, indiferente, dinâmica." E disse que precisa
+  elaborar mais. Ela se liga à pergunta do planeta, em Quem sou eu. Exemplo: quem passa a
+  comprar menos não mudou o mundo, mas o mundo à volta dele já é outro. *O que muda é o mundo,
+  as pessoas, ou a relação entre os dois? "Indiferente" é como você vê a vida hoje?* →
+  [novo paradigma](filosofia/cosmovisao/novo-paradigma.md). Fonte:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#nao-precisamos-mudar-o-mundo-mas-a-maneira-de-pensar`.
+- **Organização e clareza.** Você escreveu que "a ferramenta mais poderosa é a capacidade de
+  organização: separa cada problema para ter uma solução específica"; o núcleo diz que clareza
+  é "pôr cada ideia no seu lugar". Você não tem certeza de que sejam a mesma coisa. Exemplo:
+  arrumar uma gaveta é organizar; saber o que guardar nela é clareza — ou é o mesmo gesto?
+  *Organizar é o caminho para a clareza, a mesma coisa vista de outro ângulo, ou outra coisa?*
+  → [novo paradigma](filosofia/cosmovisao/novo-paradigma.md#as-condições-para-colaborar)
+- **Perguntar a resistência.** "Qual seria sua resistência se alguém dissesse que…" pode virar
+  formato de conversa: em vez de discutir a ideia, perguntar como a pessoa se sente diante
+  dela. Você não sabe se é um método que levanta agora. *Vale como formato — num encontro, num
+  post —, ou fica como pergunta sua?* → [novo paradigma](filosofia/cosmovisao/novo-paradigma.md#como-a-mudança-chega)
+
+### Método
+
+- **O desenvolvimento das etapas.** As quatro etapas estão desenvolvidas a partir dos vídeos de
+  2025, em nível Em aberto: o texto precisa ser elaborado. *O que elaborar primeiro — uma
+  etapa, o texto de 2025 como um todo, a forma?* Fica para depois do Foco. →
+  [método](filosofia/cosmovisao/metodo.md). Fonte:
+  `fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md#o-desenvolvimento-do-metodo-precisa-ser-elaborado`.
+
 ### Quem sou eu
 
 - **O planeta é indiferente ou cuida de nós?** Em 2022 você escreveu que o mundo não precisa
@@ -58,6 +87,19 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   outra ideia? *Quais desses passos você ainda sustenta, e em que ordem eles contam quem sou
   eu hoje?* → [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md). Fonte:
   `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#introducao-do-livro-quem-sou-eu`.
+
+- **O ciclo de vida de uma ideia.** O ciclo da descoberta do grupo do WhatsApp talvez descreva o
+  ciclo de vida de uma ideia: nasce, encanta, vira rotina, cansa, dá lugar a outra. O "depois do
+  objetivo alcançado" da depressão se parece com o tédio desse ciclo. *O ciclo da descoberta é o
+  ciclo de uma ideia, de uma pessoa, ou dos dois?* Elaborar depois, sem forçar. →
+  [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md). Fontes:
+  `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#o-ciclo-da-descoberta-ao-novo-paradigma`;
+  `fontes/conversas/2026-10-04-despertar-e-evolucao.md#o-ciclo-de-vida-de-uma-ideia`.
+- **Activus e evolutis.** Em textos diferentes você descreveu um homem que age pelo que quer
+  (activus) e um que é a próxima evolução do sapiens (evolutis). Nenhum dos dois está fresco
+  para você. *São o mesmo personagem visto de dois lados — o que ele faz e o que ele é —, ou
+  dois?* → [quem sou eu](filosofia/cosmovisao/quem-sou-eu.md#estamos-aqui-para-o-equilíbrio).
+  Fonte: `fontes/conversas/2026-10-04-despertar-e-evolucao.md#activus-e-evolutis-se-aproximam`.
 
 ### Precisão
 
@@ -294,6 +336,15 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
 - **Perguntas curtas.** Ajuda opcional para o núcleo: princípios inegociáveis, o que o EPSO não
   é, e respostas curtas a "como decidimos?", "como lidamos com dinheiro?", "o que fazemos
   quando alguém não contribui?". → [núcleo](instituicao/nucleo/README.md)
+
+- **Condições e entrega.** O núcleo diz que soltar o apego vem de condições; você acrescentou
+  que podemos criar ou buscar as condições, e escolher nos entregar — mas não de forma
+  plenamente racional, e o chamado não escolhe quando nem onde. Exemplo: dá para ir a um
+  retiro (condição), mas não dá para decidir que lá vai acontecer a virada. *Qual a relação
+  entre escolher e se entregar: uma prepara a outra, ou são de naturezas diferentes?* →
+  [núcleo](instituicao/nucleo/README.md#crenças); conversa com
+  [educação](filosofia/hipoteses/educacao.md#ninguém-passa-a-fase-pelo-outro). Fonte:
+  `fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md#escolher-as-condicoes-escolher-se-entregar`.
 
 ### Comunidades
 

@@ -83,6 +83,7 @@ Passos do encaixe:
 - Identificar de que assunto o trecho trata.
 - Localizar o nível e o destino do assunto, usando [meta/estrutura/niveis.md](estrutura/niveis.md) e [meta/estrutura/criterios.md](estrutura/criterios.md).
 - Ler o conteúdo que já existe no destino com atenção.
+- Fonte escrita há anos, cujo argumento não está claro: antes de redigir, o agente reformula o argumento em uma frase e pede ao incorporador que corrija. Se ele não lembrar o que quis dizer, o agente faz perguntas concretas (o que é X na prática, um exemplo); a fala nova vai para a conversa registrada da sessão, e é dela, ao lado da fonte antiga, que se encaixa. Juntar as frases da fonte sem o argumento produz texto sem argumento.
 - Buscar o caminho da fonte no acervo inteiro: o que ela já deu em outro destino se cita ali, não se repete. A cobertura conta documento bruto por arquivo e não mostra o que já foi encaixado dele.
 - Decidir entre inserção, atualização ou reorganização.
 - Propor a mudança cirúrgica, com a referência de volta no formato `arquivo#secao`.

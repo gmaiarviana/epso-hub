@@ -20,6 +20,7 @@ Fontes, referenciadas abaixo por rótulo e `#secao`:
 - **[26/6]** `fontes/transcricoes/2026-06-26-modelos-eficientes-abstrair-palavras-e-economia-sustentavel.md`
 - **[grupo]** `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md`
 - **[obras]** `fontes/documentos/2026-09-29-gerenciamento-de-obras-proposta-de-curso.md`
+- **[4/10]** `fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md`
 
 ## Propósito
 
@@ -31,8 +32,12 @@ argumento, cada ideia no seu lugar, respeitando a sua existência — um olhar m
 realidade, sem inflar nem reduzir. Ela vem da observação sem julgamento, e a observação vem
 do silêncio da mente, em flow ou em introspecção; os caminhos são muitos.
 
-Por que clareza: a clareza de pensamento vem antes da mudança de comportamento. Crenças geram
-comportamentos, comportamentos geram rotinas, rotinas geram resultados (ver
+Por que clareza: todo mundo precisa de ajuda para organizar os pensamentos. Ninguém tem todas as
+respostas — quem é mestre num assunto é leigo em outro, e não há tempo nem capacidade para ser
+especialista em tudo. Dá para ter domínio de um ambiente, ou já ter amadurecido as ferramentas da
+própria organização; mas ninguém nasce sabendo, e em algum momento isso precisa ser desenvolvido.
+
+E a clareza de pensamento vem antes da mudança de comportamento: crenças geram comportamentos, comportamentos geram rotinas, rotinas geram resultados (ver
 [a tese](../../filosofia/cosmovisao/a-tese.md#o-centro-a-pergunta-quem-sou-eu)).
 
 Como: experimentar e provar na prática que é possível fazer diferente. Cada projeto é um
@@ -52,7 +57,8 @@ linguagens e formatos.
 
 Fonte: [núcleo]`#propósito`; [validação]`#clareza`, `#para-que-vem-o-epso`,
 `#por-que-o-epso`, `#resolver-os-próprios-problemas`; [narrativa] `## 1. Purpose`;
-[construtora] (Propósito); [propósito] (Propósito).
+[construtora] (Propósito); [propósito] (Propósito);
+[grupo]`#todo-mundo-precisa-de-ajuda-para-organizar-os-pensamentos`; [4/10]`#ninguém-nasce-sabendo-se-organizar`.
 
 ## Valores
 
@@ -73,11 +79,12 @@ Como conduzo cada passo.
 Fonte: [núcleo]`#o-que-são-valores`; [propósito] (Valores); [quem somos] ("meus 3 valores
 principais", "colaboração é uma palavra-chave", No que acreditamos); [construtora] (Valores);
 `fontes/conversas/2026-09-27-a-construtora-e-o-epso.md#o-que-do-documento-institucional-é-do-epso`;
-[narrativa] `## 2. Values`.
+[narrativa] `## 2. Values`; [grupo]`#palavras-e-valores-em-lista`.
 
 ## Régua: fluir sem dissipar
 
-O fluxo não deve resistir, travar, dissipar energia. Viver causa impacto — morar numa casa já
+Sou fluxo ou sou resistência? Contribuo ou atrapalho? Aceito a realidade e colaboro com a vida,
+ou dificulto? O fluxo não deve resistir, travar, dissipar energia. Viver causa impacto — morar numa casa já
 mexe no entorno —; a pergunta é o tamanho dele:
 
 - É reversível?
@@ -124,6 +131,8 @@ geram a demanda pelos equipamentos de um empreendimento.
 **Nível:** Decidido.
 
 Fonte: [validação]`#eficiencia`, `#entropia-e-o-tamanho-do-impacto`, `#a-camada-sem-forma`;
+`fontes/transcricoes/2025-03-06-sobre-o-metodo.md#fluxo-ou-resistencia`;
+[4/10]`#fluxo-ou-resistencia-e-como-lido-com-a-vida`;
 [núcleo]`#o-que-são-valores`; [22/9]`#fora-do-paradigma-mecanicista`;
 [conversa]`#os-parâmetros-da-sustentabilidade`, `#impacto-do-nosso-tamanho`,
 `#trabalho-não-é-ruim-o-peso-é-o-compromisso-com-coisas`,
@@ -147,7 +156,8 @@ Cada crença em uma frase; o argumento vive onde o link aponta.
 - **Conforto é saudável; o medo de perdê-lo é a prisão.** Querer prazer o tempo todo é sinal
   de que o prazer deixou de equilibrar e passou a viciar.
 - **Soltar o apego não vem por convencimento.** Vem de condições: silêncio, sensibilidade,
-  reconexão com a natureza, sair do estado de luta ou fuga, sentir-se amado, ter tempo livre.
+  reconexão com a natureza, sair do estado de luta ou fuga, sentir-se amado, ter tempo livre
+  ([educação](../../filosofia/hipoteses/educacao.md#ninguém-passa-a-fase-pelo-outro)).
 - **Gostamos de entender.** Somos materiais, mas também informacionais: gostamos de
   coerência, de lastro, de concordar. É o porquê da transparência.
 - **Colaborar é a nossa maior habilidade** — mais que comunicar ou raciocinar, que por si sós
@@ -182,12 +192,21 @@ O conteúdo tem a concordância do incorporador; a formulação ainda não é de
 - **Fazemos o que precisa ser feito.** Os outros seres contam com a nossa contribuição, e nos
   ajudam. Regenerar é manter as condições de fazer a nossa parte: se nos destruirmos, não
   poderemos fazê-la.
+- **Precisamos fazer.** Não bastam ideias que emocionam: precisamos de ideias que tragam
+  condições para a ação. A transformação é mudança de comportamento — hábitos, ações. A palavra
+  informa, mas o exemplo convence.
+- **O que melhora as coisas é conexão.** Raramente o que se fala, sozinho, melhora as coisas. A
+  mensagem que atravessa as barreiras e as defesas mentais vem pela conexão, pela empatia; a
+  fala sem conexão, sem lastro, só racionalização, não convence
+  ([linguagem](../../filosofia/hipoteses/linguagem.md#por-baixo-das-palavras-a-mensagem)).
 
 **Nível:** Estimado (média).
 
 Fonte: [núcleo]`#as-crenças-do-epso`; [propósito] (Crenças); [quem somos] (Quem somos, No que
 acreditamos); [conversa]`#fazer-o-que-precisa-ser-feito`, `#nos-salvar-salva-quem-convive-conosco`;
-`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`.
+`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#regeneracao-por-nos`;
+[grupo]`#ideias-sem-acao-nao-mudam-a-vida-das-pessoas`, `#o-que-melhora-as-coisas-e-conexao`;
+[4/10]`#precisamos-fazer`, `#conexão-atravessa-as-defesas`.
 
 ## Postura
 
@@ -215,7 +234,7 @@ construtiva. Quando outra servir melhor, troca-se.
 
 **Nível:** Decidido.
 
-**Transformar em vez de combater.** A mudança vem por agregação e demonstração — a
+**Transformar em vez de combater.** A mudança vem por agregação, demonstração e conexão — a
 mentalidade não muda por convencimento.
 
 **Nível:** Estimado (alta).

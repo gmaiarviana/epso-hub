@@ -28,11 +28,17 @@ base nos meus valores, na transparência, no novo paradigma, na nova mentalidade
 setor; não tenho nem graduação em tecnologia. Isso me toma — por que estou falando disso? —, e
 reforça que preciso de mais humildade. Tudo isso tem de ser planejado com calma.
 
+Não sou dono da verdade, nem mestre falando a aprendizes: sou um praticante, e a jornada me pede
+que assuma o lugar de compartilhar o que tenho aprendido. É para não me posicionar de uma
+maneira que possa soar arrogante.
+
 A comunicação é minha, mas nasce ligada diretamente ao EPSO: no começo, fundidos. Depois não
 sei se vou dar opiniões que não sejam pelo EPSO; quando chegar esse momento, reorganizo.
 
 Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#unir-quem-ja-constroi-e-quem-quer-comecar`,
-`#sem-credencial-mais-humildade`; `fontes/conversas/2026-09-26-o-epso-e-eu.md#a-comunicação-nasce-ligada-ao-epso`.
+`#sem-credencial-mais-humildade`; `fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md#praticante-nao-mestre`;
+`fontes/conversas/2026-10-04-o-nucleo-fazer-conexao-e-as-ideias-que-nao-sao-minhas.md#não-soar-arrogante`;
+`fontes/conversas/2026-09-26-o-epso-e-eu.md#a-comunicação-nasce-ligada-ao-epso`.
 
 **Nível:** Em aberto.
 

@@ -1,6 +1,6 @@
 # EPSO
 
-O EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/) — é um projeto de contribuição que se organiza em torno de uma tese: trazer clareza para contribuir com a transformação da sociedade. É a institucionalização das minhas ideias e práticas. Hoje eu e o EPSO somos uma coisa só; um dia ele pode ganhar vida própria.
+O EPSO — Era Pra Ser Óbvio (https://www.erapraserobvio.com.br/) — é um projeto de contribuição que se organiza em torno de uma tese: trazer clareza para contribuir com a transformação da sociedade. É a institucionalização das ideias e práticas que acredito fazerem mais sentido: não sou autor delas, organizo-as numa narrativa que entendo ter força para a transformação rumo ao novo paradigma. Hoje eu e o EPSO somos uma coisa só; um dia ele pode ganhar vida própria.
 
 Este repositório reúne o EPSO num lugar só, legível por mim e por agentes de IA.
 

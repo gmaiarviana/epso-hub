@@ -289,6 +289,9 @@ Inclui as perguntas de análise específicas de cada arco.
 
 ## Quadros recorrentes
 
+- [Quero me conectar](quadros/quero-me-conectar.md) — série de posts curtos no LinkedIn para
+  esquentar a rede, um sonho por post.
+
 **Nível:** Em aberto.
 
 ## Canal

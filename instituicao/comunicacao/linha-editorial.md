@@ -66,16 +66,33 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#por-que-produzir-co
 
 **Nível:** Em aberto.
 
+**Tipos de conteúdo.** Gostei muito de um calendário editorial para LinkedIn organizado em
+quatro pilares de conteúdo: autoridade (reforça o conhecimento numa área), desejo (mostra a
+necessidade do seu trabalho), curiosidade (fala de temas quentes do mercado — "o que ninguém
+tem coragem de falar sobre…") e conexão (histórias pessoais — "o que aprendi quando tive
+vontade de desistir de…"). Os tipos podem ser ressignificados para o que faz sentido para os
+meus objetivos, sem me fixar no modelo daquela postagem. O desejo, por exemplo: pode ser que
+eu defina que quero que as pessoas me tenham por perto, estejam querendo comprar de mim, só
+esperando eu oferecer algo.
+
+Fontes: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#quatro-tipos-de-conteudo`,
+`#desejo-ressignificado`.
+
+**Nível:** Em aberto — inclusive se os tipos são dimensão própria ou abordagem.
+
 ## Chamados
 
 "Falo para os meus" — ou, numa introdução de livro, "escrevo para os meus": a fala é também um
-recrutamento. Os nossos são os semelhantes — parceiros,
-membros, camaradas, família —, por mais diversos que sejam. Quem se identifica, se aproxima; a
-parceria se faz de um jeito que seja bom para todo mundo, na economia colaborativa. Traga o seu
-problema e vamos construir a solução juntos.
+recrutamento. Todo conteúdo que eu produzir, toda mensagem que for falada, é um convite, um
+recrutamento, um chamado para quem pensa igual entrar em contato: a gente está aqui
+insatisfeito com o mundo cheio de problemas; vamos nos unir. Os nossos são os semelhantes —
+parceiros, membros, camaradas, família —, por mais diversos que sejam. Quem se identifica, se
+aproxima; a parceria se faz de um jeito que seja bom para todo mundo, na economia
+colaborativa. Traga o seu problema e vamos construir a solução juntos.
 
 Fonte: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto e resposta sobre "os
-nossos"); `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#introducao-do-livro-quem-sou-eu`.
+nossos"); `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#introducao-do-livro-quem-sou-eu`;
+`fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md#todo-conteudo-e-um-convite`.
 
 **Nível:** Estimado (média).
 
@@ -118,8 +135,15 @@ ou não ver, falar uma língua ou não, diferenciar cheiros e cores. E aprendemo
 por repetição: não absorvemos completamente algo novo no primeiro contato. Ser redundante
 cansa, mas a maneira como nos comunicamos hoje tem limitações; enquanto não formos mais
 eficientes em nos expressar, vale garantir que estamos exatamente na mesma página,
-principalmente nos assuntos mais profundos. Por que a comunicação falha mora em
+principalmente nos assuntos mais profundos. Não quero ser redundante, mas também preciso
+estabelecer as bases antes de aprofundar. Por que a comunicação falha mora em
 [linguagem](../../filosofia/hipoteses/linguagem.md#comunicar-na-camada-que-o-outro-alcança).
+
+O subentendido faz parte do nosso dia a dia, e não dá para julgá-lo bom ou ruim: faz parte da
+comunicação, simplifica e deixa o processo eficiente. Mas, sem consciência dele, minimizamos a
+nossa capacidade comunicativa e temos dificuldade em entender algo mais profundo. Por isso, no
+momento apropriado, o óbvio precisa ser dito. As bases precisam ser restabelecidas; precisamos
+garantir que todos estão se referindo aos mesmos objetos.
 
 O dilema: como ser profundo sem ficar divagando com a mensagem? Como transmiti-la com
 eficiência sem ser superficial demais, e garantir que o leitor a entenda completamente? Uma
@@ -127,6 +151,17 @@ solução pensada para o livro: resumir a mensagem a um manifesto, o mais eficie
 sem medo de usar figuras de linguagem nem de ser mal interpretado — talvez um texto muito
 curto, sem medo disso; e, num texto maior, explicar palavra por palavra cada intenção e
 expressão, o mais óbvio e claro possível.
+
+A aversão a uma linguagem mais extensa, hoje, vem da quantidade de possibilidades que temos:
+as pessoas preferem consumir conteúdos que se comunicam no ritmo condizente com o estado atual
+da mente. E faz todo sentido: devemos, sim, buscar o canal que consideramos mais eficiente.
+Existe valor em ser eficiente e ágil; como consequência, as interações precisam ser mais
+enxutas, e interações enxutas naturalmente são superficiais. Tudo
+bem: ser profundo o tempo todo é cansativo, e não temos condições — a mente se cansa, e
+precisamos dedicar energia a atividades que pedem atenção presente. O cuidado é não querer
+profundidade de maneira superficial: muitos conceitos são discutidos sem atenção à maneira
+como organizamos os pensamentos. Se a superficialidade é a nossa única maneira de experimentar
+o mundo, acabamos não tendo bases sólidas.
 
 Não vou falar nada novo: não há o que eu diga que outra pessoa já não tenha refletido, visto
 ou percebido. O que pode ser único são as palavras que escolho.
@@ -136,10 +171,37 @@ traz uma mensagem forte, mas remete a uma conclusão: a falsa ideia de que, segu
 passo, todos os problemas serão resolvidos. Adoramos cair em ilusões.
 
 Fontes: `fontes/transcricoes/2025-03-05-sobre-o-era-pra-ser-obvio.md#o-obvio-precisa-ser-dito`;
-`fontes/documentos/2026-09-29-organizacao.md#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`;
+`fontes/documentos/2026-09-29-organizacao.md#o-obvio-precisa-ser-sempre-dito-aprendemos-por-repeticao`,
+`#a-aversao-a-linguagem-extensa`, `#nao-querer-profundidade-de-maneira-superficial`;
+`fontes/conversas/2026-10-03-ideia-nao-tem-dono.md#estabelecer-as-bases-antes-de-aprofundar`;
+`fontes/documentos/2026-09-29-o-obvio-precisa-ser-dito.md#o-subentendido-simplifica-mas-limita`;
 `fontes/documentos/2026-09-29-readme-do-livro.raw.md` (o dilema e a solução);
 `fontes/transcricoes/2025-03-06-sobre-filosofia.md#nada-novo-palavras-proprias`;
 `fontes/documentos/2026-09-29-e-assim-mudamos-o-mundo.md#o-titulo-pode-iludir-com-um-passo-a-passo`.
+
+**Nível:** Em aberto.
+
+Também dito, sobre como dizer — princípios a confrontar com o corpus na sessão de tom de voz:
+
+- Explicar em níveis: superficial, médio e profundo. Explicar em níveis é mais um "como" do
+  que um "o quê".
+- A mensagem é precisa quando acompanha o mínimo de ruído. O ambiente e o clima podem ser
+  conduzidos ou direcionados. O silêncio precede a fala.
+- Precisamos de formas materiais para falar de ideias espirituais.
+- Cuidado ao misturar termos reais (como a interação humana) e termos abstratos (como
+  superficialidade): "bases sólidas" e "superficialidade" são figuras de linguagem, e a mistura
+  pode causar má interpretação, porque claramente não resume todos os casos.
+- O termo técnico ganha uma versão em linguagem simples quando custa compreensão: quando é
+  preciso num material voltado para fora da especialidade — uma mensagem interna, uma
+  entrevista, uma apresentação — e a versão simples cabe numa linha. O termo que já é
+  vocabulário corrente do público fica como está. Traduzir um termo ao vivo é o sinal de que
+  ele precisa da versão simples.
+
+Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#explicar-em-niveis-superficial-medio-e-profundo`,
+`#a-mensagem-precisa-tem-o-minimo-de-ruido`, `#interpretacoes-complementares-da-inteligencia-suprema`;
+`fontes/conversas/2026-10-02-arte-e-ciencia.md#explicar-em-niveis-e-um-como`;
+`fontes/documentos/2026-09-29-organizacao.md#cuidado-ao-misturar-termos-reais-e-abstratos`;
+`fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 10. Glossary`, Entry criterion).
 
 **Nível:** Em aberto.
 
@@ -173,6 +235,13 @@ Fontes: `fontes/documentos/2026-09-27-proposito-epso.raw.md` (manifesto);
 
 ## Referências
 
+Influências que o incorporador nomeia: Vivekananda, na filosofia vedanta; Osho; Nietzsche —
+"de certa maneira são um pouquinho das minhas influências também". Outras referências
+reconhecidas, Harari e Paulo Freire, moram em
+[linguagem](../../filosofia/hipoteses/linguagem.md).
+
+Fonte: `fontes/transcricoes/2025-03-06-sobre-filosofia.md#refletir-ou-viver`.
+
 **Nível:** Em aberto.
 
 ## Mensagens-chave
@@ -205,8 +274,9 @@ repertório, a sua visão de mundo, e um complementa o outro.
 
 Como a mensagem chega:
 
-- Não é preciso convencer ninguém, mas fazer as pessoas se sentirem identificadas e validadas.
-  A mudança começa por dentro; descrever o sentimento delas as ajuda a se enxergarem.
+- Não é preciso convencer ninguém pela razão, mas fazer as pessoas se sentirem identificadas e
+  validadas: a conexão transforma. A mudança começa por dentro; descrever o sentimento delas as
+  ajuda a se enxergarem.
 - Detalhar o tamanho e o custo do problema impacta mais do que trazer soluções bonitas.
 - Entrar pelo que a pessoa vive: falar sobre o espiritual traz muita carga e distrações;
   falar sobre ansiedade toca diretamente todas as pessoas do mundo atual.
@@ -219,7 +289,8 @@ Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.m
 `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#nao-convencer-fazer-as-pessoas-se-identificarem`,
 `#detalhar-o-custo-do-problema-impacta-mais`, `#falar-de-ansiedade-em-vez-de-espiritualidade`,
 `#individual-coletivo-razao-emocao`;
-`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#entrar-pelo-que-a-pessoa-vive`.
+`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#entrar-pelo-que-a-pessoa-vive`;
+`fontes/conversas/2026-10-08-dois-sentidos-de-convencer.md#dois-sentidos-de-convencer`.
 
 **Nível:** Em aberto.
 
@@ -285,12 +356,68 @@ Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.m
 
 Inclui as perguntas de análise específicas de cada arco.
 
+Candidatos, ditos em momentos diferentes; a opção já conhecida, realização, está em
+[dimensões](metodo/dimensoes.md#arco-narrativo--estrutura).
+
+- **Três atos** — ato 1, reunir; ato 2, mudança de paradigma; ato 3, ação.
+- **O ciclo** — problema → confusão, conflito → curiosidade → descoberta → acostumar, curtir
+  → tédio → tensão, problema. Uma das fases depois da dor é a que faz se sentir vivo.
+- **O ciclo do desenvolvimento** — o despertar da atenção para um detalhe → investigação →
+  criação de hipóteses → experimentação → observação → constatação. O ciclo se encerra quando
+  o despertar chega na consciência, a capacidade de agir com intenção: quando incorporamos o
+  aprendizado nas nossas práticas.
+- **Problema → solução → implementação → operação.**
+- **Partir do prático** — a gente sempre parte do problema, do prático: o prático evidencia, o
+  prático aponta a dor do corpo. Então [...] novos paradigmas precisam vir, e isso começa no
+  entendimento sobre quem somos nós.
+- **Conclusão primeiro** — data storytelling: a conclusão na frente, depois a evidência que a
+  sustenta; numa apresentação, manchete → contexto → visual → check-in →
+  discussão.
+- **O que é x?** — sugestão de artigos ou capítulos: o que é x? Por que x não é tudo? Qual a
+  importância de x? Para x em arte, ciência, religião, filosofia.
+- **O padrão e o novo** — a previsibilidade é necessária, mas a expansão vem com a surpresa, a
+  descoberta ou o mistério. O padrão é a base, a cama; o novo é a flecha.
+- **Pico e fim** — a percepção de se gostamos ou não de algo está relacionada ao pico e ao
+  fim… (???) (13/02/2020). Três dias antes, a estudar: a teoria sobre a opinião (tiramos pelo
+  final e pela média) e com quanto tempo de música as pessoas tiram a opinião se estão gostando
+  ou não.
+- **Três blocos** — o roteiro de uma apresentação musical: antecipar as expectativas da
+  audiência; bloco 1, chamar a atenção racional, liberar energia, estimular os sentidos; bloco
+  2, relaxar, sentir as emoções; bloco 3, intenção, liberar energia.
+
+Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#tres-atos-reunir-mudar-paradigma-agir`,
+`#o-ciclo-problema-conflito-curiosidade-descoberta-tedio`,
+`#o-ciclo-do-desenvolvimento-termina-na-pratica`, `#problema-solucao-implementacao-operacao`,
+`#o-que-e-x-por-que-x-nao-e-tudo`, `#o-padrao-e-a-cama-o-novo-e-a-flecha`,
+`#a-opiniao-se-forma-pelo-pico-e-pelo-fim`;
+`fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md#parte-do-pratico`;
+`fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (Act 2; Pillar 6);
+`fontes/documentos/2026-09-29-apresentacao.raw.md`.
+
 **Nível:** Em aberto.
 
 ## Quadros recorrentes
 
 - [Quero me conectar](quadros/quero-me-conectar.md) — série de posts curtos no LinkedIn para
   esquentar a rede, um sonho por post.
+
+Perguntas já anotadas — matéria-prima, a elaborar depois dos objetivos; nenhuma é gancho
+escolhido. De uma nota antiga de engajamento:
+
+- Você reconheceria Buda nesse festival?
+- Você está preparado para a revolução?
+- Você também tem a impressão de que todos estão querendo mudar o mundo?
+- E se todas as pessoas que possuem paixão se conectassem?
+
+Do roteiro de uma apresentação musical:
+
+- Você sabe o que é arte? Você sabe o que é razão? Você consegue só sentir?
+- Por que tem tanto problema no mundo? Como viver com tanta desigualdade?
+- Qual o sentido da vida? Quem sou eu?
+
+Fontes: `fontes/documentos/2026-09-29-engajamento.raw.md`;
+`fontes/documentos/2026-09-29-apresentacao.raw.md`;
+`fontes/conversas/2026-10-08-ganchos-e-servicos.md#ganchos-depois-da-clareza`.
 
 **Nível:** Em aberto.
 

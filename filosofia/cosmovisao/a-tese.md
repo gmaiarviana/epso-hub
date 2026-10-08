@@ -15,6 +15,12 @@ isso reordena os hábitos por consequência: a regeneração não é o destino q
 decorre de me reconhecer diferente. A resposta que a cosmovisão dá à pergunta vive em
 [quem sou eu](quem-sou-eu.md).
 
+Precisamos evoluir o entendimento de quem somos nós: revisitar as perguntas básicas — quem sou
+eu, para onde vou, por que estou aqui, o que há depois da morte — e dar um passo de clareza,
+de maturidade, de evolução. É nessa clareza que quero ajudar. Não sou detentor de todas as
+respostas, mas sou detentor de muitas perguntas; ao refletir sobre elas, desenvolvi narrativas
+que fazem muito sentido para mim e que podem fazer para os outros.
+
 Escolhido sobre a outra abertura candidata ("reunir o que cada tradição captou"): *a questão
 de quem sou eu é muito mais forte do que reunir as tradições.*
 
@@ -25,14 +31,19 @@ vamos compor.
 
 O EPSO tem um conjunto de teses. Uma principal seria que a crítica é sobre o nosso conceito de
 civilização — e que isso é silencioso. Outra: precisamos de um novo paradigma de civilização,
-que envolve como vemos a nós mesmos e o mundo. Outra: precisamos equilibrar o material e o não
-material ([a mudança de paradigma sobre a realidade](#o-que-decorre-do-centro)); então uma forma
-de uma ideia fazer sentido é funcionando na prática
-([a balança](../../README.md#a-balança-pensamento-e-prática)).
+que envolve como vemos a nós mesmos e o mundo — mudar os paradigmas para conseguir colaborar;
+o argumento vive em [o novo paradigma](novo-paradigma.md). Outra: precisamos equilibrar o
+material e o não material ([a mudança de paradigma sobre a realidade](#o-que-decorre-do-centro));
+então uma forma de uma ideia fazer sentido é funcionando na prática
+([a balança](../../README.md#a-balança-pensamento-e-prática)). É sempre o equilíbrio entre a
+matéria e as ideias, entre o que é prático e o que é abstrato: é no meio desse paradoxo que
+habita meu entendimento sobre a realidade.
 
 Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.md`,
 `fontes/transcricoes/2026-07-07-camada-filosofica-e-a-jornada-academica.md#resposta-o-centro-e-quem-sou-eu`,
 `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
+`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#quem-somos-nos-e-a-tese`;
+`fontes/transcricoes/2026-06-26-equilibrio-materia-ideias-e-a-tese-de-vida.md#equilibrio-materia-e-ideias`;
 `fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#mais-de-uma-tese`;
 `fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#um-conjunto-de-teses`,
 `#centro-ou-lado-a-lado`.
@@ -46,7 +57,8 @@ Fonte: `fontes/transcricoes/2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu.
   tecnologia é o que torna esse reunir possível agora; separar a troca de ideias (global) do
   gasto de matéria (local), e impulsionar o novo paradigma para que seja benéfico, não
   destrutivo. A história dos saltos — fala, escrita, matemática, tecnologia da informação —
-  vive em [linguagem](../hipoteses/linguagem.md).
+  vive em [linguagem](../hipoteses/linguagem.md); o salto de agora e o caminho de global
+  destrutivo a global regenerativo, em [o novo paradigma](novo-paradigma.md#o-salto-de-agora).
 - **A mudança de paradigma sobre a realidade** — sair de um entendimento predominantemente
   material para um equilíbrio não dual (matéria e ideia, físico e abstrato).
 - **A aplicação regenerativa** — mudar hábitos individuais e coletivos decorre de mudar o
@@ -60,9 +72,12 @@ Fonte: `fontes/transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md`,
 ## O que parte das teses
 
 - **A tese de doutorado** — outra peça: a junção destas teses, em termos acadêmicos. Ainda não
-  definida; vive em [[foco]] (`estudo/academia/foco.md`).
+  definida; o que quero lançar e estudar ali são essas perguntas básicas e as narrativas que
+  desenvolvi sobre elas ([o centro](#o-centro-a-pergunta-quem-sou-eu)). Vive em [[foco]]
+  (`estudo/academia/foco.md`).
 - **O manifesto** — as crenças organizadas numa narrativa para quem vai colaborar; deriva do
   núcleo e vive na instituição.
 
 Fonte: `fontes/conversas/2026-09-27-as-duas-teses-e-a-migracao.md#duas-teses`;
-`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#crença-e-tese`, `#o-manifesto`, `#o-doutorado-como-junção`.
+`fontes/conversas/2026-09-29-as-teses-o-manifesto-e-o-doutorado.md#crença-e-tese`, `#o-manifesto`, `#o-doutorado-como-junção`;
+`fontes/transcricoes/2026-06-26-mestrado-doutorado-e-contribuicao-a-sociedade.md#quem-somos-nos-e-a-tese`.

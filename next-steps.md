@@ -16,9 +16,6 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 
 ## 4. Encaixar
 
-Notas de encaixe que a cobertura não guarda; as seções seguem pendentes na
-[cobertura](fontes/cobertura.md).
-
 - `filosofia/cosmovisao/quem-sou-eu.md` é sobre como nos identificamos e nos enxergamos; mudança
   de paradigma mora em `novo-paradigma.md`
   (`fontes/conversas/2026-10-04-a-tese-e-o-novo-paradigma.md#quem-sou-eu-e-sobre-como-nos-identificamos`

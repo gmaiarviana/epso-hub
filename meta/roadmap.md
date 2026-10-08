@@ -23,7 +23,9 @@ Nesta ordem:
 2. **Foco** — um ou mais objetivos declarados pelo incorporador, cada um numa frase seguida da
    lista, em ordem, do que o destrava. Sobe para cá o que vier de qualquer outro tier e sai do
    tier de origem; de uma fonte que sobe só em parte, o resto fica onde estava. O agente propõe
-   a ordem; o incorporador decide. Alcançado o foco, o que sobrou volta ao tier de origem.
+   a ordem; o incorporador decide. Ao abrir ou retomar um foco, o agente varre a
+   [cobertura](../fontes/cobertura.md) atrás do que o alimenta e ainda não foi encaixado, e
+   propõe o que sobe. Alcançado o foco, o que sobrou volta ao tier de origem.
    Ao fechar um item, o que ficou de fora de uma fonte continua pendente na cobertura, e a nota
    que valha guardar volta ao Encaixar (ver [Fontes na fila](#fontes-na-fila)); o que fica só
    na fonte, sem ser pendência, é dispensado ou declarado semente nos metadados dela.

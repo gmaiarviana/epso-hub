@@ -101,7 +101,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | citado; na fila | — |
 | [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado; na fila | — |
 | [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado; na fila | — |
-| [2026-10-08-eleicao-no-whatsapp](../fontes/documentos/2026-10-08-eleicao-no-whatsapp.raw.md) | pendente | — |
+| [2026-10-08-eleicao-no-whatsapp](../fontes/documentos/2026-10-08-eleicao-no-whatsapp.md) | não iniciado | 0/21 |
 
 ## Pendências
 
@@ -287,7 +287,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-10-08-eleicao-no-whatsapp
 
-- pendente, sem nota na fila
+- sem nota na fila: `#o-discurso-anti-pt-leva-a-um-futuro-duro`, `#a-corrupcao-nao-e-de-um-partido-so`, `#nao-e-defender-o-pt-e-a-escolha-irreversivel`, `#o-voto-parlamentar-segue-o-partido`, `#crencas-e-narrativas-guiam-o-que-fazemos`, `#dominar-uma-sociedade-comeca-pelas-crencas`, `#o-caos-primeiro-e-mental`, `#sistemas-politicos-que-nos-afastam-da-natureza`, `#prosperidade-individual-ou-qualidade-de-vida-coletiva`, `#a-bolha-que-diz-que-o-pt-nao-e-de-esquerda`, `#os-pobres-de-hoje-vivem-melhor-que-os-de-antes`, `#fomos-os-subjugados`, `#a-critica-ao-assistencialismo-pode-ser-propaganda`, `#telas-feitas-para-viciar-e-passar-sonhos`, `#pais-soberano-nao-entrega-setores-estrategicos`, `#opiniao-nao-e-analise-de-sociedade`, `#bolsa-familia-e-dignidade`, `#ninguem-quer-trabalhar-nas-condicoes-oferecidas`, `#a-classe-media-com-raiva-do-pobre-que-escolhe`, `#escolhas-erradas-de-poucos-nao-justificam-penalizar-muitos`, `#incentivo-ao-pequeno-e-medio-empreendedor`
 
 ## Sementes
 

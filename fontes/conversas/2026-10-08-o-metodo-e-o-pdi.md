@@ -19,3 +19,10 @@ feito para exemplificar o método.
 
 O nível do desenvolvimento das etapas não se fecha agora: precisamos elaborar. O que elaborar
 fica para depois.
+
+## O que vale registrar
+
+O ponto de registrar a conversa é que, se for uma ideia boa e forte, pode servir de insumo para
+outras seções do acervo. Então não quero necessariamente registrar tudo, mas aquilo que tenha
+relevância, mostre uma decisão ou direcionamento que complemente outros registros — e que
+esclareça uma futura revisão.

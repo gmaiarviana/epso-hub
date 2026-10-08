@@ -92,7 +92,13 @@ entrega o que muda no "Retorno ao consolidador" da descrição do PR
 
 Se a conversa produziu ideias que são material de acervo (pensamento do
 incorporador que vale preservar como fonte), lembrar de registrá-las em
-`fontes/conversas/`. O processo formal desse registro — como acionar, o que o
+`fontes/conversas/`. Vale registrar o que passa em ao menos um teste: é **insumo**
+(ideia forte que pode alimentar outras seções do acervo); **direciona** (decisão
+ou direcionamento que complementa outros registros); ou **esclarece a revisão**
+(explica a uma revisão futura por que o acervo está como está). Tamanho não é
+critério: uma frase curta que muda como outro encaixe deve ser feito passa. Não
+se registra tudo: fica de fora o que não serve depois. Fonte:
+`fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md#o-que-vale-registrar`. O processo formal desse registro — como acionar, o que o
 assistente pergunta, como nomeia, em que voz sai — ainda está **a formalizar**
 (ver [next-steps.md](next-steps.md)). Até lá, este passo é um lembrete, não um
 fluxo fechado: sinalizar ao incorporador que há ideia a registrar e capturar sob

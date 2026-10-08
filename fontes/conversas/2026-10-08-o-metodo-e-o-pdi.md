@@ -8,7 +8,7 @@ o que é ideia, não o processo de trabalho nem os artefatos gerados.*
 ## O termo homo activus ainda não
 
 Não sei se gosto do termo "homo activus" ainda. Podemos mencionar, mas não levaria como algo
-sólido.
+sólido. Acho melhor não mencionar o termo; a ideia, podemos mencionar.
 
 ## O PDI não é feito para exemplificar o método
 
@@ -17,4 +17,5 @@ feito para exemplificar o método.
 
 ## O desenvolvimento do método precisa ser elaborado
 
-O nível do desenvolvimento das etapas não se fecha agora: precisamos elaborar.
+O nível do desenvolvimento das etapas não se fecha agora: precisamos elaborar. O que elaborar
+fica para depois.

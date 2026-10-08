@@ -205,8 +205,9 @@ repertório, a sua visão de mundo, e um complementa o outro.
 
 Como a mensagem chega:
 
-- Não é preciso convencer ninguém, mas fazer as pessoas se sentirem identificadas e validadas.
-  A mudança começa por dentro; descrever o sentimento delas as ajuda a se enxergarem.
+- Não é preciso convencer ninguém pela razão, mas fazer as pessoas se sentirem identificadas e
+  validadas: a conexão transforma. A mudança começa por dentro; descrever o sentimento delas as
+  ajuda a se enxergarem.
 - Detalhar o tamanho e o custo do problema impacta mais do que trazer soluções bonitas.
 - Entrar pelo que a pessoa vive: falar sobre o espiritual traz muita carga e distrações;
   falar sobre ansiedade toca diretamente todas as pessoas do mundo atual.
@@ -219,7 +220,8 @@ Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.m
 `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#nao-convencer-fazer-as-pessoas-se-identificarem`,
 `#detalhar-o-custo-do-problema-impacta-mais`, `#falar-de-ansiedade-em-vez-de-espiritualidade`,
 `#individual-coletivo-razao-emocao`;
-`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#entrar-pelo-que-a-pessoa-vive`.
+`fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#entrar-pelo-que-a-pessoa-vive`;
+`fontes/conversas/2026-10-08-dois-sentidos-de-convencer.md#dois-sentidos-de-convencer`.
 
 **Nível:** Em aberto.
 

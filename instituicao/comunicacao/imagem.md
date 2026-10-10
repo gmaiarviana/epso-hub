@@ -13,12 +13,11 @@ simplicidade. Alguém que está tentando, está fazendo algo massa, é acessíve
 tem sonhos bonitos em que eu acredito também. Pragmático, mas com visão panorâmica; consegue
 aprofundar, mas consegue ser humilde e simples.
 
-A imagem é de confiança e identificação, não de quem sabe mais: a liderança que se quer vem
-daí — de sonhos que o outro reconhece como seus e de alguém que está tentando, não de um
-mestre ([de onde falo](#de-onde-falo)).
+A liderança vem de alguém que está fazendo, colabora, mobiliza, engaja, sonha, consegue se
+conectar com a verdade da vida — não de quem sabe mais ([de onde falo](#de-onde-falo)).
 
 Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#alguem-em-quem-posso-confiar`,
-`#pragmatico-com-visao-panoramica`.
+`#pragmatico-com-visao-panoramica`, `#a-lideranca-vem-de-fazer`.
 
 **Nível:** Decidido.
 

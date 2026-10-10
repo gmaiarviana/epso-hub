@@ -138,3 +138,12 @@ algo massa, é acessível. Tem boas ideias e tem sonhos bonitos em que eu acredi
 
 Alguém pragmático, mas que consegue ter visão panorâmica. Consegue aprofundar, mas consegue ser
 humilde e simples.
+
+## A liderança vem de fazer
+
+A liderança vem de alguém que está fazendo, colabora, mobiliza, engaja, sonha, consegue se
+conectar com a verdade da vida.
+
+## Nada maduro para mostrar ainda
+
+Não consigo ver nada ainda maduro para ser mostrado.

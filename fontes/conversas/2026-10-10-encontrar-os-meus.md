@@ -126,3 +126,10 @@ Não quero dedicar energia a anotar quem reage a cada post: uma pessoa já comen
 curtiram mais de um. Não quero focar em ficar medindo o sucesso. Não que medir não seja
 importante, mas não quero tirar o foco, nem ser tecnocrata, tomar decisões puramente em números
 que às vezes dizem muito pouco. Vamos nos poupar.
+
+## Alguém em quem posso confiar
+
+Como quero que um estranho me descreva: é alguém que fala coisas em que eu acredito, numa
+linguagem simples. Vem com uma abordagem diferente. Acho que posso confiar nele: vejo
+legitimidade, autenticidade, transparência, simplicidade. Alguém que está tentando, está fazendo
+algo massa, é acessível. Tem boas ideias e tem sonhos bonitos em que eu acredito também.

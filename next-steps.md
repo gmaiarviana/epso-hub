@@ -8,14 +8,20 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 **A estratégia da linha editorial.** Destrava-se pelos itens de
 [Comunicação](instituicao/next-steps.md#comunicação), nesta ordem:
 
-1. Os temas — em quais me consolidar e em quais entrar, alinhados com o mestrado; a pesquisa
-   da fase é sobre eles. Primeiros candidatos: descentralização, biorregionalismo.
-2. Construir a imagem com intenção — formato, frequência e escopo (política, notícias,
+1. Encaixe por blocos — curadoria com reflexão do que falta encaixar, para os temas aparecerem
+   do acervo: vida, morte e sentido; autoconhecimento e saúde mental; política, Estado e
+   economia; consciência e evolução humana; natureza, regeneração, ecocidades, colaboração e
+   comunidade (onde encostam descentralização e biorregionalismo). Um bloco por sessão; o
+   incorporador escolhe por qual começar. As seções de cada bloco se acham na
+   [cobertura](fontes/cobertura.md); o grupo EPSO no WhatsApp é mais da metade.
+2. Os temas — em quais me consolidar e em quais entrar, alinhados com o mestrado; a pesquisa
+   da fase é sobre eles. Candidatos, sem definição: descentralização, biorregionalismo.
+3. Construir a imagem com intenção — formato, frequência e escopo (política, notícias,
    questões internacionais, conceitos abstratos, vídeo), uma decisão por vez.
-3. Voz — os papéis da pessoa e do EPSO.
-4. Tom de voz — o perfil v1 contra o corpus.
-5. Arco narrativo.
-6. Linha editorial — referências, arcos, quadros e calendário.
+4. Voz — os papéis da pessoa e do EPSO.
+5. Tom de voz — o perfil v1 contra o corpus.
+6. Arco narrativo.
+7. Linha editorial — referências, arcos, quadros e calendário.
 
 ## 4. Encaixar
 

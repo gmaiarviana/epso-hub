@@ -21,6 +21,15 @@ Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#alguem-em-quem-posso-co
 
 **Nível:** Decidido.
 
+Na fase de agora — começar a mobilizar, estruturar algumas coisas —, não é preciso construir
+nada para mostrar: o fazer é compartilhar aprendizados e crenças, fazer pesquisas e mostrar os
+resultados. Isso vale muito a pena: começar a entender quais dados e informações coletar,
+armazenar esses aprendizados e compartilhá-los com outras pessoas.
+
+Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#a-fase-de-agora-e-mobilizar`.
+
+**Nível:** Decidido.
+
 ## O que já foi dito
 
 - Trazer clareza sobre qual imagem se quer construir ajuda a definir os temas, as temáticas que
@@ -99,7 +108,11 @@ associem a um tema. Quando se fala de tal assunto, já vêm à mente os influenc
 personalidades que são referência nele. A definição de trabalho do pilar está em
 [Insumos em outros lugares](#insumos-em-outros-lugares).
 
-Fonte: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#pilar-de-autoridade-e-associacao`.
+Apesar de me ver generalista e sem forma, preciso de uma forma para ser notado: em quais temas
+quero me consolidar, em quais quero entrar.
+
+Fontes: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#pilar-de-autoridade-e-associacao`;
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#uma-forma-para-ser-notado`.
 
 **Nível:** Em aberto.
 

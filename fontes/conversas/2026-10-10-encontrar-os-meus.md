@@ -154,3 +154,21 @@ Devo planejar o que mostrar. Talvez eu descubra algo que deva começar a constru
 Estou trabalhando em horário comercial, 40 horas por semana, e tenho uma filha de dois anos: não tenho tempo disponível para fazer tudo.
 Preciso ser estratégico. Várias das minhas ideias estão engatilhadas, mas preciso planejar bem
 aquilo a que vou dedicar energia.
+
+## Primeiro o projeto maior e as fases
+
+Antes de escolher onde pôr energia, tenho que ter clareza dos objetivos do projeto maior e
+pensar nas fases.
+
+## A fase de agora é mobilizar
+
+Nesta fase, eu não preciso construir nada. Agora estou na fase de começar a mobilizar,
+estruturar algumas coisas. Então é compartilhar alguns aprendizados, algumas crenças, fazer
+algumas pesquisas e mostrar os resultados. Isso vale muito a pena: começar a entender quais
+dados e informações preciso coletar, armazenar esses aprendizados e compartilhar com outras
+pessoas.
+
+## Uma forma para ser notado
+
+Antes vem pensar em quais temas eu quero me consolidar, em quais quero entrar. Apesar de me ver
+generalista e sem forma, preciso de uma forma para ser notado.

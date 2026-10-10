@@ -47,11 +47,12 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    ([objetivos](comunicacao/linha-editorial.md#objetivos)) — e como quero ser visto
    ([imagem](comunicacao/imagem.md#como-quero-ser-visto)). Perguntas que restam:
    - o nome de quem chega (não "sócio") e o do eixo de conexão com quem já tem estrutura;
-   - o que mostrar: a legitimidade da [imagem](comunicacao/imagem.md#como-quero-ser-visto) vem
-     de estar fazendo, e hoje nada parece maduro; talvez algo a construir em público. Com
-     pouco tempo (trabalho de 40 horas semanais, filha de dois anos), escolher antes a que dedicar energia
-     (`fontes/conversas/2026-10-10-encontrar-os-meus.md#nada-maduro-para-mostrar-ainda`,
-     `#pouco-tempo-escolher-onde-por-energia`);
+   - em quais temas me consolidar e em quais entrar — uma forma para ser notado, apesar de
+     generalista ([associação a um tema](comunicacao/imagem.md#associação-a-um-tema)); o que
+     mostrar na fase de agora já está na [imagem](comunicacao/imagem.md#como-quero-ser-visto).
+     Antes, os objetivos do projeto maior e as fases
+     (`fontes/conversas/2026-10-10-encontrar-os-meus.md#primeiro-o-projeto-maior-e-as-fases`,
+     `#nada-maduro-para-mostrar-ainda`, `#pouco-tempo-escolher-onde-por-energia`);
    - como a imagem aparece no perfil, sem título fixo;
    - quais posicionamentos;
    - quais três a nove temáticas, a partir do universo e das listas em

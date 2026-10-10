@@ -111,7 +111,7 @@ personalidades que são referência nele. A definição de trabalho do pilar est
 
 Apesar de me ver generalista e sem forma, preciso de uma forma para ser notado: em quais temas
 quero me consolidar, em quais quero entrar. A pesquisa desta fase é sobre esses temas — os que
-quero elaborar, sobre os quais quero falar e ser referência. Por exemplo, descentralização;
+quero elaborar, sobre os quais quero falar e ser referência. Por exemplo — sem estar definido —, descentralização;
 possivelmente, biorregionalismo: preciso entender mais, e esse processo vai ter pesquisas.
 Entender onde quero chegar, alinhando com o mestrado e o doutorado
 ([candidatos de recorte](../../estudo/academia/foco.md#candidatos-de-recorte-em-aberto)), é

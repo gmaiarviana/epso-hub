@@ -280,6 +280,13 @@ de conteúdo guardam o mínimo em aberto e apontam para cá. Item respondido sai
   valores diferentes, informação diferente, ou a mesma palavra para coisas diferentes?* →
   [sociedade](filosofia/hipoteses/sociedade.md). Fonte:
   `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#justica-x-liberdade-por-que-divergimos`.
+- **Descentralizar sem reduzir o Estado.** Na conversa da eleição você defende que um país
+  soberano não entrega setores estratégicos; ao mesmo tempo, descentralizar é valor do núcleo.
+  Exemplo: energia elétrica — estatal centralizada, cooperativas locais de energia solar, ou
+  as duas coisas? *O que é descentralizar, para você, se não é reduzir o Estado? O que fica
+  central e o que vai para perto das pessoas?* → [sociedade](filosofia/hipoteses/sociedade.md).
+  Fontes: `fontes/documentos/2026-10-08-eleicao-no-whatsapp.md#pais-soberano-nao-entrega-setores-estrategicos`;
+  `fontes/conversas/2026-10-10-encontrar-os-meus.md#descentralizar-e-o-estado-a-elaborar`.
 
 ## Estudo
 

@@ -276,6 +276,14 @@ Outras listas, ditas em momentos diferentes, a cruzar com a de cima:
   religião, política não é politicagem, filosofia não é "filosofagem". O que é política mora em
   [sociedade](../../filosofia/hipoteses/sociedade.md#política-são-acordos).
 
+Os temas existenciais — sentido, saúde mental, consciência — estão sempre presentes: não tem
+como não falar deles, nem que seja implicitamente ou com outras palavras. Descentralização e
+biorregionalismo são candidatos a temas de referência, ainda não definidos
+([associação a um tema](imagem.md#associação-a-um-tema)).
+
+Fontes: `fontes/conversas/2026-10-10-encontrar-os-meus.md#os-existenciais-estao-sempre-presentes`,
+`#os-temas-nao-estao-definidos`.
+
 Crenças e valores, sem a palavra espiritualidade: não vou usar a palavra espiritualidade, mas
 vou falar sobre crenças e valores.
 

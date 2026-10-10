@@ -209,3 +209,18 @@ conflitos.
 
 Ver se precisamos criar novos arquivos, para não ficarem longos. Talvez isso deva ser uma
 checagem do encerramento.
+
+## Os temas não estão definidos
+
+Descentralização e biorregionalismo, como temas em que quero ser referência, não estão 100%
+definidos.
+
+## Os existenciais estão sempre presentes
+
+Sentido, saúde mental, consciência: não tem como não falar deles, nem que seja implicitamente
+ou com outras palavras.
+
+## Descentralizar e o Estado, a elaborar
+
+O que é descentralizar, se não é reduzir o Estado em setores estratégicos: posso elaborar
+depois.

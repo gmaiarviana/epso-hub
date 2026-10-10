@@ -72,7 +72,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-10-08-linkedin-alcance-e-presenca](../fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md) | parcial | 2/3 |
 | [2026-10-08-o-metodo-e-o-pdi](../fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md) | parcial | 3/4 |
 | [2026-10-08-serie-quero-me-conectar](../fontes/conversas/2026-10-08-serie-quero-me-conectar.md) | completo | 8/8 |
-| [2026-10-10-encontrar-os-meus](../fontes/conversas/2026-10-10-encontrar-os-meus.md) | parcial | 22/23 |
+| [2026-10-10-encontrar-os-meus](../fontes/conversas/2026-10-10-encontrar-os-meus.md) | parcial | 22/24 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -249,7 +249,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-10-10-encontrar-os-meus
 
-- sem nota na fila: `#nada-maduro-para-mostrar-ainda`
+- instituicao/next-steps.md: `#nada-maduro-para-mostrar-ainda`, `#pouco-tempo-escolher-onde-por-energia`
 
 ### 2026-09-29-a-realidade-como-ela-e
 

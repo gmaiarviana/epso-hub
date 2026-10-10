@@ -147,3 +147,10 @@ conectar com a verdade da vida.
 ## Nada maduro para mostrar ainda
 
 Não consigo ver nada ainda maduro para ser mostrado.
+
+## Pouco tempo, escolher onde pôr energia
+
+Devo planejar o que mostrar. Talvez eu descubra algo que deva começar a construir em público.
+Estou trabalhando em horário comercial, 40 horas por semana, e tenho uma filha de dois anos: não tenho tempo disponível para fazer tudo.
+Preciso ser estratégico. Várias das minhas ideias estão engatilhadas, mas preciso planejar bem
+aquilo a que vou dedicar energia.

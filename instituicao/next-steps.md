@@ -43,10 +43,16 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    alcance e interação, antes de pensar ciclo e cadência; filósofo fora da cara pública;
    pilar de autoridade passa a se chamar posicionamento; temática é o pano de fundo; tipos de
    conteúdo (autoridade, desejo, curiosidade, conexão) ressignificados para os objetivos.
-   O objetivo está decidido: encontrar os meus, com dois eixos de sustentação
-   ([objetivos](comunicacao/linha-editorial.md#objetivos)). Perguntas que restam:
+   Decididos o objetivo — encontrar os meus, com dois eixos de sustentação
+   ([objetivos](comunicacao/linha-editorial.md#objetivos)) — e como quero ser visto
+   ([imagem](comunicacao/imagem.md#como-quero-ser-visto)). Perguntas que restam:
    - o nome de quem chega (não "sócio") e o do eixo de conexão com quem já tem estrutura;
-   - a imagem — a liderança que pensa e faz, sem título fixo: como ela aparece no perfil;
+   - o que mostrar: a legitimidade da [imagem](comunicacao/imagem.md#como-quero-ser-visto) vem
+     de estar fazendo, e hoje nada parece maduro; talvez algo a construir em público. Com
+     pouco tempo (trabalho de 40 horas semanais, filha de dois anos), escolher antes a que dedicar energia
+     (`fontes/conversas/2026-10-10-encontrar-os-meus.md#nada-maduro-para-mostrar-ainda`,
+     `#pouco-tempo-escolher-onde-por-energia`);
+   - como a imagem aparece no perfil, sem título fixo;
    - quais posicionamentos;
    - quais três a nove temáticas, a partir do universo e das listas em
      [Temas](comunicacao/linha-editorial.md#temas);

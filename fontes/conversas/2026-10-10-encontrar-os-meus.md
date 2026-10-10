@@ -204,3 +204,8 @@ importante. Por isso precisamos andar devagar.
 
 No futuro, quero ser só o conselheiro do projeto: só fornecer a visão, a resolução de
 conflitos.
+
+## Tamanho dos arquivos
+
+Ver se precisamos criar novos arquivos, para não ficarem longos. Talvez isso deva ser uma
+checagem do encerramento.

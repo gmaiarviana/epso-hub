@@ -26,7 +26,8 @@ nada para mostrar: o fazer é compartilhar aprendizados e crenças, fazer pesqui
 resultados. Isso vale muito a pena: começar a entender quais dados e informações coletar,
 armazenar esses aprendizados e compartilhá-los com outras pessoas.
 
-Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#a-fase-de-agora-e-mobilizar`.
+Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#a-fase-de-agora-e-mobilizar`,
+`#nada-maduro-para-mostrar-ainda`.
 
 **Nível:** Decidido.
 
@@ -37,7 +38,7 @@ Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#a-fase-de-agora-e-mobil
 - Ter intenção sobre qual imagem se quer passar define a linguagem que se vai usar.
 - Para isso, é preciso um escopo definido, totalmente alinhado com o que se quer transmitir e
   com o que se quer alcançar.
-- Dos [objetivos](linha-editorial.md#objetivos) já dá para inferir o público-alvo e alguns
+- Dos [objetivos](objetivos.md) já dá para inferir o público-alvo e alguns
   temas.
 
 Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,

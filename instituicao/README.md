@@ -8,6 +8,7 @@ autogestão da comunidade. A fase de agora é começar a mobilizar e estruturar 
 sem precisar construir: compartilhar aprendizados e crenças, pesquisar e mostrar os resultados
 ([imagem](comunicacao/imagem.md#como-quero-ser-visto)).
 
-Fontes: `fontes/conversas/2026-10-10-encontrar-os-meus.md#marcos-em-varios-eixos`, `#a-fase-de-agora-e-mobilizar`.
+Fontes: `fontes/conversas/2026-10-10-encontrar-os-meus.md#marcos-em-varios-eixos`, `#a-fase-de-agora-e-mobilizar`,
+`#primeiro-o-projeto-maior-e-as-fases`.
 
 **Nível:** Estimado (média) — os marcos; a ordem entre eles, Em aberto.

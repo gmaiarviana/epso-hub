@@ -8,11 +8,14 @@ A fila entre blocos. Regras (tiers, o que mora onde, como se atualiza) em
 **A estratégia da linha editorial.** Destrava-se pelos itens de
 [Comunicação](instituicao/next-steps.md#comunicação), nesta ordem:
 
-1. Objetivos e imagem — a sessão de decisão.
-2. Voz — os papéis da pessoa e do EPSO.
-3. Tom de voz — o perfil v1 contra o corpus.
-4. Arco narrativo.
-5. Linha editorial — referências, arcos, quadros e calendário.
+1. Os temas — em quais me consolidar e em quais entrar, alinhados com o mestrado; a pesquisa
+   da fase é sobre eles. Primeiros candidatos: descentralização, biorregionalismo.
+2. Construir a imagem com intenção — formato, frequência e escopo (política, notícias,
+   questões internacionais, conceitos abstratos, vídeo), uma decisão por vez.
+3. Voz — os papéis da pessoa e do EPSO.
+4. Tom de voz — o perfil v1 contra o corpus.
+5. Arco narrativo.
+6. Linha editorial — referências, arcos, quadros e calendário.
 
 ## 4. Encaixar
 

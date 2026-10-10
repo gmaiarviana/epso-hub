@@ -10,13 +10,15 @@ Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#contexto-e-comun
 Alguém que fala coisas em que eu acredito, numa linguagem simples. Vem com uma abordagem
 diferente. Acho que posso confiar nele: vejo legitimidade, autenticidade, transparência,
 simplicidade. Alguém que está tentando, está fazendo algo massa, é acessível. Tem boas ideias e
-tem sonhos bonitos em que eu acredito também.
+tem sonhos bonitos em que eu acredito também. Pragmático, mas com visão panorâmica; consegue
+aprofundar, mas consegue ser humilde e simples.
 
 A imagem é de confiança e identificação, não de quem sabe mais: a liderança que se quer vem
 daí — de sonhos que o outro reconhece como seus e de alguém que está tentando, não de um
 mestre ([de onde falo](#de-onde-falo)).
 
-Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#alguem-em-quem-posso-confiar`.
+Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#alguem-em-quem-posso-confiar`,
+`#pragmatico-com-visao-panoramica`.
 
 **Nível:** Decidido.
 

@@ -133,3 +133,8 @@ Como quero que um estranho me descreva: é alguém que fala coisas em que eu acr
 linguagem simples. Vem com uma abordagem diferente. Acho que posso confiar nele: vejo
 legitimidade, autenticidade, transparência, simplicidade. Alguém que está tentando, está fazendo
 algo massa, é acessível. Tem boas ideias e tem sonhos bonitos em que eu acredito também.
+
+## Pragmático com visão panorâmica
+
+Alguém pragmático, mas que consegue ter visão panorâmica. Consegue aprofundar, mas consegue ser
+humilde e simples.

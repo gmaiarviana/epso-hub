@@ -18,6 +18,12 @@ falar a minha verdade e me conectar com quem se conecta com ela; e me preparar p
 aproveitar os potenciais e as habilidades de quem chega, ser útil. Não quero vender nada nem
 me beneficiar sozinho.
 
+Os meus estão em fases diferentes: não precisa morar no sítio para começar. Uns pararam de comer
+carne, outros meditam, outros têm consciência política. Não posso esperar um grau de evolução
+profundo de todo mundo; todos podem contribuir. É meu papel, por meio do projeto, saber engajar,
+mobilizar, unir e aproveitar as habilidades de pessoas com momentos, disponibilidades,
+histórias e palavras diferentes.
+
 Dois eixos sustentam o objetivo:
 
 - **Conexão com quem já tem estrutura** — instituições e pessoas que já estão trabalhando, com
@@ -37,7 +43,8 @@ Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#os-meus-vem-primeiro`,
 `#da-comunidade-surgem-instituicoes`, `#socio-e-de-outro-paradigma`,
 `#conexao-com-quem-ja-tem-estrutura`, `#viabilidade-do-projeto-nao-so-a-minha`,
 `#crescer-para-me-dedicar`, `#porta-aberta-sao-inumeras-possibilidades`,
-`#uma-comunidade-com-um-ideal`, `#falar-a-minha-verdade-e-ser-util`.
+`#uma-comunidade-com-um-ideal`, `#falar-a-minha-verdade-e-ser-util`,
+`#os-meus-estao-em-fases-diferentes`.
 
 **Nível:** Decidido — o objetivo e os dois eixos; Em aberto — o nome de quem chega e o do eixo
 de conexão.
@@ -591,4 +598,17 @@ Fontes: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#esquentar-a-
 
 Inclui os segmentos prioritários de cada ciclo.
 
-**Nível:** Em aberto.
+O sucesso muda com a fase. Ao esquentar, sem convite, é ressoar e sustentar a atenção: se uma
+pessoa reage, de alguma maneira já ressoou. Ao convidar — depois que existir o
+[canal próprio](#chamados) para onde convidar —, é fazer convites com chamada para ação que as
+pessoas aceitam voluntariamente, e ter uma retenção altíssima, por ser claro no convite e
+flexível no engajamento. Respeitar o tempo de cada um: tem gente preparada, tem gente que não
+está, e não se força.
+
+Medir sem tirar o foco: a percepção basta — quem comentou, quem curtiu mais de um post —, sem
+dedicar energia a planilha nem decidir puramente em números que às vezes dizem muito pouco.
+
+Fontes: `fontes/conversas/2026-10-10-encontrar-os-meus.md#reagir-ja-e-ressoar`,
+`#convite-aceito-e-retencao-alta`, `#medir-sem-tirar-o-foco`.
+
+**Nível:** Decidido — as duas fases e o medir sem tirar o foco; Em aberto — ciclos e segmentos.

@@ -100,3 +100,29 @@ e nesse momento já vamos ter projetos e tarefas claras.
 
 Não me importo de a comunidade começar com quase ninguém dentro: não somos um grupo
 tradicional.
+
+## Os meus estão em fases diferentes
+
+Existem pessoas dos meus em diferentes fases e momentos. Não precisa morar no sítio para
+começar: cada um tem sua trajetória. Uns pararam de comer carne, outros meditam, outros têm
+consciência política. Não posso esperar um grau de evolução profundo de todo mundo; todos podem
+contribuir. É meu papel, por meio do projeto, saber engajar, mobilizar, unir e aproveitar as
+habilidades de pessoas com momentos, disponibilidades, histórias e palavras diferentes.
+
+## Reagir já é ressoar
+
+Se uma pessoa reage, já mostra que de alguma maneira ressoou. Preciso respeitar o tempo de cada
+um, a preparação: tem gente que está preparada, tem gente que não está. Não vou forçar isso.
+
+## Convite aceito e retenção alta
+
+O sucesso vai ser: faço convites, com chamada para ação, e as pessoas voluntariamente aceitam,
+apertam e seguem. Quero ter uma taxa de retenção altíssima, porque vou ser claro no convite e
+flexível no engajamento. Talvez um dos sucessos seja conseguir sustentar a atenção.
+
+## Medir sem tirar o foco
+
+Não quero dedicar energia a anotar quem reage a cada post: uma pessoa já comentou, algumas
+curtiram mais de um. Não quero focar em ficar medindo o sucesso. Não que medir não seja
+importante, mas não quero tirar o foco, nem ser tecnocrata, tomar decisões puramente em números
+que às vezes dizem muito pouco. Vamos nos poupar.

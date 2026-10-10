@@ -20,8 +20,6 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
     `#comunidade-o-melhor-dos-dois-mundos`), "a criação é o ápice do prazer"
     (`fontes/documentos/2026-09-27-proposito-epso.raw.md`), "achar aqueles que não
     precisamos convencer" (`fontes/conversas/2026-10-03-riqueza-e-pertencimento.md#reconhecer-nos-da-mesma-especie`).
-  - **O que observar** — a série é o primeiro teste na rede: confirmar se ela faz o papel do
-    desafio de uma semana do item 4 (alcance e interação) e o que anotar ao fim dela.
 
 1. **Arco narrativo** — definir os arcos adequados a pautas de pensamento ([dimensoes.md](comunicacao/metodo/dimensoes.md#arco-narrativo--estrutura)).
 2. **Voz** — definir os papéis da pessoa e do EPSO na comunicação. Ordem prevista: lançamento pessoal primeiro, relançamento do EPSO depois. O que já foi dito está em [imagem.md](comunicacao/imagem.md).
@@ -48,7 +46,6 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    O objetivo está decidido: encontrar os meus, com dois eixos de sustentação
    ([objetivos](comunicacao/linha-editorial.md#objetivos)). Perguntas que restam:
    - o nome de quem chega (não "sócio") e o do eixo de conexão com quem já tem estrutura;
-   - o que observar no desafio de uma semana, além de alcance e interação;
    - a imagem — a liderança que pensa e faz, sem título fixo: como ela aparece no perfil;
    - quais posicionamentos;
    - quais três a nove temáticas, a partir do universo e das listas em
@@ -63,8 +60,8 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
 7. **Estratégia do LinkedIn** — depois do começo em curso (esquentar a conta, em
    [calendário](comunicacao/linha-editorial.md#calendário)): as séries seguintes e outras
    maneiras de esquentar. Abre com briefing a partir de [linkedin.md](comunicacao/linkedin.md)
-   e da linha editorial. O esquentar faz as vezes do desafio de uma semana do item 4: o que
-   observar nele entra aqui. Fonte: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#depois-novas-series`.
+   e da linha editorial. O esquentar faz as vezes do desafio de uma semana do item 4; o que
+   observar já está em [ciclos e metas](comunicacao/linha-editorial.md#ciclos-e-metas). Fonte: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#depois-novas-series`.
 8. **Comunidade** — o canal de comunicação próprio, com dados nossos, é o curtíssimo prazo:
    escolher a ferramenta (descentralizada, sem lock-in). Depois, o formulário de apresentação e
    a rede de colaboração ([para onde direcionar](comunicacao/linha-editorial.md#chamados)). Do

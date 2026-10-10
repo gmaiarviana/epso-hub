@@ -53,6 +53,12 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
      Antes, os objetivos do projeto maior e as fases
      (`fontes/conversas/2026-10-10-encontrar-os-meus.md#primeiro-o-projeto-maior-e-as-fases`,
      `#nada-maduro-para-mostrar-ainda`, `#pouco-tempo-escolher-onde-por-energia`);
+   - construir a imagem com intenção, com muita calma: quais temas, formatos, frequência e
+     tom. E o escopo: falar de política abertamente? De notícias cotidianas? Me posicionar em
+     questões internacionais? Falar de conceitos abstratos? Gravar vídeo e mostrar a cara?
+     (`fontes/conversas/2026-10-10-encontrar-os-meus.md#construir-a-imagem-com-intencao`). O
+     formato (carrossel, vídeo, texto longo) sai dos adiados e entra aqui; o canal inicial está
+     em [linha-editorial.md](comunicacao/linha-editorial.md#canal);
    - como a imagem aparece no perfil, sem título fixo;
    - quais posicionamentos;
    - quais três a nove temáticas, a partir do universo e das listas em
@@ -78,7 +84,6 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
 
 ### Adiados
 
-- Formato (carrossel, vídeo, texto longo). O canal inicial está em [linha-editorial.md](comunicacao/linha-editorial.md#canal).
 - Rotina e custos.
 - Pasta de saída das peças produzidas.
 

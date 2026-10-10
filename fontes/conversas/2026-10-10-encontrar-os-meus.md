@@ -172,3 +172,10 @@ pessoas.
 
 Antes vem pensar em quais temas eu quero me consolidar, em quais quero entrar. Apesar de me ver
 generalista e sem forma, preciso de uma forma para ser notado.
+
+## Construir a imagem com intenção
+
+Preciso definir, com muita calma, quais aspectos precisam ser feitos intencionalmente para que a
+imagem seja construída: quais temas, quais formatos, qual frequência, qual tom. Devo falar de
+política abertamente? Devo falar sobre notícias cotidianas? Devo me posicionar em questões
+internacionais? Devo falar sobre conceitos abstratos? Devo gravar vídeo e mostrar a cara?

@@ -88,10 +88,11 @@ Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career
 
 ## Longo prazo
 
-Construir a reputação que dá acesso a decisões em escala. Os caminhos — empreender, pesquisa
-acadêmica, liderança executiva, produção de conteúdo, liderança comunitária — estão em
-construção ao mesmo tempo, em estágios diferentes: acumular resultados, rede e conhecimento para
-que qualquer um deles se torne viável quando chegar o momento (na academia, as
+Construir a reputação que dá acesso a decisões em escala: me tornar uma referência para um dia
+liderar a sociedade para um novo paradigma de civilização, regenerativa e sustentável. Os
+caminhos — empreender, pesquisa acadêmica, liderança executiva, produção de conteúdo,
+liderança comunitária — estão em construção ao mesmo tempo, em estágios diferentes: acumular
+resultados, rede e conhecimento para que qualquer um deles se torne viável quando chegar o momento (na academia, as
 [várias sementes](../estudo/academia/jornada.md#várias-sementes-uma-jornada)).
 
 A trajetória passa também por construir novas instituições e novos modelos — de gestão, de
@@ -113,7 +114,8 @@ Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career
 `fontes/transcricoes/2026-09-22-regeneracao-lastro-e-eco-cidades.md#novas-instituicoes-e-rotina-autonoma`;
 `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, Motivo 2);
 `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#objetivo-de-carreira`;
-`fontes/conversas/2026-10-01-o-livro-e-um-formato.md#a-trajetória-rende-vários-livros`.
+`fontes/conversas/2026-10-01-o-livro-e-um-formato.md#a-trajetória-rende-vários-livros`;
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#referencia-para-liderar-um-novo-paradigma`.
 
 ## Como contribuo
 

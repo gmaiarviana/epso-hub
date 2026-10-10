@@ -4,10 +4,47 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 
 ## Objetivos
 
-Matéria bruta para a sessão de objetivos: o que já foi dito, organizado por eixo, sem
-refinamento nem métrica. Os eixos vão determinar os objetivos.
+**Encontrar os meus** — os que estão na mesma frequência de pensamento, que respiram no mesmo
+ritmo, sentem as mesmas coisas e percebem as sutilezas. São diversos em corpo, história e
+habilidade; eu preciso deles, e nós precisamos estar unidos para construir junto, dividindo o
+trabalho e os sonhos. Que venham pelo conteúdo — pela repercussão ou pela leitura —, não por
+convite direto a quem já conheço. Dessa comunidade surgirão instituições, empresas, partidos
+políticos, religiões, vilas, cidades. Ainda não há nome para quem chega: sócio é de outro
+paradigma; parceiro, talvez.
 
-- **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho, na
+Quero fazer parte de uma comunidade: pessoas que colaboram com um ideal e conseguem conversar —
+a minha não está no futebol, na igreja ou em hobbies que têm fim em si mesmos. O caminho é
+falar a minha verdade e me conectar com quem se conecta com ela; e me preparar para engajar,
+aproveitar os potenciais e as habilidades de quem chega, ser útil. Não quero vender nada nem
+me beneficiar sozinho.
+
+Dois eixos sustentam o objetivo:
+
+- **Conexão com quem já tem estrutura** — instituições e pessoas que já estão trabalhando, com
+  mais estrutura para colaborar e escalar: investidores, parceiros. Muda com o tempo, mas não
+  acaba.
+- **Viabilidade** — a minha e a do projeto. A minha: posição, visibilidade e renda para me
+  dedicar; com uma rotina dedicada ao que se aproxima do EPSO, o recrutador deixa de ser
+  preciso. A do projeto: os produtos buscam remuneração, para pagar os próprios custos,
+  expandir e ter pessoas em tempo integral. A ambição é grande: crescer a tamanhos
+  exorbitantes.
+
+As portas que isso abre são inúmeras: um projeto nosso, um contrato, uma oferta, uma projeção,
+um status diferente.
+
+Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#os-meus-vem-primeiro`,
+`#os-meus-estao-na-mesma-frequencia`, `#que-venham-pelo-conteudo`,
+`#da-comunidade-surgem-instituicoes`, `#socio-e-de-outro-paradigma`,
+`#conexao-com-quem-ja-tem-estrutura`, `#viabilidade-do-projeto-nao-so-a-minha`,
+`#crescer-para-me-dedicar`, `#porta-aberta-sao-inumeras-possibilidades`,
+`#uma-comunidade-com-um-ideal`, `#falar-a-minha-verdade-e-ser-util`.
+
+**Nível:** Decidido — o objetivo e os dois eixos; Em aberto — o nome de quem chega e o do eixo
+de conexão.
+
+O que já foi dito sobre cada eixo:
+
+- **Carreira e conexão** — ser encontrado e chamado para novas oportunidades de trabalho, na
   própria empresa mas principalmente em outras: que o mercado, inclusive a própria empresa,
   veja o incorporador além do que vê hoje. Foco importante. Produzir tanto conteúdo, me tornar
   uma referência, a ponto de isso abrir portas: ser convidado a participar de projetos, ser
@@ -111,11 +148,19 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#convite-simplificar
 **Nível:** Em aberto.
 
 Para onde direcionar quem se aproxima: idealmente uma página onde a pessoa possa se inscrever,
-se voluntariar, doar e se envolver.
+se voluntariar, doar e se envolver. No curtíssimo prazo, um canal de comunicação próprio, em
+que os dados sejam nossos — descentralizado, sem lock-in, sem vigilância nem monetização sem
+consentimento. Ali, os primeiros parceiros sonham e desenham juntos; depois, um formulário em
+que cada um se apresenta (o que espera, os sonhos, a história, como quer contribuir — o que
+precisa e o que tem a oferecer); com o plano operacional organizado, a chamada de voluntários,
+já com projetos e tarefas claras. Começar com quase ninguém dentro não é problema: não somos
+um grupo tradicional.
 
-Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-rede-de-pessoas`.
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-rede-de-pessoas`;
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#um-canal-com-dados-nossos`,
+`#sonhar-junto-depois-se-apresentar-depois-convocar`, `#nao-somos-um-grupo-tradicional`.
 
-**Nível:** Em aberto.
+**Nível:** Estimado (média) — o canal próprio e a sequência; Em aberto — a ferramenta.
 
 ## Tom base
 

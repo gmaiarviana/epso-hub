@@ -20,12 +20,6 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
     `#comunidade-o-melhor-dos-dois-mundos`), "a criação é o ápice do prazer"
     (`fontes/documentos/2026-09-27-proposito-epso.raw.md`), "achar aqueles que não
     precisamos convencer" (`fontes/conversas/2026-10-03-riqueza-e-pertencimento.md#reconhecer-nos-da-mesma-especie`).
-  - **O algoritmo do LinkedIn em 2026** — pesquisa em outro chat, separando o que é
-    duradouro do que vale em 2026: peso de curtida, comentário, repost e envio; se o tempo de
-    leitura e o clique em "ver mais" contam (post curto sem "ver mais" perde?); primeira hora
-    e resposta a comentários; frequência irregular; hashtags, marcações e links externos;
-    como uma conta pouco ativa esquenta; horário para o público brasileiro; limite antes do
-    "ver mais". Fontes com data e nível de confiança. Resultado → [canal](comunicacao/linha-editorial.md#canal).
   - **O que observar** — a série é o primeiro teste na rede: confirmar se ela faz o papel do
     desafio de uma semana do item 4 (alcance e interação) e o que anotar ao fim dela.
 
@@ -51,9 +45,9 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    alcance e interação, antes de pensar ciclo e cadência; filósofo fora da cara pública;
    pilar de autoridade passa a se chamar posicionamento; temática é o pano de fundo; tipos de
    conteúdo (autoridade, desejo, curiosidade, conexão) ressignificados para os objetivos.
-   Perguntas que restam:
-   - "abrir portas" como objetivo — confirmar (em 01/10 a expressão já veio na fala do
-     incorporador: [objetivos](comunicacao/linha-editorial.md#objetivos));
+   O objetivo está decidido: encontrar os meus, com dois eixos de sustentação
+   ([objetivos](comunicacao/linha-editorial.md#objetivos)). Perguntas que restam:
+   - o nome de quem chega (não "sócio") e o do eixo de conexão com quem já tem estrutura;
    - o que observar no desafio de uma semana, além de alcance e interação;
    - a imagem — a liderança que pensa e faz, sem título fixo: como ela aparece no perfil;
    - quais posicionamentos;
@@ -71,13 +65,16 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    maneiras de esquentar. Abre com briefing a partir de [linkedin.md](comunicacao/linkedin.md)
    e da linha editorial. O esquentar faz as vezes do desafio de uma semana do item 4: o que
    observar nele entra aqui. Fonte: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#depois-novas-series`.
+8. **Comunidade** — o canal de comunicação próprio, com dados nossos, é o curtíssimo prazo:
+   escolher a ferramenta (descentralizada, sem lock-in). Depois, o formulário de apresentação e
+   a rede de colaboração ([para onde direcionar](comunicacao/linha-editorial.md#chamados)). Do
+   que foi dito antes, entram aqui: voluntários, associação de membros em níveis (os mais altos
+   por convite), newsletter, grupos, diálogo com seguidores
+   (`fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md#doação-eventos-e-comunidade`).
 
 ### Adiados
 
 - Formato (carrossel, vídeo, texto longo). O canal inicial está em [linha-editorial.md](comunicacao/linha-editorial.md#canal).
-- Comunidade e relacionamento — estabelecer comunidade para envolver as pessoas: voluntários,
-  associação de membros em níveis (os mais altos por convite), newsletter, grupos, diálogo com
-  seguidores. Fonte: `fontes/conversas/2026-09-27-receitas-plataformas-e-notas-antigas.md#doação-eventos-e-comunidade`.
 - Rotina e custos.
 - Pasta de saída das peças produzidas.
 

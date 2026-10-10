@@ -4,81 +4,7 @@ Os valores escolhidos para cada etapa do [método de construção](metodo/constr
 
 ## Objetivos
 
-Matéria bruta para a sessão de objetivos: o que já foi dito, organizado por eixo, sem
-refinamento nem métrica. Os eixos vão determinar os objetivos.
-
-- **Ser recrutado** — ser encontrado e chamado para novas oportunidades de trabalho, na
-  própria empresa mas principalmente em outras: que o mercado, inclusive a própria empresa,
-  veja o incorporador além do que vê hoje. Foco importante. Produzir tanto conteúdo, me tornar
-  uma referência, a ponto de isso abrir portas: ser convidado a participar de projetos, ser
-  conselheiro de projetos, de empresas, de instituições — isso me interessa muito —, receber
-  uma oferta de emprego; que a carreira se impulsione. Para isso, me posicionar, ganhar
-  visibilidade, provar, fazer: criar um ecossistema ao meu redor e entrar em outros
-  ecossistemas, me relacionar com eles.
-- **Rede de pessoas** — recrutar e inspirar pessoas: convidar a dialogar, colaborar, provocar,
-  se voluntariar, servir, trabalhar com o que acreditam. A rede de voluntários talvez seja
-  de uma etapa posterior, com o projeto mais maduro e mais disponibilidade, mas não precisa
-  ser sequencial: já dá para plantar a sementinha. A plataforma sonhada (os portais, o
-  aspecto profundo de superar a linguagem) mostra que se quer fomentar uma rede de pessoas,
-  e isso deve abrir portas. É o outro lado: construir a minha trajetória, o que acredito de
-  futuro, e convidar as pessoas para construir comigo — sozinho não vou conseguir.
-- **Pesquisa** — estar em contato com outros pesquisadores: entender o que está sendo
-  trabalhado, colaborar, aprender e contribuir. Perto de ser recrutado, mas mais específico.
-
-Também dito, na aproximação com organizações — a situar na sessão: estudar um tema, um
-artigo, um caso de uso, um repositório, e falar sobre isso pode chamar a atenção de uma
-instituição, mas principalmente faz aprender e dá visibilidade.
-
-Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,
-`#eixo-mercado`, `#eixo-rede-de-pessoas`, `#plataforma-e-autoridade`, `#eixo-pesquisa`;
-`fontes/conversas/2026-09-26-trabalho-e-novo-paradigma.md#conteudo-como-aproximacao`;
-`fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#ser-recrutado`;
-`fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#abrir-portas-e-ecossistemas`,
-`#construir-junto-o-futuro`.
-
-**Nível:** Em aberto.
-
-**Sonho e etapas.** Um sonho alto para o LinkedIn: me tornar um Top Voice — uma baita
-visibilidade e um baita posicionamento, que pede muita disciplina e engajamento. Não é para
-planejar agora, mas não devemos ter medo de sonhar; só precisamos trabalhar para chegar lá.
-Quase nenhuma das ideias é objetivo fixo: dá para ir escalando — grupos, etapas, faixas, sem
-muita rigidez —, crescendo e evoluindo. Me sinto cansado; sei que é muito trabalhoso e não
-estou apaixonado por isso. Mas a gente precisa dar um passo, dar espaço para que as coisas
-fluam, em vez de esperar que tudo aconteça. Ainda falta planejar muita coisa, e os
-experimentos vão dar pistas se esse é o caminho certo.
-
-Fontes: `fontes/transcricoes/2026-10-01-linkedin-sonhar-junto-e-novos-sistemas.md#top-voice-como-sonho-alto`,
-`#crescer-por-etapas-sem-objetivo-fixo`, `#dar-um-passo-mesmo-cansado`;
-`fontes/conversas/2026-10-02-sonhar-sem-medo.md#não-ter-medo-de-sonhar`.
-
-**Nível:** Em aberto.
-
-**Por que produzir**, em notas de 2020 e 2022: liberar as ideias, os sonhos e as reflexões que
-vieram de consumir sobre diversos assuntos; ser uma pessoa melhor — ter humildade, aprender
-com os outros, entender onde estou errando; ajudar os outros, porque algum pensamento pode ser
-exatamente o detalhe que faltava na mente de alguém; registrar e deixar a mensagem para a
-posteridade — não sabemos o que o futuro nos reserva, e os registros são maneiras de nos
-comunicar com ele. E propagar a ciência: já existem problemas sem solução, ferramentas
-desenvolvidas e ideias a serem aplicadas esperando o momento de se encontrar.
-
-Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#por-que-produzir-conteudo`,
-`#a-ciencia-precisa-ser-propagada`.
-
-**Nível:** Em aberto.
-
-**Tipos de conteúdo.** Gostei muito de um calendário editorial para LinkedIn organizado em
-quatro pilares de conteúdo: autoridade (reforça o conhecimento numa área), desejo (mostra a
-necessidade do seu trabalho), curiosidade (fala de temas quentes do mercado — "o que ninguém
-tem coragem de falar sobre…") e conexão (histórias pessoais — "o que aprendi quando tive
-vontade de desistir de…"). Os tipos podem ser ressignificados para o que faz sentido para os
-meus objetivos, sem me fixar no modelo daquela postagem. O desejo, por exemplo: pode ser que
-eu defina que quero que as pessoas me tenham por perto, estejam querendo comprar de mim, só
-esperando eu oferecer algo.
-
-Fontes: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#quatro-tipos-de-conteudo`,
-`#desejo-ressignificado`.
-
-**Nível:** Em aberto — inclusive se os tipos são dimensão própria ou abordagem.
+Em [objetivos.md](objetivos.md).
 
 ## Chamados
 
@@ -111,11 +37,19 @@ Fontes: `fontes/documentos/2026-09-29-grupo-epso-whatsapp.md#convite-simplificar
 **Nível:** Em aberto.
 
 Para onde direcionar quem se aproxima: idealmente uma página onde a pessoa possa se inscrever,
-se voluntariar, doar e se envolver.
+se voluntariar, doar e se envolver. No curtíssimo prazo, um canal de comunicação próprio, em
+que os dados sejam nossos — descentralizado, sem lock-in, sem vigilância nem monetização sem
+consentimento. Ali, os primeiros parceiros sonham e desenham juntos; depois, um formulário em
+que cada um se apresenta (o que espera, os sonhos, a história, como quer contribuir — o que
+precisa e o que tem a oferecer); com o plano operacional organizado, a chamada de voluntários,
+já com projetos e tarefas claras. Começar com quase ninguém dentro não é problema: não somos
+um grupo tradicional.
 
-Fonte: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-rede-de-pessoas`.
+Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#eixo-rede-de-pessoas`;
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#um-canal-com-dados-nossos`,
+`#sonhar-junto-depois-se-apresentar-depois-convocar`, `#nao-somos-um-grupo-tradicional`.
 
-**Nível:** Em aberto.
+**Nível:** Estimado (média) — o canal próprio e a sequência; Em aberto — a ferramenta.
 
 ## Tom base
 
@@ -342,6 +276,14 @@ Outras listas, ditas em momentos diferentes, a cruzar com a de cima:
   religião, política não é politicagem, filosofia não é "filosofagem". O que é política mora em
   [sociedade](../../filosofia/hipoteses/sociedade.md#política-são-acordos).
 
+Os temas existenciais — sentido, saúde mental, consciência — estão sempre presentes: não tem
+como não falar deles, nem que seja implicitamente ou com outras palavras. Descentralização e
+biorregionalismo são candidatos a temas de referência, ainda não definidos
+([associação a um tema](imagem.md#associação-a-um-tema)).
+
+Fontes: `fontes/conversas/2026-10-10-encontrar-os-meus.md#os-existenciais-estao-sempre-presentes`,
+`#os-temas-nao-estao-definidos`.
+
 Crenças e valores, sem a palavra espiritualidade: não vou usar a palavra espiritualidade, mas
 vou falar sobre crenças e valores.
 
@@ -546,4 +488,17 @@ Fontes: `fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md#esquentar-a-
 
 Inclui os segmentos prioritários de cada ciclo.
 
-**Nível:** Em aberto.
+O sucesso muda com a fase. Ao esquentar, sem convite, é ressoar e sustentar a atenção: se uma
+pessoa reage, de alguma maneira já ressoou. Ao convidar — depois que existir o
+[canal próprio](#chamados) para onde convidar —, é fazer convites com chamada para ação que as
+pessoas aceitam voluntariamente, e ter uma retenção altíssima, por ser claro no convite e
+flexível no engajamento. Respeitar o tempo de cada um: tem gente preparada, tem gente que não
+está, e não se força.
+
+Medir sem tirar o foco: a percepção basta — quem comentou, quem curtiu mais de um post —, sem
+dedicar energia a planilha nem decidir puramente em números que às vezes dizem muito pouco.
+
+Fontes: `fontes/conversas/2026-10-10-encontrar-os-meus.md#reagir-ja-e-ressoar`,
+`#convite-aceito-e-retencao-alta`, `#medir-sem-tirar-o-foco`.
+
+**Nível:** Decidido — as duas fases e o medir sem tirar o foco; Em aberto — ciclos e segmentos.

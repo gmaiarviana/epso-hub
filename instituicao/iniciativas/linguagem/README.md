@@ -47,7 +47,9 @@ Fonte: `fontes/conversas/2026-10-03-teses-ansiedade-e-glossario.md#um-glossário
 
 A plataforma inteira é um trabalho gigantesco: pede muito entendimento, muita energia, muita gente
 pensando junto, e os casos de uso ainda estão por pensar. As condições existem; faltam energia,
-atenção, tempo e dinheiro. Por isso anda pelo paper-agent, e o resto espera.
+atenção, tempo e dinheiro. Por isso andou pelo paper-agent, e o resto espera. O paper-agent também
+está parado por falta de tempo, sem volta prevista agora
+(`fontes/conversas/2026-10-10-encontrar-os-meus.md#o-paper-agent-esta-parado`).
 
 ## Em aberto
 

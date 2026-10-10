@@ -72,6 +72,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-10-08-linkedin-alcance-e-presenca](../fontes/conversas/2026-10-08-linkedin-alcance-e-presenca.md) | parcial | 2/3 |
 | [2026-10-08-o-metodo-e-o-pdi](../fontes/conversas/2026-10-08-o-metodo-e-o-pdi.md) | parcial | 3/4 |
 | [2026-10-08-serie-quero-me-conectar](../fontes/conversas/2026-10-08-serie-quero-me-conectar.md) | completo | 8/8 |
+| [2026-10-10-encontrar-os-meus](../fontes/conversas/2026-10-10-encontrar-os-meus.md) | parcial | 35/36 |
 | [2026-06-26-epso-paradigm-sobras](../fontes/documentos/2026-06-26-epso-paradigm-sobras.raw.md) | na fila | — |
 | [2026-09-26-career-narrative-v8](../fontes/documentos/2026-09-26-career-narrative-v8.raw.md) | citado; na fila | — |
 | [2026-09-27-blocos-de-curriculo](../fontes/documentos/2026-09-27-blocos-de-curriculo.raw.md) | na fila | — |
@@ -107,7 +108,7 @@ Uma seção encaixada pode ainda ter ideia sem destino: o script vê a seção, 
 | [2026-09-29-readme-do-livro](../fontes/documentos/2026-09-29-readme-do-livro.raw.md) | citado | — |
 | [2026-09-30-guia-pdi](../fontes/documentos/2026-09-30-guia-pdi.raw.md) | citado; na fila | — |
 | [2026-09-30-palestra-pdi](../fontes/documentos/2026-09-30-palestra-pdi.raw.md) | citado; na fila | — |
-| [2026-10-08-eleicao-no-whatsapp](../fontes/documentos/2026-10-08-eleicao-no-whatsapp.md) | não iniciado | 0/21 |
+| [2026-10-08-eleicao-no-whatsapp](../fontes/documentos/2026-10-08-eleicao-no-whatsapp.md) | parcial | 1/21 |
 
 ## Pendências
 
@@ -246,6 +247,10 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 - Encaixar, com parte já encaixada: `#o-termo-homo-activus-ainda-nao`
 
+### 2026-10-10-encontrar-os-meus
+
+- instituicao/next-steps.md: `#construir-a-imagem-com-intencao`
+
 ### 2026-09-29-a-realidade-como-ela-e
 
 - sem nota na fila: `#verdade-e-o-que-faz-sentido-para-cada-um`, `#ainda-nao-entendemos-nada`, `#explicamos-nosso-funcionamento-pela-tecnologia-da-epoca`, `#a-realidade-abstrata`, `#mentes-se-comunicam-com-mentes-corpos-com-corpos`, `#a-mente-parece-dominar-o-corpo`, `#ou-jogamos-ou-esperamos-o-jogo-acabar`
@@ -288,7 +293,7 @@ Só o que não está concluído. Onde uma seção encaixada mora: buscar a ânco
 
 ### 2026-10-08-eleicao-no-whatsapp
 
-- sem nota na fila: `#o-discurso-anti-pt-leva-a-um-futuro-duro`, `#a-corrupcao-nao-e-de-um-partido-so`, `#nao-e-defender-o-pt-e-a-escolha-irreversivel`, `#o-voto-parlamentar-segue-o-partido`, `#crencas-e-narrativas-guiam-o-que-fazemos`, `#dominar-uma-sociedade-comeca-pelas-crencas`, `#o-caos-primeiro-e-mental`, `#sistemas-politicos-que-nos-afastam-da-natureza`, `#prosperidade-individual-ou-qualidade-de-vida-coletiva`, `#a-bolha-que-diz-que-o-pt-nao-e-de-esquerda`, `#os-pobres-de-hoje-vivem-melhor-que-os-de-antes`, `#fomos-os-subjugados`, `#a-critica-ao-assistencialismo-pode-ser-propaganda`, `#telas-feitas-para-viciar-e-passar-sonhos`, `#pais-soberano-nao-entrega-setores-estrategicos`, `#opiniao-nao-e-analise-de-sociedade`, `#bolsa-familia-e-dignidade`, `#ninguem-quer-trabalhar-nas-condicoes-oferecidas`, `#a-classe-media-com-raiva-do-pobre-que-escolhe`, `#escolhas-erradas-de-poucos-nao-justificam-penalizar-muitos`, `#incentivo-ao-pequeno-e-medio-empreendedor`
+- sem nota na fila: `#o-discurso-anti-pt-leva-a-um-futuro-duro`, `#a-corrupcao-nao-e-de-um-partido-so`, `#nao-e-defender-o-pt-e-a-escolha-irreversivel`, `#o-voto-parlamentar-segue-o-partido`, `#crencas-e-narrativas-guiam-o-que-fazemos`, `#dominar-uma-sociedade-comeca-pelas-crencas`, `#o-caos-primeiro-e-mental`, `#sistemas-politicos-que-nos-afastam-da-natureza`, `#prosperidade-individual-ou-qualidade-de-vida-coletiva`, `#a-bolha-que-diz-que-o-pt-nao-e-de-esquerda`, `#os-pobres-de-hoje-vivem-melhor-que-os-de-antes`, `#fomos-os-subjugados`, `#a-critica-ao-assistencialismo-pode-ser-propaganda`, `#telas-feitas-para-viciar-e-passar-sonhos`, `#opiniao-nao-e-analise-de-sociedade`, `#bolsa-familia-e-dignidade`, `#ninguem-quer-trabalhar-nas-condicoes-oferecidas`, `#a-classe-media-com-raiva-do-pobre-que-escolhe`, `#escolhas-erradas-de-poucos-nao-justificam-penalizar-muitos`, `#incentivo-ao-pequeno-e-medio-empreendedor`
 
 ## Sementes
 

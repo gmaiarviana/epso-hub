@@ -80,6 +80,13 @@ item entre frentes mudou, e `meta/next-steps.md` se ficou pendência de processo
 mecânicas (processual separado de pontual, item concluído sai da lista) estão no
 [roadmap.md](roadmap.md) — não duplicar aqui.
 
+Conferir o tamanho dos arquivos que a sessão fez crescer. Sinal de que um arquivo pede divisão:
+passou de umas 400 linhas, ou uma seção passou de umas 100 e tem vida própria. A seção vira
+arquivo na mesma pasta, e no lugar dela fica o link — a forma mais simples que resolve; a
+divisão de um arquivo inteiro em vários é mudança estrutural e vai para a fila
+([roadmap](roadmap.md)). Calibração: a linha editorial chegou a 614 linhas, com Objetivos em
+122 (`fontes/conversas/2026-10-10-encontrar-os-meus.md#tamanho-dos-arquivos`).
+
 Depois, rodar `python meta/cobertura.py` para regerar
 [fontes/cobertura.md](../fontes/cobertura.md), que entra no mesmo commit
 ([cobertura](processo-transcricoes.md#cobertura)).

@@ -184,7 +184,9 @@ da instituição. Ali aprende tecnologia na prática, de pôr código no ar a mo
 O detalhe de carreira vive na narrativa de carreira, documento externo.
 
 Traz qualidade de vida. A demanda cabe em menos de 40 horas semanais, e o tempo que sobra vai
-para os projetos paralelos. Paga menos que outras empresas do mercado, mas dá flexibilidade e
+para os projetos paralelos. Mas é horário comercial, e com uma filha de dois anos não há tempo
+para fazer tudo: é preciso ser estratégico e planejar bem a que dedicar energia; várias ideias
+estão engatilhadas (`fontes/conversas/2026-10-10-encontrar-os-meus.md#pouco-tempo-escolher-onde-por-energia`). Paga menos que outras empresas do mercado, mas dá flexibilidade e
 um ecossistema que discute temas interessantes.
 
 Valoriza o estudo: estar num mestrado ou grupo de pesquisa, e depois no doutorado, é bem visto

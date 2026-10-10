@@ -22,8 +22,8 @@ Não há lista fixa: são ideias, em três estados conforme a atenção que rece
 
 - [Ferramentas livres](ferramentas-livres/README.md) — ferramentas open source, para não depender
   de modelos pagos nem de big techs.
-- [Linguagem](linguagem/README.md) — olhar os conceitos sem as palavras; o paper-agent é o
-  produto em construção.
+- [Linguagem](linguagem/README.md) — olhar os conceitos sem as palavras; o paper-agent, o
+  produto, está parado por falta de tempo.
 
 ## Na mesa
 

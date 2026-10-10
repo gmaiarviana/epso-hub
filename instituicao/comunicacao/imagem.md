@@ -5,6 +5,32 @@ A imagem do personagem que a comunicação vai construir. Quem o incorporador é
 
 Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#contexto-e-comunicação`.
 
+## Como quero ser visto
+
+Alguém que fala coisas em que eu acredito, numa linguagem simples. Vem com uma abordagem
+diferente. Acho que posso confiar nele: vejo legitimidade, autenticidade, transparência,
+simplicidade. Alguém que está tentando, está fazendo algo massa, é acessível. Tem boas ideias e
+tem sonhos bonitos em que eu acredito também. Pragmático, mas com visão panorâmica; consegue
+aprofundar, mas consegue ser humilde e simples.
+
+A liderança vem de alguém que está fazendo, colabora, mobiliza, engaja, sonha, consegue se
+conectar com a verdade da vida — não de quem sabe mais ([de onde falo](#de-onde-falo)).
+
+Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#alguem-em-quem-posso-confiar`,
+`#pragmatico-com-visao-panoramica`, `#a-lideranca-vem-de-fazer`.
+
+**Nível:** Decidido.
+
+Na fase de agora — começar a mobilizar, estruturar algumas coisas —, não é preciso construir
+nada para mostrar: o fazer é compartilhar aprendizados e crenças, fazer pesquisas e mostrar os
+resultados. Isso vale muito a pena: começar a entender quais dados e informações coletar,
+armazenar esses aprendizados e compartilhá-los com outras pessoas.
+
+Fonte: `fontes/conversas/2026-10-10-encontrar-os-meus.md#a-fase-de-agora-e-mobilizar`,
+`#nada-maduro-para-mostrar-ainda`.
+
+**Nível:** Decidido.
+
 ## O que já foi dito
 
 - Trazer clareza sobre qual imagem se quer construir ajuda a definir os temas, as temáticas que
@@ -12,7 +38,7 @@ Fonte: `fontes/conversas/2026-09-28-objetivos-canal-e-idioma.md#contexto-e-comun
 - Ter intenção sobre qual imagem se quer passar define a linguagem que se vai usar.
 - Para isso, é preciso um escopo definido, totalmente alinhado com o que se quer transmitir e
   com o que se quer alcançar.
-- Dos [objetivos](linha-editorial.md#objetivos) já dá para inferir o público-alvo e alguns
+- Dos [objetivos](objetivos.md) já dá para inferir o público-alvo e alguns
   temas.
 
 Fontes: `fontes/transcricoes/2026-09-23-producao-de-conteudo-eixos-portais-e-tematicas.md#escopo-e-imagem`,
@@ -83,7 +109,17 @@ associem a um tema. Quando se fala de tal assunto, já vêm à mente os influenc
 personalidades que são referência nele. A definição de trabalho do pilar está em
 [Insumos em outros lugares](#insumos-em-outros-lugares).
 
-Fonte: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#pilar-de-autoridade-e-associacao`.
+Apesar de me ver generalista e sem forma, preciso de uma forma para ser notado: em quais temas
+quero me consolidar, em quais quero entrar. A pesquisa desta fase é sobre esses temas — os que
+quero elaborar, sobre os quais quero falar e ser referência. Por exemplo — sem estar definido —, descentralização;
+possivelmente, biorregionalismo: preciso entender mais, e esse processo vai ter pesquisas.
+Entender onde quero chegar, alinhando com o mestrado e o doutorado
+([candidatos de recorte](../../estudo/academia/foco.md#candidatos-de-recorte-em-aberto)), é
+importante; por isso, andar devagar.
+
+Fontes: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#pilar-de-autoridade-e-associacao`;
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#uma-forma-para-ser-notado`,
+`#pesquisar-o-que-quero-falar`.
 
 **Nível:** Em aberto.
 

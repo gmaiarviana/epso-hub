@@ -109,10 +109,16 @@ personalidades que são referência nele. A definição de trabalho do pilar est
 [Insumos em outros lugares](#insumos-em-outros-lugares).
 
 Apesar de me ver generalista e sem forma, preciso de uma forma para ser notado: em quais temas
-quero me consolidar, em quais quero entrar.
+quero me consolidar, em quais quero entrar. A pesquisa desta fase é sobre esses temas — os que
+quero elaborar, sobre os quais quero falar e ser referência. Por exemplo, descentralização;
+possivelmente, biorregionalismo: preciso entender mais, e esse processo vai ter pesquisas.
+Entender onde quero chegar, alinhando com o mestrado e o doutorado
+([candidatos de recorte](../../estudo/academia/foco.md#candidatos-de-recorte-em-aberto)), é
+importante; por isso, andar devagar.
 
 Fontes: `fontes/conversas/2026-09-29-objetivos-imagem-e-tematicas.md#pilar-de-autoridade-e-associacao`;
-`fontes/conversas/2026-10-10-encontrar-os-meus.md#uma-forma-para-ser-notado`.
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#uma-forma-para-ser-notado`,
+`#pesquisar-o-que-quero-falar`.
 
 **Nível:** Em aberto.
 

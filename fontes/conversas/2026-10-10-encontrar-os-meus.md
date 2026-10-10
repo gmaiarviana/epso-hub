@@ -179,3 +179,28 @@ Preciso definir, com muita calma, quais aspectos precisam ser feitos intencional
 imagem seja construída: quais temas, quais formatos, qual frequência, qual tom. Devo falar de
 política abertamente? Devo falar sobre notícias cotidianas? Devo me posicionar em questões
 internacionais? Devo falar sobre conceitos abstratos? Devo gravar vídeo e mostrar a cara?
+
+## Marcos em vários eixos
+
+Bons exemplos de marcos: o canal próprio com as primeiras pessoas sonhando junto, a primeira
+iniciativa com receita, deixar de depender do emprego. Criar a comunidade é um marco. Comunidade
+viva é outro. Projeto da comunidade é outro. Renda do projeto é outro. Autossuficiência do
+projeto é um. Autogestão da comunidade é outro. Tem vários eixos, na verdade.
+
+## O paper-agent está parado
+
+O paper-agent é um trabalho que fiz alguns meses atrás, mas que está parado por falta de tempo.
+Não pretendo voltar a ele agora.
+
+## Pesquisar o que quero falar
+
+A pesquisa desta fase é sobre os temas que quero elaborar, sobre os quais quero falar e ser
+referência. Por exemplo, quero falar sobre descentralização: preciso entender, e esse processo
+vai ter pesquisas. Possivelmente, quero falar sobre biorregionalismo; preciso entender mais
+sobre os temas. Então entender onde quero chegar, alinhando com o mestrado e o doutorado, é
+importante. Por isso precisamos andar devagar.
+
+## Só conselheiro no futuro
+
+No futuro, quero ser só o conselheiro do projeto: só fornecer a visão, a resolução de
+conflitos.

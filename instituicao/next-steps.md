@@ -50,7 +50,8 @@ Por enquanto, a voz do incorporador e a do EPSO são uma só. Pautas de gravaç�
    - em quais temas me consolidar e em quais entrar — uma forma para ser notado, apesar de
      generalista ([associação a um tema](comunicacao/imagem.md#associação-a-um-tema)); o que
      mostrar na fase de agora já está na [imagem](comunicacao/imagem.md#como-quero-ser-visto).
-     Antes, os objetivos do projeto maior e as fases
+     A pesquisa da fase é sobre esses temas, alinhada com o mestrado e o doutorado; os
+     marcos do projeto estão no [README](README.md#marcos)
      (`fontes/conversas/2026-10-10-encontrar-os-meus.md#primeiro-o-projeto-maior-e-as-fases`,
      `#nada-maduro-para-mostrar-ainda`, `#pouco-tempo-escolher-onde-por-energia`);
    - construir a imagem com intenção, com muita calma: quais temas, formatos, frequência e

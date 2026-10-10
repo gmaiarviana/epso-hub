@@ -104,7 +104,8 @@ Fundar a própria empresa é vontade antiga; o que trava é tempo e dinheiro.
 O objetivo de carreira: gastar energia e tempo em lugares que me aproximem das
 [iniciativas](../instituicao/iniciativas/README.md) do EPSO, para um dia trabalhar no EPSO como
 um todo, unindo-as. Trabalhando nelas, entrego tudo o que tenho para entregar: cobrem o que
-acredito sobre a vida. Enquanto isso, trabalho nelas em paralelo — e já trabalho.
+acredito sobre a vida. Enquanto isso, trabalho nelas em paralelo — e já trabalho. No futuro,
+quero ser só o conselheiro do projeto: fornecer a visão e resolver conflitos.
 
 A trajetória deve render vários livros — às vezes a mesma mensagem com palavras, ritmos,
 analogias e frequências diferentes de transmissão; às vezes mensagens novas (o doutorado, um
@@ -115,7 +116,8 @@ Fontes: `fontes/documentos/2026-09-26-career-narrative-v8.raw.md` (`## 3. Career
 `fontes/documentos/2026-09-27-cartas-de-candidatura.raw.md` (carta à startup, Motivo 2);
 `fontes/transcricoes/2026-07-04-quatro-iniciativas.md#objetivo-de-carreira`;
 `fontes/conversas/2026-10-01-o-livro-e-um-formato.md#a-trajetória-rende-vários-livros`;
-`fontes/conversas/2026-10-10-encontrar-os-meus.md#referencia-para-liderar-um-novo-paradigma`.
+`fontes/conversas/2026-10-10-encontrar-os-meus.md#referencia-para-liderar-um-novo-paradigma`,
+`#so-conselheiro-no-futuro`.
 
 ## Como contribuo
 
